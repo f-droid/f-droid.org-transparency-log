@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1403063785" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1403150593" url="http://f-droid.org/repo" version="12">
 		<description>
 The official FDroid repository. Applications in this repository are mostly built
 directory from the source code. Some are official binaries built by the original
@@ -4498,8 +4498,8 @@ time.
 		<web>http://atarashiiapp.com</web>
 		<source>https://github.com/AnimaSA/Atarashii</source>
 		<tracker>https://github.com/AnimaSA/Atarashii/issues</tracker>
-		<marketversion>1.3.2</marketversion>
-		<marketvercode>13</marketvercode>
+		<marketversion>1.4</marketversion>
+		<marketvercode>14</marketvercode>
 		<package>
 			<version>1.3.2</version>
 			<versioncode>13</versioncode>
@@ -5434,7 +5434,7 @@ time.
 		<source>https://github.com/knirirr/BeeCount</source>
 		<tracker>https://github.com/knirirr/BeeCount/issues</tracker>
 		<marketversion>Unknown</marketversion>
-		<marketvercode>69</marketvercode>
+		<marketvercode>70</marketvercode>
 		<package>
 			<version>2.0.1</version>
 			<versioncode>68</versioncode>
@@ -8995,8 +8995,8 @@ time.
 		<tracker>https://github.com/Floens/Clover/issues</tracker>
 		<donate>https://floens.github.io/Clover/#donate</donate>
 		<bitcoin>1N7VtcNh8L8u4tF9CJ38GjnPbmxM4Vixi6</bitcoin>
-		<marketversion>v1.1.1</marketversion>
-		<marketvercode>25</marketvercode>
+		<marketversion>v1.1.2</marketversion>
+		<marketvercode>28</marketvercode>
 		<package>
 			<version>v1.1.1</version>
 			<versioncode>25</versioncode>
@@ -15856,21 +15856,34 @@ time.
 	<application id="com.easwareapps.g2l">
 		<id>com.easwareapps.g2l</id>
 		<added>2014-02-06</added>
-		<lastupdated>2014-03-18</lastupdated>
+		<lastupdated>2014-06-19</lastupdated>
 		<name>G2L</name>
 		<summary>Gesture Launcher</summary>
-		<icon>com.easwareapps.g2l.10.png</icon>
+		<icon>com.easwareapps.g2l.11.png</icon>
 		<desc>&lt;p&gt;Define gestures to launch an action like an app, a phone call or playing a song.&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>System</categories>
 		<category>System</category>
 		<web>http://g2l.easwareapps.com</web>
-		<source>https://gitorious.org/g2l-gesture-launcher</source>
+		<source>https://gitorious.org/g2l-gesture-launcher/g2l-gesture-launcher</source>
 		<tracker/>
 		<donate>http://g2l.easwareapps.com#donate</donate>
 		<bitcoin>1PNwD199whFao1rjMX82Zi5A7M5B6KB7be</bitcoin>
 		<marketversion>1.11.6</marketversion>
 		<marketvercode>11</marketvercode>
+		<package>
+			<version>1.11.6</version>
+			<versioncode>11</versioncode>
+			<apkname>com.easwareapps.g2l_11.apk</apkname>
+			<srcname>com.easwareapps.g2l_11_src.tar.gz</srcname>
+			<hash type="sha256">18ade7ab41578fce91b8002269348f61743fc95185f21f898024dd8ccc9f0037</hash>
+			<sig>534010b1fa8dc12800ecdb5bd80debe9</sig>
+			<size>654910</size>
+			<sdkver>10</sdkver>
+			<added>2014-06-19</added>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,BLUETOOTH_ADMIN,BLUETOOTH,WRITE_SETTINGS,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,ACCESS_NETWORK_STATE,CHANGE_NETWORK_STATE,SYSTEM_ALERT_WINDOW,READ_SYNC_SETTINGS,WRITE_SYNC_SETTINGS,READ_CONTACTS,CALL_PHONE,RECEIVE_BOOT_COMPLETED,com.android.browser.permission.READ_HISTORY_BOOKMARKS,CAMERA,FLASHLIGHT</permissions>
+			<features>android.hardware.camera,android.hardware.bluetooth,android.hardware.wifi,android.hardware.telephony,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.11.5</version>
 			<versioncode>10</versioncode>
@@ -15895,19 +15908,6 @@ time.
 			<sdkver>10</sdkver>
 			<added>2014-03-10</added>
 			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,BLUETOOTH_ADMIN,BLUETOOTH,WRITE_SETTINGS,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,ACCESS_NETWORK_STATE,CHANGE_NETWORK_STATE,SYSTEM_ALERT_WINDOW,READ_SYNC_SETTINGS,WRITE_SYNC_SETTINGS,READ_CONTACTS,CALL_PHONE,RECEIVE_BOOT_COMPLETED,com.android.browser.permission.READ_HISTORY_BOOKMARKS</permissions>
-			<features>android.hardware.bluetooth,android.hardware.wifi,android.hardware.telephony,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.10.1</version>
-			<versioncode>6</versioncode>
-			<apkname>com.easwareapps.g2l_6.apk</apkname>
-			<srcname>com.easwareapps.g2l_6_src.tar.gz</srcname>
-			<hash type="sha256">f3f729dd7fe2c7053413627d75cf2e319363c02765b8b8ff9c7968872b50171f</hash>
-			<sig>534010b1fa8dc12800ecdb5bd80debe9</sig>
-			<size>471995</size>
-			<sdkver>10</sdkver>
-			<added>2014-02-14</added>
-			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,BLUETOOTH_ADMIN,BLUETOOTH,WRITE_SETTINGS,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,ACCESS_NETWORK_STATE,CHANGE_NETWORK_STATE,SYSTEM_ALERT_WINDOW,READ_SYNC_SETTINGS,WRITE_SYNC_SETTINGS,READ_CONTACTS,CALL_PHONE,RECEIVE_BOOT_COMPLETED</permissions>
 			<features>android.hardware.bluetooth,android.hardware.wifi,android.hardware.telephony,android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -19841,10 +19841,10 @@ time.
 	<application id="julianwi.javainstaller">
 		<id>julianwi.javainstaller</id>
 		<added>2014-04-08</added>
-		<lastupdated>2014-04-15</lastupdated>
+		<lastupdated>2014-06-19</lastupdated>
 		<name>Java installer</name>
 		<summary>Install a full Java runtime</summary>
-		<icon>julianwi.javainstaller.2.png</icon>
+		<icon>julianwi.javainstaller.3.png</icon>
 		<desc>&lt;p&gt;Install a full Java runtime on the phone. The app downloads the required files from a HTTP server unpacks them and copies them to the right directory.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -19852,8 +19852,22 @@ time.
 		<web>http://borcteam.bplaced.net/en/javainstaller.php</web>
 		<source>https://github.com/julianwi/javainstaller</source>
 		<tracker>https://github.com/julianwi/javainstaller/issues</tracker>
-		<marketversion>0.2</marketversion>
-		<marketvercode>2</marketvercode>
+		<marketversion>0.3</marketversion>
+		<marketvercode>3</marketvercode>
+		<package>
+			<version>0.3</version>
+			<versioncode>3</versioncode>
+			<apkname>julianwi.javainstaller_3.apk</apkname>
+			<srcname>julianwi.javainstaller_3_src.tar.gz</srcname>
+			<hash type="sha256">5f2c1c931087cd43660a6fd671fc61e16d1bd10cbc014883f8faa515b5a58d1f</hash>
+			<sig>fe8540391551c08827fd632035490f65</sig>
+			<size>264122</size>
+			<sdkver>1</sdkver>
+			<added>2014-06-19</added>
+			<permissions>INTERNET,jackpal.androidterm.permission.RUN_SCRIPT,READ_EXTERNAL_STORAGE,jackpal.androidterm.permission.APPEND_TO_PATH</permissions>
+			<nativecode>armeabi,x86</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.2</version>
 			<versioncode>2</versioncode>
@@ -40307,10 +40321,10 @@ time.
 	<application id="org.telegram.messenger">
 		<id>org.telegram.messenger</id>
 		<added>2014-02-24</added>
-		<lastupdated>2014-04-12</lastupdated>
+		<lastupdated>2014-06-19</lastupdated>
 		<name>Telegram</name>
 		<summary>Messaging client</summary>
-		<icon>org.telegram.messenger.219.png</icon>
+		<icon>org.telegram.messenger.250.png</icon>
 		<desc>&lt;p&gt;Client for the Telegram messaging platform. Chat with friends, start group chats and share all kinds of content. All of your messages and conversations are stored in Telegram's cloud.&lt;/p&gt;&lt;p&gt;The messaging platform is aimed at mobile devices, but desktop and web clients exist as well.&lt;/p&gt;&lt;p&gt;Several proprietary parts were removed from the original Telegram client, including Google Play Services for the location services and HockeySDK for self-updates. Push notifications through Google Cloud Messaging and the automatic SMS receiving features were also removed.&lt;/p&gt;&lt;p&gt;Anti-Feature: Non-Free Network, since the servers run proprietary software.&lt;/p&gt;</desc>
 		<license>GPLv2+</license>
 		<categories>Internet</categories>
@@ -40321,6 +40335,20 @@ time.
 		<marketversion>1.5.0</marketversion>
 		<marketvercode>250</marketvercode>
 		<antifeatures>NonFreeNet</antifeatures>
+		<package>
+			<version>1.5.0</version>
+			<versioncode>250</versioncode>
+			<apkname>org.telegram.messenger_250.apk</apkname>
+			<srcname>org.telegram.messenger_250_src.tar.gz</srcname>
+			<hash type="sha256">eb2556b4830c21506bd253a2a8ca5f6e8c99b739020fcb6f3bc564bdd33376e8</hash>
+			<sig>74cc10c64f04f84586e731180181f2de</sig>
+			<size>8351187</size>
+			<sdkver>8</sdkver>
+			<added>2014-06-19</added>
+			<permissions>INTERNET,RECORD_AUDIO,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,CAMERA,GET_ACCOUNTS,READ_CONTACTS,WRITE_CONTACTS,MANAGE_ACCOUNTS,READ_PROFILE,WRITE_SYNC_SETTINGS,READ_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,VIBRATE,SYSTEM_ALERT_WINDOW,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED</permissions>
+			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.4.9c</version>
 			<versioncode>219</versioncode>
@@ -40348,20 +40376,6 @@ time.
 			<permissions>INTERNET,RECORD_AUDIO,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,CAMERA,GET_ACCOUNTS,READ_CONTACTS,WRITE_CONTACTS,MANAGE_ACCOUNTS,READ_PROFILE,WRITE_SYNC_SETTINGS,READ_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,VIBRATE,SYSTEM_ALERT_WINDOW,READ_PHONE_STATE</permissions>
 			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
 			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.3.26</version>
-			<versioncode>177</versioncode>
-			<apkname>org.telegram.messenger_177.apk</apkname>
-			<srcname>org.telegram.messenger_177_src.tar.gz</srcname>
-			<hash type="sha256">42d6220c60e9e89ed817338d55c963197ef2d33940adb68b8814a7193bbee3d0</hash>
-			<sig>74cc10c64f04f84586e731180181f2de</sig>
-			<size>8547821</size>
-			<sdkver>8</sdkver>
-			<added>2014-03-06</added>
-			<permissions>INTERNET,RECORD_AUDIO,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,CAMERA,GET_ACCOUNTS,READ_CONTACTS,WRITE_CONTACTS,MANAGE_ACCOUNTS,READ_PROFILE,WRITE_SYNC_SETTINGS,READ_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,VIBRATE,SYSTEM_ALERT_WINDOW,READ_PHONE_STATE</permissions>
-			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
-			<features>android.hardware.microphone,android.hardware.touchscreen</features>
 		</package>
 	</application>
 	<application id="com.jmartin.temaki">
@@ -41824,8 +41838,8 @@ time.
 		<source>https://github.com/erickok/transdroid</source>
 		<tracker>https://github.com/erickok/transdroid/issues</tracker>
 		<donate>http://www.transdroid.org</donate>
-		<marketversion>2.1.4</marketversion>
-		<marketvercode>213</marketvercode>
+		<marketversion>2.2.0</marketversion>
+		<marketvercode>214</marketvercode>
 		<package>
 			<version>2.1.3</version>
 			<versioncode>212</versioncode>
@@ -41978,8 +41992,8 @@ time.
 		<web/>
 		<source>https://github.com/ybonnel/TransportsRennes</source>
 		<tracker>https://github.com/ybonnel/TransportsRennes/issues</tracker>
-		<marketversion>2.8.1</marketversion>
-		<marketvercode>281</marketvercode>
+		<marketversion>2.8.2</marketversion>
+		<marketvercode>282</marketvercode>
 		<package>
 			<version>2.7.8</version>
 			<versioncode>278</versioncode>
@@ -42034,8 +42048,8 @@ time.
 		<web/>
 		<source>https://github.com/ybonnel/TransportsRennes/tree/noGoogleMap</source>
 		<tracker>https://github.com/ybonnel/TransportsRennes/issues</tracker>
-		<marketversion>3.6.2</marketversion>
-		<marketvercode>362</marketvercode>
+		<marketversion>3.6.3</marketversion>
+		<marketvercode>363</marketvercode>
 		<package>
 			<version>3.6.2</version>
 			<versioncode>362</versioncode>
@@ -45024,10 +45038,10 @@ time.
 	<application id="de.j4velin.wifiAutoOff">
 		<id>de.j4velin.wifiAutoOff</id>
 		<added>2014-01-20</added>
-		<lastupdated>2014-05-11</lastupdated>
+		<lastupdated>2014-06-19</lastupdated>
 		<name>WiFi Automatic</name>
 		<summary>Turn off WiFi automatically</summary>
-		<icon>de.j4velin.wifiAutoOff.139.png</icon>
+		<icon>de.j4velin.wifiAutoOff.140.png</icon>
 		<desc>&lt;p&gt;This simple Android app can help you increase the standby time of your device; it automatically disables your WiFi radio when you don't need it and thereby lowers the battery consumption. It is designed to be used with WiFi-only tablets - these devices normally don't require a constant internet connection if you're not using them and turning WiFi off can save a lot of battery power.&lt;/p&gt;&lt;p&gt;You can also specify to automatically turn on WiFi again, if you turn on your device. This way, you are always connected to your WiFi network when using the the tablet.&lt;/p&gt;&lt;p&gt;This app has a similiar effect like setting the &quot;WiFi sleep policy&quot; in Android to &quot;always&quot;, except that you can now exactly define the timeout between turning the screen off and actually turning off WiFi.&lt;/p&gt;&lt;p&gt;If your device has a cell radio, it might switch to 2G/3G which may consume more power than staying on WiFi.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>System</categories>
@@ -45037,6 +45051,19 @@ time.
 		<tracker>https://github.com/j4velin/WiFi-Auto-Off/issues</tracker>
 		<marketversion>1.4</marketversion>
 		<marketvercode>140</marketvercode>
+		<package>
+			<version>1.4</version>
+			<versioncode>140</versioncode>
+			<apkname>de.j4velin.wifiAutoOff_140.apk</apkname>
+			<srcname>de.j4velin.wifiAutoOff_140_src.tar.gz</srcname>
+			<hash type="sha256">79b3fa4392f245aafeee347c556a3bb341445a51345d3edc019cf11a56af157b</hash>
+			<sig>bc0f67711f25dd213dc74b2284697232</sig>
+			<size>56486</size>
+			<sdkver>7</sdkver>
+			<added>2014-06-19</added>
+			<permissions>RECEIVE_BOOT_COMPLETED,CHANGE_WIFI_STATE,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE</permissions>
+			<features>android.hardware.wifi,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.3.9</version>
 			<versioncode>139</versioncode>
@@ -45060,19 +45087,6 @@ time.
 			<size>34390</size>
 			<sdkver>7</sdkver>
 			<added>2014-04-28</added>
-			<permissions>RECEIVE_BOOT_COMPLETED,CHANGE_WIFI_STATE,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE</permissions>
-			<features>android.hardware.wifi,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.3.6</version>
-			<versioncode>136</versioncode>
-			<apkname>de.j4velin.wifiAutoOff_136.apk</apkname>
-			<srcname>de.j4velin.wifiAutoOff_136_src.tar.gz</srcname>
-			<hash type="sha256">5b67edeb68296ffa699ae36f76c50c710ac02fd787f0ba604aabbdc09385cebb</hash>
-			<sig>bc0f67711f25dd213dc74b2284697232</sig>
-			<size>34295</size>
-			<sdkver>7</sdkver>
-			<added>2014-04-18</added>
 			<permissions>RECEIVE_BOOT_COMPLETED,CHANGE_WIFI_STATE,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE</permissions>
 			<features>android.hardware.wifi,android.hardware.touchscreen</features>
 		</package>
