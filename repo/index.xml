@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1403150593" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1403237422" url="http://f-droid.org/repo" version="12">
 		<description>
 The official FDroid repository. Applications in this repository are mostly built
 directory from the source code. Some are official binaries built by the original
@@ -5433,8 +5433,8 @@ time.
 		<web>https://github.com/knirirr/BeeCount</web>
 		<source>https://github.com/knirirr/BeeCount</source>
 		<tracker>https://github.com/knirirr/BeeCount/issues</tracker>
-		<marketversion>Unknown</marketversion>
-		<marketvercode>70</marketvercode>
+		<marketversion>2.0.4</marketversion>
+		<marketvercode>72</marketvercode>
 		<package>
 			<version>2.0.1</version>
 			<versioncode>68</versioncode>
@@ -7081,8 +7081,8 @@ time.
 		<web>http://frankkie.nl</web>
 		<source>https://github.com/frankkienl/BronyLiveWallpaper</source>
 		<tracker>https://github.com/frankkienl/BronyLiveWallpaper/issues</tracker>
-		<marketversion>1.3</marketversion>
-		<marketvercode>9</marketvercode>
+		<marketversion>1.4</marketversion>
+		<marketvercode>11</marketvercode>
 		<package>
 			<version>1.3</version>
 			<versioncode>9</versioncode>
@@ -8982,10 +8982,10 @@ time.
 	<application id="org.floens.chan">
 		<id>org.floens.chan</id>
 		<added>2014-06-03</added>
-		<lastupdated>2014-06-03</lastupdated>
+		<lastupdated>2014-06-20</lastupdated>
 		<name>Clover</name>
 		<summary>4chan image board browser</summary>
-		<icon>org.floens.chan.25.png</icon>
+		<icon>org.floens.chan.28.png</icon>
 		<desc>&lt;p&gt;Clover is a browser for the popular &lt;a href=&quot;https://4chan.org/&quot;&gt;4chan&lt;/a&gt; image board&lt;/p&gt;&lt;p&gt;Features include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Customizable boards - you can add more boards in the settings&lt;/li&gt;&lt;li&gt; View images fast and save them&lt;/li&gt;&lt;li&gt; Pin threads for easy access&lt;/li&gt;&lt;li&gt; Watch threads to be notified of new posts and replies to you&lt;/li&gt;&lt;li&gt; 4chan pass support&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
@@ -8997,6 +8997,19 @@ time.
 		<bitcoin>1N7VtcNh8L8u4tF9CJ38GjnPbmxM4Vixi6</bitcoin>
 		<marketversion>v1.1.2</marketversion>
 		<marketvercode>28</marketvercode>
+		<package>
+			<version>v1.1.2</version>
+			<versioncode>28</versioncode>
+			<apkname>org.floens.chan_28.apk</apkname>
+			<srcname>org.floens.chan_28_src.tar.gz</srcname>
+			<hash type="sha256">ffdd171212a6ace5d01621c7aa5ef74528a3e71dfa69851e222bc9f08eb18968</hash>
+			<sig>e2a3403ec4446f9bd9e6be5aaebbcd25</sig>
+			<size>586771</size>
+			<sdkver>14</sdkver>
+			<added>2014-06-20</added>
+			<permissions>INTERNET,WRITE_EXTERNAL_STORAGE,NFC,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>v1.1.1</version>
 			<versioncode>25</versioncode>
@@ -12149,10 +12162,10 @@ time.
 	<application id="fr.xtof54.dragonGoApp">
 		<id>fr.xtof54.dragonGoApp</id>
 		<added>2014-04-12</added>
-		<lastupdated>2014-04-24</lastupdated>
+		<lastupdated>2014-06-20</lastupdated>
 		<name>DragonGoApp</name>
 		<summary>Go game for DGS</summary>
-		<icon>fr.xtof54.dragonGoApp.2.png</icon>
+		<icon>fr.xtof54.dragonGoApp.5.png</icon>
 		<desc>&lt;p&gt;Open-source android App to play the game of go on the DGS server.&lt;/p&gt;&lt;p&gt;DragonGoApp features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Minimize bandwidth usage: this is especially useful when you have a limited quota of 3G data connection&lt;/li&gt;&lt;li&gt; Full-featured SGF editor/player based on the open-source eidogo code. Also shows game information and game comments&lt;/li&gt;&lt;li&gt; Support dual servers/credentials (DGS and develDGS)&lt;/li&gt;&lt;li&gt; Play moves, pass, resign, send/receive messages, attach a comment to a move&lt;/li&gt;&lt;li&gt; Invite/accept/refuse challenges, challenge in 19x19 ladder&lt;/li&gt;&lt;li&gt; Follow reviews of professional games from IGS, which are included in the app&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>AGPL</license>
 		<categories>Games</categories>
@@ -12160,8 +12173,21 @@ time.
 		<web>https://github.com/cerisara/DragonGoApp</web>
 		<source>https://github.com/cerisara/DragonGoApp</source>
 		<tracker>https://github.com/cerisara/DragonGoApp/issues</tracker>
-		<marketversion>1.2</marketversion>
-		<marketvercode>2</marketvercode>
+		<marketversion>1.5</marketversion>
+		<marketvercode>5</marketvercode>
+		<package>
+			<version>1.5</version>
+			<versioncode>5</versioncode>
+			<apkname>fr.xtof54.dragonGoApp_5.apk</apkname>
+			<srcname>fr.xtof54.dragonGoApp_5_src.tar.gz</srcname>
+			<hash type="sha256">6acc3ce7d11012d9bb2bf7e877c899e8141bb75f2d2a721edbe89ff1f4b5b4f7</hash>
+			<sig>8e002889b17ed130fd3f2e0452762004</sig>
+			<size>751441</size>
+			<sdkver>8</sdkver>
+			<added>2014-06-20</added>
+			<permissions>INTERNET,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.2</version>
 			<versioncode>2</versioncode>
@@ -29191,10 +29217,10 @@ time.
 	<application id="de.skubware.opentraining">
 		<id>de.skubware.opentraining</id>
 		<added>2012-10-05</added>
-		<lastupdated>2014-05-13</lastupdated>
+		<lastupdated>2014-06-20</lastupdated>
 		<name>Open Training</name>
 		<summary>Plan your fitness training</summary>
-		<icon>de.skubware.opentraining.26.png</icon>
+		<icon>de.skubware.opentraining.27.png</icon>
 		<desc>&lt;p&gt;Create a fitness plan by targeting specific muscles and selecting from the list.&lt;/p&gt;&lt;p&gt;When you've created a set you can export a spreadsheet to html for printing. Some of the exercise names are in German but that shouldn't affect the app usage.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Science &amp; Education</categories>
@@ -29204,6 +29230,19 @@ time.
 		<tracker>https://github.com/chaosbastler/opentraining/issues</tracker>
 		<marketversion>0.7.1</marketversion>
 		<marketvercode>27</marketvercode>
+		<package>
+			<version>0.7.1</version>
+			<versioncode>27</versioncode>
+			<apkname>de.skubware.opentraining_27.apk</apkname>
+			<srcname>de.skubware.opentraining_27_src.tar.gz</srcname>
+			<hash type="sha256">a22e99e91a72cd3bb9c4ddfcd1d8fe8428ce97ae3e575041633c18832193e628</hash>
+			<sig>a8479444d8c3d640eeee7e2660304334</sig>
+			<size>13457667</size>
+			<sdkver>10</sdkver>
+			<added>2014-06-20</added>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WRITE_EXTERNAL_STORAGE,VIBRATE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.7</version>
 			<versioncode>26</versioncode>
@@ -29227,19 +29266,6 @@ time.
 			<size>13166489</size>
 			<sdkver>10</sdkver>
 			<added>2014-04-04</added>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET,WRITE_EXTERNAL_STORAGE,VIBRATE,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.6</version>
-			<versioncode>22</versioncode>
-			<apkname>de.skubware.opentraining_22.apk</apkname>
-			<srcname>de.skubware.opentraining_22_src.tar.gz</srcname>
-			<hash type="sha256">2724257f12963bc6e6119cf81ce121e18bd15104433ca990ac826b819ac27603</hash>
-			<sig>a8479444d8c3d640eeee7e2660304334</sig>
-			<size>13294402</size>
-			<sdkver>10</sdkver>
-			<added>2013-12-17</added>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,WRITE_EXTERNAL_STORAGE,VIBRATE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -30164,8 +30190,8 @@ time.
 		<tracker>https://dev.guardianproject.info/projects/orbot/issues</tracker>
 		<donate>https://www.torproject.org/donate/donate.html.en</donate>
 		<flattr>5649</flattr>
-		<marketversion>14.0.4</marketversion>
-		<marketvercode>106</marketvercode>
+		<marketversion>14.0.4.1</marketversion>
+		<marketvercode>107</marketvercode>
 		<package>
 			<version>14.0.4</version>
 			<versioncode>106</versioncode>
@@ -38689,8 +38715,8 @@ time.
 		<source>https://github.com/ushahidi/SMSSync</source>
 		<tracker>https://github.com/ushahidi/SMSSync/issues</tracker>
 		<donate>http://ushahidi.com/get-involved</donate>
-		<marketversion>2.5.1</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>2.6</marketversion>
+		<marketvercode>21</marketvercode>
 		<package>
 			<version>2.5.1</version>
 			<versioncode>20</versioncode>
@@ -39524,10 +39550,10 @@ time.
 	<application id="net.sourceforge.subsonic.androidapp">
 		<id>net.sourceforge.subsonic.androidapp</id>
 		<added>2012-09-07</added>
-		<lastupdated>2014-01-16</lastupdated>
+		<lastupdated>2014-06-20</lastupdated>
 		<name>Subsonic</name>
 		<summary>Play media across the network</summary>
-		<icon>net.sourceforge.subsonic.androidapp.54.png</icon>
+		<icon>net.sourceforge.subsonic.androidapp.57.png</icon>
 		<desc>&lt;p&gt;Subsonic is both an app and a cross-platform FOSS media server that's capable of indexing very large media collections. The server can transcode if necessary so that the app can play files that your device may not normally support.&lt;/p&gt;&lt;p&gt;There is a demo server provided for giving it a try. In order to use this app with a Subsonic server beyond a trial period, a key must be obtained by making a donation. (A key isn't required to use the &lt;a href=&quot;https://github.com/Mach5/supersonic&quot;&gt;Supersonic&lt;/a&gt; variant.)&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Multimedia</categories>
@@ -39538,6 +39564,19 @@ time.
 		<donate>http://www.subsonic.org/pages/index.jsp</donate>
 		<marketversion>4.4.beta1</marketversion>
 		<marketvercode>58</marketvercode>
+		<package>
+			<version>4.3.1</version>
+			<versioncode>57</versioncode>
+			<apkname>net.sourceforge.subsonic.androidapp_57.apk</apkname>
+			<srcname>net.sourceforge.subsonic.androidapp_57_src.tar.gz</srcname>
+			<hash type="sha256">f19afb14f4174ed03941ce0448825bcbde03083f030f7b2f0a40bee623ce971c</hash>
+			<sig>6cea769a0ddc12abc4393ddeee819f6a</sig>
+			<size>754088</size>
+			<sdkver>7</sdkver>
+			<added>2014-06-20</added>
+			<permissions>INTERNET,READ_PHONE_STATE,ACCESS_NETWORK_STATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,RECORD_AUDIO,MODIFY_AUDIO_SETTINGS,BLUETOOTH,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.bluetooth,android.hardware.microphone,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>4.1</version>
 			<versioncode>54</versioncode>
@@ -39561,19 +39600,6 @@ time.
 			<size>738465</size>
 			<sdkver>7</sdkver>
 			<added>2013-11-10</added>
-			<permissions>INTERNET,READ_PHONE_STATE,ACCESS_NETWORK_STATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,RECORD_AUDIO,MODIFY_AUDIO_SETTINGS,BLUETOOTH,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.bluetooth,android.hardware.microphone,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>3.8</version>
-			<versioncode>51</versioncode>
-			<apkname>net.sourceforge.subsonic.androidapp_51.apk</apkname>
-			<srcname>net.sourceforge.subsonic.androidapp_51_src.tar.gz</srcname>
-			<hash type="sha256">fa9e4a5cd171fbabda65def423e17f1d65f99f674a30e2d93417c08ff7399cfc</hash>
-			<sig>6cea769a0ddc12abc4393ddeee819f6a</sig>
-			<size>516983</size>
-			<sdkver>7</sdkver>
-			<added>2013-05-28</added>
 			<permissions>INTERNET,READ_PHONE_STATE,ACCESS_NETWORK_STATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,RECORD_AUDIO,MODIFY_AUDIO_SETTINGS,BLUETOOTH,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.bluetooth,android.hardware.microphone,android.hardware.touchscreen</features>
 		</package>
@@ -41141,8 +41167,8 @@ time.
 		<web/>
 		<source>https://github.com/velazcod/Tinfoil-Facebook</source>
 		<tracker>https://github.com/velazcod/Tinfoil-Facebook/issues</tracker>
-		<marketversion>1.3</marketversion>
-		<marketvercode>20140104</marketvercode>
+		<marketversion>1.0</marketversion>
+		<marketvercode>1</marketvercode>
 		<antifeatures>Tracking</antifeatures>
 		<package>
 			<version>1.3</version>
@@ -42037,10 +42063,10 @@ time.
 	<application id="fr.ybo.transportsrennes">
 		<id>fr.ybo.transportsrennes</id>
 		<added>2013-06-26</added>
-		<lastupdated>2014-05-12</lastupdated>
+		<lastupdated>2014-06-20</lastupdated>
 		<name>Transports Rennes</name>
 		<summary>Transport info for France</summary>
-		<icon>fr.ybo.transportsrennes.362.png</icon>
+		<icon>fr.ybo.transportsrennes.363.png</icon>
 		<desc>&lt;p&gt;Transports Rennes provides quick access to information about public transportation of the city of Rennes, France and its sprawl. Information comes from the open data initiative by Keolis Rennes, the company running Rennes’ public transportation system.&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Bus and metro schedule (widget available for even faster access)&lt;/li&gt;&lt;li&gt; Bus/metro itinerary computation&lt;/li&gt;&lt;li&gt; Nearby bus stops and “LE vélo STAR” bikesharing stations&lt;/li&gt;&lt;li&gt; Number of available bikes in “LE vélo STAR” stations&lt;/li&gt;&lt;li&gt; Favorite bus stops, metro and bikesharing stations management&lt;/li&gt;&lt;li&gt; Available parking space in park-and-ride facilities&lt;/li&gt;&lt;li&gt; Disruption of service alerts and Twitter stream (@starbusmetro)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Google Maps are disabled in these builds. You can see the location of a situation with a cartographic app such as &lt;a href=&quot;fdroid.app:com.robert.maps&quot;&gt;RMaps&lt;/a&gt; or &lt;a href=&quot;fdroid.app:net.osmand.plus&quot;&gt;OsmAnd~&lt;/a&gt; though. Proprietary libraries have been removed.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Navigation</categories>
@@ -42050,6 +42076,19 @@ time.
 		<tracker>https://github.com/ybonnel/TransportsRennes/issues</tracker>
 		<marketversion>3.6.3</marketversion>
 		<marketvercode>363</marketvercode>
+		<package>
+			<version>3.6.3</version>
+			<versioncode>363</versioncode>
+			<apkname>fr.ybo.transportsrennes_363.apk</apkname>
+			<srcname>fr.ybo.transportsrennes_363_src.tar.gz</srcname>
+			<hash type="sha256">662e3c1dbe5dd4aca8198ebd38056b9a3aab1144870e4841579f5dab2dc17832</hash>
+			<sig>752c0d93a12870e3b92f2391b64a743c</sig>
+			<size>5055163</size>
+			<sdkver>4</sdkver>
+			<added>2014-06-20</added>
+			<permissions>INTERNET,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,VIBRATE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.location,android.hardware.location.gps,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>3.6.2</version>
 			<versioncode>362</versioncode>
@@ -42073,19 +42112,6 @@ time.
 			<size>5407591</size>
 			<sdkver>4</sdkver>
 			<added>2014-04-29</added>
-			<permissions>INTERNET,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,VIBRATE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.location,android.hardware.location.gps,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>3.6.0</version>
-			<versioncode>360</versioncode>
-			<apkname>fr.ybo.transportsrennes_360.apk</apkname>
-			<srcname>fr.ybo.transportsrennes_360_src.tar.gz</srcname>
-			<hash type="sha256">2415c6b72bc7aeac0d53cb682da32d6f70fc7bc41b75c2875678b08b95b6243a</hash>
-			<sig>752c0d93a12870e3b92f2391b64a743c</sig>
-			<size>5328327</size>
-			<sdkver>4</sdkver>
-			<added>2014-04-10</added>
 			<permissions>INTERNET,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,VIBRATE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.location,android.hardware.location.gps,android.hardware.touchscreen</features>
 		</package>
@@ -42256,8 +42282,8 @@ time.
 		<tracker>https://code.google.com/p/ttrss-reader-fork/issues</tracker>
 		<donate>https://code.google.com/p/ttrss-reader-fork/wiki/Donations</donate>
 		<flattr>382465</flattr>
-		<marketversion>1.74</marketversion>
-		<marketvercode>1740</marketvercode>
+		<marketversion>1.75</marketversion>
+		<marketvercode>1750</marketvercode>
 		<package>
 			<version>1.74</version>
 			<versioncode>1740</versioncode>
