@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1403325794" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1403409260" url="http://f-droid.org/repo" version="12">
 		<description>
 The official FDroid repository. Applications in this repository are mostly built
 directory from the source code. Some are official binaries built by the original
@@ -5434,10 +5434,10 @@ time.
 	<application id="com.knirirr.beecount">
 		<id>com.knirirr.beecount</id>
 		<added>2014-06-17</added>
-		<lastupdated>2014-06-21</lastupdated>
+		<lastupdated>2014-06-22</lastupdated>
 		<name>BeeCount</name>
 		<summary>Knitting row counter</summary>
-		<icon>com.knirirr.beecount.72.png</icon>
+		<icon>com.knirirr.beecount.73.png</icon>
 		<desc>&lt;p&gt;A knitting project helper, with the following features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Keep track of several knitting projects.&lt;/li&gt;&lt;li&gt; For each project, track several items which need counting, e.g. rows, pattern repeats etc&lt;/li&gt;&lt;li&gt; Allow counting up, down and re-setting to zero of these counts.&lt;/li&gt;&lt;li&gt; Allow editing of projects to add, remove or change counts after project creation.&lt;/li&gt;&lt;li&gt; Link counts together so that one increments another.&lt;/li&gt;&lt;li&gt; Set row alerts and cause counts to reset at particular values.&lt;/li&gt;&lt;li&gt; Allow backing up and restoring of the entire projects database.&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>Apache2</license>
 		<categories>Office</categories>
@@ -5446,7 +5446,20 @@ time.
 		<source>https://github.com/knirirr/BeeCount</source>
 		<tracker>https://github.com/knirirr/BeeCount/issues</tracker>
 		<marketversion>Unknown</marketversion>
-		<marketvercode>73</marketvercode>
+		<marketvercode>74</marketvercode>
+		<package>
+			<version>2.0.5</version>
+			<versioncode>73</versioncode>
+			<apkname>com.knirirr.beecount_73.apk</apkname>
+			<srcname>com.knirirr.beecount_73_src.tar.gz</srcname>
+			<hash type="sha256">478d00a949523aff0141a0f9f3de67c91af5bcc0042a537ff0f5652e5786cdaa</hash>
+			<sig>4ecf07bf8dd364c231baa4ffb2c48f5e</sig>
+			<size>2981000</size>
+			<sdkver>14</sdkver>
+			<added>2014-06-22</added>
+			<permissions>WAKE_LOCK,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>2.0.4</version>
 			<versioncode>72</versioncode>
@@ -5663,8 +5676,8 @@ time.
 		<web>http://asksven.tumblr.com</web>
 		<source>https://github.com/asksven/BetterBatteryStats</source>
 		<tracker>https://github.com/asksven/BetterBatteryStats/issues</tracker>
-		<marketversion>1.15.0.0</marketversion>
-		<marketvercode>44</marketvercode>
+		<marketversion>1.16.0.0_RC1</marketversion>
+		<marketvercode>48</marketvercode>
 		<package>
 			<version>1.15.0.0</version>
 			<versioncode>44</versioncode>
@@ -20370,8 +20383,8 @@ time.
 		<web>https://code.google.com/p/k9mail</web>
 		<source>https://github.com/k9mail/k-9</source>
 		<tracker>https://code.google.com/p/k9mail/issues</tracker>
-		<marketversion>4.803</marketversion>
-		<marketvercode>20004</marketvercode>
+		<marketversion>4.804</marketversion>
+		<marketvercode>20005</marketvercode>
 		<provides>org.fdroid.k9</provides>
 		<package>
 			<version>4.803</version>
@@ -24189,10 +24202,10 @@ time.
 	<application id="de.syss.MifareClassicTool">
 		<id>de.syss.MifareClassicTool</id>
 		<added>2013-12-09</added>
-		<lastupdated>2014-05-15</lastupdated>
+		<lastupdated>2014-06-22</lastupdated>
 		<name>Mifare Classic Tool</name>
 		<summary>Analyse a type of NFC tag</summary>
-		<icon>de.syss.MifareClassicTool.23.png</icon>
+		<icon>de.syss.MifareClassicTool.24.png</icon>
 		<desc>&lt;p&gt;This is a low-level tool for analysing Mifare Classic RFID tags. It is not intended to provide an easy interface for writing URIs to tags but that kind of thing is possible.&lt;/p&gt;&lt;p&gt;The source code page or website for has full instructions. It should work on most NFC-enabled devices but there are exceptions.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ikarus23/MifareClassicTool/raw/master/CHANGELOG.txt&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -24200,8 +24213,21 @@ time.
 		<web>http://publications.icaria.de/mct</web>
 		<source>https://github.com/ikarus23/MifareClassicTool</source>
 		<tracker>https://github.com/ikarus23/MifareClassicTool/issues</tracker>
-		<marketversion>1.7.4</marketversion>
-		<marketvercode>23</marketvercode>
+		<marketversion>1.7.5</marketversion>
+		<marketvercode>24</marketvercode>
+		<package>
+			<version>1.7.5</version>
+			<versioncode>24</versioncode>
+			<apkname>de.syss.MifareClassicTool_24.apk</apkname>
+			<srcname>de.syss.MifareClassicTool_24_src.tar.gz</srcname>
+			<hash type="sha256">b6e94eac63ee49298e2577d86693099f199c5d510a4e630c5c9213e958ea266a</hash>
+			<sig>f8a2eae34a28aedb04629f9c3250be6e</sig>
+			<size>718384</size>
+			<sdkver>10</sdkver>
+			<added>2014-06-22</added>
+			<permissions>NFC,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.nfc,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.7.4</version>
 			<versioncode>23</versioncode>
@@ -24225,19 +24251,6 @@ time.
 			<size>718081</size>
 			<sdkver>10</sdkver>
 			<added>2014-02-27</added>
-			<permissions>NFC,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.nfc,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.7.2</version>
-			<versioncode>21</versioncode>
-			<apkname>de.syss.MifareClassicTool_21.apk</apkname>
-			<srcname>de.syss.MifareClassicTool_21_src.tar.gz</srcname>
-			<hash type="sha256">a4f332b83fffe28690afb2d66ef7cbb40f7e7dcf72b93e7716449eece74bce57</hash>
-			<sig>f8a2eae34a28aedb04629f9c3250be6e</sig>
-			<size>717148</size>
-			<sdkver>10</sdkver>
-			<added>2014-01-27</added>
 			<permissions>NFC,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.nfc,android.hardware.touchscreen</features>
 		</package>
@@ -29728,10 +29741,10 @@ time.
 	<application id="jp.redmine.redmineclient">
 		<id>jp.redmine.redmineclient</id>
 		<added>2014-02-24</added>
-		<lastupdated>2014-05-11</lastupdated>
+		<lastupdated>2014-06-22</lastupdated>
 		<name>OpenRedmine</name>
 		<summary>Redmine client</summary>
-		<icon>jp.redmine.redmineclient.41.png</icon>
+		<icon>jp.redmine.redmineclient.42.png</icon>
 		<desc>&lt;p&gt;Connect to Redmine servers (running 1.2 or later) and access the Wiki, Issue Tracker, Source code, etc. easily.&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; View issues offline&lt;/li&gt;&lt;li&gt; Get API key from web site&lt;/li&gt;&lt;li&gt; Filter (by Status/Tracker/Category/Priority)&lt;/li&gt;&lt;li&gt; Download files&lt;/li&gt;&lt;li&gt; Wiki&lt;/li&gt;&lt;li&gt; Connect to unsafe SSL sites powered by transdroid&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;https://raw.github.com/indication/OpenRedmine/development/doc/VERSION.en.md&quot;&gt;Release history&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv2+</license>
 		<categories>Internet</categories>
@@ -29739,8 +29752,21 @@ time.
 		<web>http://indication.github.io/OpenRedmine</web>
 		<source>https://github.com/indication/OpenRedmine</source>
 		<tracker>https://github.com/indication/OpenRedmine/issues</tracker>
-		<marketversion>3.9</marketversion>
-		<marketvercode>41</marketvercode>
+		<marketversion>3.10</marketversion>
+		<marketvercode>42</marketvercode>
+		<package>
+			<version>3.10</version>
+			<versioncode>42</versioncode>
+			<apkname>jp.redmine.redmineclient_42.apk</apkname>
+			<srcname>jp.redmine.redmineclient_42_src.tar.gz</srcname>
+			<hash type="sha256">0eee029d89bea701e20671d46aa6e4d9cc28b0c3e19d397bdd2585ad67a0e86c</hash>
+			<sig>ec67fa25de1ff6b51934aef3784e7c35</sig>
+			<size>1450580</size>
+			<sdkver>8</sdkver>
+			<added>2014-06-22</added>
+			<permissions>INTERNET,VIBRATE,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>3.9</version>
 			<versioncode>41</versioncode>
@@ -29764,19 +29790,6 @@ time.
 			<size>1400220</size>
 			<sdkver>8</sdkver>
 			<added>2014-03-26</added>
-			<permissions>INTERNET,VIBRATE,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>3.7</version>
-			<versioncode>39</versioncode>
-			<apkname>jp.redmine.redmineclient_39.apk</apkname>
-			<srcname>jp.redmine.redmineclient_39_src.tar.gz</srcname>
-			<hash type="sha256">1a4386eb2730bbbfbe0540aef3db977d9378183bf19a3e9c22a5e3e213c40af7</hash>
-			<sig>ec67fa25de1ff6b51934aef3784e7c35</sig>
-			<size>1397733</size>
-			<sdkver>8</sdkver>
-			<added>2014-03-02</added>
 			<permissions>INTERNET,VIBRATE,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -31831,10 +31844,10 @@ time.
 	<application id="org.esteban.piano">
 		<id>org.esteban.piano</id>
 		<added>2014-06-10</added>
-		<lastupdated>2014-06-13</lastupdated>
+		<lastupdated>2014-06-22</lastupdated>
 		<name>Piano</name>
 		<summary>Virtual piano keyboard</summary>
-		<icon>org.esteban.piano.2.png</icon>
+		<icon>org.esteban.piano.3.png</icon>
 		<desc>&lt;p&gt;Basic virtual piano based on Hexiano.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Multimedia</categories>
@@ -31844,6 +31857,18 @@ time.
 		<tracker/>
 		<marketversion>1.2</marketversion>
 		<marketvercode>3</marketvercode>
+		<package>
+			<version>1.2</version>
+			<versioncode>3</versioncode>
+			<apkname>org.esteban.piano_3.apk</apkname>
+			<srcname>org.esteban.piano_3_src.tar.gz</srcname>
+			<hash type="sha256">d83ecf52febeffd0955abb0b55f6426c7ef6a0e5014f7d7e2b81520b80ccb099</hash>
+			<sig>15959b063b60b0d5912096dd47e3f577</sig>
+			<size>3621535</size>
+			<sdkver>8</sdkver>
+			<added>2014-06-22</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.1</version>
 			<versioncode>2</versioncode>
@@ -32249,8 +32274,8 @@ time.
 		<web>https://github.com/thasmin/Podax</web>
 		<source>https://github.com/thasmin/Podax</source>
 		<tracker>https://github.com/thasmin/Podax/issues</tracker>
-		<marketversion>7.03</marketversion>
-		<marketvercode>60</marketvercode>
+		<marketversion>7.04</marketversion>
+		<marketvercode>61</marketvercode>
 		<package>
 			<version>6.2</version>
 			<versioncode>56</versioncode>
@@ -32957,6 +32982,35 @@ time.
 			<added>2014-05-19</added>
 			<permissions>INTERNET,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.wifi,android.hardware.touchscreen</features>
+		</package>
+	</application>
+	<application id="org.us.andriod">
+		<id>org.us.andriod</id>
+		<added>2014-06-22</added>
+		<lastupdated>2014-06-22</lastupdated>
+		<name>Prism</name>
+		<summary>Demonstrates the basics of ray diagrams</summary>
+		<icon>org.us.andriod.3.png</icon>
+		<desc>&lt;p&gt;Demonstrates the basics of ray diagrams, e.g. within a prism.&lt;/p&gt;</desc>
+		<license>GPLv3</license>
+		<categories>Science &amp; Education</categories>
+		<category>Science &amp; Education</category>
+		<web>https://github.com/andviane/prism</web>
+		<source>https://github.com/andviane/prism</source>
+		<tracker>https://github.com/andviane/prism/issues</tracker>
+		<marketversion>1.2</marketversion>
+		<marketvercode>3</marketvercode>
+		<package>
+			<version>1.2</version>
+			<versioncode>3</versioncode>
+			<apkname>org.us.andriod_3.apk</apkname>
+			<srcname>org.us.andriod_3_src.tar.gz</srcname>
+			<hash type="sha256">09cd6b8ebdcdca08cdb2d85eb52430b91e2124e7505aca4bed9d5cf650d2d847</hash>
+			<sig>76e2777f8987f7f2ec6315ba2cf0d8e7</sig>
+			<size>145592</size>
+			<sdkver>10</sdkver>
+			<added>2014-06-22</added>
+			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
 	<application id="org.okfn.pod">
@@ -35702,8 +35756,8 @@ time.
 		<web>https://doc.chorem.org/say-my-texts</web>
 		<source>http://forge.chorem.org/projects/say-my-texts/repository</source>
 		<tracker>http://forge.chorem.org/projects/say-my-texts/issues</tracker>
-		<marketversion>2.0.2</marketversion>
-		<marketvercode>5</marketvercode>
+		<marketversion>2.1</marketversion>
+		<marketvercode>6</marketvercode>
 		<package>
 			<version>2.0.2</version>
 			<versioncode>5</versioncode>
@@ -46437,6 +46491,7 @@ time.
 		<web>http://www.yaacc.de</web>
 		<source>http://sourceforge.net/p/yaacc/code</source>
 		<tracker>http://sourceforge.net/p/yaacc/tickets</tracker>
+		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=6KJGAW83TYRT6</donate>
 		<flattr>1959151</flattr>
 		<marketversion>1.1.5-SNAPSHOT</marketversion>
 		<marketvercode>9</marketvercode>
