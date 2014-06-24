@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1403409260" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1403496744" url="http://f-droid.org/repo" version="12">
 		<description>
 The official FDroid repository. Applications in this repository are mostly built
 directory from the source code. Some are official binaries built by the original
@@ -633,10 +633,10 @@ time.
 	<application id="org.billthefarmer.accordion">
 		<id>org.billthefarmer.accordion</id>
 		<added>2013-07-28</added>
-		<lastupdated>2013-07-28</lastupdated>
+		<lastupdated>2014-06-23</lastupdated>
 		<name>Accordion</name>
 		<summary>Accordion emulator for tablets</summary>
-		<icon>org.billthefarmer.accordion.101.png</icon>
+		<icon>org.billthefarmer.accordion.102.png</icon>
 		<desc>&lt;p&gt;Emulates a three row diatonic or continental chromatic accordion. There is a choice of midi instruments and keys, including C System and B System.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Keys: F/Bb/Eb, G/C/F, A/D/G, C#/D/G, B/C/C#, C System, B System&lt;/li&gt;&lt;li&gt; Instruments: Standard midi set, defaults to accordion&lt;/li&gt;&lt;li&gt; Choice of one standard 31 button Hohner layout and two 25 button layouts&lt;/li&gt;&lt;li&gt; Choice of fascia images&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Uses undocumented built in Sonivox midi synthesizer for midi audio output.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Multimedia</categories>
@@ -646,6 +646,19 @@ time.
 		<tracker>https://github.com/billthefarmer/accordion/issues</tracker>
 		<marketversion>1.02</marketversion>
 		<marketvercode>102</marketvercode>
+		<package>
+			<version>1.02</version>
+			<versioncode>102</versioncode>
+			<apkname>org.billthefarmer.accordion_102.apk</apkname>
+			<srcname>org.billthefarmer.accordion_102_src.tar.gz</srcname>
+			<hash type="sha256">debdab5bb3da3d4abd19a5e84696e27585cdf60a9b72d481478b6819577958c5</hash>
+			<sig>d2c31641826685140d04ddbbceb78933</sig>
+			<size>5389471</size>
+			<sdkver>14</sdkver>
+			<added>2014-06-23</added>
+			<nativecode>armeabi</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.01</version>
 			<versioncode>101</versioncode>
@@ -5434,10 +5447,10 @@ time.
 	<application id="com.knirirr.beecount">
 		<id>com.knirirr.beecount</id>
 		<added>2014-06-17</added>
-		<lastupdated>2014-06-22</lastupdated>
+		<lastupdated>2014-06-23</lastupdated>
 		<name>BeeCount</name>
 		<summary>Knitting row counter</summary>
-		<icon>com.knirirr.beecount.73.png</icon>
+		<icon>com.knirirr.beecount.74.png</icon>
 		<desc>&lt;p&gt;A knitting project helper, with the following features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Keep track of several knitting projects.&lt;/li&gt;&lt;li&gt; For each project, track several items which need counting, e.g. rows, pattern repeats etc&lt;/li&gt;&lt;li&gt; Allow counting up, down and re-setting to zero of these counts.&lt;/li&gt;&lt;li&gt; Allow editing of projects to add, remove or change counts after project creation.&lt;/li&gt;&lt;li&gt; Link counts together so that one increments another.&lt;/li&gt;&lt;li&gt; Set row alerts and cause counts to reset at particular values.&lt;/li&gt;&lt;li&gt; Allow backing up and restoring of the entire projects database.&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>Apache2</license>
 		<categories>Office</categories>
@@ -5447,6 +5460,19 @@ time.
 		<tracker>https://github.com/knirirr/BeeCount/issues</tracker>
 		<marketversion>Unknown</marketversion>
 		<marketvercode>74</marketvercode>
+		<package>
+			<version>2.0.6</version>
+			<versioncode>74</versioncode>
+			<apkname>com.knirirr.beecount_74.apk</apkname>
+			<srcname>com.knirirr.beecount_74_src.tar.gz</srcname>
+			<hash type="sha256">ef184c0c348d81519b762b521c926ccc97a6b762a3e56a609185a878c13e94ee</hash>
+			<sig>4ecf07bf8dd364c231baa4ffb2c48f5e</sig>
+			<size>2981011</size>
+			<sdkver>14</sdkver>
+			<added>2014-06-23</added>
+			<permissions>WAKE_LOCK,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>2.0.5</version>
 			<versioncode>73</versioncode>
@@ -5470,19 +5496,6 @@ time.
 			<size>2981572</size>
 			<sdkver>14</sdkver>
 			<added>2014-06-21</added>
-			<permissions>WAKE_LOCK,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>2.0.1</version>
-			<versioncode>68</versioncode>
-			<apkname>com.knirirr.beecount_68.apk</apkname>
-			<srcname>com.knirirr.beecount_68_src.tar.gz</srcname>
-			<hash type="sha256">90cf6d802bab3bce225b5eae841b716a4ea04fc1201afbf8cad1928660988d72</hash>
-			<sig>4ecf07bf8dd364c231baa4ffb2c48f5e</sig>
-			<size>2980431</size>
-			<sdkver>14</sdkver>
-			<added>2014-06-17</added>
 			<permissions>WAKE_LOCK,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -7761,10 +7774,10 @@ time.
 	<application id="de.k3b.android.calendar.ics.adapter">
 		<id>de.k3b.android.calendar.ics.adapter</id>
 		<added>2014-04-10</added>
-		<lastupdated>2014-05-13</lastupdated>
+		<lastupdated>2014-06-23</lastupdated>
 		<name>Calendar ICS adapter</name>
 		<summary>Import and export calendar files</summary>
-		<icon>de.k3b.android.calendar.ics.adapter.10.png</icon>
+		<icon>de.k3b.android.calendar.ics.adapter.11.png</icon>
 		<desc>&lt;p&gt;Use a filemanager (i.e. &lt;a href=&quot;fdroid.app:org.openintents.filemanager&quot;&gt;OI File Manager&lt;/a&gt;), emailclient (i.e. &lt;a href=&quot;fdroid.app:com.fsck.k9&quot;&gt;K-9 Mail&lt;/a&gt;) or bluetooth to import or export android calendar entries via *.ics or *.ical files or attachments of type text/calendar.&lt;/p&gt;&lt;p&gt;The android.calendar.ics.adapter has no gui of its own.  If you open an event from the android calendar you can choose between &quot;view event&quot; and &quot;send event to ...&quot;. If you open an event from file/attachment you get a prepopulated &quot;add to calender-form&quot;. &lt;/p&gt;&lt;p&gt;android.calendar.ics.adapter is a fork of &lt;a href=&quot;fdroid.app:org.dgtale.icsimport&quot;&gt;Add to calendar&lt;/a&gt; that uses the &lt;a href=&quot;http://ical4j.sourceforge.net&quot;&gt;ical4j&lt;/a&gt; library.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Required Android Permissions:&lt;/b&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt; READ_CALENDAR used to export events from calendar&lt;/li&gt;&lt;li&gt; WRITE_EXTERNAL_STORAGE used to store the created ics-file so that it can be attached to email or send via bluetooth.&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office,System</categories>
@@ -7772,8 +7785,21 @@ time.
 		<web>https://github.com/k3b/CalendarIcsAdapter/wiki</web>
 		<source>https://github.com/k3b/CalendarIcsAdapter</source>
 		<tracker>https://github.com/k3b/CalendarIcsAdapter/issues</tracker>
-		<marketversion>1.5.3.10-140416</marketversion>
-		<marketvercode>10</marketvercode>
+		<marketversion>1.5.5.11-140428</marketversion>
+		<marketvercode>11</marketvercode>
+		<package>
+			<version>1.5.5.11-140428</version>
+			<versioncode>11</versioncode>
+			<apkname>de.k3b.android.calendar.ics.adapter_11.apk</apkname>
+			<srcname>de.k3b.android.calendar.ics.adapter_11_src.tar.gz</srcname>
+			<hash type="sha256">2e33b2583ab41d52233bf97ca7fa990fae7475ad96c70e046af550b9953551ac</hash>
+			<sig>5dca75ca52e4a12d10d178e26ec59517</sig>
+			<size>931601</size>
+			<sdkver>7</sdkver>
+			<added>2014-06-23</added>
+			<permissions>READ_CALENDAR,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.5.3.10-140416</version>
 			<versioncode>10</versioncode>
@@ -9433,8 +9459,8 @@ time.
 		<web>https://code.google.com/p/android-comicsreader</web>
 		<source>https://code.google.com/p/android-comicsreader/source</source>
 		<tracker>https://code.google.com/p/android-comicsreader/issues</tracker>
-		<marketversion>1.2</marketversion>
-		<marketvercode>18</marketvercode>
+		<marketversion>2.0</marketversion>
+		<marketvercode>19</marketvercode>
 		<package>
 			<version>1.2</version>
 			<versioncode>18</versioncode>
@@ -15804,10 +15830,10 @@ time.
 	<application id="org.jfedor.frozenbubble">
 		<id>org.jfedor.frozenbubble</id>
 		<added>2011-01-02</added>
-		<lastupdated>2014-06-10</lastupdated>
+		<lastupdated>2014-06-23</lastupdated>
 		<name>Frozen Bubble</name>
 		<summary>Bubble shooting game</summary>
-		<icon>org.jfedor.frozenbubble.35.png</icon>
+		<icon>org.jfedor.frozenbubble.36.png</icon>
 		<desc>&lt;p&gt;A bubble shooting game. Knock the bubbles down by forming clusters of three or more bubbles.&lt;/p&gt;</desc>
 		<license>GPLv2</license>
 		<categories>Games</categories>
@@ -15817,6 +15843,20 @@ time.
 		<tracker>https://code.google.com/p/frozenbubbleandroid/issues</tracker>
 		<marketversion>3.3</marketversion>
 		<marketvercode>36</marketvercode>
+		<package>
+			<version>3.3</version>
+			<versioncode>36</versioncode>
+			<apkname>org.jfedor.frozenbubble_36.apk</apkname>
+			<srcname>org.jfedor.frozenbubble_36_src.tar.gz</srcname>
+			<hash type="sha256">37908cce7db3eee909dd8a8361c7f5bc155b50d31bf15a6bf340802d46746104</hash>
+			<sig>2230fedf13bdc4eef2b3062dfedd9e0e</sig>
+			<size>7834102</size>
+			<sdkver>4</sdkver>
+			<added>2014-06-23</added>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET</permissions>
+			<nativecode>armeabi</nativecode>
+			<features>android.hardware.wifi,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>3.2</version>
 			<versioncode>35</versioncode>
@@ -15841,20 +15881,6 @@ time.
 			<size>7832582</size>
 			<sdkver>4</sdkver>
 			<added>2014-05-22</added>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET</permissions>
-			<nativecode>armeabi</nativecode>
-			<features>android.hardware.wifi,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>2.3</version>
-			<versioncode>27</versioncode>
-			<apkname>org.jfedor.frozenbubble_27.apk</apkname>
-			<srcname>org.jfedor.frozenbubble_27_src.tar.gz</srcname>
-			<hash type="sha256">ce570f96250fb0fd3a3188c236d310d0dfe43979fe9bc58e2293494f3053b7cf</hash>
-			<sig>2230fedf13bdc4eef2b3062dfedd9e0e</sig>
-			<size>7832333</size>
-			<sdkver>4</sdkver>
-			<added>2014-05-17</added>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET</permissions>
 			<nativecode>armeabi</nativecode>
 			<features>android.hardware.wifi,android.hardware.touchscreen</features>
@@ -17321,6 +17347,36 @@ time.
 			<added>2012-09-07</added>
 			<permissions>ACCESS_FINE_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_LOCATION_EXTRA_COMMANDS,INTERNET,WAKE_LOCK,READ_SETTINGS,WRITE_SETTINGS,WRITE_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.location,android.hardware.location.gps,android.hardware.location.network,android.hardware.touchscreen</features>
+		</package>
+	</application>
+	<application id="org.cyanogenmod.great.freedom">
+		<id>org.cyanogenmod.great.freedom</id>
+		<added>2014-06-23</added>
+		<lastupdated>2014-06-23</lastupdated>
+		<name>Great Freedom</name>
+		<summary>Theme for CyanogenMod</summary>
+		<icon>org.cyanogenmod.great.freedom.9.png</icon>
+		<desc>&lt;p&gt;Theme for CyanogenMod that is designed with solid colors and tries to keep as close to stock CM as possible apart from the icons.&lt;/p&gt;&lt;p&gt;What's Themed/Included:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Framework&lt;/li&gt;&lt;li&gt; Systemui&lt;/li&gt;&lt;li&gt; Settings&lt;/li&gt;&lt;li&gt; Dialer&lt;/li&gt;&lt;li&gt; Mms Widget&lt;/li&gt;&lt;li&gt; Email Widget&lt;/li&gt;&lt;li&gt; Gmail Widget&lt;/li&gt;&lt;li&gt; Facebook Widget&lt;/li&gt;&lt;li&gt; LockClock&lt;/li&gt;&lt;li&gt; ApexLauncher&lt;/li&gt;&lt;li&gt; Power Control Widget&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt; Custom ringtones/alarms/notifications&lt;/li&gt;&lt;li&gt; GreatFreedom wallpaper&lt;/li&gt;&lt;li&gt; GreatFreedom iconpack&lt;/li&gt;&lt;li&gt; GreatFreedom fonts&lt;/li&gt;&lt;/ul&gt;</desc>
+		<license>Apache2</license>
+		<categories>Multimedia</categories>
+		<category>Multimedia</category>
+		<web>https://github.com/elelinux/GreatFreedom</web>
+		<source>https://github.com/elelinux/GreatFreedom</source>
+		<tracker>https://github.com/elelinux/GreatFreedom/issues</tracker>
+		<marketversion>1.8</marketversion>
+		<marketvercode>9</marketvercode>
+		<package>
+			<version>1.8</version>
+			<versioncode>9</versioncode>
+			<apkname>org.cyanogenmod.great.freedom_9.apk</apkname>
+			<srcname>org.cyanogenmod.great.freedom_9_src.tar.gz</srcname>
+			<hash type="sha256">344495b756c1cb4fa89550eda09b0a3b0554a1de268a2a3c7305b5436568e2a1</hash>
+			<sig>90a03ddd28da702bcaac54e23e141121</sig>
+			<size>11119900</size>
+			<sdkver>19</sdkver>
+			<added>2014-06-23</added>
+			<permissions>SET_WALLPAPER</permissions>
+			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
 	<application id="org.gfd.gsmlocation">
@@ -23985,11 +24041,11 @@ time.
 	<application id="org.billthefarmer.melodeon">
 		<id>org.billthefarmer.melodeon</id>
 		<added>2013-07-28</added>
-		<lastupdated>2013-07-28</lastupdated>
+		<lastupdated>2014-06-23</lastupdated>
 		<name>Melodeon</name>
 		<summary>Melodeon emulator for tablets</summary>
-		<icon>org.billthefarmer.melodeon.1.png</icon>
-		<desc>&lt;p&gt;Emulates a one row melodeon or a one and a half rown organetto. There is a choice of midi intruments and keys.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Keys: Eb, Bb, F, C, G, D, A&lt;/li&gt;&lt;li&gt; Instruments: Standard midi set, defaults to accordion&lt;/li&gt;&lt;li&gt; Choice of one row melodeon layout and one and a half row organetto layout&lt;/li&gt;&lt;li&gt; Choice of fascia images&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Uses undocumented built in Sonivox midi synthesizer for midi audio output.&lt;/p&gt;</desc>
+		<icon>org.billthefarmer.melodeon.101.png</icon>
+		<desc>&lt;p&gt;Emulates a one row melodeon or a one and a half row organetto. There is a choice of midi instruments and keys.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Keys: Eb, Bb, F, C, G, D, A&lt;/li&gt;&lt;li&gt; Instruments: Standard midi set, defaults to accordion&lt;/li&gt;&lt;li&gt; Choice of one row melodeon layout and one and a half row organetto layout&lt;/li&gt;&lt;li&gt; Choice of fascia images&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Uses undocumented built in Sonivox midi synthesizer for midi audio output.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Multimedia</categories>
 		<category>Multimedia</category>
@@ -23998,6 +24054,19 @@ time.
 		<tracker>https://github.com/billthefarmer/melodeon/issues</tracker>
 		<marketversion>1.01</marketversion>
 		<marketvercode>101</marketvercode>
+		<package>
+			<version>1.01</version>
+			<versioncode>101</versioncode>
+			<apkname>org.billthefarmer.melodeon_101.apk</apkname>
+			<srcname>org.billthefarmer.melodeon_101_src.tar.gz</srcname>
+			<hash type="sha256">10185150ec556441751b4e0b6718bb993f2ec3f175cf5b8c44d99828396cf278</hash>
+			<sig>89d552c60b5e19abd2280bbada421ca4</sig>
+			<size>5341998</size>
+			<sdkver>14</sdkver>
+			<added>2014-06-23</added>
+			<nativecode>armeabi</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.0</version>
 			<versioncode>1</versioncode>
@@ -24577,8 +24646,8 @@ time.
 		<tracker>https://github.com/MirakelX/mirakel-android/issues</tracker>
 		<donate>http://mirakel.azapps.de/help_us.html#donate</donate>
 		<flattr>2188714</flattr>
-		<marketversion>2.5</marketversion>
-		<marketvercode>56</marketvercode>
+		<marketversion>2.6-beta1</marketversion>
+		<marketvercode>58</marketvercode>
 		<package>
 			<version>2.5</version>
 			<versioncode>56</versioncode>
@@ -31027,10 +31096,10 @@ time.
 	<application id="ru.valle.btc">
 		<id>ru.valle.btc</id>
 		<added>2013-12-09</added>
-		<lastupdated>2014-02-11</lastupdated>
+		<lastupdated>2014-06-23</lastupdated>
 		<name>Paper Wallet</name>
 		<summary>Back up bitcoins</summary>
-		<icon>ru.valle.btc.221.png</icon>
+		<icon>ru.valle.btc.230.png</icon>
 		<desc>&lt;p&gt;Generates a bitcoin address and corresponding private key in 'mini' format. Write down the private key and address then send bitcoins to that address. You can securely and OFFLINE SPEND coins from your paper wallet without revealing your private key. Full instructions within.&lt;/p&gt;&lt;p&gt;Check your balance via blockchain.info.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Office</categories>
@@ -31040,6 +31109,19 @@ time.
 		<tracker>https://github.com/ValleZ/Paper-Wallet/issues</tracker>
 		<marketversion>2.3.0</marketversion>
 		<marketvercode>230</marketvercode>
+		<package>
+			<version>2.3.0</version>
+			<versioncode>230</versioncode>
+			<apkname>ru.valle.btc_230.apk</apkname>
+			<srcname>ru.valle.btc_230_src.tar.gz</srcname>
+			<hash type="sha256">f18351adfd16e152bc0a81d1cfb112b203b1df048d4c6accbce27eb486c80bc8</hash>
+			<sig>db4cca4ef0fa779e0b773144ca693e5d</sig>
+			<size>2495787</size>
+			<sdkver>4</sdkver>
+			<added>2014-06-23</added>
+			<permissions>CAMERA</permissions>
+			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
+		</package>
 		<package>
 			<version>2.2.1</version>
 			<versioncode>221</versioncode>
@@ -31061,19 +31143,6 @@ time.
 			<hash type="sha256">7dbf1b6403672cf6da6f23d1b2d17fab009e3c67afa7a89d24c0aa4bf9db65fa</hash>
 			<sig>db4cca4ef0fa779e0b773144ca693e5d</sig>
 			<size>2369925</size>
-			<sdkver>4</sdkver>
-			<added>2013-12-31</added>
-			<permissions>CAMERA</permissions>
-			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
-		</package>
-		<package>
-			<version>1.9.0</version>
-			<versioncode>190</versioncode>
-			<apkname>ru.valle.btc_190.apk</apkname>
-			<srcname>ru.valle.btc_190_src.tar.gz</srcname>
-			<hash type="sha256">c609054349e4f4bbdfb4aed7f42af9ec40d6ebbe07b8320095e536f634f2e51a</hash>
-			<sig>db4cca4ef0fa779e0b773144ca693e5d</sig>
-			<size>2358969</size>
 			<sdkver>4</sdkver>
 			<added>2013-12-31</added>
 			<permissions>CAMERA</permissions>
@@ -34414,8 +34483,8 @@ time.
 		<web>https://bitbucket.org/josten/reminder</web>
 		<source>https://bitbucket.org/josten/reminder/src</source>
 		<tracker/>
-		<marketversion>1.1.9</marketversion>
-		<marketvercode>2</marketvercode>
+		<marketversion>1.1.10</marketversion>
+		<marketvercode>3</marketvercode>
 		<package>
 			<version>1.1.9</version>
 			<versioncode>2</versioncode>
@@ -35745,10 +35814,10 @@ time.
 	<application id="org.chorem.android.saymytexts">
 		<id>org.chorem.android.saymytexts</id>
 		<added>2014-06-13</added>
-		<lastupdated>2014-06-18</lastupdated>
+		<lastupdated>2014-06-23</lastupdated>
 		<name>Say My Texts</name>
 		<summary>Read out received text messages</summary>
-		<icon>org.chorem.android.saymytexts.5.png</icon>
+		<icon>org.chorem.android.saymytexts.6.png</icon>
 		<desc>&lt;p&gt;Reads out loud the SMS you receive while a headset is plugged or a bluetooth handfree is connected. &lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Phone &amp; SMS</categories>
@@ -35758,6 +35827,19 @@ time.
 		<tracker>http://forge.chorem.org/projects/say-my-texts/issues</tracker>
 		<marketversion>2.1</marketversion>
 		<marketvercode>6</marketvercode>
+		<package>
+			<version>2.1</version>
+			<versioncode>6</versioncode>
+			<apkname>org.chorem.android.saymytexts_6.apk</apkname>
+			<srcname>org.chorem.android.saymytexts_6_src.tar.gz</srcname>
+			<hash type="sha256">73203c4c9d1334995e563549d4810fc52b7df7963d1bafe5bac15d62c79b2952</hash>
+			<sig>ce23d9cf673dd9120641edbb3cf2cec7</sig>
+			<size>143211</size>
+			<sdkver>15</sdkver>
+			<added>2014-06-23</added>
+			<permissions>RECEIVE_SMS,SEND_SMS,READ_PHONE_STATE,MODIFY_AUDIO_SETTINGS,READ_CONTACTS,BLUETOOTH,RECORD_AUDIO,CALL_PHONE</permissions>
+			<features>android.hardware.telephony,android.hardware.bluetooth,android.hardware.microphone,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>2.0.2</version>
 			<versioncode>5</versioncode>
@@ -41278,8 +41360,8 @@ time.
 		<web>http://tinc_gui.poirsouille.org</web>
 		<source>https://github.com/Vilbrekin/tinc_gui</source>
 		<tracker>https://github.com/Vilbrekin/tinc_gui/issues</tracker>
-		<marketversion>0.9.7</marketversion>
-		<marketvercode>8</marketvercode>
+		<marketversion>0.9.8</marketversion>
+		<marketvercode>9</marketvercode>
 		<package>
 			<version>0.9.7-arm</version>
 			<versioncode>8</versioncode>
@@ -43133,10 +43215,10 @@ time.
 	<application id="ro.weednet.contactssync">
 		<id>ro.weednet.contactssync</id>
 		<added>2012-08-29</added>
-		<lastupdated>2013-07-26</lastupdated>
+		<lastupdated>2014-06-23</lastupdated>
 		<name>UberSync for Facebook</name>
 		<summary>Sync your Facebook Contacts</summary>
-		<icon>ro.weednet.contactssync.42.png</icon>
+		<icon>ro.weednet.contactssync.48.png</icon>
 		<desc>&lt;p&gt;To configure, go to &quot;Settings =&amp;gt; Accounts &amp;amp; Sync =&amp;gt; Add Account&quot;. Depending on how many friends you have, the first import might take a while, so be patient.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Facebook does not allow to export phone numbers or emails: only names, pictures and statuses are synced.&lt;/li&gt;&lt;li&gt; Facebook users have the option to block one or all apps: if they opt for that, they will be EXCLUDED from your friends list.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Appbrain SDK was removed before building.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -43146,6 +43228,19 @@ time.
 		<tracker>https://github.com/loadrunner/Facebook-Contact-Sync/issues</tracker>
 		<marketversion>2.1.2</marketversion>
 		<marketvercode>49</marketvercode>
+		<package>
+			<version>2.1.1</version>
+			<versioncode>48</versioncode>
+			<apkname>ro.weednet.contactssync_48.apk</apkname>
+			<srcname>ro.weednet.contactssync_48_src.tar.gz</srcname>
+			<hash type="sha256">735c11231723629add4b985d19b4f81a869e685e44f28ea4e5580e103e6284a4</hash>
+			<sig>ee50530c5e8f71e47fe712f53bcbc0fb</sig>
+			<size>283755</size>
+			<sdkver>15</sdkver>
+			<added>2014-06-23</added>
+			<permissions>GET_ACCOUNTS,USE_CREDENTIALS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS,INTERNET,ACCESS_NETWORK_STATE,WRITE_SETTINGS,READ_CONTACTS,WRITE_CONTACTS,READ_SYNC_STATS,READ_SYNC_SETTINGS,WRITE_SYNC_SETTINGS,READ_PHONE_STATE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.2.2</version>
 			<versioncode>42</versioncode>
@@ -43170,19 +43265,6 @@ time.
 			<sdkver>14</sdkver>
 			<added>2013-04-29</added>
 			<permissions>GET_ACCOUNTS,USE_CREDENTIALS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS,INTERNET,ACCESS_NETWORK_STATE,WRITE_SETTINGS,READ_CONTACTS,WRITE_CONTACTS,READ_SYNC_STATS,READ_SYNC_SETTINGS,WRITE_SYNC_SETTINGS</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.0.1</version>
-			<versioncode>33</versioncode>
-			<apkname>ro.weednet.contactssync_33.apk</apkname>
-			<srcname>ro.weednet.contactssync_33_src.tar.gz</srcname>
-			<hash type="sha256">e506c6ce9065d16b0257017305a2b8687f9ef71d384b128e84f203d67a5872a5</hash>
-			<sig>ee50530c5e8f71e47fe712f53bcbc0fb</sig>
-			<size>103842</size>
-			<sdkver>8</sdkver>
-			<added>2013-01-10</added>
-			<permissions>GET_ACCOUNTS,USE_CREDENTIALS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS,INTERNET,ACCESS_NETWORK_STATE,WRITE_SETTINGS,WRITE_SECURE_SETTINGS,READ_CONTACTS,WRITE_CONTACTS,READ_SYNC_STATS,READ_SYNC_SETTINGS,WRITE_SYNC_SETTINGS,READ_CALL_LOG,WRITE_CALL_LOG</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -43894,8 +43976,8 @@ time.
 		<source>http://git.videolan.org/?p=vlc-ports/android.git;a=summary</source>
 		<tracker>http://www.videolan.org/support/index.html#bugs</tracker>
 		<donate>http://www.videolan.org/contribute.html#money</donate>
-		<marketversion>0.9.5</marketversion>
-		<marketvercode>9504</marketvercode>
+		<marketversion>0.9.6</marketversion>
+		<marketvercode>9604</marketvercode>
 		<package>
 			<version>0.9.1</version>
 			<versioncode>9104</versioncode>
