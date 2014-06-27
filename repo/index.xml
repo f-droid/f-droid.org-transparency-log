@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1403693040" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1403754518" url="http://f-droid.org/repo" version="12">
 		<description>
 The official FDroid repository. Applications in this repository are mostly built
 directory from the source code. Some are official binaries built by the original
@@ -1443,8 +1443,8 @@ time.
 		<web>http://akvo.org/products/rsr/akvo-rsr-up</web>
 		<source>https://github.com/akvo/akvo-rsr-up</source>
 		<tracker>https://github.com/akvo/akvo-rsr-up/issues</tracker>
-		<marketversion>1.2.4</marketversion>
-		<marketvercode>15</marketvercode>
+		<marketversion>1.3</marketversion>
+		<marketvercode>16</marketvercode>
 		<package>
 			<version>1.2.4</version>
 			<versioncode>15</versioncode>
@@ -5447,10 +5447,10 @@ time.
 	<application id="com.knirirr.beecount">
 		<id>com.knirirr.beecount</id>
 		<added>2014-06-17</added>
-		<lastupdated>2014-06-25</lastupdated>
+		<lastupdated>2014-06-26</lastupdated>
 		<name>BeeCount</name>
 		<summary>Knitting row counter</summary>
-		<icon>com.knirirr.beecount.75.png</icon>
+		<icon>com.knirirr.beecount.76.png</icon>
 		<desc>&lt;p&gt;A knitting project helper, with the following features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Keep track of several knitting projects.&lt;/li&gt;&lt;li&gt; For each project, track several items which need counting, e.g. rows, pattern repeats etc&lt;/li&gt;&lt;li&gt; Allow counting up, down and re-setting to zero of these counts.&lt;/li&gt;&lt;li&gt; Allow editing of projects to add, remove or change counts after project creation.&lt;/li&gt;&lt;li&gt; Link counts together so that one increments another.&lt;/li&gt;&lt;li&gt; Set row alerts and cause counts to reset at particular values.&lt;/li&gt;&lt;li&gt; Allow backing up and restoring of the entire projects database.&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>Apache2</license>
 		<categories>Office</categories>
@@ -5458,8 +5458,21 @@ time.
 		<web>https://github.com/knirirr/BeeCount</web>
 		<source>https://github.com/knirirr/BeeCount</source>
 		<tracker>https://github.com/knirirr/BeeCount/issues</tracker>
-		<marketversion>2.0.7</marketversion>
-		<marketvercode>75</marketvercode>
+		<marketversion>2.0.8</marketversion>
+		<marketvercode>76</marketvercode>
+		<package>
+			<version>2.0.8</version>
+			<versioncode>76</versioncode>
+			<apkname>com.knirirr.beecount_76.apk</apkname>
+			<srcname>com.knirirr.beecount_76_src.tar.gz</srcname>
+			<hash type="sha256">41c05abcae190c041c77617f2aad41c5425141680b4d65c23707fa7771b070aa</hash>
+			<sig>4ecf07bf8dd364c231baa4ffb2c48f5e</sig>
+			<size>2981713</size>
+			<sdkver>14</sdkver>
+			<added>2014-06-26</added>
+			<permissions>WAKE_LOCK,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>2.0.7</version>
 			<versioncode>75</versioncode>
@@ -5483,19 +5496,6 @@ time.
 			<size>2981011</size>
 			<sdkver>14</sdkver>
 			<added>2014-06-23</added>
-			<permissions>WAKE_LOCK,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>2.0.5</version>
-			<versioncode>73</versioncode>
-			<apkname>com.knirirr.beecount_73.apk</apkname>
-			<srcname>com.knirirr.beecount_73_src.tar.gz</srcname>
-			<hash type="sha256">478d00a949523aff0141a0f9f3de67c91af5bcc0042a537ff0f5652e5786cdaa</hash>
-			<sig>4ecf07bf8dd364c231baa4ffb2c48f5e</sig>
-			<size>2981000</size>
-			<sdkver>14</sdkver>
-			<added>2014-06-22</added>
 			<permissions>WAKE_LOCK,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -10073,8 +10073,8 @@ time.
 		<web>http://cosydvr.esy.es</web>
 		<source>https://github.com/sergstetsuk/CosyDVR</source>
 		<tracker>https://github.com/sergstetsuk/CosyDVR/issues</tracker>
-		<marketversion>1.0</marketversion>
-		<marketvercode>1</marketvercode>
+		<marketversion>1.0.6</marketversion>
+		<marketvercode>3</marketvercode>
 		<package>
 			<version>1.0</version>
 			<versioncode>1</versioncode>
@@ -12896,8 +12896,8 @@ time.
 		<source>https://github.com/daneren2005/Subsonic</source>
 		<tracker>https://github.com/daneren2005/Subsonic/issues</tracker>
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=5GUMY7ZLZRNXS&amp;lc=US&amp;item_name=DSub&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted</donate>
-		<marketversion>4.7</marketversion>
-		<marketvercode>112</marketvercode>
+		<marketversion>4.7.1</marketversion>
+		<marketvercode>113</marketvercode>
 		<package>
 			<version>4.3.5</version>
 			<versioncode>80</versioncode>
@@ -16393,8 +16393,8 @@ time.
 		<web>http://geokrety.org</web>
 		<source>http://sourceforge.net/p/geokretylog/code</source>
 		<tracker>http://forum.opencaching.pl/viewtopic.php?f=6&amp;t=7789</tracker>
-		<marketversion>0.7.2 beta</marketversion>
-		<marketvercode>37</marketvercode>
+		<marketversion>0.7.3 beta</marketversion>
+		<marketvercode>38</marketvercode>
 		<package>
 			<version>0.7.2 beta</version>
 			<versioncode>37</versioncode>
@@ -26914,8 +26914,8 @@ time.
 		<web>http://www.navit-project.org</web>
 		<source>http://sourceforge.net/p/navit/code</source>
 		<tracker>http://trac.navit-project.org</tracker>
-		<marketversion>5795</marketversion>
-		<marketvercode>5795</marketvercode>
+		<marketversion>5798</marketversion>
+		<marketvercode>5798</marketvercode>
 		<package>
 			<version>navit 0.5.0-5720</version>
 			<versioncode>5720</versioncode>
@@ -30163,8 +30163,8 @@ time.
 		<web/>
 		<source>https://sourceforge.net/p/libwlocate/code</source>
 		<tracker>https://sourceforge.net/p/libwlocate</tracker>
-		<marketversion>1.12</marketversion>
-		<marketvercode>112</marketvercode>
+		<marketversion>1.10</marketversion>
+		<marketvercode>110</marketvercode>
 		<package>
 			<version>1.12</version>
 			<versioncode>112</versioncode>
@@ -30219,8 +30219,8 @@ time.
 		<web/>
 		<source>https://sourceforge.net/p/libwlocate/code</source>
 		<tracker>https://sourceforge.net/p/libwlocate</tracker>
-		<marketversion>1.12</marketversion>
-		<marketvercode>112</marketvercode>
+		<marketversion>1.10</marketversion>
+		<marketvercode>110</marketvercode>
 		<package>
 			<version>1.10</version>
 			<versioncode>110</versioncode>
@@ -32903,10 +32903,10 @@ time.
 	<application id="fr.simon.marquis.preferencesmanager">
 		<id>fr.simon.marquis.preferencesmanager</id>
 		<added>2013-12-11</added>
-		<lastupdated>2014-05-20</lastupdated>
+		<lastupdated>2014-06-26</lastupdated>
 		<name>Preferences Manager</name>
 		<summary>Edit app preferences</summary>
-		<icon>fr.simon.marquis.preferencesmanager.19.png</icon>
+		<icon>fr.simon.marquis.preferencesmanager.20.png</icon>
 		<desc>&lt;p&gt;Applications store their preferences in databases and if you have root this app will allow you to edit those.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>System</categories>
@@ -32917,6 +32917,19 @@ time.
 		<marketversion/>
 		<marketvercode>0</marketvercode>
 		<requirements>root</requirements>
+		<package>
+			<version>1.8.1</version>
+			<versioncode>20</versioncode>
+			<apkname>fr.simon.marquis.preferencesmanager_20.apk</apkname>
+			<srcname>fr.simon.marquis.preferencesmanager_20_src.tar.gz</srcname>
+			<hash type="sha256">cb23906c5ae771a8e641d3ba127392b6dda8e4d97aee1fd8582e2f3fe1c69f83</hash>
+			<sig>10ab2eb9e5e6d4b6171e70020417e874</sig>
+			<size>1401468</size>
+			<sdkver>14</sdkver>
+			<added>2014-06-26</added>
+			<permissions>ACCESS_SUPERUSER,com.android.launcher.permission.INSTALL_SHORTCUT</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.8.0</version>
 			<versioncode>19</versioncode>
@@ -32941,19 +32954,6 @@ time.
 			<sdkver>14</sdkver>
 			<added>2014-04-07</added>
 			<permissions>ACCESS_SUPERUSER,com.android.launcher.permission.INSTALL_SHORTCUT</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.5</version>
-			<versioncode>16</versioncode>
-			<apkname>fr.simon.marquis.preferencesmanager_16.apk</apkname>
-			<srcname>fr.simon.marquis.preferencesmanager_16_src.tar.gz</srcname>
-			<hash type="sha256">8a218761f17b58af7e4847d57063dbee85cae0ad2c1729fe95cf5ef80fdd3f02</hash>
-			<sig>10ab2eb9e5e6d4b6171e70020417e874</sig>
-			<size>1053213</size>
-			<sdkver>14</sdkver>
-			<added>2013-12-11</added>
-			<permissions>ACCESS_SUPERUSER</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -34149,8 +34149,8 @@ time.
 		<source>https://github.com/OEP/rainwave-android</source>
 		<tracker>https://github.com/OEP/rainwave-android/issues</tracker>
 		<donate>http://rainwave.cc/pages/tip_jar</donate>
-		<marketversion>1.1.2</marketversion>
-		<marketvercode>9</marketvercode>
+		<marketversion>1.1.3</marketversion>
+		<marketvercode>10</marketvercode>
 		<package>
 			<version>1.1.2</version>
 			<versioncode>9</versioncode>
@@ -35070,7 +35070,7 @@ time.
 		<license>GPLv3</license>
 		<categories>System</categories>
 		<category>System</category>
-		<web>http://ringydingydingy.dririan.com</web>
+		<web>http://ringydingydingy.com</web>
 		<source>https://github.com/dririan/ringydingydingy</source>
 		<tracker>https://github.com/dririan/ringydingydingy/issues</tracker>
 		<flattr>809447</flattr>
@@ -37832,8 +37832,8 @@ time.
 		<web/>
 		<source>https://github.com/yuriykulikov/AlarmClock</source>
 		<tracker>https://github.com/yuriykulikov/AlarmClock/issues</tracker>
-		<marketversion>2.5.09</marketversion>
-		<marketvercode>2509</marketvercode>
+		<marketversion>2.7.02</marketversion>
+		<marketvercode>2702</marketvercode>
 		<package>
 			<version>2.5.09</version>
 			<versioncode>2509</versioncode>
