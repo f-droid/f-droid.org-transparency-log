@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1403754518" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1403844483" url="http://f-droid.org/repo" version="12">
 		<description>
 The official FDroid repository. Applications in this repository are mostly built
 directory from the source code. Some are official binaries built by the original
@@ -1443,8 +1443,8 @@ time.
 		<web>http://akvo.org/products/rsr/akvo-rsr-up</web>
 		<source>https://github.com/akvo/akvo-rsr-up</source>
 		<tracker>https://github.com/akvo/akvo-rsr-up/issues</tracker>
-		<marketversion>1.3</marketversion>
-		<marketvercode>16</marketvercode>
+		<marketversion>1.2.4</marketversion>
+		<marketvercode>15</marketvercode>
 		<package>
 			<version>1.2.4</version>
 			<versioncode>15</versioncode>
@@ -10073,8 +10073,8 @@ time.
 		<web>http://cosydvr.esy.es</web>
 		<source>https://github.com/sergstetsuk/CosyDVR</source>
 		<tracker>https://github.com/sergstetsuk/CosyDVR/issues</tracker>
-		<marketversion>1.0.6</marketversion>
-		<marketvercode>3</marketvercode>
+		<marketversion>1.1</marketversion>
+		<marketvercode>5</marketvercode>
 		<package>
 			<version>1.0</version>
 			<versioncode>1</versioncode>
@@ -13573,8 +13573,8 @@ time.
 		<web/>
 		<source>https://github.com/jamienicol/episodes</source>
 		<tracker>https://github.com/jamienicol/episodes/issues</tracker>
-		<marketversion>0.5</marketversion>
-		<marketvercode>5</marketvercode>
+		<marketversion>0.6</marketversion>
+		<marketvercode>6</marketvercode>
 		<package>
 			<version>0.5</version>
 			<versioncode>5</versioncode>
@@ -16382,10 +16382,10 @@ time.
 	<application id="pl.nkg.geokrety">
 		<id>pl.nkg.geokrety</id>
 		<added>2014-01-09</added>
-		<lastupdated>2014-05-11</lastupdated>
+		<lastupdated>2014-06-27</lastupdated>
 		<name>GeoKrety Logger</name>
 		<summary>Geocaching client</summary>
-		<icon>pl.nkg.geokrety.37.png</icon>
+		<icon>pl.nkg.geokrety.38.png</icon>
 		<desc>&lt;p&gt;GeoKrety is a non-commercial GeoCaching game. People move registered objects (called GeoKrety) from cache to cache and register each move with the service. For more information please visit the website. You'll need account on the website to use the app.&lt;/p&gt;&lt;p&gt;How to log GeoKret's movement:&lt;/p&gt;&lt;ol&gt;&lt;li&gt; Click the button &quot;Log GeoKret&quot; on the main screen.&lt;/li&gt;&lt;li&gt; Select the type of the log. Make sure that in the &quot;Identify GeoKret&quot; is your login.&lt;/li&gt;&lt;li&gt; If you had met or grabbed the GeoKret, fill in it's tracking code. If you drop the GeoKret, you can click &quot;Inventory&quot; and choose Tracking Code from the list of GeoKrets in your inventory.&lt;/li&gt;&lt;li&gt; If you had dropped or met GeoKret, you have to fill in the Waypoint. If you had logged to the cache before, click the button &quot;OC Log&quot; and select waypoint from the list (the date and time will be pasted too).&lt;/li&gt;&lt;li&gt; Set date and time, enter some comments and click &quot;Go!&quot;.&lt;/li&gt;&lt;/ol&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Navigation</categories>
@@ -16395,6 +16395,18 @@ time.
 		<tracker>http://forum.opencaching.pl/viewtopic.php?f=6&amp;t=7789</tracker>
 		<marketversion>0.7.3 beta</marketversion>
 		<marketvercode>38</marketvercode>
+		<package>
+			<version>0.7.3 beta</version>
+			<versioncode>38</versioncode>
+			<apkname>pl.nkg.geokrety_38.apk</apkname>
+			<srcname>pl.nkg.geokrety_38_src.tar.gz</srcname>
+			<hash type="sha256">221e05d835d7adace833bc933fe8b8caa8f8dbcd60fb20e7a548fe901baf2a08</hash>
+			<sig>689202eb4ee6323a8dad4aae05d053f7</sig>
+			<size>582777</size>
+			<sdkver>5</sdkver>
+			<added>2014-06-27</added>
+			<permissions>INTERNET,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED</permissions>
+		</package>
 		<package>
 			<version>0.7.2 beta</version>
 			<versioncode>37</versioncode>
@@ -16417,18 +16429,6 @@ time.
 			<size>581067</size>
 			<sdkver>5</sdkver>
 			<added>2014-03-15</added>
-			<permissions>INTERNET,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED</permissions>
-		</package>
-		<package>
-			<version>0.6.99.1 beta</version>
-			<versioncode>29</versioncode>
-			<apkname>pl.nkg.geokrety_29.apk</apkname>
-			<srcname>pl.nkg.geokrety_29_src.tar.gz</srcname>
-			<hash type="sha256">e54378569bb78565ecc7c8ee42a52ac28766929fb58a381a83f8c00ddf342189</hash>
-			<sig>689202eb4ee6323a8dad4aae05d053f7</sig>
-			<size>572057</size>
-			<sdkver>5</sdkver>
-			<added>2014-02-18</added>
 			<permissions>INTERNET,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED</permissions>
 		</package>
 	</application>
@@ -29531,10 +29531,10 @@ time.
 	<application id="app.openconnect">
 		<id>app.openconnect</id>
 		<added>2014-01-07</added>
-		<lastupdated>2014-04-29</lastupdated>
+		<lastupdated>2014-06-27</lastupdated>
 		<name>OpenConnect</name>
 		<summary>SSL VPN client for Cisco AnyConnect</summary>
-		<icon>app.openconnect.909.png</icon>
+		<icon>app.openconnect.959.png</icon>
 		<desc>&lt;p&gt;OpenConnect for Android is an SSL VPN client used with Cisco AnyConnect or ocserv based gateways.&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; One-click connection (batch mode)&lt;/li&gt;&lt;li&gt; Supports RSA SecurID and TOTP software tokens&lt;/li&gt;&lt;li&gt; Keepalive feature to prevent unnecessary disconnections&lt;/li&gt;&lt;li&gt; Compatible with ARMv7, x86, and MIPS devices&lt;/li&gt;&lt;li&gt; No root required&lt;/li&gt;&lt;li&gt; Based on the popular &lt;a href=&quot;http://www.infradead.org/openconnect/&quot;&gt;OpenConnect Linux package&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Requirements:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Android 4.0 (ICS) or higher&lt;/li&gt;&lt;li&gt; An account on a suitable VPN server&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/).&lt;/p&gt;&lt;p&gt;This product includes cryptographic software written by Eric Young (eay@cryptsoft.com).&lt;/p&gt;</desc>
 		<license>GPLv2+</license>
 		<categories>Internet</categories>
@@ -29544,6 +29544,20 @@ time.
 		<tracker>https://github.com/cernekee/ics-openconnect/issues</tracker>
 		<marketversion>0.95</marketversion>
 		<marketvercode>959</marketvercode>
+		<package>
+			<version>0.95</version>
+			<versioncode>959</versioncode>
+			<apkname>app.openconnect_959.apk</apkname>
+			<srcname>app.openconnect_959_src.tar.gz</srcname>
+			<hash type="sha256">d51334433ae0995c7d81bc04023f3b81dbb2a4371568919d4130dc7cc327ebb8</hash>
+			<sig>b472df44c454cf1931a16bd5ab740f30</sig>
+			<size>5414199</size>
+			<sdkver>14</sdkver>
+			<added>2014-06-27</added>
+			<permissions>INTERNET,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,READ_EXTERNAL_STORAGE,WAKE_LOCK</permissions>
+			<nativecode>armeabi,mips,x86</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.9</version>
 			<versioncode>909</versioncode>
@@ -29568,20 +29582,6 @@ time.
 			<size>5780562</size>
 			<sdkver>14</sdkver>
 			<added>2014-04-13</added>
-			<permissions>INTERNET,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,READ_EXTERNAL_STORAGE,WAKE_LOCK</permissions>
-			<nativecode>armeabi,mips,x86</nativecode>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.6</version>
-			<versioncode>600</versioncode>
-			<apkname>app.openconnect_600.apk</apkname>
-			<srcname>app.openconnect_600_src.tar.gz</srcname>
-			<hash type="sha256">2f2099a0eec3c88e7fde922788a9b9240988bfe14581620fa1bc7550d21d35fc</hash>
-			<sig>b472df44c454cf1931a16bd5ab740f30</sig>
-			<size>6157355</size>
-			<sdkver>14</sdkver>
-			<added>2014-02-18</added>
 			<permissions>INTERNET,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,READ_EXTERNAL_STORAGE,WAKE_LOCK</permissions>
 			<nativecode>armeabi,mips,x86</nativecode>
 			<features>android.hardware.touchscreen</features>
@@ -44006,8 +44006,8 @@ time.
 		<web>http://blog.andrewpearson.org/2010/11/vibe-vault.html</web>
 		<source>https://code.google.com/p/vibevault/source/checkout</source>
 		<tracker>https://code.google.com/p/vibevault/issues/list</tracker>
-		<marketversion/>
-		<marketvercode>0</marketvercode>
+		<marketversion>4.1</marketversion>
+		<marketvercode>35</marketvercode>
 		<package>
 			<version>4.1</version>
 			<versioncode>35</versioncode>
@@ -45273,10 +45273,10 @@ time.
 	<application id="ru.glesik.wifireminders">
 		<id>ru.glesik.wifireminders</id>
 		<added>2014-06-15</added>
-		<lastupdated>2014-06-15</lastupdated>
+		<lastupdated>2014-06-27</lastupdated>
 		<name>Wi-Fi Reminders</name>
 		<summary>Wi-Fi based reminders</summary>
-		<icon>ru.glesik.wifireminders.110.png</icon>
+		<icon>ru.glesik.wifireminders.111.png</icon>
 		<desc>&lt;p&gt;Shows custom notifications when specified wireless networks are in range. You can set arbitrary reminders for any stored wireless network. As soon as your device is active (e. g. the screen is on) and the network is visible, the reminder will be displayed as standard notification with sound, vibration and blinking indicator.&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Office</categories>
@@ -45286,8 +45286,21 @@ time.
 		<tracker>https://github.com/glesik/wifireminders/issues</tracker>
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=8RNEWF8QHQHTN</donate>
 		<bitcoin>15bSZLRTF3nH9uLrsqW2xm5UMdcd3eqF1e</bitcoin>
-		<marketversion>1.1.0</marketversion>
-		<marketvercode>110</marketvercode>
+		<marketversion>1.1.1</marketversion>
+		<marketvercode>111</marketvercode>
+		<package>
+			<version>1.1.1</version>
+			<versioncode>111</versioncode>
+			<apkname>ru.glesik.wifireminders_111.apk</apkname>
+			<srcname>ru.glesik.wifireminders_111_src.tar.gz</srcname>
+			<hash type="sha256">88c045799d01e834ca2b04546eaef0d07933d9fe9d196e7a6a14fa55903ead16</hash>
+			<sig>5095cfb63de1e7c9e9a44f51762cfbb5</sig>
+			<size>216745</size>
+			<sdkver>8</sdkver>
+			<added>2014-06-27</added>
+			<permissions>ACCESS_WIFI_STATE,VIBRATE,CHANGE_WIFI_STATE,RECEIVE_BOOT_COMPLETED</permissions>
+			<features>android.hardware.wifi,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.1.0</version>
 			<versioncode>110</versioncode>
