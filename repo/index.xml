@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1403844483" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1403928973" url="http://f-droid.org/repo" version="12">
 		<description>
 The official FDroid repository. Applications in this repository are mostly built
 directory from the source code. Some are official binaries built by the original
@@ -8688,6 +8688,35 @@ time.
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="org.hekmatof.chesswatch">
+		<id>org.hekmatof.chesswatch</id>
+		<added>2014-06-28</added>
+		<lastupdated>2014-06-28</lastupdated>
+		<name>ChessWatch</name>
+		<summary>Simple chess clock</summary>
+		<icon>org.hekmatof.chesswatch.1.png</icon>
+		<desc>&lt;p&gt;Simple chess clock&lt;/p&gt;</desc>
+		<license>GPLv2</license>
+		<categories>Games,Office</categories>
+		<category>Games</category>
+		<web>https://github.com/esahekmat/ChessWatch</web>
+		<source>https://github.com/esahekmat/ChessWatch</source>
+		<tracker>https://github.com/esahekmat/ChessWatch/issues</tracker>
+		<marketversion>1.0</marketversion>
+		<marketvercode>1</marketvercode>
+		<package>
+			<version>1.0</version>
+			<versioncode>1</versioncode>
+			<apkname>org.hekmatof.chesswatch_1.apk</apkname>
+			<srcname>org.hekmatof.chesswatch_1_src.tar.gz</srcname>
+			<hash type="sha256">1d1c158f56283c56d68555d67532571246c1115b583225d1df0e76233acd1bdb</hash>
+			<sig>5ed0ba4c160c6b16b5b8ab7d3784a343</sig>
+			<size>690564</size>
+			<sdkver>8</sdkver>
+			<added>2014-06-28</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="org.scoutant.cc">
 		<id>org.scoutant.cc</id>
 		<added>2013-01-25</added>
@@ -9464,7 +9493,7 @@ time.
 		<source>https://code.google.com/p/android-comicsreader/source</source>
 		<tracker>https://code.google.com/p/android-comicsreader/issues</tracker>
 		<marketversion>2.0</marketversion>
-		<marketvercode>19</marketvercode>
+		<marketvercode>20</marketvercode>
 		<package>
 			<version>1.2</version>
 			<versioncode>18</versioncode>
@@ -10062,10 +10091,10 @@ time.
 	<application id="com.example.CosyDVR">
 		<id>com.example.CosyDVR</id>
 		<added>2014-06-06</added>
-		<lastupdated>2014-06-06</lastupdated>
+		<lastupdated>2014-06-28</lastupdated>
 		<name>CosyDVR</name>
 		<summary>Video recording (DVR) software for in-car use</summary>
-		<icon>com.example.CosyDVR.1.png</icon>
+		<icon>com.example.CosyDVR.5.png</icon>
 		<desc>&lt;p&gt;DVR software kit designed for in-car use:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Works in background as a service&lt;/li&gt;&lt;li&gt; Works even when the keyboard is locked&lt;/li&gt;&lt;li&gt; Autostart recording after program launch&lt;/li&gt;&lt;li&gt; Autoremove old files&lt;/li&gt;&lt;li&gt; FLASH button for night recordings (if device supports)&lt;/li&gt;&lt;li&gt; GPS data is recorded into subtitle files *.srt&lt;/li&gt;&lt;li&gt; Separate *.gpx file for upload to the OpenStreetMap.org&lt;/li&gt;&lt;li&gt; GPS data is shown on the screen&lt;/li&gt;&lt;li&gt; Night mode for better video under low light condition&lt;/li&gt;&lt;li&gt; Different focus modes (infinity, auto, continuous video, macro)&lt;/li&gt;&lt;li&gt; Zoooming in/out with gestures&lt;/li&gt;&lt;li&gt; Refocus on screen tap&lt;/li&gt;&lt;li&gt; Exit function is protected with long click to avoid accedental click&lt;/li&gt;&lt;li&gt; Configurable options (video size, bitrate, maxtemp and minfree space, fragment time etc.)&lt;/li&gt;&lt;li&gt; Notification area clickable icon for bringing app to front&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;This software might not work with all devices.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Multimedia</categories>
@@ -10075,6 +10104,19 @@ time.
 		<tracker>https://github.com/sergstetsuk/CosyDVR/issues</tracker>
 		<marketversion>1.1</marketversion>
 		<marketvercode>5</marketvercode>
+		<package>
+			<version>1.1</version>
+			<versioncode>5</versioncode>
+			<apkname>com.example.CosyDVR_5.apk</apkname>
+			<srcname>com.example.CosyDVR_5_src.tar.gz</srcname>
+			<hash type="sha256">676b3e263bcbb9b226bcae3b1ce7456b48d5794bc15bda21c9db9e24fe18b505</hash>
+			<sig>fa78754ca50064a13dbffab4d1b0bee5</sig>
+			<size>327149</size>
+			<sdkver>11</sdkver>
+			<added>2014-06-28</added>
+			<permissions>CAMERA,RECORD_AUDIO,SYSTEM_ALERT_WINDOW,WRITE_EXTERNAL_STORAGE,MODIFY_AUDIO_SETTINGS,WAKE_LOCK,ACCESS_FINE_LOCATION,INTERNET,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.camera,android.hardware.camera.autofocus,android.hardware.location,android.hardware.location.gps,android.hardware.microphone,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.0</version>
 			<versioncode>1</versioncode>
@@ -12897,7 +12939,7 @@ time.
 		<tracker>https://github.com/daneren2005/Subsonic/issues</tracker>
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=5GUMY7ZLZRNXS&amp;lc=US&amp;item_name=DSub&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted</donate>
 		<marketversion>4.7.1</marketversion>
-		<marketvercode>113</marketvercode>
+		<marketvercode>114</marketvercode>
 		<package>
 			<version>4.3.5</version>
 			<versioncode>80</versioncode>
@@ -13562,10 +13604,10 @@ time.
 	<application id="org.jamienicol.episodes">
 		<id>org.jamienicol.episodes</id>
 		<added>2013-06-15</added>
-		<lastupdated>2014-06-08</lastupdated>
+		<lastupdated>2014-06-28</lastupdated>
 		<name>Episodes</name>
 		<summary>Track TV shows you have seen</summary>
-		<icon>org.jamienicol.episodes.5.png</icon>
+		<icon>org.jamienicol.episodes.6.png</icon>
 		<desc>&lt;p&gt;Keep track of which episodes you've watched of your favourite TV shows. The data is sourced from &lt;a href=&quot;http://thetvdb.com&quot;&gt;TheTVDB.com&lt;/a&gt;, the content of which is licensed under CC-BY.&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Multimedia</categories>
@@ -13575,6 +13617,19 @@ time.
 		<tracker>https://github.com/jamienicol/episodes/issues</tracker>
 		<marketversion>0.6</marketversion>
 		<marketvercode>6</marketvercode>
+		<package>
+			<version>0.6</version>
+			<versioncode>6</versioncode>
+			<apkname>org.jamienicol.episodes_6.apk</apkname>
+			<srcname>org.jamienicol.episodes_6_src.tar.gz</srcname>
+			<hash type="sha256">1643bbf614336fb8a92651d6805bb9492fd9445f9c08a903d7b70a748451d40d</hash>
+			<sig>2e06f5c529a9d21399abc65be7559e9f</sig>
+			<size>708538</size>
+			<sdkver>8</sdkver>
+			<added>2014-06-28</added>
+			<permissions>INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.5</version>
 			<versioncode>5</versioncode>
@@ -13598,19 +13653,6 @@ time.
 			<size>695448</size>
 			<sdkver>8</sdkver>
 			<added>2013-11-10</added>
-			<permissions>INTERNET</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.3</version>
-			<versioncode>3</versioncode>
-			<apkname>org.jamienicol.episodes_3.apk</apkname>
-			<srcname>org.jamienicol.episodes_3_src.tar.gz</srcname>
-			<hash type="sha256">0507c47db7d740cfaf31f1998506fb946ffcac0c5c750bb3b6b3f4add0fccd2c</hash>
-			<sig>2e06f5c529a9d21399abc65be7559e9f</sig>
-			<size>757839</size>
-			<sdkver>8</sdkver>
-			<added>2013-06-27</added>
 			<permissions>INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -14080,10 +14122,10 @@ time.
 	<application id="org.fdroid.fdroid">
 		<id>org.fdroid.fdroid</id>
 		<added>2011-01-17</added>
-		<lastupdated>2014-06-02</lastupdated>
+		<lastupdated>2014-06-28</lastupdated>
 		<name>F-Droid</name>
 		<summary>Application manager</summary>
-		<icon>org.fdroid.fdroid.690.png</icon>
+		<icon>org.fdroid.fdroid.700.png</icon>
 		<desc>&lt;p&gt;Connects to F-Droid compatible repositories. The default repo is hosted at f-droid.org, which contains only bona fide FOSS.&lt;/p&gt;&lt;p&gt;Android is open in the sense that you are free to install apks from anywhere you wish, but there are many good reasons for using a client/repository setup:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Be notified when updates are available&lt;/li&gt;&lt;li&gt; Keep track of older and beta versions&lt;/li&gt;&lt;li&gt; Filter apps that aren't compatible with the device&lt;/li&gt;&lt;li&gt; Find apps via categories and searchable descriptions&lt;/li&gt;&lt;li&gt; Access associated urls for donations, source code etc.&lt;/li&gt;&lt;li&gt; Stay safe by checking repo index signatures and apk hashes&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;http://f-droid.org/posts/category/changelog&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>System</categories>
@@ -14096,6 +14138,18 @@ time.
 		<flattr>343053</flattr>
 		<marketversion>0.66</marketversion>
 		<marketvercode>660</marketvercode>
+		<package>
+			<version>0.70-test</version>
+			<versioncode>700</versioncode>
+			<apkname>org.fdroid.fdroid_700.apk</apkname>
+			<srcname>org.fdroid.fdroid_700_src.tar.gz</srcname>
+			<hash type="sha256">cceab1b221190e2e576ec1a09f1d612658abe8c830141cfe52041aebc37565f6</hash>
+			<sig>9063aaadfff9cfd811a9c72fb5012f28</sig>
+			<size>1598528</size>
+			<sdkver>7</sdkver>
+			<added>2014-06-28</added>
+			<permissions>INTERNET,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,CHANGE_WIFI_STATE,BLUETOOTH,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,NFC,INSTALL_PACKAGES,DELETE_PACKAGES,ACCESS_SUPERUSER,READ_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>0.69-test</version>
 			<versioncode>690</versioncode>
@@ -14154,18 +14208,6 @@ time.
 			<size>737734</size>
 			<sdkver>5</sdkver>
 			<added>2014-04-29</added>
-			<permissions>INTERNET,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,NFC,READ_EXTERNAL_STORAGE</permissions>
-		</package>
-		<package>
-			<version>0.64-test</version>
-			<versioncode>640</versioncode>
-			<apkname>org.fdroid.fdroid_640.apk</apkname>
-			<srcname>org.fdroid.fdroid_640_src.tar.gz</srcname>
-			<hash type="sha256">4383e856f7bec6c09916f26d425354164e7bbe0f4f412ba14d697c559db3bdac</hash>
-			<sig>9063aaadfff9cfd811a9c72fb5012f28</sig>
-			<size>736682</size>
-			<sdkver>5</sdkver>
-			<added>2014-04-22</added>
 			<permissions>INTERNET,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,NFC,READ_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
@@ -20464,10 +20506,10 @@ time.
 	<application id="com.fsck.k9">
 		<id>com.fsck.k9</id>
 		<added>2013-09-12</added>
-		<lastupdated>2014-01-29</lastupdated>
+		<lastupdated>2014-06-28</lastupdated>
 		<name>K-9 Mail</name>
 		<summary>Full-featured email client</summary>
-		<icon>com.fsck.k9.20004.png</icon>
+		<icon>com.fsck.k9.20005.png</icon>
 		<desc>&lt;p&gt;E-mail client supporting multiple accounts, POP3, IMAP and Push IMAP. Can do encryption if &lt;a href=&quot;fdroid.app:org.thialfihar.android.apg&quot;&gt;APG&lt;/a&gt; is installed. Settings and account configurations can be exported so that they can be imported easily if you are switching packages/signatures: a file manager will need to be already installed to achieve this.&lt;/p&gt;&lt;p&gt;Note that there appears to be a bug in 4.802 which causes messages to not be displayed properly if using the Dark theme. If you have problems with not seeing message content, try switching to the Light theme.&lt;/p&gt;&lt;p&gt;If you would like to contribute financially to k9mail, consider donating to the local SPCA (Societies for the prevention of cruelty to animals).&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/k9mail/k-9/wiki/ReleaseNotes&quot;&gt;Major version notes&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>Internet</categories>
@@ -20478,6 +20520,18 @@ time.
 		<marketversion>4.804</marketversion>
 		<marketvercode>20005</marketvercode>
 		<provides>org.fdroid.k9</provides>
+		<package>
+			<version>4.804</version>
+			<versioncode>20005</versioncode>
+			<apkname>com.fsck.k9_20005.apk</apkname>
+			<srcname>com.fsck.k9_20005_src.tar.gz</srcname>
+			<hash type="sha256">96ae25f764ae7bbf70fce12299570abd25bbbf91d0cd16c5b1df67f3ef9e4e14</hash>
+			<sig>4cc8dc4af011320a78e2cae3b5a1fc31</sig>
+			<size>3436827</size>
+			<sdkver>8</sdkver>
+			<added>2014-06-28</added>
+			<permissions>RECEIVE_BOOT_COMPLETED,READ_CONTACTS,READ_SYNC_SETTINGS,WRITE_CONTACTS,ACCESS_NETWORK_STATE,INTERNET,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,org.thialfihar.android.apg.permission.READ_KEY_DETAILS,com.fsck.k9.permission.READ_ATTACHMENT,com.fsck.k9.permission.REMOTE_CONTROL,com.fsck.k9.permission.READ_MESSAGES,com.fsck.k9.permission.DELETE_MESSAGES,READ_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>4.803</version>
 			<versioncode>20004</versioncode>
@@ -20501,18 +20555,6 @@ time.
 			<sdkver>8</sdkver>
 			<added>2014-01-24</added>
 			<permissions>RECEIVE_BOOT_COMPLETED,READ_CONTACTS,READ_SYNC_SETTINGS,WRITE_CONTACTS,ACCESS_NETWORK_STATE,INTERNET,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,org.thialfihar.android.apg.permission.READ_KEY_DETAILS,com.fsck.k9.permission.READ_ATTACHMENT,com.fsck.k9.permission.REMOTE_CONTROL,com.fsck.k9.permission.READ_MESSAGES,com.fsck.k9.permission.DELETE_MESSAGES,READ_EXTERNAL_STORAGE</permissions>
-		</package>
-		<package>
-			<version>4.409</version>
-			<versioncode>17046</versioncode>
-			<apkname>com.fsck.k9_17046.apk</apkname>
-			<srcname>com.fsck.k9_17046_src.tar.gz</srcname>
-			<hash type="sha256">5d92133496d528113eb8fee68cc2c109a042bab3fb355a12afdd22af2cf325ae</hash>
-			<sig>4cc8dc4af011320a78e2cae3b5a1fc31</sig>
-			<size>3276275</size>
-			<sdkver>8</sdkver>
-			<added>2013-09-12</added>
-			<permissions>RECEIVE_BOOT_COMPLETED,READ_CONTACTS,READ_SYNC_SETTINGS,WRITE_CONTACTS,ACCESS_NETWORK_STATE,INTERNET,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,org.thialfihar.android.apg.permission.READ_KEY_DETAILS,com.fsck.k9.permission.READ_ATTACHMENT,com.fsck.k9.permission.REMOTE_CONTROL,com.fsck.k9.permission.READ_MESSAGES,com.fsck.k9.permission.DELETE_MESSAGES,READ_EXTERNAL_STORAGE,READ_CALL_LOG,WRITE_CALL_LOG</permissions>
 		</package>
 	</application>
 	<application id="de.cketti.dashclock.k9">
@@ -20666,10 +20708,10 @@ time.
 	<application id="org.kde.kdeconnect_tp">
 		<id>org.kde.kdeconnect_tp</id>
 		<added>2013-10-27</added>
-		<lastupdated>2014-05-14</lastupdated>
+		<lastupdated>2014-06-28</lastupdated>
 		<name>KDE Connect</name>
 		<summary>KDE Integration</summary>
-		<icon>org.kde.kdeconnect_tp.20.png</icon>
+		<icon>org.kde.kdeconnect_tp.70.png</icon>
 		<desc>&lt;p&gt;Integrate the KDE desktop environment with your phone.&lt;/p&gt;&lt;p&gt;Current feature list:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Share files and URLs to KDE from any app&lt;/li&gt;&lt;li&gt; Clipboard share: copy from or to your desktop&lt;/li&gt;&lt;li&gt; Notifications sync (4.3+): Read your Android notifications from KDE&lt;/li&gt;&lt;li&gt; Multimedia remote control: Use your phone as a remote control&lt;/li&gt;&lt;li&gt; WiFi connection: no usb wire or bluetooth needed&lt;/li&gt;&lt;li&gt; RSA Encryption: your information is safe&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv2</license>
 		<categories>System</categories>
@@ -20677,8 +20719,21 @@ time.
 		<web>http://albertvaka.wordpress.com</web>
 		<source>http://quickgit.kde.org/?p=kdeconnect-android.git</source>
 		<tracker>https://bugs.kde.org</tracker>
-		<marketversion>0.6.4</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>0.7</marketversion>
+		<marketvercode>70</marketvercode>
+		<package>
+			<version>0.7</version>
+			<versioncode>70</versioncode>
+			<apkname>org.kde.kdeconnect_tp_70.apk</apkname>
+			<srcname>org.kde.kdeconnect_tp_70_src.tar.gz</srcname>
+			<hash type="sha256">cb1057125bfb780751ae3fe03f736c178908e5158f599e06b7d40838f9f6f88b</hash>
+			<sig>e74311e3969ca6305b314564aece020d</sig>
+			<size>1912633</size>
+			<sdkver>9</sdkver>
+			<added>2014-06-28</added>
+			<permissions>RECEIVE_BOOT_COMPLETED,INTERNET,ACCESS_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,READ_PHONE_STATE,BATTERY_STATS,RECEIVE_SMS,READ_CONTACTS,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.wifi,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.6.4</version>
 			<versioncode>20</versioncode>
@@ -20702,19 +20757,6 @@ time.
 			<size>1896862</size>
 			<sdkver>9</sdkver>
 			<added>2014-04-01</added>
-			<permissions>RECEIVE_BOOT_COMPLETED,INTERNET,ACCESS_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,READ_PHONE_STATE,BATTERY_STATS,RECEIVE_SMS,READ_CONTACTS,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.wifi,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.6</version>
-			<versioncode>14</versioncode>
-			<apkname>org.kde.kdeconnect_tp_14.apk</apkname>
-			<srcname>org.kde.kdeconnect_tp_14_src.tar.gz</srcname>
-			<hash type="sha256">cf4b812f8686e06586d04c826c49e17620d1bb185c7d142e8050236598fa8f7e</hash>
-			<sig>e74311e3969ca6305b314564aece020d</sig>
-			<size>1784489</size>
-			<sdkver>9</sdkver>
-			<added>2014-03-03</added>
 			<permissions>RECEIVE_BOOT_COMPLETED,INTERNET,ACCESS_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,READ_PHONE_STATE,BATTERY_STATS,RECEIVE_SMS,READ_CONTACTS,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.wifi,android.hardware.touchscreen</features>
 		</package>
@@ -33591,6 +33633,36 @@ time.
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="com.iskrembilen.quasseldroid">
+		<id>com.iskrembilen.quasseldroid</id>
+		<added>2014-06-28</added>
+		<lastupdated>2014-06-28</lastupdated>
+		<name>Quasseldroid</name>
+		<summary>Client for Quassel IRC</summary>
+		<icon>com.iskrembilen.quasseldroid.84.png</icon>
+		<desc>&lt;p&gt;Quassel is a distributed, decentralized IRC client. This app is a pure Java client for the Quassel core.&lt;/p&gt;&lt;p&gt;A proprietary library has been stripped from the build.&lt;/p&gt;</desc>
+		<license>GPLv3</license>
+		<categories>Internet</categories>
+		<category>Internet</category>
+		<web>http://quasseldroid.iskrembilen.com/</web>
+		<source>https://github.com/sandsmark/QuasselDroid</source>
+		<tracker>https://github.com/sandsmark/QuasselDroid/issues</tracker>
+		<marketversion>0.9.8</marketversion>
+		<marketvercode>84</marketvercode>
+		<package>
+			<version>0.9.8</version>
+			<versioncode>84</versioncode>
+			<apkname>com.iskrembilen.quasseldroid_84.apk</apkname>
+			<srcname>com.iskrembilen.quasseldroid_84_src.tar.gz</srcname>
+			<hash type="sha256">24cac44656fd5390eb1a28e2ec48c4ba08de3ac3cb2a4a691247d55d6bd414b3</hash>
+			<sig>564089d4cfed3710eb007c63cb13116e</sig>
+			<size>1066141</size>
+			<sdkver>7</sdkver>
+			<added>2014-06-28</added>
+			<permissions>VIBRATE,INTERNET,ACCESS_NETWORK_STATE,WAKE_LOCK</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="com.qsp.player">
 		<id>com.qsp.player</id>
 		<added>2013-10-08</added>
@@ -43891,8 +43963,8 @@ time.
 		<web>https://code.google.com/p/osmeditor4android</web>
 		<source>https://code.google.com/p/osmeditor4android/source</source>
 		<tracker>https://code.google.com/p/osmeditor4android/issues</tracker>
-		<marketversion>0.9.4r770</marketversion>
-		<marketvercode>30</marketvercode>
+		<marketversion>0.9.4r781</marketversion>
+		<marketvercode>31</marketvercode>
 		<package>
 			<version>0.9.4r770</version>
 			<versioncode>30</versioncode>
@@ -44801,10 +44873,10 @@ time.
 	<application id="de.geeksfactory.opacclient">
 		<id>de.geeksfactory.opacclient</id>
 		<added>2013-09-20</added>
-		<lastupdated>2014-06-15</lastupdated>
+		<lastupdated>2014-06-28</lastupdated>
 		<name>Web Opac</name>
 		<summary>German public libraries</summary>
-		<icon>de.geeksfactory.opacclient.81.png</icon>
+		<icon>de.geeksfactory.opacclient.82.png</icon>
 		<desc>&lt;p&gt;Client for some German, Austrian and Swiss public libraries that offer online catalogues.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Reading</categories>
@@ -44814,6 +44886,19 @@ time.
 		<tracker>https://github.com/raphaelm/opacclient/issues</tracker>
 		<marketversion>3.0.8</marketversion>
 		<marketvercode>82</marketvercode>
+		<package>
+			<version>3.0.8</version>
+			<versioncode>82</versioncode>
+			<apkname>de.geeksfactory.opacclient_82.apk</apkname>
+			<srcname>de.geeksfactory.opacclient_82_src.tar.gz</srcname>
+			<hash type="sha256">873a0ecac7405b3539e2170d921c639287d4914d648c20548d88bfb81c2ca863</hash>
+			<sig>61b964e1a0403870ded3276877c11a18</sig>
+			<size>4493620</size>
+			<sdkver>8</sdkver>
+			<added>2014-06-28</added>
+			<permissions>INTERNET,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,ACCESS_COARSE_LOCATION,NFC</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>3.0.7</version>
 			<versioncode>81</versioncode>
@@ -44837,19 +44922,6 @@ time.
 			<size>4099491</size>
 			<sdkver>8</sdkver>
 			<added>2014-05-14</added>
-			<permissions>INTERNET,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,ACCESS_COARSE_LOCATION,NFC</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>3.0.4</version>
-			<versioncode>77</versioncode>
-			<apkname>de.geeksfactory.opacclient_77.apk</apkname>
-			<srcname>de.geeksfactory.opacclient_77_src.tar.gz</srcname>
-			<hash type="sha256">fc488757d53643cf4c623b1aa1c75aed90b217af4f2ff6e735864e3ca23de1a9</hash>
-			<sig>61b964e1a0403870ded3276877c11a18</sig>
-			<size>4095173</size>
-			<sdkver>8</sdkver>
-			<added>2014-05-09</added>
 			<permissions>INTERNET,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,ACCESS_COARSE_LOCATION,NFC</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
