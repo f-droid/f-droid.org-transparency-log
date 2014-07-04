@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1404226169" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1404416926" url="http://f-droid.org/repo" version="12">
 		<description>
 The official FDroid repository. Applications in this repository are mostly built
 directory from the source code. Some are official binaries built by the original
@@ -17457,6 +17457,37 @@ time.
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="it.greenaddress.cordova">
+		<id>it.greenaddress.cordova</id>
+		<added>2014-07-03</added>
+		<lastupdated>2014-07-03</lastupdated>
+		<name>GreenAddress.It</name>
+		<summary>GreenAddress client</summary>
+		<icon>it.greenaddress.cordova.35.png</icon>
+		<desc>&lt;p&gt;Wallet that uses multisig to improve security (adding 2 factor for instance or limits) and Hierarchical Deterministic addresses (see &lt;a href=&quot;https://en.bitcoin.it/wiki/BIP_0032&quot;&gt;BIP32&lt;/a&gt;).&lt;/p&gt;&lt;p&gt;It offers the advantages of a web wallet:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Ubiquitously available&lt;/li&gt;&lt;li&gt; Social/email/sms integration&lt;/li&gt;&lt;li&gt; Two factor authentication&lt;/li&gt;&lt;li&gt; Transactions limits/restrictions&lt;/li&gt;&lt;li&gt; Greenaddress instant transaction&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;and the advantages of a local software wallet like Electrum:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Mnemonic seed backup once and forget&lt;/li&gt;&lt;li&gt; Your private keys are never on the server, not even encrypted&lt;/li&gt;&lt;li&gt; No long wait to synchronize the full client with the Bitcoin blockchain&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;See &lt;a href=&quot;https://greenaddress.it&quot;&gt;their website&lt;/a&gt; and &lt;a href=&quot;https://greenaddress.it/faq&quot;&gt;their FAQ&lt;/a&gt; for more information.&lt;/p&gt;&lt;p&gt;Supports NFC for login and QR code scanning for login and transactions.&lt;/p&gt;</desc>
+		<license>LGPLv2.1</license>
+		<categories>Internet</categories>
+		<category>Internet</category>
+		<web>https://greenaddress.it</web>
+		<source>https://github.com/greenaddress/WalletCordova</source>
+		<tracker>https://github.com/greenaddress/WalletCordova/issues</tracker>
+		<marketversion>0.0.35</marketversion>
+		<marketvercode>35</marketvercode>
+		<package>
+			<version>0.0.35</version>
+			<versioncode>35</versioncode>
+			<apkname>it.greenaddress.cordova_35.apk</apkname>
+			<srcname>it.greenaddress.cordova_35_src.tar.gz</srcname>
+			<hash type="sha256">091bd4e22d1438d5b7ed37643a1f101103b06e38eef1a2f3470b36a71c186770</hash>
+			<sig>075a316ba48b906938a3d5b5227c7eb8</sig>
+			<size>6581291</size>
+			<sdkver>14</sdkver>
+			<added>2014-07-03</added>
+			<permissions>INTERNET,NFC,ACCESS_NETWORK_STATE,GET_ACCOUNTS,WAKE_LOCK,VIBRATE,com.google.android.c2dm.permission.RECEIVE,it.greenaddress.cordova.permission.C2D_MESSAGE,READ_PHONE_STATE,CAMERA,FLASHLIGHT</permissions>
+			<nativecode>armeabi</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="org.gfd.gsmlocation">
 		<id>org.gfd.gsmlocation</id>
 		<added>2014-03-22</added>
@@ -17759,10 +17790,10 @@ time.
 	<application id="org.durka.hallmonitor">
 		<id>org.durka.hallmonitor</id>
 		<added>2013-12-23</added>
-		<lastupdated>2014-04-26</lastupdated>
+		<lastupdated>2014-07-03</lastupdated>
 		<name>Hall Monitor</name>
 		<summary>Galaxy S4 cover</summary>
-		<icon>org.durka.hallmonitor.8.png</icon>
+		<icon>org.durka.hallmonitor.16.png</icon>
 		<desc>&lt;p&gt;This app reimplements some of the behaviors specific to the Samsung Galaxy S4, so that they can be used with alternative ROMs, such as CyanogenMod, where the proprietary Samsung components are not available.&lt;/p&gt;&lt;p&gt;For more information, see upstream's &lt;a href=&quot;https://github.com/durka/HallMonitor/blob/master/README.md&quot;&gt;README&lt;/a&gt;.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>System</categories>
@@ -17770,8 +17801,22 @@ time.
 		<web>https://github.com/durka/HallMonitor</web>
 		<source>https://github.com/durka/HallMonitor</source>
 		<tracker>https://github.com/durka/HallMonitor/issues</tracker>
-		<marketversion>0.4.0</marketversion>
-		<marketvercode>15</marketvercode>
+		<marketversion>0.4.1</marketversion>
+		<marketvercode>16</marketvercode>
+		<package>
+			<version>0.4.1</version>
+			<versioncode>16</versioncode>
+			<apkname>org.durka.hallmonitor_16.apk</apkname>
+			<srcname>org.durka.hallmonitor_16_src.tar.gz</srcname>
+			<hash type="sha256">2d4ba5e723d946adbce8677cd0c13c3312db2edef9dc2ce55bcd2953369123a1</hash>
+			<sig>cd73b64f96e1ed03c2d8d6c637ad821f</sig>
+			<size>636062</size>
+			<sdkver>19</sdkver>
+			<added>2014-07-03</added>
+			<permissions>WAKE_LOCK,RECEIVE_BOOT_COMPLETED,READ_PHONE_STATE,MODIFY_PHONE_STATE,READ_CONTACTS,CAMERA,DEVICE_POWER,ACCESS_SUPERUSER,WRITE_EXTERNAL_STORAGE,STOP_APP_SWITCHES,READ_EXTERNAL_STORAGE</permissions>
+			<nativecode>armeabi,armeabi-v7a,mips,x86</nativecode>
+			<features>android.hardware.telephony,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.2.2</version>
 			<versioncode>8</versioncode>
@@ -17795,19 +17840,6 @@ time.
 			<size>548558</size>
 			<sdkver>18</sdkver>
 			<added>2014-04-03</added>
-			<permissions>WAKE_LOCK,RECEIVE_BOOT_COMPLETED,READ_PHONE_STATE,READ_CONTACTS,CAMERA,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.2</version>
-			<versioncode>6</versioncode>
-			<apkname>org.durka.hallmonitor_6.apk</apkname>
-			<srcname>org.durka.hallmonitor_6_src.tar.gz</srcname>
-			<hash type="sha256">611aa1bfcc514ff142fe98e1839931408e7411590e9bba6ea34516fe3f424537</hash>
-			<sig>cd73b64f96e1ed03c2d8d6c637ad821f</sig>
-			<size>548440</size>
-			<sdkver>18</sdkver>
-			<added>2014-03-27</added>
 			<permissions>WAKE_LOCK,RECEIVE_BOOT_COMPLETED,READ_PHONE_STATE,READ_CONTACTS,CAMERA,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -17912,8 +17944,8 @@ time.
 		<web>https://github.com/corcoran/Hangar</web>
 		<source>https://github.com/corcoran/Hangar</source>
 		<tracker>https://github.com/corcoran/Hangar/issues</tracker>
-		<marketversion>2.1.1</marketversion>
-		<marketvercode>31</marketvercode>
+		<marketversion>2.2</marketversion>
+		<marketvercode>38</marketvercode>
 		<package>
 			<version>2.1.1</version>
 			<versioncode>31</versioncode>
@@ -26381,10 +26413,10 @@ time.
 	<application id="org.totschnig.myexpenses">
 		<id>org.totschnig.myexpenses</id>
 		<added>2012-10-31</added>
-		<lastupdated>2014-06-04</lastupdated>
+		<lastupdated>2014-07-03</lastupdated>
 		<name>My Expenses</name>
 		<summary>Manage finances</summary>
-		<icon>org.totschnig.myexpenses.145.png</icon>
+		<icon>org.totschnig.myexpenses.149.png</icon>
 		<desc>&lt;p&gt;MyExpenses is designed to keep track of expenses, and to export these expenses as QIF files into a finance program (e.g.: Grisbi, GnuCash).&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Up to five accounts with transfers (unlimited in Contrib version)&lt;/li&gt;&lt;li&gt; Define plans (3) for future and recurrent transactions  (unlimited in Contrib version)&lt;/li&gt;&lt;li&gt; Group transactions per day, week, month, year and display sums per group&lt;/li&gt;&lt;li&gt; Two levels of categories (import from Grisbi XML and QIF), display distribution of transactions in Contrib version&lt;/li&gt;&lt;li&gt; Split transactions (Contrib version)&lt;/li&gt;&lt;li&gt; Calculator&lt;/li&gt;&lt;li&gt; Export to QIF and CSV (MS Excel), can be automatically shared (via email, FTP, Dropbox, ...) and done in batch in Contrib version&lt;/li&gt;&lt;li&gt; Import QIF data&lt;/li&gt;&lt;li&gt; Password protection, recoverable with security question in Contrib version&lt;/li&gt;&lt;li&gt; Integrated Help&lt;/li&gt;&lt;li&gt; Create transactions from templates&lt;/li&gt;&lt;li&gt; Data backup and restore&lt;/li&gt;&lt;li&gt; Aggregate financial situation (Contrib version)&lt;/li&gt;&lt;li&gt; Two themes: light and dark&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -26395,8 +26427,21 @@ time.
 		<donate>http://www.myexpenses.mobi/#donate</donate>
 		<bitcoin>1GCUGCSfFXzSC81ogHu12KxfUn3cShekMn</bitcoin>
 		<flattr>1028216</flattr>
-		<marketversion>2.1.5</marketversion>
-		<marketvercode>145</marketvercode>
+		<marketversion>2.1.6</marketversion>
+		<marketvercode>149</marketvercode>
+		<package>
+			<version>2.1.6</version>
+			<versioncode>149</versioncode>
+			<apkname>org.totschnig.myexpenses_149.apk</apkname>
+			<srcname>org.totschnig.myexpenses_149_src.tar.gz</srcname>
+			<hash type="sha256">23bfff0c47b7b84aac634a779e4b27e9d24ed159df91a5c99ef88e5432c28003</hash>
+			<sig>e1ca5bcb8d0a515a6d35500974fbc3a8</sig>
+			<size>2301156</size>
+			<sdkver>7</sdkver>
+			<added>2014-07-03</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,WRITE_CALENDAR,READ_CALENDAR,RECEIVE_BOOT_COMPLETED,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>2.1.5</version>
 			<versioncode>145</versioncode>
@@ -26420,19 +26465,6 @@ time.
 			<size>2196220</size>
 			<sdkver>7</sdkver>
 			<added>2014-05-30</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,WRITE_CALENDAR,READ_CALENDAR,RECEIVE_BOOT_COMPLETED,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>2.1.3</version>
-			<versioncode>142</versioncode>
-			<apkname>org.totschnig.myexpenses_142.apk</apkname>
-			<srcname>org.totschnig.myexpenses_142_src.tar.gz</srcname>
-			<hash type="sha256">c86e87756375490f0ef15ee18cbc45bfc2e09a50365e9f82cdd2e5efcf09dad9</hash>
-			<sig>e1ca5bcb8d0a515a6d35500974fbc3a8</sig>
-			<size>2191542</size>
-			<sdkver>7</sdkver>
-			<added>2014-05-26</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,WRITE_CALENDAR,READ_CALENDAR,RECEIVE_BOOT_COMPLETED,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -30101,10 +30133,10 @@ time.
 	<application id="de.blinkt.openvpn">
 		<id>de.blinkt.openvpn</id>
 		<added>2013-11-05</added>
-		<lastupdated>2014-03-20</lastupdated>
+		<lastupdated>2014-07-03</lastupdated>
 		<name>OpenVPN for Android</name>
 		<summary>OpenVPN without root</summary>
-		<icon>de.blinkt.openvpn.92.png</icon>
+		<icon>de.blinkt.openvpn.98.png</icon>
 		<desc>&lt;p&gt;With the VPNService in Android 4.0+ it is possible to create a VPN that doesn't need root access.&lt;/p&gt;</desc>
 		<license>GPLv2</license>
 		<categories>Internet</categories>
@@ -30112,8 +30144,22 @@ time.
 		<web>https://code.google.com/p/ics-openvpn</web>
 		<source>https://code.google.com/p/ics-openvpn/source</source>
 		<tracker>https://code.google.com/p/ics-openvpn/issues</tracker>
-		<marketversion>0.6.16</marketversion>
-		<marketvercode>97</marketvercode>
+		<marketversion>0.6.17</marketversion>
+		<marketvercode>98</marketvercode>
+		<package>
+			<version>0.6.17</version>
+			<versioncode>98</versioncode>
+			<apkname>de.blinkt.openvpn_98.apk</apkname>
+			<srcname>de.blinkt.openvpn_98_src.tar.gz</srcname>
+			<hash type="sha256">ba4615dc347c5b37e9377bc26be9468651211416d3dc383b8495f8b2d0a99fb6</hash>
+			<sig>a8bc8ad0f54c432719b7689849189023</sig>
+			<size>5028281</size>
+			<sdkver>14</sdkver>
+			<added>2014-07-03</added>
+			<permissions>INTERNET,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,READ_EXTERNAL_STORAGE</permissions>
+			<nativecode>armeabi,armeabi-v7a,mips,x86</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.6.11</version>
 			<versioncode>92</versioncode>
@@ -30138,20 +30184,6 @@ time.
 			<size>2437253</size>
 			<sdkver>14</sdkver>
 			<added>2014-03-05</added>
-			<permissions>INTERNET,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,READ_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>armeabi,armeabi-v7a,mips,x86</nativecode>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.6.9a</version>
-			<versioncode>90</versioncode>
-			<apkname>de.blinkt.openvpn_90.apk</apkname>
-			<srcname>de.blinkt.openvpn_90_src.tar.gz</srcname>
-			<hash type="sha256">8383407b198cbf40d381e25f966e13a4aa72b7656cb85bfb20ad7773c73dc8a4</hash>
-			<sig>a8bc8ad0f54c432719b7689849189023</sig>
-			<size>2432361</size>
-			<sdkver>14</sdkver>
-			<added>2014-02-19</added>
 			<permissions>INTERNET,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,READ_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
 			<nativecode>armeabi,armeabi-v7a,mips,x86</nativecode>
 			<features>android.hardware.touchscreen</features>
@@ -30450,10 +30482,10 @@ time.
 	<application id="org.torproject.android">
 		<id>org.torproject.android</id>
 		<added>2012-12-14</added>
-		<lastupdated>2014-06-21</lastupdated>
+		<lastupdated>2014-07-03</lastupdated>
 		<name>Orbot</name>
 		<summary>Tor (anonymity) client</summary>
-		<icon>org.torproject.android.107.png</icon>
+		<icon>org.torproject.android.109.png</icon>
 		<desc>&lt;p&gt;Tor is both software and an open network that helps you defend against network surveillance that threatens personal freedom and privacy, confidential business activities and relationships.&lt;/p&gt;&lt;p&gt;Orbot allows access to Tor by accessing a local SOCKS or HTTP proxy. On a rooted device, the proxying can be completely transparent i.e. the app that accesses the network need not be aware of the proxy's existence; you can choose which apps go via the proxy in the settings.&lt;/p&gt;&lt;p&gt;If you don't have root access, there are some apps that are designed to work closely with tor or allow proxied connections: &lt;a href=&quot;fdroid.app:info.guardianproject.otr.app.im&quot;&gt;ChatSecure&lt;/a&gt;, &lt;a href=&quot;fdroid.app:info.guardianproject.browser&quot;&gt;Orweb&lt;/a&gt; and &lt;a href=&quot;fdroid.app:org.mariotaku.twidere&quot;&gt;Twidere&lt;/a&gt;. There is also a proxy configurator addon for &lt;a href=&quot;fdroid.app:org.mozilla.firefox&quot;&gt;Firefox&lt;/a&gt; called &lt;a href=&quot;https://github.com/guardianproject/ProxyMob/downloads&quot;&gt;ProxyMob&lt;/a&gt; (not yet available from the Mozilla addon site).&lt;/p&gt;&lt;p&gt;Requires root: No, but you will need to use apps that allow proxies if root is not granted.&lt;/p&gt;</desc>
 		<license>NewBSD</license>
 		<categories>Security,Internet</categories>
@@ -30465,6 +30497,19 @@ time.
 		<flattr>5649</flattr>
 		<marketversion>14.0.4.3</marketversion>
 		<marketvercode>109</marketvercode>
+		<package>
+			<version>14.0.4.3</version>
+			<versioncode>109</versioncode>
+			<apkname>org.torproject.android_109.apk</apkname>
+			<srcname>org.torproject.android_109_src.tar.gz</srcname>
+			<hash type="sha256">81235d1ddeda90cae4eb3e0920661653ee6dd1dc0585b6a657334572f6396e12</hash>
+			<sig>712fc2bc32764a0345e72e6c71483028</sig>
+			<size>5493305</size>
+			<sdkver>9</sdkver>
+			<added>2014-07-03</added>
+			<permissions>INTERNET,RECEIVE_BOOT_COMPLETED,ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,WRITE_EXTERNAL_STORAGE,org.torproject.android.MANAGE_TOR,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>14.0.4.1</version>
 			<versioncode>107</versioncode>
@@ -30491,27 +30536,14 @@ time.
 			<permissions>INTERNET,RECEIVE_BOOT_COMPLETED,ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,org.torproject.android.MANAGE_TOR</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
-		<package>
-			<version>14.0.3.1</version>
-			<versioncode>105</versioncode>
-			<apkname>org.torproject.android_105.apk</apkname>
-			<srcname>org.torproject.android_105_src.tar.gz</srcname>
-			<hash type="sha256">784089e3dcbf5df9a388bb2e6c408411bc899ec0aa5921e0ff50322b388064e1</hash>
-			<sig>712fc2bc32764a0345e72e6c71483028</sig>
-			<size>5448757</size>
-			<sdkver>9</sdkver>
-			<added>2014-06-15</added>
-			<permissions>INTERNET,RECEIVE_BOOT_COMPLETED,ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,org.torproject.android.MANAGE_TOR</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
 	</application>
 	<application id="info.guardianproject.browser">
 		<id>info.guardianproject.browser</id>
 		<added>2011-12-07</added>
-		<lastupdated>2014-05-09</lastupdated>
+		<lastupdated>2014-07-03</lastupdated>
 		<name>Orweb</name>
 		<summary>Privacy-enhanced browser</summary>
-		<icon>info.guardianproject.browser.26.png</icon>
+		<icon>info.guardianproject.browser.27.png</icon>
 		<desc>&lt;p&gt;Orweb is a companion browser to &lt;a href=&quot;fdroid.app:org.torproject.android&quot;&gt;Orbot&lt;/a&gt;, the port of Tor to Android.&lt;/p&gt;&lt;p&gt;Orbot anonymizes internet traffic by routing it through many different stages and you must have that enabled first, though root isn't needed. Orweb disables certain other browser features that could be used to identify you.&lt;/p&gt;</desc>
 		<license>GPL</license>
 		<categories>Internet,Security</categories>
@@ -30521,6 +30553,19 @@ time.
 		<tracker>https://dev.guardianproject.info/projects/orweb/issues?set_filter=1</tracker>
 		<marketversion>0.6.1</marketversion>
 		<marketvercode>27</marketvercode>
+		<package>
+			<version>0.6.1</version>
+			<versioncode>27</versioncode>
+			<apkname>info.guardianproject.browser_27.apk</apkname>
+			<srcname>info.guardianproject.browser_27_src.tar.gz</srcname>
+			<hash type="sha256">ea0652210d086ae20b43e5da60798753972410ba7bbaa13ea1c93d3af61c4cf8</hash>
+			<sig>8cc1d289c59948684818af215891a209</sig>
+			<size>933310</size>
+			<sdkver>9</sdkver>
+			<added>2014-07-03</added>
+			<permissions>INTERNET,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.6</version>
 			<versioncode>26</versioncode>
@@ -30545,19 +30590,6 @@ time.
 			<sdkver>9</sdkver>
 			<added>2014-01-29</added>
 			<permissions>INTERNET,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.4.4</version>
-			<versioncode>18</versioncode>
-			<apkname>info.guardianproject.browser_18.apk</apkname>
-			<srcname>info.guardianproject.browser_18_src.tar.gz</srcname>
-			<hash type="sha256">7c87ebe5825b197c576d9c155ba1751f68cf8a38fe80a39d7fa5db6d8cbdadb3</hash>
-			<sig>8cc1d289c59948684818af215891a209</sig>
-			<size>757410</size>
-			<sdkver>8</sdkver>
-			<added>2012-09-28</added>
-			<permissions>INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -31402,10 +31434,10 @@ time.
 	<application id="org.passwordmaker.android">
 		<id>org.passwordmaker.android</id>
 		<added>2012-08-29</added>
-		<lastupdated>2014-06-15</lastupdated>
+		<lastupdated>2014-07-03</lastupdated>
 		<name>PasswordMaker Pro</name>
 		<summary>Password maker</summary>
-		<icon>org.passwordmaker.android.10.png</icon>
+		<icon>org.passwordmaker.android.11.png</icon>
 		<desc>&lt;p&gt;PasswordMaker Pro creates unique, secure passwords that are very easy for you to retrieve but no one else. Nothing is stored anywhere, anytime, so there's nothing to be hacked, lost, or stolen. See http://passwordmaker.org for details.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
@@ -31415,6 +31447,18 @@ time.
 		<tracker>https://github.com/tasermonkey/android-passwordmaker/issues</tracker>
 		<marketversion>1.1.11</marketversion>
 		<marketvercode>11</marketvercode>
+		<package>
+			<version>1.1.11</version>
+			<versioncode>11</versioncode>
+			<apkname>org.passwordmaker.android_11.apk</apkname>
+			<srcname>org.passwordmaker.android_11_src.tar.gz</srcname>
+			<hash type="sha256">5f7464f7ff8c035d51f26427054aa504629a9035243c2b27d638e219d11eee7d</hash>
+			<sig>15cceb5fe3461abee47539925ee95322</sig>
+			<size>134738</size>
+			<sdkver>9</sdkver>
+			<added>2014-07-03</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.1.10</version>
 			<versioncode>10</versioncode>
