@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1404448586" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1404535256" url="http://f-droid.org/repo" version="12">
 		<description>
 The official FDroid repository. Applications in this repository are mostly built
 directory from the source code. Some are official binaries built by the original
@@ -5703,8 +5703,8 @@ time.
 		<web>http://asksven.tumblr.com</web>
 		<source>https://github.com/asksven/BetterBatteryStats</source>
 		<tracker>https://github.com/asksven/BetterBatteryStats/issues</tracker>
-		<marketversion>1.16.0.0_RC1</marketversion>
-		<marketvercode>48</marketvercode>
+		<marketversion>1.16.0.0</marketversion>
+		<marketvercode>49</marketvercode>
 		<package>
 			<version>1.15.0.0</version>
 			<versioncode>44</versioncode>
@@ -6001,10 +6001,10 @@ time.
 	<application id="de.schildbach.wallet">
 		<id>de.schildbach.wallet</id>
 		<added>2012-02-27</added>
-		<lastupdated>2014-05-06</lastupdated>
+		<lastupdated>2014-07-05</lastupdated>
 		<name>Bitcoin</name>
 		<summary>Store digital currency</summary>
-		<icon>de.schildbach.wallet.167.png</icon>
+		<icon>de.schildbach.wallet.173.png</icon>
 		<desc>&lt;ul&gt;&lt;li&gt; No cloud server or web service needed: this wallet works peer to peer&lt;/li&gt;&lt;li&gt; Display of wallet balance in Bitcoin and various other currencies&lt;/li&gt;&lt;li&gt; Sending and receiving of Bitcoin via NFC, QR-codes or Bitcoin URLs&lt;/li&gt;&lt;li&gt; Address book for regularly used Bitcoin addresses&lt;/li&gt;&lt;li&gt; Enter transactions while offline, will be executed when online&lt;/li&gt;&lt;li&gt; Manages blockchain on your device&lt;/li&gt;&lt;li&gt; System notifications for Bitcoin connectivity and received coins&lt;/li&gt;&lt;li&gt; App widget for Bitcoin balance&lt;/li&gt;&lt;li&gt; Back up private keys to local storage encrypted with a password&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A few tens of MiB must be downloaded to set up the blockchain and a couple more per month subsequently to keep it updated.&lt;/p&gt;&lt;p&gt;See the &lt;a href=&quot;http://bitcoin-wallet.googlecode.com/git/wallet/README&quot;&gt;Readme&lt;/a&gt; for more details. Use this at your own risk and be wary that if you don't make a backup of the private keys you will no longer be able to acces the Bitcoins contained in the wallet, should the data of the app be lost.&lt;/p&gt;&lt;p&gt;There's a separate version of this application that uses a test version of the Bitcoin network: &lt;a href=&quot;fdroid.app:de.schildbach.wallet_test&quot;&gt;Testnet3&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://raw.github.com/schildbach/bitcoin-wallet/master/wallet/CHANGES&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -6015,6 +6015,18 @@ time.
 		<bitcoin>1HkX6X8EakdsgAysL93oKrWiXGPbFiG1xV</bitcoin>
 		<marketversion>3.52</marketversion>
 		<marketvercode>173</marketvercode>
+		<package>
+			<version>3.52</version>
+			<versioncode>173</versioncode>
+			<apkname>de.schildbach.wallet_173.apk</apkname>
+			<srcname>de.schildbach.wallet_173_src.tar.gz</srcname>
+			<hash type="sha256">6fb26a2600f7a8f453f37184c2aed83ad6ff8d3ea30ed1e63048422ae50a90d7</hash>
+			<sig>eb52a39c855f2439eeb711a9f0ab611b</sig>
+			<size>3771567</size>
+			<sdkver>10</sdkver>
+			<added>2014-07-05</added>
+			<permissions>INTERNET,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,NFC,CAMERA,VIBRATE,WAKE_LOCK,BROADCAST_STICKY,RECEIVE_BOOT_COMPLETED,BLUETOOTH</permissions>
+		</package>
 		<package>
 			<version>3.46</version>
 			<versioncode>167</versioncode>
@@ -6037,18 +6049,6 @@ time.
 			<size>3579597</size>
 			<sdkver>10</sdkver>
 			<added>2014-03-10</added>
-			<permissions>INTERNET,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,NFC,CAMERA,VIBRATE,WAKE_LOCK,BROADCAST_STICKY,RECEIVE_BOOT_COMPLETED,BLUETOOTH</permissions>
-		</package>
-		<package>
-			<version>3.28</version>
-			<versioncode>149</versioncode>
-			<apkname>de.schildbach.wallet_149.apk</apkname>
-			<srcname>de.schildbach.wallet_149_src.tar.gz</srcname>
-			<hash type="sha256">844179a4d3bd50df66d8731aefc6b24e6a519e26903d47079760f8c975bb9761</hash>
-			<sig>eb52a39c855f2439eeb711a9f0ab611b</sig>
-			<size>3674227</size>
-			<sdkver>10</sdkver>
-			<added>2013-12-18</added>
 			<permissions>INTERNET,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,NFC,CAMERA,VIBRATE,WAKE_LOCK,BROADCAST_STICKY,RECEIVE_BOOT_COMPLETED,BLUETOOTH</permissions>
 		</package>
 	</application>
@@ -26628,10 +26628,10 @@ time.
 	<application id="org.aykit.MyOwnNotes">
 		<id>org.aykit.MyOwnNotes</id>
 		<added>2014-06-18</added>
-		<lastupdated>2014-06-18</lastupdated>
+		<lastupdated>2014-07-05</lastupdated>
 		<name>MyOwnNotes</name>
 		<summary>Notes management for ownCloud</summary>
-		<icon>org.aykit.MyOwnNotes.3.png</icon>
+		<icon>org.aykit.MyOwnNotes.5.png</icon>
 		<desc>&lt;p&gt;Create, edit, delete and sync your notes with ownCloud.&lt;/p&gt;&lt;p&gt;In order to use this app you will need:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; &lt;a href=&quot;https://github.com/owncloud/notes&quot;&gt;ownCloud Notes&lt;/a&gt; installed on an ownCloud server&lt;/li&gt;&lt;li&gt; A valid SSL certificate&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -26642,6 +26642,19 @@ time.
 		<flattr>2887057</flattr>
 		<marketversion>1.2.2</marketversion>
 		<marketvercode>5</marketvercode>
+		<package>
+			<version>1.2.2</version>
+			<versioncode>5</versioncode>
+			<apkname>org.aykit.MyOwnNotes_5.apk</apkname>
+			<srcname>org.aykit.MyOwnNotes_5_src.tar.gz</srcname>
+			<hash type="sha256">0a693050d65114af4590903b273e054ece6c08b53d0b8eea774245d32156db68</hash>
+			<sig>82e301e46c9036c10933f3d80deb54b9</sig>
+			<size>336185</size>
+			<sdkver>11</sdkver>
+			<added>2014-07-05</added>
+			<permissions>INTERNET,ACCESS_NETWORK_STATE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.2</version>
 			<versioncode>3</versioncode>
@@ -31688,8 +31701,8 @@ time.
 		<source>https://github.com/horn3t/android_packages_apps_PerformanceControl</source>
 		<tracker>http://forum.xda-developers.com/devdb/project/?id=600#bugReporter</tracker>
 		<donate>http://forum.xda-developers.com/donatetome.php?u=4674443</donate>
-		<marketversion>2.2.2</marketversion>
-		<marketvercode>2202</marketvercode>
+		<marketversion>2.2.3</marketversion>
+		<marketvercode>2203</marketvercode>
 		<requirements>root</requirements>
 		<package>
 			<version>2.2.1</version>
@@ -35421,10 +35434,10 @@ time.
 	<application id="org.rmll">
 		<id>org.rmll</id>
 		<added>2014-07-04</added>
-		<lastupdated>2014-07-04</lastupdated>
+		<lastupdated>2014-07-05</lastupdated>
 		<name>RMLL/LSM</name>
 		<summary>Conference schedule</summary>
-		<icon>org.rmll.6.png</icon>
+		<icon>org.rmll.7.png</icon>
 		<desc>&lt;p&gt;Schedule for the annual RMLL/LSM free software conference.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -35432,8 +35445,21 @@ time.
 		<web>https://github.com/RMLL/droidrmll</web>
 		<source>https://github.com/RMLL/droidrmll</source>
 		<tracker>https://github.com/RMLL/droidrmll/issues</tracker>
-		<marketversion>1.2</marketversion>
-		<marketvercode>6</marketvercode>
+		<marketversion>1.2.1</marketversion>
+		<marketvercode>7</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>7</versioncode>
+			<apkname>org.rmll_7.apk</apkname>
+			<srcname>org.rmll_7_src.tar.gz</srcname>
+			<hash type="sha256">dff3d06d50ead854cfa1655efc424738cfba07d268aa87b763123ca7a6f7d96f</hash>
+			<sig>a74cb473295e47b72e0bfbf1ee14c55c</sig>
+			<size>61654</size>
+			<sdkver>7</sdkver>
+			<added>2014-07-05</added>
+			<permissions>INTERNET,VIBRATE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.2</version>
 			<versioncode>6</versioncode>
@@ -40689,10 +40715,10 @@ time.
 	<application id="org.tasks">
 		<id>org.tasks</id>
 		<added>2014-06-21</added>
-		<lastupdated>2014-06-29</lastupdated>
+		<lastupdated>2014-07-05</lastupdated>
 		<name>Tasks</name>
 		<summary>Fork of Astrid Tasks &amp; To-Do List</summary>
-		<icon>org.tasks.332.png</icon>
+		<icon>org.tasks.333.png</icon>
 		<desc>&lt;p&gt;This app is built on the same code as the original Astrid app but differs in several ways:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; No Astrid.com synchronization&lt;/li&gt;&lt;li&gt; No sharing or assigning tasks&lt;/li&gt;&lt;li&gt; No iOS or web interface&lt;/li&gt;&lt;li&gt; Third party apps need to update their code to support Tasks&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Tasks is not affiliated with Yahoo! or Todoroo.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -40702,8 +40728,21 @@ time.
 		<tracker>https://github.com/abaker/tasks/issues</tracker>
 		<donate>https://pledgie.com/campaigns/24281</donate>
 		<flattr>2308341</flattr>
-		<marketversion>4.6.17</marketversion>
-		<marketvercode>332</marketvercode>
+		<marketversion>4.6.18</marketversion>
+		<marketvercode>333</marketvercode>
+		<package>
+			<version>4.6.18</version>
+			<versioncode>333</versioncode>
+			<apkname>org.tasks_333.apk</apkname>
+			<srcname>org.tasks_333_src.tar.gz</srcname>
+			<hash type="sha256">b72520ca3f8891377d3a9a8a98d79265fc8c86e4977ede45d2e341889884dfb3</hash>
+			<sig>7cff0310c51486068069310a0447d43e</sig>
+			<size>3567607</size>
+			<sdkver>7</sdkver>
+			<added>2014-07-05</added>
+			<permissions>VIBRATE,INTERNET,WRITE_CALENDAR,READ_CALENDAR,com.android.launcher.permission.INSTALL_SHORTCUT,WRITE_EXTERNAL_STORAGE,GET_ACCOUNTS,USE_CREDENTIALS,MANAGE_ACCOUNTS,com.google.android.googleapps.permission.GOOGLE_AUTH,READ_CONTACTS,READ_PHONE_STATE,READ_CALL_LOG,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,ACCESS_NETWORK_STATE,org.tasks.permission.READ_TASKS,org.tasks.READ,org.tasks.WRITE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.microphone</features>
+		</package>
 		<package>
 			<version>4.6.17</version>
 			<versioncode>332</versioncode>
@@ -41045,10 +41084,10 @@ time.
 	<application id="de.schildbach.wallet_test">
 		<id>de.schildbach.wallet_test</id>
 		<added>2012-04-07</added>
-		<lastupdated>2014-05-06</lastupdated>
+		<lastupdated>2014-07-05</lastupdated>
 		<name>Testnet3</name>
 		<summary>Testing version of Bitcoin</summary>
-		<icon>de.schildbach.wallet_test.167.png</icon>
+		<icon>de.schildbach.wallet_test.173.png</icon>
 		<desc>&lt;p&gt;A bitcoin wallet, allowing you to store, send and receive bitcoins on your device, both via QR codes and NFC. When run for the first time, it can happen that the app shows only a white display for some seconds.&lt;/p&gt;&lt;p&gt;This is a test version of &lt;a href=&quot;fdroid.app:de.schildbach.wallet&quot;&gt;Bitcoin&lt;/a&gt; that uses the test Bitcoin network, not the real one.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://code.google.com/p/bitcoin-wallet/source/browse/wallet/CHANGES&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -41059,6 +41098,18 @@ time.
 		<bitcoin>1HkX6X8EakdsgAysL93oKrWiXGPbFiG1xV</bitcoin>
 		<marketversion>3.50</marketversion>
 		<marketvercode>171</marketvercode>
+		<package>
+			<version>3.52-test</version>
+			<versioncode>173</versioncode>
+			<apkname>de.schildbach.wallet_test_173.apk</apkname>
+			<srcname>de.schildbach.wallet_test_173_src.tar.gz</srcname>
+			<hash type="sha256">77e90a18d8afb39272301d765069ae0d4ad77340f23cba61d92c651056aff629</hash>
+			<sig>e02308f5a8441a390a03b31ff9f45511</sig>
+			<size>3759269</size>
+			<sdkver>10</sdkver>
+			<added>2014-07-05</added>
+			<permissions>INTERNET,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,NFC,CAMERA,VIBRATE,WAKE_LOCK,BROADCAST_STICKY,RECEIVE_BOOT_COMPLETED,BLUETOOTH</permissions>
+		</package>
 		<package>
 			<version>3.46-test</version>
 			<versioncode>167</versioncode>
@@ -41081,18 +41132,6 @@ time.
 			<size>3567134</size>
 			<sdkver>10</sdkver>
 			<added>2014-03-11</added>
-			<permissions>INTERNET,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,NFC,CAMERA,VIBRATE,WAKE_LOCK,BROADCAST_STICKY,RECEIVE_BOOT_COMPLETED,BLUETOOTH</permissions>
-		</package>
-		<package>
-			<version>3.28-test</version>
-			<versioncode>149</versioncode>
-			<apkname>de.schildbach.wallet_test_149.apk</apkname>
-			<srcname>de.schildbach.wallet_test_149_src.tar.gz</srcname>
-			<hash type="sha256">fb17105b808e39d26123a735482f8e393e4f9ff0498e6b94dc56dd43d6a04e72</hash>
-			<sig>e02308f5a8441a390a03b31ff9f45511</sig>
-			<size>3661509</size>
-			<sdkver>10</sdkver>
-			<added>2013-12-18</added>
 			<permissions>INTERNET,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,NFC,CAMERA,VIBRATE,WAKE_LOCK,BROADCAST_STICKY,RECEIVE_BOOT_COMPLETED,BLUETOOTH</permissions>
 		</package>
 	</application>
@@ -45864,10 +45903,10 @@ time.
 	<application id="net.wigle.wigleandroid">
 		<id>net.wigle.wigleandroid</id>
 		<added>2012-10-16</added>
-		<lastupdated>2014-06-30</lastupdated>
+		<lastupdated>2014-07-05</lastupdated>
 		<name>WiGLE Wifi Wardriving</name>
 		<summary>Map Wifi access points</summary>
-		<icon>net.wigle.wigleandroid.201.png</icon>
+		<icon>net.wigle.wigleandroid.202.png</icon>
 		<desc>&lt;p&gt;Display and map found wireless networks and cell towers anywhere in the world and optionally upload to the &lt;a href=&quot;http://wigle.net&quot;&gt;wigle.net&lt;/a&gt; database (read the &lt;a href=&quot;https://github.com/wiglenet/wigle-wifi-wardriving/blob/master/eula.html&quot;&gt;https://github.com/wiglenet/wigle-wifi-wardriving/blob/master/eula.html&lt;/a&gt;).&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Export to CSV files on SD card (comma separated values)&lt;/li&gt;&lt;li&gt; Export to KML files on SD card (to import into Google Maps/Earth)&lt;/li&gt;&lt;li&gt; Audio and Text-to-Speech alerting&lt;/li&gt;&lt;li&gt; Local database to track new networks found&lt;/li&gt;&lt;li&gt; Real-time map of networks found (OpenStreetMap)&lt;/li&gt;&lt;li&gt; Can move app to SD card&lt;/li&gt;&lt;li&gt; &quot;Mute&quot; button to shut off all sound/speech immediately&lt;/li&gt;&lt;li&gt; Bluetooth GPS support through mock locations&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/wiglenet/wigle-wifi-wardriving/blob/master/TODO&quot;&gt;Release notes.&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>BSD</license>
 		<categories>Internet</categories>
@@ -45875,8 +45914,21 @@ time.
 		<web>http://wigle.net</web>
 		<source>https://github.com/wiglenet/wigle-wifi-wardriving</source>
 		<tracker>https://github.com/wiglenet/wigle-wifi-wardriving/issues</tracker>
-		<marketversion>2.1</marketversion>
-		<marketvercode>201</marketvercode>
+		<marketversion>2.2</marketversion>
+		<marketvercode>202</marketvercode>
+		<package>
+			<version>2.2</version>
+			<versioncode>202</versioncode>
+			<apkname>net.wigle.wigleandroid_202.apk</apkname>
+			<srcname>net.wigle.wigleandroid_202_src.tar.gz</srcname>
+			<hash type="sha256">9604a734aef21ac603bda0947e12b3ce1a64954646c64bed25ffc96e57e5f640</hash>
+			<sig>12377880e42efee68d9a5e1da53dbff6</sig>
+			<size>1522219</size>
+			<sdkver>7</sdkver>
+			<added>2014-07-05</added>
+			<permissions>CHANGE_WIFI_STATE,CHANGE_NETWORK_STATE,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MOCK_LOCATION,ACCESS_WIFI_STATE,INTERNET,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,READ_PHONE_STATE,WRITE_SETTINGS,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.location,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>2.1</version>
 			<versioncode>201</versioncode>
@@ -45900,19 +45952,6 @@ time.
 			<size>709404</size>
 			<sdkver>3</sdkver>
 			<added>2014-01-20</added>
-			<permissions>CHANGE_WIFI_STATE,CHANGE_NETWORK_STATE,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MOCK_LOCATION,ACCESS_WIFI_STATE,INTERNET,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,READ_PHONE_STATE,WRITE_SETTINGS,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.location,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.57</version>
-			<versioncode>57</versioncode>
-			<apkname>net.wigle.wigleandroid_57.apk</apkname>
-			<srcname>net.wigle.wigleandroid_57_src.tar.gz</srcname>
-			<hash type="sha256">d197031d6478f37844233258b6daa29d32caf13c72edd922872c5698cad7ee5e</hash>
-			<sig>12377880e42efee68d9a5e1da53dbff6</sig>
-			<size>669475</size>
-			<sdkver>3</sdkver>
-			<added>2014-01-14</added>
 			<permissions>CHANGE_WIFI_STATE,CHANGE_NETWORK_STATE,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_MOCK_LOCATION,ACCESS_WIFI_STATE,INTERNET,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,READ_PHONE_STATE,WRITE_SETTINGS,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen</features>
 		</package>
