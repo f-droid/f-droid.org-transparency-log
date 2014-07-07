@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1404535256" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1404620339" url="http://f-droid.org/repo" version="12">
 		<description>
 The official FDroid repository. Applications in this repository are mostly built
 directory from the source code. Some are official binaries built by the original
@@ -3205,7 +3205,7 @@ time.
 		<tracker>https://github.com/AnySoftKeyboard/AnySoftKeyboard/issues</tracker>
 		<donate>https://code.google.com/p/softkeyboard</donate>
 		<marketversion>Unknown</marketversion>
-		<marketvercode>123</marketvercode>
+		<marketvercode>124</marketvercode>
 		<package>
 			<version>20130919</version>
 			<versioncode>111</versioncode>
@@ -9507,7 +9507,7 @@ time.
 		<source>https://code.google.com/p/android-comicsreader/source</source>
 		<tracker>https://code.google.com/p/android-comicsreader/issues</tracker>
 		<marketversion>2.0</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketvercode>21</marketvercode>
 		<package>
 			<version>1.2</version>
 			<versioncode>18</versioncode>
@@ -9843,10 +9843,10 @@ time.
 	<application id="eu.siacs.conversations">
 		<id>eu.siacs.conversations</id>
 		<added>2014-04-13</added>
-		<lastupdated>2014-07-01</lastupdated>
+		<lastupdated>2014-07-06</lastupdated>
 		<name>Conversations</name>
 		<summary>XMPP client</summary>
-		<icon>eu.siacs.conversations.18.png</icon>
+		<icon>eu.siacs.conversations.19.png</icon>
 		<desc>&lt;p&gt;XMPP client designed with ease of use and security in mind.&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; end-to-end encryption with either OTR or openPGP&lt;/li&gt;&lt;li&gt; Holo UI&lt;/li&gt;&lt;li&gt; syncs with your desktop client&lt;/li&gt;&lt;li&gt; group chats&lt;/li&gt;&lt;li&gt; addressbook integration&lt;/li&gt;&lt;li&gt; multiple accounts / unified inbox&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Noteable XEPs:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; XEP-0198: Stream Management&lt;/li&gt;&lt;li&gt; XEP-0280: Message Carbons&lt;/li&gt;&lt;li&gt; XEP-0237: Roster Versioning&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
@@ -9856,6 +9856,19 @@ time.
 		<tracker>https://github.com/siacs/Conversations/issues</tracker>
 		<marketversion>0.4.1</marketversion>
 		<marketvercode>19</marketvercode>
+		<package>
+			<version>0.4.1</version>
+			<versioncode>19</versioncode>
+			<apkname>eu.siacs.conversations_19.apk</apkname>
+			<srcname>eu.siacs.conversations_19_src.tar.gz</srcname>
+			<hash type="sha256">77a62e590cdcbb4394f42a1eaa853afd3b22c3034bc3984c7d108970b55b8b1d</hash>
+			<sig>befc8ef80c66cb2d7d23dc99959287b5</sig>
+			<size>1567635</size>
+			<sdkver>14</sdkver>
+			<added>2014-07-06</added>
+			<permissions>READ_CONTACTS,READ_PROFILE,INTERNET,ACCESS_NETWORK_STATE,WAKE_LOCK,RECEIVE_BOOT_COMPLETED,VIBRATE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.4</version>
 			<versioncode>18</versioncode>
@@ -9879,19 +9892,6 @@ time.
 			<size>1521504</size>
 			<sdkver>14</sdkver>
 			<added>2014-06-09</added>
-			<permissions>READ_CONTACTS,READ_PROFILE,INTERNET,ACCESS_NETWORK_STATE,WAKE_LOCK,RECEIVE_BOOT_COMPLETED,VIBRATE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.2.3</version>
-			<versioncode>14</versioncode>
-			<apkname>eu.siacs.conversations_14.apk</apkname>
-			<srcname>eu.siacs.conversations_14_src.tar.gz</srcname>
-			<hash type="sha256">fde489f51b19ce528f1624b86590b927282e990a0e13f0845dc9d69669f3407a</hash>
-			<sig>befc8ef80c66cb2d7d23dc99959287b5</sig>
-			<size>1489924</size>
-			<sdkver>14</sdkver>
-			<added>2014-05-25</added>
 			<permissions>READ_CONTACTS,READ_PROFILE,INTERNET,ACCESS_NETWORK_STATE,WAKE_LOCK,RECEIVE_BOOT_COMPLETED,VIBRATE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -19314,8 +19314,8 @@ time.
 		<source>https://github.com/jonatkins/ingress-intel-total-conversion</source>
 		<tracker>https://github.com/jonatkins/ingress-intel-total-conversion/issues</tracker>
 		<donate>http://iitc.jonatkins.com/?page=donate</donate>
-		<marketversion>0.11.2</marketversion>
-		<marketvercode>75</marketvercode>
+		<marketversion>0.11.3</marketversion>
+		<marketvercode>76</marketvercode>
 		<antifeatures>NonFreeNet</antifeatures>
 		<package>
 			<version>0.11.2</version>
@@ -24812,8 +24812,8 @@ time.
 		<tracker>https://github.com/MirakelX/mirakel-android/issues</tracker>
 		<donate>http://mirakel.azapps.de/help_us.html#donate</donate>
 		<flattr>2188714</flattr>
-		<marketversion>2.5</marketversion>
-		<marketvercode>56</marketvercode>
+		<marketversion>2.6</marketversion>
+		<marketvercode>61</marketvercode>
 		<package>
 			<version>2.5</version>
 			<versioncode>56</versioncode>
