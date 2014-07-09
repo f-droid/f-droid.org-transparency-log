@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1404707597" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1404824716" url="http://f-droid.org/repo" version="12">
 		<description>
 The official FDroid repository. Applications in this repository are mostly built
 directory from the source code. Some are official binaries built by the original
@@ -5315,8 +5315,8 @@ time.
 		<source>https://code.google.com/p/battery-indicator/source</source>
 		<tracker>https://code.google.com/p/battery-indicator/issues</tracker>
 		<donate>https://code.google.com/p/battery-indicator/wiki/PackageDownload?tm=2</donate>
-		<marketversion>8.1.8</marketversion>
-		<marketvercode>11162</marketvercode>
+		<marketversion>8.1.10-dev</marketversion>
+		<marketvercode>11165</marketvercode>
 		<package>
 			<version>8.1.8</version>
 			<versioncode>11162</versioncode>
@@ -7641,8 +7641,8 @@ time.
 		<source>https://github.com/Xlythe/android_packages_apps_Calculator</source>
 		<tracker>https://github.com/Xlythe/android_packages_apps_Calculator/issues</tracker>
 		<donate>https://www.gittip.com/Xlythe</donate>
-		<marketversion>4.2.2</marketversion>
-		<marketvercode>62</marketvercode>
+		<marketversion>4.3</marketversion>
+		<marketvercode>63</marketvercode>
 		<package>
 			<version>v3.4.2</version>
 			<versioncode>49</versioncode>
@@ -16620,8 +16620,8 @@ time.
 		<web>http://ruleant.github.io/getback_gps</web>
 		<source>https://github.com/ruleant/getback_gps</source>
 		<tracker>https://github.com/ruleant/getback_gps/issues</tracker>
-		<marketversion>0.2</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>0.3</marketversion>
+		<marketvercode>30</marketvercode>
 		<package>
 			<version>0.1.1</version>
 			<versioncode>12</versioncode>
@@ -17084,8 +17084,8 @@ time.
 		<web>https://github.com/ge0rg/gamemasterdice</web>
 		<source>https://github.com/ge0rg/gamemasterdice</source>
 		<tracker>https://github.com/ge0rg/gamemasterdice/issues</tracker>
-		<marketversion>0.1.5</marketversion>
-		<marketvercode>6</marketvercode>
+		<marketversion>0.1.6</marketversion>
+		<marketvercode>7</marketvercode>
 		<package>
 			<version>0.1.5</version>
 			<versioncode>6</versioncode>
@@ -27071,8 +27071,8 @@ time.
 		<web>http://www.navit-project.org</web>
 		<source>http://sourceforge.net/p/navit/code</source>
 		<tracker>http://trac.navit-project.org</tracker>
-		<marketversion>5799</marketversion>
-		<marketvercode>5799</marketvercode>
+		<marketversion>5809</marketversion>
+		<marketvercode>5809</marketvercode>
 		<package>
 			<version>navit 0.5.0-5720</version>
 			<versioncode>5720</versioncode>
@@ -28681,10 +28681,10 @@ time.
 	<application id="dk.jens.backup">
 		<id>dk.jens.backup</id>
 		<added>2013-07-22</added>
-		<lastupdated>2014-03-08</lastupdated>
+		<lastupdated>2014-07-08</lastupdated>
 		<name>oandbackup</name>
 		<summary>Backup manager</summary>
-		<icon>dk.jens.backup.14.png</icon>
+		<icon>dk.jens.backup.15.png</icon>
 		<desc>&lt;p&gt;Make backups of selected apps on your device and restore from those backups. oandbackup enables you to save app data to a user-accessible location. Both backup / restore of single apps and of multiple apps are supported.&lt;/p&gt;&lt;p&gt;Requires a working busybox installation at the moment (often pre-installed on custom roms).&lt;/p&gt;&lt;p&gt;Status: Beta&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/jensstein/oandbackup/blob/master/changelog.md&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Requires root: Yes. Copies files from /data/data, /data/app and /system/app.&lt;/p&gt;&lt;p&gt;(If you don't have root but have Android 4+ you can use the command-line program &lt;i&gt;adb&lt;/i&gt; from the &lt;a href=&quot;http://developer.android.com/sdk&quot;&gt;Android SDK&lt;/a&gt; platform tools to make backups via a desktop computer)&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>System</categories>
@@ -28692,9 +28692,22 @@ time.
 		<web/>
 		<source>https://github.com/jensstein/oandbackup</source>
 		<tracker>https://github.com/jensstein/oandbackup/issues</tracker>
-		<marketversion>0.2.8</marketversion>
-		<marketvercode>14</marketvercode>
+		<marketversion>0.2.9</marketversion>
+		<marketvercode>15</marketvercode>
 		<requirements>root</requirements>
+		<package>
+			<version>0.2.9</version>
+			<versioncode>15</versioncode>
+			<apkname>dk.jens.backup_15.apk</apkname>
+			<srcname>dk.jens.backup_15_src.tar.gz</srcname>
+			<hash type="sha256">dd0982fc172840ffa63cbb4c25629fe8d979e299930154bf746b826a6a7b3bd2</hash>
+			<sig>79f371d0f45b95bb440ea636aed64029</sig>
+			<size>378214</size>
+			<sdkver>7</sdkver>
+			<added>2014-07-08</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,ACCESS_SUPERUSER,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.2.8</version>
 			<versioncode>14</versioncode>
@@ -28718,19 +28731,6 @@ time.
 			<size>308263</size>
 			<sdkver>7</sdkver>
 			<added>2014-01-14</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,ACCESS_SUPERUSER,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.2.6</version>
-			<versioncode>12</versioncode>
-			<apkname>dk.jens.backup_12.apk</apkname>
-			<srcname>dk.jens.backup_12_src.tar.gz</srcname>
-			<hash type="sha256">37637af6336a29bc0471636e834b0821660040eaee309e97c02deb7718a3e9ef</hash>
-			<sig>79f371d0f45b95bb440ea636aed64029</sig>
-			<size>286026</size>
-			<sdkver>7</sdkver>
-			<added>2013-12-12</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,ACCESS_SUPERUSER,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -40135,12 +40135,12 @@ time.
 		<name>Subsurface</name>
 		<summary>Dive logger</summary>
 		<icon>org.subsurface.8.png</icon>
-		<desc>&lt;p&gt;Companion app for the cross-platform Subsurface desktop app&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Capture dive positions&lt;/li&gt;&lt;li&gt; Search and modify old dives&lt;/li&gt;&lt;li&gt; Synchronise dives with a server for manipulation in desktop app&lt;/li&gt;&lt;/ul&gt;</desc>
+		<desc>&lt;p&gt;Companion app for the cross-platform Subsurface desktop app&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Capture dive positions&lt;/li&gt;&lt;li&gt; Search and modify old dives&lt;/li&gt;&lt;li&gt; Synchronise dives with a server for manipulation in desktop app&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Recent versions require the non-free library Google Play Services library.&lt;/p&gt;</desc>
 		<license>GPL</license>
 		<categories>Science &amp; Education</categories>
 		<category>Science &amp; Education</category>
 		<web>http://subsurface.hohndel.org</web>
-		<source>http://git.hohndel.org/index.cgi?p=subsurface.git;a=summary</source>
+		<source>http://git.hohndel.org/?p=subsurface-companion.git;a=summary</source>
 		<tracker>http://trac.hohndel.org/report/1</tracker>
 		<marketversion>2.0</marketversion>
 		<marketvercode>12</marketvercode>
@@ -41751,10 +41751,10 @@ time.
 	<application id="com.danvelazco.fbwrapper">
 		<id>com.danvelazco.fbwrapper</id>
 		<added>2013-06-13</added>
-		<lastupdated>2014-01-04</lastupdated>
+		<lastupdated>2014-07-08</lastupdated>
 		<name>Tinfoil for Facebook</name>
 		<summary>Facebook browser with privacy</summary>
-		<icon>com.danvelazco.fbwrapper.20140104.png</icon>
+		<icon>com.danvelazco.fbwrapper.20140701.png</icon>
 		<desc>&lt;p&gt;Browse Facebook's mobile site with a simple web browser, which protects your privacy by avoiding the ability of the page and others to track your browsing history. It also includes other functionalities, like shortcuts to the notifications page or app settings to control whether your current location is to be provided to Facebook's website.&lt;/p&gt;&lt;p&gt;The COARSE_LOCATION permission is only used if you enable &quot;Allow Check-ins&quot; on the preferences section, which is disabled by default.&lt;/p&gt;&lt;p&gt;AntiFeatures:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Tracking. You are required to log in to Facebook.&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>Apache2</license>
 		<categories>Internet</categories>
@@ -41765,6 +41765,19 @@ time.
 		<marketversion>1.4</marketversion>
 		<marketvercode>20140701</marketvercode>
 		<antifeatures>Tracking</antifeatures>
+		<package>
+			<version>1.4</version>
+			<versioncode>20140701</versioncode>
+			<apkname>com.danvelazco.fbwrapper_20140701.apk</apkname>
+			<srcname>com.danvelazco.fbwrapper_20140701_src.tar.gz</srcname>
+			<hash type="sha256">e9d6d95b4701fe5ee0c107aabf13eea62f9ebed348c87dcbf35ebffb6c5f556f</hash>
+			<sig>264fdeeca6315941fdcf3262cfff0f22</sig>
+			<size>355492</size>
+			<sdkver>14</sdkver>
+			<added>2014-07-08</added>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_NETWORK_STATE,INTERNET</permissions>
+			<features>android.hardware.location,android.hardware.location.network,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.3</version>
 			<versioncode>20140104</versioncode>
@@ -41788,19 +41801,6 @@ time.
 			<size>258146</size>
 			<sdkver>14</sdkver>
 			<added>2013-08-09</added>
-			<permissions>ACCESS_COARSE_LOCATION,ACCESS_NETWORK_STATE,INTERNET</permissions>
-			<features>android.hardware.location,android.hardware.location.network,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.2</version>
-			<versioncode>20130702</versioncode>
-			<apkname>com.danvelazco.fbwrapper_20130702.apk</apkname>
-			<srcname>com.danvelazco.fbwrapper_20130702_src.tar.gz</srcname>
-			<hash type="sha256">56b05993baba5db32e7c1978c0425bbdc58e356a597ce56f801d4febb932d7dc</hash>
-			<sig>264fdeeca6315941fdcf3262cfff0f22</sig>
-			<size>258697</size>
-			<sdkver>14</sdkver>
-			<added>2013-07-04</added>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_NETWORK_STATE,INTERNET</permissions>
 			<features>android.hardware.location,android.hardware.location.network,android.hardware.touchscreen</features>
 		</package>
@@ -42658,10 +42658,10 @@ time.
 	<application id="fr.ybo.transportsrennes">
 		<id>fr.ybo.transportsrennes</id>
 		<added>2013-06-26</added>
-		<lastupdated>2014-06-20</lastupdated>
+		<lastupdated>2014-07-08</lastupdated>
 		<name>Transports Rennes</name>
 		<summary>Transport info for France</summary>
-		<icon>fr.ybo.transportsrennes.363.png</icon>
+		<icon>fr.ybo.transportsrennes.364.png</icon>
 		<desc>&lt;p&gt;Transports Rennes provides quick access to information about public transportation of the city of Rennes, France and its sprawl. Information comes from the open data initiative by Keolis Rennes, the company running Rennes’ public transportation system.&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Bus and metro schedule (widget available for even faster access)&lt;/li&gt;&lt;li&gt; Bus/metro itinerary computation&lt;/li&gt;&lt;li&gt; Nearby bus stops and “LE vélo STAR” bikesharing stations&lt;/li&gt;&lt;li&gt; Number of available bikes in “LE vélo STAR” stations&lt;/li&gt;&lt;li&gt; Favorite bus stops, metro and bikesharing stations management&lt;/li&gt;&lt;li&gt; Available parking space in park-and-ride facilities&lt;/li&gt;&lt;li&gt; Disruption of service alerts and Twitter stream (@starbusmetro)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Google Maps are disabled in these builds. You can see the location of a situation with a cartographic app such as &lt;a href=&quot;fdroid.app:com.robert.maps&quot;&gt;RMaps&lt;/a&gt; or &lt;a href=&quot;fdroid.app:net.osmand.plus&quot;&gt;OsmAnd~&lt;/a&gt; though. Proprietary libraries have been removed.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Navigation</categories>
@@ -42671,6 +42671,19 @@ time.
 		<tracker>https://github.com/ybonnel/TransportsRennes/issues</tracker>
 		<marketversion>3.6.4</marketversion>
 		<marketvercode>364</marketvercode>
+		<package>
+			<version>3.6.4</version>
+			<versioncode>364</versioncode>
+			<apkname>fr.ybo.transportsrennes_364.apk</apkname>
+			<srcname>fr.ybo.transportsrennes_364_src.tar.gz</srcname>
+			<hash type="sha256">b177af203edefddfe71bf84c584d7dd4ce2259838df4392c22452e17bed5530c</hash>
+			<sig>752c0d93a12870e3b92f2391b64a743c</sig>
+			<size>4039035</size>
+			<sdkver>4</sdkver>
+			<added>2014-07-08</added>
+			<permissions>INTERNET,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,VIBRATE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.location,android.hardware.location.gps,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>3.6.3</version>
 			<versioncode>363</versioncode>
@@ -42694,19 +42707,6 @@ time.
 			<size>5495707</size>
 			<sdkver>4</sdkver>
 			<added>2014-05-12</added>
-			<permissions>INTERNET,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,VIBRATE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.location,android.hardware.location.gps,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>3.6.1</version>
-			<versioncode>361</versioncode>
-			<apkname>fr.ybo.transportsrennes_361.apk</apkname>
-			<srcname>fr.ybo.transportsrennes_361_src.tar.gz</srcname>
-			<hash type="sha256">a361f2857f92707c872339efe404887b6ac58f155ce91260d48ab09e9c16f8b8</hash>
-			<sig>752c0d93a12870e3b92f2391b64a743c</sig>
-			<size>5407591</size>
-			<sdkver>4</sdkver>
-			<added>2014-04-29</added>
 			<permissions>INTERNET,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,VIBRATE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.location,android.hardware.location.gps,android.hardware.touchscreen</features>
 		</package>
@@ -44161,10 +44161,10 @@ time.
 	<application id="de.blau.android">
 		<id>de.blau.android</id>
 		<added>2012-05-16</added>
-		<lastupdated>2014-05-10</lastupdated>
+		<lastupdated>2014-07-08</lastupdated>
 		<name>Vespucci</name>
 		<summary>OpenStreetMap editor</summary>
-		<icon>de.blau.android.30.png</icon>
+		<icon>de.blau.android.31.png</icon>
 		<desc>&lt;ul&gt;&lt;li&gt; Create and edit new Nodes and Ways&lt;/li&gt;&lt;li&gt; Append Nodes to existing Ways&lt;/li&gt;&lt;li&gt; Delete Nodes&lt;/li&gt;&lt;li&gt; Create, edit and delete Tags&lt;/li&gt;&lt;li&gt; Download and Upload to OSM-Server&lt;/li&gt;&lt;li&gt; Highlight unnamed highways, and ways/nodes with TODOs or FIXMEs&lt;/li&gt;&lt;li&gt; Add, comment and close OpenStreetBugs&lt;/li&gt;&lt;li&gt; Use a variety of background tile layers as reference&lt;/li&gt;&lt;li&gt; Show the users GPS-Track with accuracy&lt;/li&gt;&lt;li&gt; Display the raw data&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;What is Vespucci NOT?&lt;/p&gt;&lt;ul&gt;&lt;li&gt; a map-view or even a routing-application&lt;/li&gt;&lt;li&gt; a professional-editing tool like JOSM or Merkaator&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Instructions are on the &lt;a href=&quot;https://code.google.com/p/osmeditor4android/wiki/Overview?tm=6&quot;&gt;wiki&lt;/a&gt;.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>Navigation</categories>
@@ -44174,6 +44174,19 @@ time.
 		<tracker>https://code.google.com/p/osmeditor4android/issues</tracker>
 		<marketversion>0.9.4r781</marketversion>
 		<marketvercode>31</marketvercode>
+		<package>
+			<version>0.9.4r781</version>
+			<versioncode>31</versioncode>
+			<apkname>de.blau.android_31.apk</apkname>
+			<srcname>de.blau.android_31_src.tar.gz</srcname>
+			<hash type="sha256">f9c96da0936e9a94ee1f696e7d509ac165b7f70ca2236202f52e3896f4fad5bc</hash>
+			<sig>e49d9c46ccb5494038bc2022cb4a37a7</sig>
+			<size>2722315</size>
+			<sdkver>7</sdkver>
+			<added>2014-07-08</added>
+			<permissions>ACCESS_FINE_LOCATION,ACCESS_COARSE_LOCATION,INTERNET,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.9.4r770</version>
 			<versioncode>30</versioncode>
@@ -44197,19 +44210,6 @@ time.
 			<size>2646354</size>
 			<sdkver>7</sdkver>
 			<added>2014-04-04</added>
-			<permissions>ACCESS_FINE_LOCATION,ACCESS_COARSE_LOCATION,INTERNET,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.9.4r741</version>
-			<versioncode>28</versioncode>
-			<apkname>de.blau.android_28.apk</apkname>
-			<srcname>de.blau.android_28_src.tar.gz</srcname>
-			<hash type="sha256">1219e7dd965cd646e23d446c80c4349a80d0af54205e1a76f2e214dfa16bf904</hash>
-			<sig>e49d9c46ccb5494038bc2022cb4a37a7</sig>
-			<size>2638355</size>
-			<sdkver>7</sdkver>
-			<added>2014-03-30</added>
 			<permissions>ACCESS_FINE_LOCATION,ACCESS_COARSE_LOCATION,INTERNET,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -44336,10 +44336,10 @@ time.
 	<application id="org.videolan.vlc">
 		<id>org.videolan.vlc</id>
 		<added>2013-03-22</added>
-		<lastupdated>2014-06-24</lastupdated>
+		<lastupdated>2014-07-08</lastupdated>
 		<name>VLC</name>
 		<summary>Media player</summary>
-		<icon>org.videolan.vlc.9604.png</icon>
+		<icon>org.videolan.vlc.9704.png</icon>
 		<desc>&lt;p&gt;Video and audio player that supports a wide range of formats, for both local and remote playback.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://git.videolan.org/?p=vlc-ports/android.git;a=blob_plain;f=NEWS&quot;&gt;NEWS&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>LGPLv3</license>
 		<categories>Multimedia</categories>
@@ -44348,8 +44348,36 @@ time.
 		<source>http://git.videolan.org/?p=vlc-ports/android.git;a=summary</source>
 		<tracker>http://www.videolan.org/support/index.html#bugs</tracker>
 		<donate>http://www.videolan.org/contribute.html#money</donate>
-		<marketversion>0.9.7</marketversion>
-		<marketvercode>9704</marketvercode>
+		<marketversion>0.9.7.1</marketversion>
+		<marketvercode>9714</marketvercode>
+		<package>
+			<version>0.9.7</version>
+			<versioncode>9704</versioncode>
+			<apkname>org.videolan.vlc_9704.apk</apkname>
+			<srcname>org.videolan.vlc_9704_src.tar.gz</srcname>
+			<hash type="sha256">608af507e38234123f35ea0f20f12a1c71377a1551fd10c6e02783bbb8c33ce9</hash>
+			<sig>5cf2f3be5449176221424f605b0c401f</sig>
+			<size>11896131</size>
+			<sdkver>7</sdkver>
+			<added>2014-07-08</added>
+			<permissions>MODIFY_AUDIO_SETTINGS,INTERNET,READ_PHONE_STATE,READ_LOGS,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
+			<nativecode>armeabi-v7a</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
+		<package>
+			<version>0.9.7</version>
+			<versioncode>9702</versioncode>
+			<apkname>org.videolan.vlc_9702.apk</apkname>
+			<srcname>org.videolan.vlc_9702_src.tar.gz</srcname>
+			<hash type="sha256">deab0bcede857ef825568dc5e07c0b93ca72ce323294122e94871badd90c2952</hash>
+			<sig>5cf2f3be5449176221424f605b0c401f</sig>
+			<size>12970123</size>
+			<sdkver>7</sdkver>
+			<added>2014-07-08</added>
+			<permissions>MODIFY_AUDIO_SETTINGS,INTERNET,READ_PHONE_STATE,READ_LOGS,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
+			<nativecode>x86</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.9.6</version>
 			<versioncode>9604</versioncode>
@@ -44375,34 +44403,6 @@ time.
 			<sdkver>7</sdkver>
 			<added>2014-06-24</added>
 			<permissions>MODIFY_AUDIO_SETTINGS,INTERNET,READ_PHONE_STATE,READ_LOGS,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
-			<nativecode>x86</nativecode>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.9.1</version>
-			<versioncode>9104</versioncode>
-			<apkname>org.videolan.vlc_9104.apk</apkname>
-			<srcname>org.videolan.vlc_9104_src.tar.gz</srcname>
-			<hash type="sha256">ac847916658ec94e8169a6bc53fad6c126b8e9db87db636d76a313c0806def5f</hash>
-			<sig>5cf2f3be5449176221424f605b0c401f</sig>
-			<size>11036471</size>
-			<sdkver>7</sdkver>
-			<added>2014-04-08</added>
-			<permissions>MODIFY_AUDIO_SETTINGS,INTERNET,READ_PHONE_STATE,READ_LOGS,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
-			<nativecode>armeabi-v7a</nativecode>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.9.1</version>
-			<versioncode>9102</versioncode>
-			<apkname>org.videolan.vlc_9102.apk</apkname>
-			<srcname>org.videolan.vlc_9102_src.tar.gz</srcname>
-			<hash type="sha256">c27938ffd3eb248eda63397700b98c2777137a9169b9b5e5358303933d356509</hash>
-			<sig>5cf2f3be5449176221424f605b0c401f</sig>
-			<size>12099038</size>
-			<sdkver>7</sdkver>
-			<added>2014-04-08</added>
-			<permissions>MODIFY_AUDIO_SETTINGS,INTERNET,READ_PHONE_STATE,READ_LOGS,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
 			<nativecode>x86</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
