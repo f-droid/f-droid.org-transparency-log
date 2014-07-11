@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1404880899" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1404980813" url="http://f-droid.org/repo" version="12">
 		<description>
 The official FDroid repository. Applications in this repository are mostly built
 directory from the source code. Some are official binaries built by the original
@@ -2539,35 +2539,6 @@ time.
 			<sdkver>3</sdkver>
 			<added>2011-04-06</added>
 			<permissions>INTERNET,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-	</application>
-	<application id="tritop.android.androsens">
-		<id>tritop.android.androsens</id>
-		<added>2012-08-23</added>
-		<lastupdated>2012-08-23</lastupdated>
-		<name>Androsens</name>
-		<summary>Read data from sensors</summary>
-		<icon>tritop.android.androsens.2.png</icon>
-		<desc>&lt;p&gt;Find submerged submarines or dig yourself out of avalanches by consulting your phone; modern smartphones are equipped with a wide variety of sensors and this application displays on a graph what those sensors are reading. If you're not sure if the sensors on your smartphone are working you can use this app to find out.&lt;/p&gt;</desc>
-		<license>GPLv3</license>
-		<categories>System</categories>
-		<category>System</category>
-		<web>https://code.google.com/p/androsens</web>
-		<source>https://code.google.com/p/androsens/source</source>
-		<tracker/>
-		<marketversion>1.2</marketversion>
-		<marketvercode>2</marketvercode>
-		<package>
-			<version>1.2</version>
-			<versioncode>2</versioncode>
-			<apkname>tritop.android.androsens_2.apk</apkname>
-			<srcname>tritop.android.androsens_2_src.tar.gz</srcname>
-			<hash type="sha256">6aef8e81251e5fab31a12a43f5a61154589f8af2b25d64daf5971aeb34c67383</hash>
-			<sig>a10f801f77d75f625bafcf013d417e30</sig>
-			<size>23056</size>
-			<sdkver>7</sdkver>
-			<added>2012-08-23</added>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -5315,8 +5286,8 @@ time.
 		<source>https://code.google.com/p/battery-indicator/source</source>
 		<tracker>https://code.google.com/p/battery-indicator/issues</tracker>
 		<donate>https://code.google.com/p/battery-indicator/wiki/PackageDownload?tm=2</donate>
-		<marketversion>8.1.10-dev</marketversion>
-		<marketvercode>11165</marketvercode>
+		<marketversion>8.1.10</marketversion>
+		<marketvercode>11166</marketvercode>
 		<package>
 			<version>8.1.8</version>
 			<versioncode>11162</versioncode>
@@ -14703,8 +14674,8 @@ time.
 		<web>http://www.hyperionics.com/?Page=/TtsPlus</web>
 		<source>https://github.com/gregko/TtsPlus-FBReader</source>
 		<tracker>https://github.com/gregko/TtsPlus-FBReader/issues</tracker>
-		<marketversion>3.5.1</marketversion>
-		<marketvercode>3050100</marketvercode>
+		<marketversion>3.5.2</marketversion>
+		<marketvercode>3050200</marketvercode>
 		<package>
 			<version>2.2.1</version>
 			<versioncode>2002010</versioncode>
@@ -16626,7 +16597,7 @@ time.
 		<name>GetBack GPS</name>
 		<summary>Navigation tool</summary>
 		<icon>com.github.ruleant.getback_gps.12.png</icon>
-		<desc>&lt;p&gt;Find your way back to a previously visited location using GPS coordinates.&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; determine location based on GPS signal, WiFi or cell phone network:&lt;/li&gt;&lt;li&gt; use best/most accurate location provider&lt;/li&gt;&lt;li&gt; get location updates automatically (based on a time interval or change of location) or&lt;/li&gt;&lt;li&gt; get location on demand (by manually refreshing)&lt;/li&gt;&lt;li&gt; save a location&lt;/li&gt;&lt;li&gt; 'get back' mode: indicator pointing to a stored location (showing distance and direction)&lt;/li&gt;&lt;li&gt; indicate current speed and current bearing&lt;/li&gt;&lt;li&gt; use built-in sensors to get more accurate and quicker updated bearing&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Available languages:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Czech&lt;/li&gt;&lt;li&gt; Dutch&lt;/li&gt;&lt;li&gt; English&lt;/li&gt;&lt;li&gt; German&lt;/li&gt;&lt;li&gt; Romanian&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Is your language missing? You can &lt;a href=&quot;http://ruleant.github.io/getback_gps/#translation&quot;&gt;help translating&lt;/a&gt;.&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;Find your way back to a previously visited location using GPS coordinates.&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; determine location based on GPS signal, WiFi or cell phone network:&lt;/li&gt;&lt;li&gt; use best/most accurate location provider&lt;/li&gt;&lt;li&gt; get location updates automatically (based on a time interval or change of location) or&lt;/li&gt;&lt;li&gt; get location on demand (by manually refreshing)&lt;/li&gt;&lt;li&gt; save a location&lt;/li&gt;&lt;li&gt; 'get back' mode: indicator pointing to a stored location (showing distance and direction)&lt;/li&gt;&lt;li&gt; indicate current speed and current bearing&lt;/li&gt;&lt;li&gt; use built-in sensors to get more accurate and quicker updated bearing&lt;/li&gt;&lt;li&gt; compass rose indicating North&lt;/li&gt;&lt;li&gt; detect travel direction and adjust relative direction to destination accordingly&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Available languages:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Chinese (Traditional)&lt;/li&gt;&lt;li&gt; Czech&lt;/li&gt;&lt;li&gt; Danish&lt;/li&gt;&lt;li&gt; Dutch&lt;/li&gt;&lt;li&gt; English&lt;/li&gt;&lt;li&gt; French&lt;/li&gt;&lt;li&gt; German&lt;/li&gt;&lt;li&gt; Romanian&lt;/li&gt;&lt;li&gt; Portuguese (Brazil)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Is your language missing? You can &lt;a href=&quot;http://ruleant.github.io/getback_gps/#translation&quot;&gt;help translating&lt;/a&gt;.&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Navigation</categories>
 		<category>Navigation</category>
@@ -27096,8 +27067,8 @@ time.
 		<web>http://www.navit-project.org</web>
 		<source>http://sourceforge.net/p/navit/code</source>
 		<tracker>http://trac.navit-project.org</tracker>
-		<marketversion>5810</marketversion>
-		<marketvercode>5810</marketvercode>
+		<marketversion>5811</marketversion>
+		<marketvercode>5811</marketvercode>
 		<package>
 			<version>navit 0.5.0-5720</version>
 			<versioncode>5720</versioncode>
@@ -31090,8 +31061,8 @@ time.
 		<web/>
 		<source>https://github.com/owncloud/News-Android-App</source>
 		<tracker>https://github.com/owncloud/News-Android-App/issues</tracker>
-		<marketversion>0.6.1</marketversion>
-		<marketvercode>46</marketvercode>
+		<marketversion>0.6.9.5</marketversion>
+		<marketvercode>59</marketvercode>
 		<package>
 			<version>0.6.1</version>
 			<versioncode>46</versioncode>
@@ -44404,10 +44375,10 @@ time.
 	<application id="org.videolan.vlc">
 		<id>org.videolan.vlc</id>
 		<added>2013-03-22</added>
-		<lastupdated>2014-07-08</lastupdated>
+		<lastupdated>2014-07-10</lastupdated>
 		<name>VLC</name>
 		<summary>Media player</summary>
-		<icon>org.videolan.vlc.9704.png</icon>
+		<icon>org.videolan.vlc.9714.png</icon>
 		<desc>&lt;p&gt;Video and audio player that supports a wide range of formats, for both local and remote playback.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://git.videolan.org/?p=vlc-ports/android.git;a=blob_plain;f=NEWS&quot;&gt;NEWS&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>LGPLv3</license>
 		<categories>Multimedia</categories>
@@ -44418,6 +44389,34 @@ time.
 		<donate>http://www.videolan.org/contribute.html#money</donate>
 		<marketversion>0.9.7.1</marketversion>
 		<marketvercode>9714</marketvercode>
+		<package>
+			<version>0.9.7.1</version>
+			<versioncode>9714</versioncode>
+			<apkname>org.videolan.vlc_9714.apk</apkname>
+			<srcname>org.videolan.vlc_9714_src.tar.gz</srcname>
+			<hash type="sha256">a42a43f1dfec0fb4301b62d8b8bbf5897e8e7d0c873d9a4a7b5ac67bee7c0136</hash>
+			<sig>5cf2f3be5449176221424f605b0c401f</sig>
+			<size>11896527</size>
+			<sdkver>7</sdkver>
+			<added>2014-07-10</added>
+			<permissions>MODIFY_AUDIO_SETTINGS,INTERNET,READ_PHONE_STATE,READ_LOGS,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
+			<nativecode>armeabi-v7a</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
+		<package>
+			<version>0.9.7.1</version>
+			<versioncode>9712</versioncode>
+			<apkname>org.videolan.vlc_9712.apk</apkname>
+			<srcname>org.videolan.vlc_9712_src.tar.gz</srcname>
+			<hash type="sha256">db8d6d03db2485b38df93fcb9b500ebf8d26b58d1e6f76fce69c5ec91691ff28</hash>
+			<sig>5cf2f3be5449176221424f605b0c401f</sig>
+			<size>12971163</size>
+			<sdkver>7</sdkver>
+			<added>2014-07-10</added>
+			<permissions>MODIFY_AUDIO_SETTINGS,INTERNET,READ_PHONE_STATE,READ_LOGS,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
+			<nativecode>x86</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.9.7</version>
 			<versioncode>9704</versioncode>
@@ -44789,6 +44788,37 @@ time.
 			<sdkver>4</sdkver>
 			<added>2012-09-07</added>
 			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
+	<application id="com.poinsart.votar">
+		<id>com.poinsart.votar</id>
+		<added>2014-07-10</added>
+		<lastupdated>2014-07-10</lastupdated>
+		<name>VotAR</name>
+		<summary>Vote with augmented reality</summary>
+		<icon>com.poinsart.votar.4.png</icon>
+		<desc>&lt;p&gt;VotAR is an Augmented Reality audience Voting or audience survey system. Your audience hold some papers with a special printed symbol to vote, and as the speaker you take a photo of it with this app, it will analyze the photo to count the votes.&lt;/p&gt;</desc>
+		<license>AGPLv3+</license>
+		<categories>Science &amp; Education</categories>
+		<category>Science &amp; Education</category>
+		<web>https://github.com/stephanepoinsart/votar</web>
+		<source>https://github.com/stephanepoinsart/votar</source>
+		<tracker>https://github.com/stephanepoinsart/votar/issues</tracker>
+		<marketversion>1.2</marketversion>
+		<marketvercode>4</marketvercode>
+		<package>
+			<version>1.2</version>
+			<versioncode>4</versioncode>
+			<apkname>com.poinsart.votar_4.apk</apkname>
+			<srcname>com.poinsart.votar_4_src.tar.gz</srcname>
+			<hash type="sha256">a2a458e645f5a727298ce033964d155364d8aaad17ed63ff907a43c7f173b9c4</hash>
+			<sig>d5316ced167e8702d3a351bd1b1a4ae8</sig>
+			<size>122851</size>
+			<sdkver>9</sdkver>
+			<added>2014-07-10</added>
+			<permissions>CAMERA,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,INTERNET,ACCESS_WIFI_STATE</permissions>
+			<nativecode>armeabi</nativecode>
+			<features>android.hardware.camera,android.hardware.wifi,android.hardware.touchscreen</features>
 		</package>
 	</application>
 	<application id="org.vudroid">
