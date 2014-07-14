@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1405148604" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1405286803" url="http://f-droid.org/repo" version="12">
 		<description>
 The official FDroid repository. Applications in this repository are mostly built
 directory from the source code. Some are official binaries built by the original
@@ -7623,6 +7623,36 @@ time.
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="com.frozendevs.cache.cleaner">
+		<id>com.frozendevs.cache.cleaner</id>
+		<added>2014-07-13</added>
+		<lastupdated>2014-07-13</lastupdated>
+		<name>Cache Cleaner</name>
+		<summary>Clean the cache</summary>
+		<icon>com.frozendevs.cache.cleaner.10.png</icon>
+		<desc>&lt;p&gt;Cache cleaning tool which does not require a rooted device. Features native Holo look and feel and fast operation.&lt;/p&gt;</desc>
+		<license>MIT</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web>http://www.frozendevs.com</web>
+		<source>https://github.com/Frozen-Developers/android-cache-cleaner</source>
+		<tracker>https://github.com/Frozen-Developers/android-cache-cleaner/issues</tracker>
+		<marketversion>1.1.7</marketversion>
+		<marketvercode>10</marketvercode>
+		<package>
+			<version>1.1.7</version>
+			<versioncode>10</versioncode>
+			<apkname>com.frozendevs.cache.cleaner_10.apk</apkname>
+			<srcname>com.frozendevs.cache.cleaner_10_src.tar.gz</srcname>
+			<hash type="sha256">cf1b0e603f0a7f657b1e48b6f6cce61ec17fc11d1e2b828c66508ae61aa84298</hash>
+			<sig>c055834acab5ff907fad92f820298acb</sig>
+			<size>887628</size>
+			<sdkver>9</sdkver>
+			<added>2014-07-13</added>
+			<permissions>GET_PACKAGE_SIZE,CLEAR_APP_CACHE,RECEIVE_BOOT_COMPLETED</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="org.iilab.pb">
 		<id>org.iilab.pb</id>
 		<added>2014-06-24</added>
@@ -8134,10 +8164,10 @@ time.
 	<application id="com.jadn.cc">
 		<id>com.jadn.cc</id>
 		<added>2012-01-07</added>
-		<lastupdated>2013-08-12</lastupdated>
+		<lastupdated>2014-07-13</lastupdated>
 		<name>Car Cast</name>
 		<summary>Simple podcast downloader</summary>
-		<icon>com.jadn.cc.154.png</icon>
+		<icon>com.jadn.cc.173.png</icon>
 		<desc>&lt;p&gt;Car Cast is a simple audio podcast downloader and player. Optimized for use in a daily commute; it features big buttons, large text and remembers the last played location.&lt;/p&gt;&lt;ol&gt;&lt;li&gt; Subscribe to podcasts by searching or adding feed urls (opml in next version)&lt;/li&gt;&lt;li&gt; Download 1,2,3 etc. most recent podcasts for each feed&lt;/li&gt;&lt;li&gt; Playback in car/gym (no network needed)&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Admob was removed before building. Anti-feature: Tracking. Usage data is sent by default though it can be disabled in settings.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Multimedia</categories>
@@ -8148,6 +8178,19 @@ time.
 		<marketversion>1.0.173</marketversion>
 		<marketvercode>173</marketvercode>
 		<antifeatures>Tracking</antifeatures>
+		<package>
+			<version>1.0.173</version>
+			<versioncode>173</versioncode>
+			<apkname>com.jadn.cc_173.apk</apkname>
+			<srcname>com.jadn.cc_173_src.tar.gz</srcname>
+			<hash type="sha256">26694f1cbb78ec5585d6302e60e8b70385be937a54f730436b402afa16327f5b</hash>
+			<sig>5b464bb9b5e90b756b626a947e0b3d61</sig>
+			<size>602375</size>
+			<sdkver>8</sdkver>
+			<added>2014-07-13</added>
+			<permissions>INTERNET,RECORD_AUDIO,ACCESS_WIFI_STATE,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,READ_PHONE_STATE,ACCESS_COARSE_LOCATION,RECEIVE_BOOT_COMPLETED,READ_LOGS,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.location,android.hardware.location.network,android.hardware.microphone,android.hardware.wifi,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.0.154</version>
 			<versioncode>154</versioncode>
@@ -8172,19 +8215,6 @@ time.
 			<sdkver>3</sdkver>
 			<added>2013-03-04</added>
 			<permissions>INTERNET,RECORD_AUDIO,ACCESS_WIFI_STATE,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,READ_PHONE_STATE,ACCESS_COARSE_LOCATION,RECEIVE_BOOT_COMPLETED,READ_LOGS,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.location,android.hardware.location.network,android.hardware.microphone,android.hardware.wifi,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.0.129</version>
-			<versioncode>129</versioncode>
-			<apkname>com.jadn.cc_129.apk</apkname>
-			<srcname>com.jadn.cc_129_src.tar.gz</srcname>
-			<hash type="sha256">357c7ef3c4695f7c9ee57fe4b297c513641dc81f05a869ecd7c19050ba7b5369</hash>
-			<sig>5b464bb9b5e90b756b626a947e0b3d61</sig>
-			<size>317844</size>
-			<sdkver>3</sdkver>
-			<added>2012-01-07</added>
-			<permissions>INTERNET,RECORD_AUDIO,ACCESS_WIFI_STATE,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,READ_PHONE_STATE,ACCESS_COARSE_LOCATION,RECEIVE_BOOT_COMPLETED,READ_LOGS,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.location,android.hardware.location.network,android.hardware.microphone,android.hardware.wifi,android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -8746,10 +8776,10 @@ time.
 	<application id="org.hekmatof.chesswatch">
 		<id>org.hekmatof.chesswatch</id>
 		<added>2014-06-28</added>
-		<lastupdated>2014-06-28</lastupdated>
+		<lastupdated>2014-07-13</lastupdated>
 		<name>ChessWatch</name>
 		<summary>Simple chess clock</summary>
-		<icon>org.hekmatof.chesswatch.1.png</icon>
+		<icon>org.hekmatof.chesswatch.2.png</icon>
 		<desc>&lt;p&gt;Simple chess clock&lt;/p&gt;</desc>
 		<license>GPLv2</license>
 		<categories>Games,Office</categories>
@@ -8759,6 +8789,18 @@ time.
 		<tracker>https://github.com/esahekmat/ChessWatch/issues</tracker>
 		<marketversion>1.1</marketversion>
 		<marketvercode>2</marketvercode>
+		<package>
+			<version>1.1</version>
+			<versioncode>2</versioncode>
+			<apkname>org.hekmatof.chesswatch_2.apk</apkname>
+			<srcname>org.hekmatof.chesswatch_2_src.tar.gz</srcname>
+			<hash type="sha256">3ada127ad46c26590fdc297a52b065fb296ae73753e76e0fbf265299f62e236b</hash>
+			<sig>5ed0ba4c160c6b16b5b8ab7d3784a343</sig>
+			<size>701670</size>
+			<sdkver>11</sdkver>
+			<added>2014-07-13</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.0</version>
 			<versioncode>1</versioncode>
@@ -9250,8 +9292,8 @@ time.
 		<web>https://github.com/banasiak/CoinFlip</web>
 		<source>https://github.com/banasiak/CoinFlip</source>
 		<tracker>https://github.com/banasiak/CoinFlip/issues</tracker>
-		<marketversion>5.5.2</marketversion>
-		<marketvercode>35</marketvercode>
+		<marketversion>6.0</marketversion>
+		<marketvercode>37</marketvercode>
 		<package>
 			<version>5.5.2</version>
 			<versioncode>35</versioncode>
@@ -11673,8 +11715,8 @@ time.
 		<web>http://dictionarymid.sourceforge.net/android.html</web>
 		<source>http://dictionarymid.sourceforge.net/android.html</source>
 		<tracker>http://dictionarymid.german-fighters.com/forum/index.php?board=12.0</tracker>
-		<marketversion>0.92.3</marketversion>
-		<marketvercode>103</marketvercode>
+		<marketversion>1.0.0</marketversion>
+		<marketvercode>117</marketvercode>
 		<package>
 			<version>0.91.1</version>
 			<versioncode>98</versioncode>
@@ -20878,10 +20920,10 @@ time.
 	<application id="org.kde.kdeconnect_tp">
 		<id>org.kde.kdeconnect_tp</id>
 		<added>2013-10-27</added>
-		<lastupdated>2014-06-30</lastupdated>
+		<lastupdated>2014-07-13</lastupdated>
 		<name>KDE Connect</name>
 		<summary>KDE Integration</summary>
-		<icon>org.kde.kdeconnect_tp.711.png</icon>
+		<icon>org.kde.kdeconnect_tp.720.png</icon>
 		<desc>&lt;p&gt;Integrate Android with the KDE Plasma Desktop.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Share files and URLs to KDE from any app, without wires.&lt;/li&gt;&lt;li&gt; Touchpad emulation: Use your phone screen as your computer's touchpad .&lt;/li&gt;&lt;li&gt; Notifications sync (4.3+): Read your Android notifications from the desktop.&lt;/li&gt;&lt;li&gt; Shared clipboard: copy and paste between your phone and your computer.&lt;/li&gt;&lt;li&gt; Multimedia remote control: Use your phone as a remote for Linux media players.&lt;/li&gt;&lt;li&gt; WiFi connection: no usb wire or bluetooth needed.&lt;/li&gt;&lt;li&gt; RSA Encryption: your information is safe.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Please note you will need to install KDE Connect on your computer for this app to work.&lt;/p&gt;</desc>
 		<license>GPLv2</license>
 		<categories>System</categories>
@@ -20889,8 +20931,21 @@ time.
 		<web>http://albertvaka.wordpress.com</web>
 		<source>http://quickgit.kde.org/?p=kdeconnect-android.git</source>
 		<tracker>https://bugs.kde.org</tracker>
-		<marketversion>0.7.1</marketversion>
-		<marketvercode>711</marketvercode>
+		<marketversion>0.7.2</marketversion>
+		<marketvercode>720</marketvercode>
+		<package>
+			<version>0.7.2</version>
+			<versioncode>720</versioncode>
+			<apkname>org.kde.kdeconnect_tp_720.apk</apkname>
+			<srcname>org.kde.kdeconnect_tp_720_src.tar.gz</srcname>
+			<hash type="sha256">b5570ff9619bc9fbfd035b29f0cbbb320dcaeb9420a5c8822e2f9a06ef711581</hash>
+			<sig>e74311e3969ca6305b314564aece020d</sig>
+			<size>1928047</size>
+			<sdkver>9</sdkver>
+			<added>2014-07-13</added>
+			<permissions>RECEIVE_BOOT_COMPLETED,INTERNET,ACCESS_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,READ_PHONE_STATE,BATTERY_STATS,RECEIVE_SMS,READ_CONTACTS,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.wifi,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.7.1</version>
 			<versioncode>711</versioncode>
@@ -20914,19 +20969,6 @@ time.
 			<size>1912633</size>
 			<sdkver>9</sdkver>
 			<added>2014-06-28</added>
-			<permissions>RECEIVE_BOOT_COMPLETED,INTERNET,ACCESS_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,READ_PHONE_STATE,BATTERY_STATS,RECEIVE_SMS,READ_CONTACTS,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.wifi,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.6.4</version>
-			<versioncode>20</versioncode>
-			<apkname>org.kde.kdeconnect_tp_20.apk</apkname>
-			<srcname>org.kde.kdeconnect_tp_20_src.tar.gz</srcname>
-			<hash type="sha256">54da9f7c4145f99d61ce550741e94e20b66a3ade320379a796431c5a0047494c</hash>
-			<sig>e74311e3969ca6305b314564aece020d</sig>
-			<size>1897532</size>
-			<sdkver>9</sdkver>
-			<added>2014-05-14</added>
 			<permissions>RECEIVE_BOOT_COMPLETED,INTERNET,ACCESS_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,READ_PHONE_STATE,BATTERY_STATS,RECEIVE_SMS,READ_CONTACTS,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.wifi,android.hardware.touchscreen</features>
 		</package>
@@ -22482,6 +22524,36 @@ time.
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="com.powerpoint45.lucidbrowser">
+		<id>com.powerpoint45.lucidbrowser</id>
+		<added>2014-07-13</added>
+		<lastupdated>2014-07-13</lastupdated>
+		<name>Lucid Browser</name>
+		<summary>Lightweight browser</summary>
+		<icon>com.powerpoint45.lucidbrowser.27.png</icon>
+		<desc>&lt;p&gt;Simple, lightweight and small browser with binary size below 1MB. It uses a custom homepage that loads locally for quick start-ups.&lt;/p&gt;</desc>
+		<license>MIT</license>
+		<categories>Internet</categories>
+		<category>Internet</category>
+		<web>https://github.com/powerpoint45/Lucid-Browser</web>
+		<source>https://github.com/powerpoint45/Lucid-Browser</source>
+		<tracker>https://github.com/powerpoint45/Lucid-Browser/issues</tracker>
+		<marketversion>3.7</marketversion>
+		<marketvercode>27</marketvercode>
+		<package>
+			<version>3.7</version>
+			<versioncode>27</versioncode>
+			<apkname>com.powerpoint45.lucidbrowser_27.apk</apkname>
+			<srcname>com.powerpoint45.lucidbrowser_27_src.tar.gz</srcname>
+			<hash type="sha256">0fb98e3b0541ae950c285de98dd59185822cdfa024d3fa257e569a6d2635bc78</hash>
+			<sig>1dc9f9310b57c16dda3e1b8ab246b002</sig>
+			<size>1066321</size>
+			<sdkver>11</sdkver>
+			<added>2014-07-13</added>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="org.lumicall.android">
 		<id>org.lumicall.android</id>
 		<added>2012-09-07</added>
@@ -23025,10 +23097,10 @@ time.
 	<application id="jp.yhonda">
 		<id>jp.yhonda</id>
 		<added>2014-03-02</added>
-		<lastupdated>2014-04-24</lastupdated>
+		<lastupdated>2014-07-13</lastupdated>
 		<name>MaximaOnAndroid</name>
 		<summary>Computer Algebra System</summary>
-		<icon>jp.yhonda.15.png</icon>
+		<icon>jp.yhonda.17.png</icon>
 		<desc>&lt;p&gt;Maxima, a full featured computer algebra system, now runs on your Android mobile devices. Maxima, and its predecessor Macsyma is one of the most long-established software in the world, back in 1960s at MIT LCS and Project Mac. You can perform many many math operations such as integration, differentiation, matrix operations, rational numbers, symbolic treatment of constants such as pi, e, euler's gamma, symbolic and numerical treatment of special functions such as sin(x), cos(x), log(x), exp(x), zeta(s), and many more.&lt;/p&gt;&lt;p&gt;Maxima on Android is a port of Maxima on the Android operating system. Thanks to Sylvain Ageneau' effort on porting Embeddable Common Lisp to the Android OS, the latest Maxima code runs nicely on ECL on Android with very small changes to the source code.&lt;/p&gt;&lt;p&gt;The installation of the software requires total of 90MB on the storage. 30MB needs to be installed on the internal storage. The rest of 60MB can be installed either on the external or the internal storage. The first run of the apk will ask you where you want the 60MB to be installed.&lt;/p&gt;</desc>
 		<license>GPLv2+</license>
 		<categories>Science &amp; Education</categories>
@@ -23036,8 +23108,21 @@ time.
 		<web>https://sites.google.com/site/maximaonandroid</web>
 		<source>https://github.com/YasuakiHonda/Maxima-on-Android</source>
 		<tracker>https://github.com/YasuakiHonda/Maxima-on-Android/issues</tracker>
-		<marketversion>2.2</marketversion>
-		<marketvercode>15</marketvercode>
+		<marketversion>2.4</marketversion>
+		<marketvercode>17</marketvercode>
+		<package>
+			<version>2.4</version>
+			<versioncode>17</versioncode>
+			<apkname>jp.yhonda_17.apk</apkname>
+			<srcname>jp.yhonda_17_src.tar.gz</srcname>
+			<hash type="sha256">d693a60d939a56bc2a615766fd8ba2a1531ae0cf6786071149a20941d329c8a1</hash>
+			<sig>aeb5ddb9a79adf175aad9ba5811ae421</sig>
+			<size>27952255</size>
+			<sdkver>8</sdkver>
+			<added>2014-07-13</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,INTERNET,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>2.2</version>
 			<versioncode>15</versioncode>
@@ -24719,12 +24804,12 @@ time.
 	<application id="it.reyboz.minesweeper">
 		<id>it.reyboz.minesweeper</id>
 		<added>2014-07-11</added>
-		<lastupdated>2014-07-11</lastupdated>
+		<lastupdated>2014-07-13</lastupdated>
 		<name>MineSweeper</name>
 		<summary>Clear minefield without detonating a mine.</summary>
-		<icon>it.reyboz.minesweeper.110.png</icon>
+		<icon>it.reyboz.minesweeper.113.png</icon>
 		<desc>&lt;p&gt;Simple one-tap strategy game where you have a virtual minefield and you must liberate it. If you play tapping randomly in the field probably your penguin will become a good petard, otherwise you and your cute penguin are probably destined to survive.&lt;/p&gt;&lt;p&gt;Tips:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; When you see any number pay much attention: There are exactly &quot;n&quot; bombs around that number!&lt;/li&gt;&lt;li&gt; Hold-tap to place flags.&lt;/li&gt;&lt;/ul&gt;</desc>
-		<license>GPLv3</license>
+		<license>GPLv3+</license>
 		<categories>Games</categories>
 		<category>Games</category>
 		<web>https://launchpad.net/minesweeper</web>
@@ -24733,6 +24818,19 @@ time.
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D5J9DMDL7S5V4</donate>
 		<marketversion>1.1.3</marketversion>
 		<marketvercode>113</marketvercode>
+		<package>
+			<version>1.1.3</version>
+			<versioncode>113</versioncode>
+			<apkname>it.reyboz.minesweeper_113.apk</apkname>
+			<srcname>it.reyboz.minesweeper_113_src.tar.gz</srcname>
+			<hash type="sha256">efd69e8c7f84e832494459af72696eeb912561373bb03a79c5b6f1a0c1d34832</hash>
+			<sig>b1dc8ff40f128d5107ad3d65a23cfe38</sig>
+			<size>1904999</size>
+			<sdkver>10</sdkver>
+			<added>2014-07-13</added>
+			<permissions>INTERNET,VIBRATE,WRITE_EXTERNAL_STORAGE,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,RECORD_AUDIO,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.microphone,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.1.0</version>
 			<versioncode>110</versioncode>
@@ -29048,7 +29146,7 @@ time.
 		<source>https://bitbucket.org/trikita/obsqr/src</source>
 		<tracker>https://bitbucket.org/trikita/obsqr/issues?status=new&amp;status=open</tracker>
 		<marketversion>2.6</marketversion>
-		<marketvercode>11</marketvercode>
+		<marketvercode>12</marketvercode>
 		<package>
 			<version>2.6</version>
 			<versioncode>11</versioncode>
@@ -38725,10 +38823,10 @@ time.
 	<application id="nl.mpcjanssen.simpletask">
 		<id>nl.mpcjanssen.simpletask</id>
 		<added>2013-12-04</added>
-		<lastupdated>2014-07-11</lastupdated>
+		<lastupdated>2014-07-13</lastupdated>
 		<name>Simpletask Cloudless</name>
 		<summary>Todo list manager</summary>
-		<icon>nl.mpcjanssen.simpletask.1510.png</icon>
+		<icon>nl.mpcjanssen.simpletask.1512.png</icon>
 		<desc>&lt;p&gt;A simple task list manager that strives to have just enough features to do GTD (the Getting Things Done methodology), but no more. Based on the &lt;a href=&quot;http://todotxt.com&quot;&gt;todo.txt&lt;/a&gt; app so all info is stored in a single text file called todo.txt. Note that, with this version, you will need to take care of backups yourself.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Todo list stored in the documented todo.txt format&lt;/li&gt;&lt;li&gt; Comprehensive filtering and multi sort&lt;/li&gt;&lt;li&gt; Create calendar reminders for specific tasks directly from the app&lt;/li&gt;&lt;li&gt; Select on or more tasks and press overflow menu-&amp;gt;Add reminder&lt;/li&gt;&lt;li&gt; Share the complete tasklist or selected tasks using the Android share feature&lt;/li&gt;&lt;li&gt; Tasks can deferred into the future. Combined with the &quot;Creation date in future&quot; sort it allows you to get tasks out of your face (as in 1MTD/MYN)&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -38736,8 +38834,34 @@ time.
 		<web>https://mpcjanssen.nl/fossil/simpletask</web>
 		<source>https://gitorious.org/simpletask/android</source>
 		<tracker>https://mpcjanssen.nl/fossil/simpletask/reportlist</tracker>
-		<marketversion>5.0.2</marketversion>
-		<marketvercode>1510</marketvercode>
+		<marketversion>5.0.4</marketversion>
+		<marketvercode>1512</marketvercode>
+		<package>
+			<version>5.0.4</version>
+			<versioncode>1512</versioncode>
+			<apkname>nl.mpcjanssen.simpletask_1512.apk</apkname>
+			<srcname>nl.mpcjanssen.simpletask_1512_src.tar.gz</srcname>
+			<hash type="sha256">a1077a0a9fa4a88a13e7cb684b230872c72467f0112a00eae2f507370167f21b</hash>
+			<sig>dd06020d0a5f4181366d0562dff0f90e</sig>
+			<size>1514567</size>
+			<sdkver>14</sdkver>
+			<added>2014-07-13</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+		<package>
+			<version>5.0.3</version>
+			<versioncode>1511</versioncode>
+			<apkname>nl.mpcjanssen.simpletask_1511.apk</apkname>
+			<srcname>nl.mpcjanssen.simpletask_1511_src.tar.gz</srcname>
+			<hash type="sha256">f1e99e43a6cfb4082381747c6bf49cc8683c2de037ce83958734893d968e88d9</hash>
+			<sig>dd06020d0a5f4181366d0562dff0f90e</sig>
+			<size>1514458</size>
+			<sdkver>14</sdkver>
+			<added>2014-07-13</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>5.0.2</version>
 			<versioncode>1510</versioncode>
@@ -38748,32 +38872,6 @@ time.
 			<size>1514358</size>
 			<sdkver>14</sdkver>
 			<added>2014-07-11</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>5.0.1</version>
-			<versioncode>1509</versioncode>
-			<apkname>nl.mpcjanssen.simpletask_1509.apk</apkname>
-			<srcname>nl.mpcjanssen.simpletask_1509_src.tar.gz</srcname>
-			<hash type="sha256">4ace55b4b6228dcfc0f2a2a72a5542b4542a20c8461ff6de31ba3ef76e7991a5</hash>
-			<sig>dd06020d0a5f4181366d0562dff0f90e</sig>
-			<size>1514408</size>
-			<sdkver>14</sdkver>
-			<added>2014-07-11</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>5.0.0RC3</version>
-			<versioncode>1507</versioncode>
-			<apkname>nl.mpcjanssen.simpletask_1507.apk</apkname>
-			<srcname>nl.mpcjanssen.simpletask_1507_src.tar.gz</srcname>
-			<hash type="sha256">ee269b7b000eef7f12fffe30b2ed6f2ce07812b6af7748fc4576a8927294f5ba</hash>
-			<sig>dd06020d0a5f4181366d0562dff0f90e</sig>
-			<size>1514303</size>
-			<sdkver>14</sdkver>
-			<added>2014-07-09</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -47197,8 +47295,8 @@ time.
 		<web>http://xmp.sourceforge.net</web>
 		<source>http://sourceforge.net/projects/xmp/develop</source>
 		<tracker/>
-		<marketversion>3.9.2</marketversion>
-		<marketvercode>53</marketvercode>
+		<marketversion>3.9.3</marketversion>
+		<marketvercode>54</marketvercode>
 		<package>
 			<version>3.6.0</version>
 			<versioncode>39</versioncode>
@@ -47440,35 +47538,6 @@ time.
 			<sdkver>8</sdkver>
 			<added>2013-11-13</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
-			<nativecode>armeabi</nativecode>
-			<features>android.hardware.touchscreen</features>
-		</package>
-	</application>
-	<application id="uobikiemukot.yaft">
-		<id>uobikiemukot.yaft</id>
-		<added>2014-07-11</added>
-		<lastupdated>2014-07-11</lastupdated>
-		<name>yaft</name>
-		<summary>Simple terminal emulator</summary>
-		<desc>&lt;p&gt;Simple terminal emulator for minimalists. It is based on yaft -- yet another framebuffer terminal. &lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; almost compatible with vt102 and linux console&lt;/li&gt;&lt;li&gt; UTF-8 support&lt;/li&gt;&lt;li&gt; 256 color support&lt;/li&gt;&lt;/ul&gt;</desc>
-		<license>MIT</license>
-		<categories>System</categories>
-		<category>System</category>
-		<web>https://github.com/uobikiemukot/yaft-android</web>
-		<source>https://github.com/uobikiemukot/yaft-android</source>
-		<tracker>https://github.com/uobikiemukot/yaft-android/issues</tracker>
-		<marketversion>1.0</marketversion>
-		<marketvercode>1</marketvercode>
-		<package>
-			<version>1.0</version>
-			<versioncode>1</versioncode>
-			<apkname>uobikiemukot.yaft_1.apk</apkname>
-			<srcname>uobikiemukot.yaft_1_src.tar.gz</srcname>
-			<hash type="sha256">32179949c237df9fbcc57cc2e7e1b701ca2d4ed7d25cacbeb92288c52d9ddded</hash>
-			<sig>578f531c102cadeee8df10f5a55640f8</sig>
-			<size>126283</size>
-			<sdkver>9</sdkver>
-			<added>2014-07-11</added>
 			<nativecode>armeabi</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
