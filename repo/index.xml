@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1405317757" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1405405325" url="http://f-droid.org/repo" version="12">
 		<description>
 The official FDroid repository. Applications in this repository are mostly built
 directory from the source code. Some are official binaries built by the original
@@ -4610,8 +4610,8 @@ time.
 		<web>http://indrora.github.io/Atomic</web>
 		<source>https://github.com/indrora/Atomic</source>
 		<tracker>https://github.com/indrora/Atomic/issues</tracker>
-		<marketversion>1.15</marketversion>
-		<marketvercode>15</marketvercode>
+		<marketversion>1.16</marketversion>
+		<marketvercode>16</marketvercode>
 		<package>
 			<version>1.15</version>
 			<versioncode>15</versioncode>
@@ -15194,8 +15194,8 @@ time.
 		<source>https://github.com/mysociety/fixmystreet-mobile</source>
 		<tracker>https://github.com/mysociety/fixmystreet-mobile/issues</tracker>
 		<donate>http://www.mysociety.org/donate</donate>
-		<marketversion>2.0.3</marketversion>
-		<marketvercode>38</marketvercode>
+		<marketversion>2.0.4</marketversion>
+		<marketvercode>39</marketvercode>
 		<package>
 			<version>2.0.1</version>
 			<versioncode>36</versioncode>
@@ -24805,10 +24805,10 @@ time.
 	<application id="it.reyboz.minesweeper">
 		<id>it.reyboz.minesweeper</id>
 		<added>2014-07-11</added>
-		<lastupdated>2014-07-13</lastupdated>
+		<lastupdated>2014-07-15</lastupdated>
 		<name>MineSweeper</name>
 		<summary>Clear minefield without detonating a mine.</summary>
-		<icon>it.reyboz.minesweeper.113.png</icon>
+		<icon>it.reyboz.minesweeper.120.png</icon>
 		<desc>&lt;p&gt;Simple one-tap strategy game where you have a virtual minefield and you must liberate it. If you play tapping randomly in the field probably your penguin will become a good petard, otherwise you and your cute penguin are probably destined to survive.&lt;/p&gt;&lt;p&gt;Tips:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; When you see any number pay much attention: There are exactly &quot;n&quot; bombs around that number!&lt;/li&gt;&lt;li&gt; Hold-tap to place flags.&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Games</categories>
@@ -24817,8 +24817,21 @@ time.
 		<source>https://code.launchpad.net/minesweeper</source>
 		<tracker>https://bugs.launchpad.net/minesweeper</tracker>
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D5J9DMDL7S5V4</donate>
-		<marketversion>1.2.0</marketversion>
-		<marketvercode>120</marketvercode>
+		<marketversion>1.5.0</marketversion>
+		<marketvercode>150</marketvercode>
+		<package>
+			<version>1.2.0</version>
+			<versioncode>120</versioncode>
+			<apkname>it.reyboz.minesweeper_120.apk</apkname>
+			<srcname>it.reyboz.minesweeper_120_src.tar.gz</srcname>
+			<hash type="sha256">5dff797d3e22c450c71d830bf0ee223d2e35a6307cbc9314c1cb1ecc8991ea77</hash>
+			<sig>b1dc8ff40f128d5107ad3d65a23cfe38</sig>
+			<size>1914127</size>
+			<sdkver>10</sdkver>
+			<added>2014-07-15</added>
+			<permissions>INTERNET,VIBRATE,WRITE_EXTERNAL_STORAGE,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,RECORD_AUDIO,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.microphone,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.1.3</version>
 			<versioncode>113</versioncode>
@@ -26949,8 +26962,8 @@ time.
 		<source>https://github.com/aykit/myownnotes-android</source>
 		<tracker>https://github.com/aykit/myownnotes-android/issues</tracker>
 		<flattr>2887057</flattr>
-		<marketversion>1.2.2</marketversion>
-		<marketvercode>5</marketvercode>
+		<marketversion>1.3.1</marketversion>
+		<marketvercode>7</marketvercode>
 		<package>
 			<version>1.2.2</version>
 			<versioncode>5</versioncode>
@@ -32053,6 +32066,35 @@ time.
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="com.frozendevs.periodictable">
+		<id>com.frozendevs.periodictable</id>
+		<added>2014-07-15</added>
+		<lastupdated>2014-07-15</lastupdated>
+		<name>Periodic Table</name>
+		<summary>Periodic table of the elements</summary>
+		<icon>com.frozendevs.periodictable.2.png</icon>
+		<desc>&lt;p&gt;Holo styled interactive periodic table with list of element properties and isotopes based on Wikipedia's database.&lt;/p&gt;</desc>
+		<license>GPLv3</license>
+		<categories>Science &amp; Education</categories>
+		<category>Science &amp; Education</category>
+		<web>http://www.frozendevs.com</web>
+		<source>https://github.com/Frozen-Developers/android-periodic-table</source>
+		<tracker>https://github.com/Frozen-Developers/android-periodic-table/issues</tracker>
+		<marketversion>1.0</marketversion>
+		<marketvercode>2</marketvercode>
+		<package>
+			<version>1.0</version>
+			<versioncode>2</versioncode>
+			<apkname>com.frozendevs.periodictable_2.apk</apkname>
+			<srcname>com.frozendevs.periodictable_2_src.tar.gz</srcname>
+			<hash type="sha256">84524cd20c1c767e5189e7c640fe4e7c9dd2130fb85238a593e60381ee19c6d4</hash>
+			<sig>1e862c5ffeb7560a44955852425b13e1</sig>
+			<size>1287698</size>
+			<sdkver>9</sdkver>
+			<added>2014-07-15</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="de.arnowelzel.android.periodical">
 		<id>de.arnowelzel.android.periodical</id>
 		<added>2013-03-22</added>
@@ -32686,10 +32728,10 @@ time.
 	<application id="com.morlunk.mumbleclient">
 		<id>com.morlunk.mumbleclient</id>
 		<added>2014-01-29</added>
-		<lastupdated>2014-05-04</lastupdated>
+		<lastupdated>2014-07-15</lastupdated>
 		<name>Plumble</name>
 		<summary>Voice chat for Mumble servers</summary>
-		<icon>com.morlunk.mumbleclient.64.png</icon>
+		<icon>com.morlunk.mumbleclient.66.png</icon>
 		<desc>&lt;ul&gt;&lt;li&gt; Opus, CELT, and Speex codec support&lt;/li&gt;&lt;li&gt; Certificates&lt;/li&gt;&lt;li&gt; Voice activity&lt;/li&gt;&lt;li&gt; Bluetooth&lt;/li&gt;&lt;li&gt; Public servers&lt;/li&gt;&lt;li&gt; Comments&lt;/li&gt;&lt;li&gt; Administration&lt;/li&gt;&lt;li&gt; Overlay&lt;/li&gt;&lt;li&gt; Theming&lt;/li&gt;&lt;li&gt; Notifications&lt;/li&gt;&lt;li&gt; Orbot integration&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
@@ -32699,8 +32741,22 @@ time.
 		<tracker>https://www.github.com/Morlunk/Plumble/issues</tracker>
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HZU3JS7MMDGBY</donate>
 		<flattr>1706423</flattr>
-		<marketversion>3.0.6</marketversion>
-		<marketvercode>64</marketvercode>
+		<marketversion>3.1.1</marketversion>
+		<marketvercode>66</marketvercode>
+		<package>
+			<version>3.1.1</version>
+			<versioncode>66</versioncode>
+			<apkname>com.morlunk.mumbleclient_66.apk</apkname>
+			<srcname>com.morlunk.mumbleclient_66_src.tar.gz</srcname>
+			<hash type="sha256">56463a8c1f61c9dd21d7f2a920cdd395245e9a99edbe20d2d0879b791d2d0fc6</hash>
+			<sig>39a379d5d9d78045bb07e08ba9bfd6b8</sig>
+			<size>5865101</size>
+			<sdkver>9</sdkver>
+			<added>2014-07-15</added>
+			<permissions>RECORD_AUDIO,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,SYSTEM_ALERT_WINDOW,VIBRATE,MODIFY_AUDIO_SETTINGS,BLUETOOTH,BROADCAST_STICKY</permissions>
+			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
+			<features>android.hardware.bluetooth,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>3.0.6</version>
 			<versioncode>64</versioncode>
@@ -32727,20 +32783,6 @@ time.
 			<added>2014-04-20</added>
 			<permissions>RECORD_AUDIO,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,SYSTEM_ALERT_WINDOW,VIBRATE,MODIFY_AUDIO_SETTINGS,BLUETOOTH,BROADCAST_STICKY</permissions>
 			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
-			<features>android.hardware.bluetooth,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>3.0.4</version>
-			<versioncode>62</versioncode>
-			<apkname>com.morlunk.mumbleclient_62.apk</apkname>
-			<srcname>com.morlunk.mumbleclient_62_src.tar.gz</srcname>
-			<hash type="sha256">6bb3eddc200cb48981f3d04a7cb5b5faa9b5c9dcd5271d31230eb3e68a2c50bd</hash>
-			<sig>39a379d5d9d78045bb07e08ba9bfd6b8</sig>
-			<size>4727722</size>
-			<sdkver>9</sdkver>
-			<added>2014-04-12</added>
-			<permissions>RECORD_AUDIO,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,SYSTEM_ALERT_WINDOW,VIBRATE,MODIFY_AUDIO_SETTINGS,BLUETOOTH,BROADCAST_STICKY</permissions>
-			<nativecode>armeabi,armeabi-v7a</nativecode>
 			<features>android.hardware.bluetooth,android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -40230,8 +40272,8 @@ time.
 		<web>https://code.google.com/p/android-squeezer</web>
 		<source>https://github.com/nikclayton/android-squeezer</source>
 		<tracker>https://code.google.com/p/android-squeezer/issues</tracker>
-		<marketversion>0.9.1</marketversion>
-		<marketvercode>13</marketvercode>
+		<marketversion>1.0-beta-3</marketversion>
+		<marketvercode>16</marketvercode>
 		<package>
 			<version>0.9.1</version>
 			<versioncode>13</versioncode>
@@ -40728,6 +40770,36 @@ time.
 			<sdkver>8</sdkver>
 			<added>2014-01-30</added>
 			<permissions>ACCESS_SUPERUSER,RECEIVE_BOOT_COMPLETED</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
+	<application id="com.omegavesko.sutransplus">
+		<id>com.omegavesko.sutransplus</id>
+		<added>2014-07-15</added>
+		<lastupdated>2014-07-15</lastupdated>
+		<name>Sutrans Plus</name>
+		<summary>Bus schedules for Serbian SuTrans</summary>
+		<icon>com.omegavesko.sutransplus.1.png</icon>
+		<desc>&lt;p&gt;Unofficial bus schedules for SuTrans, a Serbian bus company.&lt;/p&gt;</desc>
+		<license>GPLv2</license>
+		<categories>Navigation</categories>
+		<category>Navigation</category>
+		<web>https://github.com/omegavesko/SuTransPlus</web>
+		<source>https://github.com/omegavesko/SuTransPlus</source>
+		<tracker>https://github.com/omegavesko/SuTransPlus/issues</tracker>
+		<marketversion>1.0</marketversion>
+		<marketvercode>1</marketvercode>
+		<package>
+			<version>1.0</version>
+			<versioncode>1</versioncode>
+			<apkname>com.omegavesko.sutransplus_1.apk</apkname>
+			<srcname>com.omegavesko.sutransplus_1_src.tar.gz</srcname>
+			<hash type="sha256">c1d5a3d39a47eb328ae83c38eb5612544e81fee55220d355536281095b970b2c</hash>
+			<sig>360668f3ceec0f80eff17d1d5158f157</sig>
+			<size>1938629</size>
+			<sdkver>15</sdkver>
+			<added>2014-07-15</added>
+			<permissions>INTERNET,ACCESS_NETWORK_STATE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -42595,10 +42667,10 @@ time.
 	<application id="org.zephyrsoft.trackworktime">
 		<id>org.zephyrsoft.trackworktime</id>
 		<added>2013-12-11</added>
-		<lastupdated>2013-12-11</lastupdated>
+		<lastupdated>2014-07-15</lastupdated>
 		<name>Track Work Time</name>
 		<summary>Track your work time</summary>
-		<icon>org.zephyrsoft.trackworktime.14.png</icon>
+		<icon>org.zephyrsoft.trackworktime.18.png</icon>
 		<desc>&lt;p&gt;It lets you categorize each recorded interval by a client/task and a free text. The list of clients/tasks can be edited to suit your needs.&lt;/p&gt;&lt;p&gt;Additionally, if you wish, your flexible time account is taken care of: you always see how much you worked. You can also keep an eye on how much work time is left for today (by a notification which you can enable).&lt;/p&gt;&lt;p&gt;You may provide the geo-coordinates of your work place and the app can automatically clock you in while you are at work. This is done without using GPS, so your battery won’t be emptied by this app.&lt;/p&gt;&lt;p&gt;Anti-feature: Tracking. Crash reports are sent without interaction.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -42606,9 +42678,22 @@ time.
 		<web>https://dev.zephyrsoft.org</web>
 		<source>https://dev.zephyrsoft.org/svn/projects/trackworktime/trunk</source>
 		<tracker>https://dev.zephyrsoft.org/jira/browse/TWT</tracker>
-		<marketversion>0.5.16-SNAPSHOT</marketversion>
-		<marketvercode>19</marketvercode>
+		<marketversion>0.5.15</marketversion>
+		<marketvercode>18</marketvercode>
 		<antifeatures>Tracking</antifeatures>
+		<package>
+			<version>0.5.15</version>
+			<versioncode>18</versioncode>
+			<apkname>org.zephyrsoft.trackworktime_18.apk</apkname>
+			<srcname>org.zephyrsoft.trackworktime_18_src.tar.gz</srcname>
+			<hash type="sha256">614fac036e0bcde969789082ad5fc885f8f35fe274b441c4242cd08dc6fb8b5d</hash>
+			<sig>e11b556d3138088f68bd351e8828ceba</sig>
+			<size>620574</size>
+			<sdkver>7</sdkver>
+			<added>2014-07-15</added>
+			<permissions>ACCESS_COARSE_LOCATION,RECEIVE_BOOT_COMPLETED,VIBRATE,INTERNET,ACCESS_WIFI_STATE,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.location,android.hardware.location.network,android.hardware.wifi,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.5.11</version>
 			<versioncode>14</versioncode>
@@ -47539,6 +47624,35 @@ time.
 			<sdkver>8</sdkver>
 			<added>2013-11-13</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<nativecode>armeabi</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
+	<application id="uobikiemukot.yaft">
+		<id>uobikiemukot.yaft</id>
+		<added>2014-07-11</added>
+		<lastupdated>2014-07-11</lastupdated>
+		<name>yaft</name>
+		<summary>Simple terminal emulator</summary>
+		<desc>&lt;p&gt;Simple terminal emulator for minimalists. It is based on yaft -- yet another framebuffer terminal. &lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; almost compatible with vt102 and linux console&lt;/li&gt;&lt;li&gt; UTF-8 support&lt;/li&gt;&lt;li&gt; 256 color support&lt;/li&gt;&lt;/ul&gt;</desc>
+		<license>MIT</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web>https://github.com/uobikiemukot/yaft-android</web>
+		<source>https://github.com/uobikiemukot/yaft-android</source>
+		<tracker>https://github.com/uobikiemukot/yaft-android/issues</tracker>
+		<marketversion>1.0</marketversion>
+		<marketvercode>1</marketvercode>
+		<package>
+			<version>1.0</version>
+			<versioncode>1</versioncode>
+			<apkname>uobikiemukot.yaft_1.apk</apkname>
+			<srcname>uobikiemukot.yaft_1_src.tar.gz</srcname>
+			<hash type="sha256">5319fb5eb9bc9c30f0bc78cc1d65a4c4b600771aa806afe4c0e35016a0f1be26</hash>
+			<sig>578f531c102cadeee8df10f5a55640f8</sig>
+			<size>126227</size>
+			<sdkver>9</sdkver>
+			<added>2014-07-11</added>
 			<nativecode>armeabi</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
