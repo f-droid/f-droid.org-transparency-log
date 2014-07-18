@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1405405325" url="http://f-droid.org/repo" version="12">
-		<description>
-The official FDroid repository. Applications in this repository are mostly built
-directory from the source code. Some are official binaries built by the original
-application developers - these will be replaced by source-built versions over
-time.
-</description>
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1405606885" url="http://f-droid.org/repo" version="12">
+		<description>The official FDroid repository. Applications in this repository are mostly built directory from the source code. Some are official binaries built by the original application developers - these will be replaced by source-built versions over time. </description>
 	</repo>
 	<application id="de.j4velin.systemappmover">
 		<id>de.j4velin.systemappmover</id>
@@ -4599,10 +4594,10 @@ time.
 	<application id="indrora.atomic">
 		<id>indrora.atomic</id>
 		<added>2014-04-11</added>
-		<lastupdated>2014-06-12</lastupdated>
+		<lastupdated>2014-07-17</lastupdated>
 		<name>Atomic</name>
 		<summary>IRC (chat) client</summary>
-		<icon>indrora.atomic.15.png</icon>
+		<icon>indrora.atomic.16.png</icon>
 		<desc>&lt;p&gt;Internet Relay Chat (IRC) client based on &lt;a href=&quot;fdroid.app:org.yaaic&quot;&gt;Yaaic&lt;/a&gt;.&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Internet</categories>
@@ -4612,6 +4607,19 @@ time.
 		<tracker>https://github.com/indrora/Atomic/issues</tracker>
 		<marketversion>1.16</marketversion>
 		<marketvercode>16</marketvercode>
+		<package>
+			<version>1.16</version>
+			<versioncode>16</versioncode>
+			<apkname>indrora.atomic_16.apk</apkname>
+			<srcname>indrora.atomic_16_src.tar.gz</srcname>
+			<hash type="sha256">43995a744987cd4c93c5aad3f4e3e45558da2563c27c8534044b0a1073f73126</hash>
+			<sig>5f05c77001f4a0ff5d3383bf2f1e9361</sig>
+			<size>1520542</size>
+			<sdkver>7</sdkver>
+			<added>2014-07-17</added>
+			<permissions>INTERNET,VIBRATE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.15</version>
 			<versioncode>15</versioncode>
@@ -4635,19 +4643,6 @@ time.
 			<size>1374817</size>
 			<sdkver>7</sdkver>
 			<added>2014-04-17</added>
-			<permissions>INTERNET,VIBRATE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.13</version>
-			<versioncode>13</versioncode>
-			<apkname>indrora.atomic_13.apk</apkname>
-			<srcname>indrora.atomic_13_src.tar.gz</srcname>
-			<hash type="sha256">bc46882f255577dae2e343f255032d7c2bd1cf45e001abfc205f176d34496396</hash>
-			<sig>5f05c77001f4a0ff5d3383bf2f1e9361</sig>
-			<size>1374752</size>
-			<sdkver>7</sdkver>
-			<added>2014-04-11</added>
 			<permissions>INTERNET,VIBRATE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -9591,7 +9586,7 @@ time.
 		<source>https://code.google.com/p/android-comicsreader/source</source>
 		<tracker>https://code.google.com/p/android-comicsreader/issues</tracker>
 		<marketversion>2.0</marketversion>
-		<marketvercode>21</marketvercode>
+		<marketvercode>22</marketvercode>
 		<package>
 			<version>1.2</version>
 			<versioncode>18</versioncode>
@@ -13036,8 +13031,8 @@ time.
 		<source>https://github.com/daneren2005/Subsonic</source>
 		<tracker>https://github.com/daneren2005/Subsonic/issues</tracker>
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=5GUMY7ZLZRNXS&amp;lc=US&amp;item_name=DSub&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted</donate>
-		<marketversion>4.7.1</marketversion>
-		<marketvercode>114</marketvercode>
+		<marketversion>4.7.2</marketversion>
+		<marketvercode>116</marketvercode>
 		<package>
 			<version>4.3.5</version>
 			<versioncode>80</versioncode>
@@ -16564,8 +16559,8 @@ time.
 		<web>http://geokrety.org</web>
 		<source>http://sourceforge.net/p/geokretylog/code</source>
 		<tracker>http://forum.opencaching.pl/viewtopic.php?f=6&amp;t=7789</tracker>
-		<marketversion>0.7.3 beta</marketversion>
-		<marketvercode>38</marketvercode>
+		<marketversion>0.7.4 beta</marketversion>
+		<marketvercode>39</marketvercode>
 		<package>
 			<version>0.7.3 beta</version>
 			<versioncode>38</versioncode>
@@ -17814,6 +17809,35 @@ time.
 			<features>android.hardware.wifi,android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="ru.zxalexis.ugaday">
+		<id>ru.zxalexis.ugaday</id>
+		<added>2014-07-17</added>
+		<lastupdated>2014-07-17</lastupdated>
+		<name>Guess</name>
+		<summary>Guess a number</summary>
+		<icon>ru.zxalexis.ugaday.1.png</icon>
+		<desc>&lt;p&gt;Simple guessing game. The goal is to guess a random number from 1 to 100 with 8 tries.&lt;/p&gt;</desc>
+		<license>PublicDomain</license>
+		<categories>Games</categories>
+		<category>Games</category>
+		<web>https://gitorious.org/guess-the-number</web>
+		<source>https://gitorious.org/guess-the-number/guess-the-number/</source>
+		<tracker>https://gitorious.org/guess-the-number/guess-the-number/merge_requests</tracker>
+		<marketversion>0.1</marketversion>
+		<marketvercode>1</marketvercode>
+		<package>
+			<version>0.1</version>
+			<versioncode>1</versioncode>
+			<apkname>ru.zxalexis.ugaday_1.apk</apkname>
+			<srcname>ru.zxalexis.ugaday_1_src.tar.gz</srcname>
+			<hash type="sha256">44f00691125367280ed786f77a6576845d2d82927b49ff2c68153908f4fc4631</hash>
+			<sig>112e6efb0a673725ed492d7906e7f6fe</sig>
+			<size>276018</size>
+			<sdkver>10</sdkver>
+			<added>2014-07-17</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="com.gulshansingh.hackerlivewallpaper">
 		<id>com.gulshansingh.hackerlivewallpaper</id>
 		<added>2013-07-26</added>
@@ -18816,10 +18840,10 @@ time.
 	<application id="com.nilhcem.hostseditor">
 		<id>com.nilhcem.hostseditor</id>
 		<added>2013-05-28</added>
-		<lastupdated>2013-12-31</lastupdated>
+		<lastupdated>2014-07-17</lastupdated>
 		<name>Hosts Editor</name>
 		<summary>Edit system hosts file</summary>
-		<icon>com.nilhcem.hostseditor.3.png</icon>
+		<icon>com.nilhcem.hostseditor.4.png</icon>
 		<desc>&lt;p&gt;View and freely edit the /system/etc/hosts file on your device.&lt;/p&gt;&lt;p&gt;Requires root: Yes. The hosts files is located in /system which is normally read-only.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>System</categories>
@@ -18830,6 +18854,19 @@ time.
 		<marketversion>1.3</marketversion>
 		<marketvercode>4</marketvercode>
 		<requirements>root</requirements>
+		<package>
+			<version>1.3</version>
+			<versioncode>4</versioncode>
+			<apkname>com.nilhcem.hostseditor_4.apk</apkname>
+			<srcname>com.nilhcem.hostseditor_4_src.tar.gz</srcname>
+			<hash type="sha256">9b3d948669a1bcd259c0ee70f3fc28ad9747871203de4bde409c11d1b743516f</hash>
+			<sig>c522d8cc18e90b0b9099588673c30436</sig>
+			<size>1215523</size>
+			<sdkver>8</sdkver>
+			<added>2014-07-17</added>
+			<permissions>ACCESS_SUPERUSER</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.2</version>
 			<versioncode>3</versioncode>
@@ -24634,10 +24671,10 @@ time.
 	<application id="de.syss.MifareClassicTool">
 		<id>de.syss.MifareClassicTool</id>
 		<added>2013-12-09</added>
-		<lastupdated>2014-06-22</lastupdated>
+		<lastupdated>2014-07-17</lastupdated>
 		<name>Mifare Classic Tool</name>
 		<summary>Analyse a type of NFC tag</summary>
-		<icon>de.syss.MifareClassicTool.24.png</icon>
+		<icon>de.syss.MifareClassicTool.25.png</icon>
 		<desc>&lt;p&gt;This is a low-level tool for analysing Mifare Classic RFID tags. It is not intended to provide an easy interface for writing URIs to tags but that kind of thing is possible.&lt;/p&gt;&lt;p&gt;The source code page or website for has full instructions. It should work on most NFC-enabled devices but there are exceptions.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ikarus23/MifareClassicTool/raw/master/CHANGELOG.txt&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -24645,8 +24682,21 @@ time.
 		<web>http://publications.icaria.de/mct</web>
 		<source>https://github.com/ikarus23/MifareClassicTool</source>
 		<tracker>https://github.com/ikarus23/MifareClassicTool/issues</tracker>
-		<marketversion>1.7.5</marketversion>
-		<marketvercode>24</marketvercode>
+		<marketversion>1.7.6</marketversion>
+		<marketvercode>25</marketvercode>
+		<package>
+			<version>1.7.6</version>
+			<versioncode>25</versioncode>
+			<apkname>de.syss.MifareClassicTool_25.apk</apkname>
+			<srcname>de.syss.MifareClassicTool_25_src.tar.gz</srcname>
+			<hash type="sha256">71367eb590650a5af3aed16e3fb71ef193b46a227651ac6af23d57ec54d059d7</hash>
+			<sig>f8a2eae34a28aedb04629f9c3250be6e</sig>
+			<size>615155</size>
+			<sdkver>10</sdkver>
+			<added>2014-07-17</added>
+			<permissions>NFC,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.nfc,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.7.5</version>
 			<versioncode>24</versioncode>
@@ -24670,19 +24720,6 @@ time.
 			<size>718451</size>
 			<sdkver>10</sdkver>
 			<added>2014-05-15</added>
-			<permissions>NFC,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.nfc,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.7.3</version>
-			<versioncode>22</versioncode>
-			<apkname>de.syss.MifareClassicTool_22.apk</apkname>
-			<srcname>de.syss.MifareClassicTool_22_src.tar.gz</srcname>
-			<hash type="sha256">48690f6d54972f6f77167b24f3f7c41c7528a93f32729f360c313d1813b2507f</hash>
-			<sig>f8a2eae34a28aedb04629f9c3250be6e</sig>
-			<size>718081</size>
-			<sdkver>10</sdkver>
-			<added>2014-02-27</added>
 			<permissions>NFC,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.nfc,android.hardware.touchscreen</features>
 		</package>
@@ -24805,10 +24842,10 @@ time.
 	<application id="it.reyboz.minesweeper">
 		<id>it.reyboz.minesweeper</id>
 		<added>2014-07-11</added>
-		<lastupdated>2014-07-15</lastupdated>
+		<lastupdated>2014-07-17</lastupdated>
 		<name>MineSweeper</name>
 		<summary>Clear minefield without detonating a mine.</summary>
-		<icon>it.reyboz.minesweeper.120.png</icon>
+		<icon>it.reyboz.minesweeper.152.png</icon>
 		<desc>&lt;p&gt;Simple one-tap strategy game where you have a virtual minefield and you must liberate it. If you play tapping randomly in the field probably your penguin will become a good petard, otherwise you and your cute penguin are probably destined to survive.&lt;/p&gt;&lt;p&gt;Tips:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; When you see any number pay much attention: There are exactly &quot;n&quot; bombs around that number!&lt;/li&gt;&lt;li&gt; Hold-tap to place flags.&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Games</categories>
@@ -24817,8 +24854,34 @@ time.
 		<source>https://code.launchpad.net/minesweeper</source>
 		<tracker>https://bugs.launchpad.net/minesweeper</tracker>
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D5J9DMDL7S5V4</donate>
-		<marketversion>1.5.0</marketversion>
-		<marketvercode>150</marketvercode>
+		<marketversion>1.5.2</marketversion>
+		<marketvercode>152</marketvercode>
+		<package>
+			<version>1.5.2</version>
+			<versioncode>152</versioncode>
+			<apkname>it.reyboz.minesweeper_152.apk</apkname>
+			<srcname>it.reyboz.minesweeper_152_src.tar.gz</srcname>
+			<hash type="sha256">4e6a2df4c29df44584acd452d97f420550aae9f423dfbb46878775fa8acea869</hash>
+			<sig>b1dc8ff40f128d5107ad3d65a23cfe38</sig>
+			<size>1915879</size>
+			<sdkver>10</sdkver>
+			<added>2014-07-17</added>
+			<permissions>INTERNET,VIBRATE,WRITE_EXTERNAL_STORAGE,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,RECORD_AUDIO,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.microphone,android.hardware.touchscreen</features>
+		</package>
+		<package>
+			<version>1.5.1</version>
+			<versioncode>151</versioncode>
+			<apkname>it.reyboz.minesweeper_151.apk</apkname>
+			<srcname>it.reyboz.minesweeper_151_src.tar.gz</srcname>
+			<hash type="sha256">ef8195098be4673b471b7fcc116e444ae79f5c54133999bef76b24468646286f</hash>
+			<sig>b1dc8ff40f128d5107ad3d65a23cfe38</sig>
+			<size>1915243</size>
+			<sdkver>10</sdkver>
+			<added>2014-07-17</added>
+			<permissions>INTERNET,VIBRATE,WRITE_EXTERNAL_STORAGE,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,RECORD_AUDIO,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.microphone,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.2.0</version>
 			<versioncode>120</versioncode>
@@ -24829,32 +24892,6 @@ time.
 			<size>1914127</size>
 			<sdkver>10</sdkver>
 			<added>2014-07-15</added>
-			<permissions>INTERNET,VIBRATE,WRITE_EXTERNAL_STORAGE,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,RECORD_AUDIO,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.microphone,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.1.3</version>
-			<versioncode>113</versioncode>
-			<apkname>it.reyboz.minesweeper_113.apk</apkname>
-			<srcname>it.reyboz.minesweeper_113_src.tar.gz</srcname>
-			<hash type="sha256">efd69e8c7f84e832494459af72696eeb912561373bb03a79c5b6f1a0c1d34832</hash>
-			<sig>b1dc8ff40f128d5107ad3d65a23cfe38</sig>
-			<size>1904999</size>
-			<sdkver>10</sdkver>
-			<added>2014-07-13</added>
-			<permissions>INTERNET,VIBRATE,WRITE_EXTERNAL_STORAGE,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,RECORD_AUDIO,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.microphone,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.1.0</version>
-			<versioncode>110</versioncode>
-			<apkname>it.reyboz.minesweeper_110.apk</apkname>
-			<srcname>it.reyboz.minesweeper_110_src.tar.gz</srcname>
-			<hash type="sha256">a7aec791bf093a052fa694cd211709e2d12b6f01b7996683815924669880ad66</hash>
-			<sig>b1dc8ff40f128d5107ad3d65a23cfe38</sig>
-			<size>1903275</size>
-			<sdkver>10</sdkver>
-			<added>2014-07-11</added>
 			<permissions>INTERNET,VIBRATE,WRITE_EXTERNAL_STORAGE,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,RECORD_AUDIO,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.microphone,android.hardware.touchscreen</features>
 		</package>
@@ -25169,10 +25206,10 @@ time.
 	<application id="org.bitbucket.tickytacky.mirrormirror">
 		<id>org.bitbucket.tickytacky.mirrormirror</id>
 		<added>2014-07-11</added>
-		<lastupdated>2014-07-11</lastupdated>
+		<lastupdated>2014-07-17</lastupdated>
 		<name>Mirror Mirror</name>
 		<summary>Non-reversing mirror</summary>
-		<icon>org.bitbucket.tickytacky.mirrormirror.3.png</icon>
+		<icon>org.bitbucket.tickytacky.mirrormirror.4.png</icon>
 		<desc>&lt;p&gt;See what your front camera sees&lt;/p&gt;&lt;ul&gt;&lt;li&gt; No permissions except camera&lt;/li&gt;&lt;li&gt; Hides status bar&lt;/li&gt;&lt;li&gt; Keeps screen on&lt;/li&gt;&lt;li&gt; No other silly features&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv2</license>
 		<categories>Multimedia</categories>
@@ -25180,8 +25217,21 @@ time.
 		<web>https://bitbucket.org/tickytacky/mirrormirror</web>
 		<source>https://bitbucket.org/tickytacky/mirrormirror/src</source>
 		<tracker>https://bitbucket.org/tickytacky/mirrormirror/issues</tracker>
-		<marketversion>1.0.2</marketversion>
-		<marketvercode>3</marketvercode>
+		<marketversion>1.0.3</marketversion>
+		<marketvercode>4</marketvercode>
+		<package>
+			<version>1.0.3</version>
+			<versioncode>4</versioncode>
+			<apkname>org.bitbucket.tickytacky.mirrormirror_4.apk</apkname>
+			<srcname>org.bitbucket.tickytacky.mirrormirror_4_src.tar.gz</srcname>
+			<hash type="sha256">6d029cb743f96d3804e7376fb873d6025d9435db6af9b78ab05c23fdad784df1</hash>
+			<sig>91ea97410acda0a4ff86b7504c3a58eb</sig>
+			<size>6588</size>
+			<sdkver>14</sdkver>
+			<added>2014-07-17</added>
+			<permissions>CAMERA</permissions>
+			<features>android.hardware.camera.front,android.hardware.camera,android.hardware.camera.autofocus,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.0.2</version>
 			<versioncode>3</versioncode>
@@ -25203,19 +25253,6 @@ time.
 			<hash type="sha256">64021f6d632eb5ba55bdeb5c4a78ed612bd3facc25d9a8a5d1c9d5d7a6bcc047</hash>
 			<sig>91ea97410acda0a4ff86b7504c3a58eb</sig>
 			<size>7084</size>
-			<sdkver>14</sdkver>
-			<added>2014-07-11</added>
-			<permissions>CAMERA</permissions>
-			<features>android.hardware.camera.front,android.hardware.camera,android.hardware.camera.autofocus,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.0</version>
-			<versioncode>1</versioncode>
-			<apkname>org.bitbucket.tickytacky.mirrormirror_1.apk</apkname>
-			<srcname>org.bitbucket.tickytacky.mirrormirror_1_src.tar.gz</srcname>
-			<hash type="sha256">288087aeb35f295559c3bce52ef4974bdf72ad33c15be68fbc71a4237674564a</hash>
-			<sig>91ea97410acda0a4ff86b7504c3a58eb</sig>
-			<size>7173</size>
 			<sdkver>14</sdkver>
 			<added>2014-07-11</added>
 			<permissions>CAMERA</permissions>
@@ -31103,11 +31140,11 @@ time.
 	<application id="net.osmand.plus">
 		<id>net.osmand.plus</id>
 		<added>2011-06-24</added>
-		<lastupdated>2013-08-07</lastupdated>
+		<lastupdated>2014-07-17</lastupdated>
 		<name>OsmAnd~</name>
 		<summary>Offline/online maps and navigation</summary>
-		<icon>net.osmand.plus.145.png</icon>
-		<desc>&lt;p&gt;Osmand~'s features can be extended by enabling the plugins via the settings, which include online maps from many sources, tracking, OSM editing and accessibility enhancements.&lt;/p&gt;&lt;p&gt;Map data of both vector and raster types can be stored on the phone memory card for offline usage, and navigation by default uses offline methods.  Map data packages for many territories can be downloaded from within the app and there is a desktop program available on the website as well for creating your own.&lt;/p&gt;</desc>
+		<icon>net.osmand.plus.182.png</icon>
+		<desc>&lt;p&gt;Osmand~'s features can be extended by enabling the plugins via the settings, which include online maps from many sources, tracking, OSM editing and accessibility enhancements.&lt;/p&gt;&lt;p&gt;Map data of both vector and raster types can be stored on the phone memory card for offline usage, and navigation by default uses offline methods. Map data packages for many territories can be downloaded from within the app and there is a desktop program available on the website as well for creating your own.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Navigation</categories>
 		<category>Navigation</category>
@@ -31115,8 +31152,22 @@ time.
 		<source>https://github.com/osmandapp/Osmand</source>
 		<tracker>https://github.com/osmandapp/Osmand/issues</tracker>
 		<donate>https://code.google.com/p/osmand/#Please_support_the_project</donate>
-		<marketversion>1.6.5</marketversion>
-		<marketvercode>165</marketvercode>
+		<marketversion>1.8.2</marketversion>
+		<marketvercode>182</marketvercode>
+		<antifeatures>Tracking</antifeatures>
+		<package>
+			<version>1.8.2</version>
+			<versioncode>182</versioncode>
+			<apkname>net.osmand.plus_182.apk</apkname>
+			<srcname>net.osmand.plus_182_src.tar.gz</srcname>
+			<hash type="sha256">519d12610caf5b70fb118a183fa7650192ff75eaa380aff09630577d39f3ea02</hash>
+			<sig>62de1ed5da5b716973da89258848e7bc</sig>
+			<size>25693215</size>
+			<sdkver>7</sdkver>
+			<added>2014-07-17</added>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,INTERNET,WRITE_EXTERNAL_STORAGE,WRITE_MEDIA_STORAGE,STORAGE,ACCESS_NETWORK_STATE,WAKE_LOCK,CAMERA,VIBRATE,RECORD_AUDIO,READ_EXTERNAL_STORAGE</permissions>
+			<nativecode>armeabi,armeabi-v7a,mips,x86</nativecode>
+		</package>
 		<package>
 			<version>1.5-ARM</version>
 			<versioncode>145</versioncode>
@@ -31142,19 +31193,6 @@ time.
 			<added>2013-08-07</added>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,INTERNET,WRITE_EXTERNAL_STORAGE,STORAGE,ACCESS_NETWORK_STATE,WAKE_LOCK,CAMERA,RECORD_AUDIO,READ_EXTERNAL_STORAGE</permissions>
 			<nativecode>x86</nativecode>
-		</package>
-		<package>
-			<version>1.5-MIPS</version>
-			<versioncode>143</versioncode>
-			<apkname>net.osmand.plus_143.apk</apkname>
-			<srcname>net.osmand.plus_143_src.tar.gz</srcname>
-			<hash type="sha256">e2fe43a3d93c8ffd3fd266892f82cb69de9a80f5595d3d8936ff022fc8bb6d81</hash>
-			<sig>62de1ed5da5b716973da89258848e7bc</sig>
-			<size>15575219</size>
-			<sdkver>7</sdkver>
-			<added>2013-08-07</added>
-			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,INTERNET,WRITE_EXTERNAL_STORAGE,STORAGE,ACCESS_NETWORK_STATE,WAKE_LOCK,CAMERA,RECORD_AUDIO,READ_EXTERNAL_STORAGE</permissions>
-			<nativecode>mips</nativecode>
 		</package>
 	</application>
 	<application id="net.anzix.osm.upload">
@@ -31317,6 +31355,7 @@ time.
 		<web>https://owncloud.org</web>
 		<source>https://github.com/owncloud/android</source>
 		<tracker>https://github.com/owncloud/android/issues</tracker>
+		<flattr>f15dfcd9a3f7f9de8e9eb5f9fe9911e7</flattr>
 		<marketversion>1.5.7</marketversion>
 		<marketvercode>105007</marketvercode>
 		<package>
@@ -38866,10 +38905,10 @@ time.
 	<application id="nl.mpcjanssen.simpletask">
 		<id>nl.mpcjanssen.simpletask</id>
 		<added>2013-12-04</added>
-		<lastupdated>2014-07-13</lastupdated>
+		<lastupdated>2014-07-17</lastupdated>
 		<name>Simpletask Cloudless</name>
 		<summary>Todo list manager</summary>
-		<icon>nl.mpcjanssen.simpletask.1512.png</icon>
+		<icon>nl.mpcjanssen.simpletask.1517.png</icon>
 		<desc>&lt;p&gt;A simple task list manager that strives to have just enough features to do GTD (the Getting Things Done methodology), but no more. Based on the &lt;a href=&quot;http://todotxt.com&quot;&gt;todo.txt&lt;/a&gt; app so all info is stored in a single text file called todo.txt. Note that, with this version, you will need to take care of backups yourself.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Todo list stored in the documented todo.txt format&lt;/li&gt;&lt;li&gt; Comprehensive filtering and multi sort&lt;/li&gt;&lt;li&gt; Create calendar reminders for specific tasks directly from the app&lt;/li&gt;&lt;li&gt; Select on or more tasks and press overflow menu-&amp;gt;Add reminder&lt;/li&gt;&lt;li&gt; Share the complete tasklist or selected tasks using the Android share feature&lt;/li&gt;&lt;li&gt; Tasks can deferred into the future. Combined with the &quot;Creation date in future&quot; sort it allows you to get tasks out of your face (as in 1MTD/MYN)&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -38877,8 +38916,34 @@ time.
 		<web>https://mpcjanssen.nl/fossil/simpletask</web>
 		<source>https://gitorious.org/simpletask/android</source>
 		<tracker>https://mpcjanssen.nl/fossil/simpletask/reportlist</tracker>
-		<marketversion>5.0.4</marketversion>
-		<marketvercode>1512</marketvercode>
+		<marketversion>5.0.9</marketversion>
+		<marketvercode>1517</marketvercode>
+		<package>
+			<version>5.0.9</version>
+			<versioncode>1517</versioncode>
+			<apkname>nl.mpcjanssen.simpletask_1517.apk</apkname>
+			<srcname>nl.mpcjanssen.simpletask_1517_src.tar.gz</srcname>
+			<hash type="sha256">39509ffc39fb4ef15bd7f18d932521da6d1ea185fc0ea9704509c97c362276f4</hash>
+			<sig>dd06020d0a5f4181366d0562dff0f90e</sig>
+			<size>1546169</size>
+			<sdkver>14</sdkver>
+			<added>2014-07-17</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+		<package>
+			<version>5.0.7</version>
+			<versioncode>1515</versioncode>
+			<apkname>nl.mpcjanssen.simpletask_1515.apk</apkname>
+			<srcname>nl.mpcjanssen.simpletask_1515_src.tar.gz</srcname>
+			<hash type="sha256">15f9638a45f6b80e3d838f5b74ffa268dc96f3ccf7d0878c66eede66a4568a8b</hash>
+			<sig>dd06020d0a5f4181366d0562dff0f90e</sig>
+			<size>1546001</size>
+			<sdkver>14</sdkver>
+			<added>2014-07-17</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>5.0.4</version>
 			<versioncode>1512</versioncode>
@@ -38889,32 +38954,6 @@ time.
 			<size>1514567</size>
 			<sdkver>14</sdkver>
 			<added>2014-07-13</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>5.0.3</version>
-			<versioncode>1511</versioncode>
-			<apkname>nl.mpcjanssen.simpletask_1511.apk</apkname>
-			<srcname>nl.mpcjanssen.simpletask_1511_src.tar.gz</srcname>
-			<hash type="sha256">f1e99e43a6cfb4082381747c6bf49cc8683c2de037ce83958734893d968e88d9</hash>
-			<sig>dd06020d0a5f4181366d0562dff0f90e</sig>
-			<size>1514458</size>
-			<sdkver>14</sdkver>
-			<added>2014-07-13</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>5.0.2</version>
-			<versioncode>1510</versioncode>
-			<apkname>nl.mpcjanssen.simpletask_1510.apk</apkname>
-			<srcname>nl.mpcjanssen.simpletask_1510_src.tar.gz</srcname>
-			<hash type="sha256">4483758888b72f63d450120b84bead7970bfd97cea9e15ba7a2ecba0f6114333</hash>
-			<sig>dd06020d0a5f4181366d0562dff0f90e</sig>
-			<size>1514358</size>
-			<sdkver>14</sdkver>
-			<added>2014-07-11</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -45963,10 +46002,10 @@ time.
 	<application id="de.freewarepoint.whohasmystuff">
 		<id>de.freewarepoint.whohasmystuff</id>
 		<added>2012-09-22</added>
-		<lastupdated>2014-03-10</lastupdated>
+		<lastupdated>2014-07-17</lastupdated>
 		<name>Who Has My Stuff?</name>
 		<summary>Manager for lent items</summary>
-		<icon>de.freewarepoint.whohasmystuff.14.png</icon>
+		<icon>de.freewarepoint.whohasmystuff.15.png</icon>
 		<desc>&lt;p&gt;Did you ever search for a book, wondering who might have borrowed it from you? Do you often forget how much money people are owing you? Now you can keep track of your lent things with this very simple application. It lets you define a description, date and contact person from your address book for each object.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -45974,8 +46013,21 @@ time.
 		<web>https://github.com/stovocor/whohasmystuff</web>
 		<source>https://github.com/stovocor/whohasmystuff</source>
 		<tracker>https://github.com/stovocor/whohasmystuff/issues</tracker>
-		<marketversion>1.0.13</marketversion>
-		<marketvercode>14</marketvercode>
+		<marketversion>1.0.14</marketversion>
+		<marketvercode>15</marketvercode>
+		<package>
+			<version>1.0.14</version>
+			<versioncode>15</versioncode>
+			<apkname>de.freewarepoint.whohasmystuff_15.apk</apkname>
+			<srcname>de.freewarepoint.whohasmystuff_15_src.tar.gz</srcname>
+			<hash type="sha256">d3a7469c96839238ecc85a61152bf93a473d63637fe9ef217cc19b2e9283f9d4</hash>
+			<sig>c7ca904c79d4dff63902f6c9e595a01d</sig>
+			<size>108592</size>
+			<sdkver>5</sdkver>
+			<added>2014-07-17</added>
+			<permissions>READ_CONTACTS,WRITE_EXTERNAL_STORAGE,READ_CALENDAR,WRITE_CALENDAR,READ_EXTERNAL_STORAGE,READ_CALL_LOG</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.0.13</version>
 			<versioncode>14</versioncode>
@@ -45999,19 +46051,6 @@ time.
 			<size>94417</size>
 			<sdkver>5</sdkver>
 			<added>2013-09-11</added>
-			<permissions>READ_CONTACTS,WRITE_EXTERNAL_STORAGE,READ_CALENDAR,WRITE_CALENDAR,READ_EXTERNAL_STORAGE,READ_CALL_LOG</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.0.10</version>
-			<versioncode>11</versioncode>
-			<apkname>de.freewarepoint.whohasmystuff_11.apk</apkname>
-			<srcname>de.freewarepoint.whohasmystuff_11_src.tar.gz</srcname>
-			<hash type="sha256">ea08770215c24f1012fd07118a5c55d0c98cf0568a8bc094d2946242f8a8da24</hash>
-			<sig>c7ca904c79d4dff63902f6c9e595a01d</sig>
-			<size>87421</size>
-			<sdkver>5</sdkver>
-			<added>2013-04-16</added>
 			<permissions>READ_CONTACTS,WRITE_EXTERNAL_STORAGE,READ_CALENDAR,WRITE_CALENDAR,READ_EXTERNAL_STORAGE,READ_CALL_LOG</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -46049,10 +46088,10 @@ time.
 	<application id="ru.glesik.wifireminders">
 		<id>ru.glesik.wifireminders</id>
 		<added>2014-06-15</added>
-		<lastupdated>2014-06-27</lastupdated>
+		<lastupdated>2014-07-17</lastupdated>
 		<name>Wi-Fi Reminders</name>
 		<summary>Wi-Fi based reminders</summary>
-		<icon>ru.glesik.wifireminders.111.png</icon>
+		<icon>ru.glesik.wifireminders.112.png</icon>
 		<desc>&lt;p&gt;Shows custom notifications when specified wireless networks are in range. You can set arbitrary reminders for any stored wireless network. As soon as your device is active (e. g. the screen is on) and the network is visible, the reminder will be displayed as standard notification with sound, vibration and blinking indicator.&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Office</categories>
@@ -46062,8 +46101,21 @@ time.
 		<tracker>https://github.com/glesik/wifireminders/issues</tracker>
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=8RNEWF8QHQHTN</donate>
 		<bitcoin>15bSZLRTF3nH9uLrsqW2xm5UMdcd3eqF1e</bitcoin>
-		<marketversion>1.1.1</marketversion>
-		<marketvercode>111</marketvercode>
+		<marketversion>1.1.2</marketversion>
+		<marketvercode>112</marketvercode>
+		<package>
+			<version>1.1.2</version>
+			<versioncode>112</versioncode>
+			<apkname>ru.glesik.wifireminders_112.apk</apkname>
+			<srcname>ru.glesik.wifireminders_112_src.tar.gz</srcname>
+			<hash type="sha256">8dc70010e3cefb96bb4702b67527be76dd0d3fed864e7691e9151d457118a9b7</hash>
+			<sig>5095cfb63de1e7c9e9a44f51762cfbb5</sig>
+			<size>217090</size>
+			<sdkver>8</sdkver>
+			<added>2014-07-17</added>
+			<permissions>ACCESS_WIFI_STATE,VIBRATE,CHANGE_WIFI_STATE,RECEIVE_BOOT_COMPLETED</permissions>
+			<features>android.hardware.wifi,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.1.1</version>
 			<versioncode>111</versioncode>
@@ -47624,35 +47676,6 @@ time.
 			<sdkver>8</sdkver>
 			<added>2013-11-13</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
-			<nativecode>armeabi</nativecode>
-			<features>android.hardware.touchscreen</features>
-		</package>
-	</application>
-	<application id="uobikiemukot.yaft">
-		<id>uobikiemukot.yaft</id>
-		<added>2014-07-11</added>
-		<lastupdated>2014-07-11</lastupdated>
-		<name>yaft</name>
-		<summary>Simple terminal emulator</summary>
-		<desc>&lt;p&gt;Simple terminal emulator for minimalists. It is based on yaft -- yet another framebuffer terminal. &lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; almost compatible with vt102 and linux console&lt;/li&gt;&lt;li&gt; UTF-8 support&lt;/li&gt;&lt;li&gt; 256 color support&lt;/li&gt;&lt;/ul&gt;</desc>
-		<license>MIT</license>
-		<categories>System</categories>
-		<category>System</category>
-		<web>https://github.com/uobikiemukot/yaft-android</web>
-		<source>https://github.com/uobikiemukot/yaft-android</source>
-		<tracker>https://github.com/uobikiemukot/yaft-android/issues</tracker>
-		<marketversion>1.0</marketversion>
-		<marketvercode>1</marketvercode>
-		<package>
-			<version>1.0</version>
-			<versioncode>1</versioncode>
-			<apkname>uobikiemukot.yaft_1.apk</apkname>
-			<srcname>uobikiemukot.yaft_1_src.tar.gz</srcname>
-			<hash type="sha256">5319fb5eb9bc9c30f0bc78cc1d65a4c4b600771aa806afe4c0e35016a0f1be26</hash>
-			<sig>578f531c102cadeee8df10f5a55640f8</sig>
-			<size>126227</size>
-			<sdkver>9</sdkver>
-			<added>2014-07-11</added>
 			<nativecode>armeabi</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
