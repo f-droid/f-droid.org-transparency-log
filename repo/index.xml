@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1405606885" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1405658277" url="http://f-droid.org/repo" version="12">
 		<description>The official FDroid repository. Applications in this repository are mostly built directory from the source code. Some are official binaries built by the original application developers - these will be replaced by source-built versions over time. </description>
 	</repo>
 	<application id="de.j4velin.systemappmover">
@@ -1199,10 +1199,10 @@
 	<application id="dev.ukanth.ufirewall">
 		<id>dev.ukanth.ufirewall</id>
 		<added>2013-03-19</added>
-		<lastupdated>2014-05-30</lastupdated>
+		<lastupdated>2014-07-18</lastupdated>
 		<name>AFWall+</name>
 		<summary>Control network traffic</summary>
-		<icon>dev.ukanth.ufirewall.166.png</icon>
+		<icon>dev.ukanth.ufirewall.168.png</icon>
 		<desc>&lt;p&gt;Firewall (iptables frontend), based on DroidWall which is no longer being developed.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Import/Export Rules to external storage&lt;/li&gt;&lt;li&gt; Search Applications&lt;/li&gt;&lt;li&gt; Multiple profiles with custom names&lt;/li&gt;&lt;li&gt; Highlights system applications with custom color&lt;/li&gt;&lt;li&gt; Notify on new installations&lt;/li&gt;&lt;li&gt; VPN Support&lt;/li&gt;&lt;li&gt; Device Admin support to protect against being uninstalled&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Requires root: Yes. iptables must run as root.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ukanth/afwall/blob/master/Changelog.md&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Security,Internet</categories>
@@ -1211,9 +1211,22 @@
 		<source>https://github.com/ukanth/afwall</source>
 		<tracker>https://github.com/ukanth/afwall/issues</tracker>
 		<donate>http://forum.xda-developers.com/donatetome.php?u=3249429</donate>
-		<marketversion>1.3.2</marketversion>
-		<marketvercode>166</marketvercode>
+		<marketversion>1.3.3</marketversion>
+		<marketvercode>168</marketvercode>
 		<requirements>root</requirements>
+		<package>
+			<version>1.3.3</version>
+			<versioncode>168</versioncode>
+			<apkname>dev.ukanth.ufirewall_168.apk</apkname>
+			<srcname>dev.ukanth.ufirewall_168_src.tar.gz</srcname>
+			<hash type="sha256">6e7ef135ec0583435f20751d8cc74fac2c207ec86d2bd4d716b0e5f676c1de03</hash>
+			<sig>bc693edcdb5eeb24195a3f14362d8bb7</sig>
+			<size>3760694</size>
+			<sdkver>8</sdkver>
+			<added>2014-07-18</added>
+			<permissions>RECEIVE_BOOT_COMPLETED,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET,ACCESS_WIFI_STATE,ACCESS_SUPERUSER,KILL_BACKGROUND_PROCESSES,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.wifi,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.3.2</version>
 			<versioncode>166</versioncode>
@@ -1237,19 +1250,6 @@
 			<size>3714746</size>
 			<sdkver>8</sdkver>
 			<added>2014-04-29</added>
-			<permissions>RECEIVE_BOOT_COMPLETED,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET,ACCESS_WIFI_STATE,ACCESS_SUPERUSER,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.wifi,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.2.9</version>
-			<versioncode>152</versioncode>
-			<apkname>dev.ukanth.ufirewall_152.apk</apkname>
-			<srcname>dev.ukanth.ufirewall_152_src.tar.gz</srcname>
-			<hash type="sha256">2acf8cfd5e5842ef57b4636cd67b77abae839f3407b8a443aa340ffc3964a16d</hash>
-			<sig>bc693edcdb5eeb24195a3f14362d8bb7</sig>
-			<size>3328048</size>
-			<sdkver>8</sdkver>
-			<added>2014-02-08</added>
 			<permissions>RECEIVE_BOOT_COMPLETED,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET,ACCESS_WIFI_STATE,ACCESS_SUPERUSER,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.wifi,android.hardware.touchscreen</features>
 		</package>
@@ -9802,6 +9802,36 @@
 			<nativecode>armeabi,x86</nativecode>
 		</package>
 	</application>
+	<application id="de.measite.contactmerger">
+		<id>de.measite.contactmerger</id>
+		<added>2014-07-18</added>
+		<lastupdated>2014-07-18</lastupdated>
+		<name>Contact Merger</name>
+		<summary>Index and merge contacts with Lucene</summary>
+		<icon>de.measite.contactmerger.7.png</icon>
+		<desc>&lt;p&gt;Index your contacts with lucene and provide a simple list of mergable contacts. The Service will run whenever the systems battery status is good, the data is old and/or the phone is plugged in.&lt;/p&gt;</desc>
+		<license>Apache2</license>
+		<categories>Office</categories>
+		<category>Office</category>
+		<web>https://github.com/rtreffer/ContactMerger</web>
+		<source>https://github.com/rtreffer/ContactMerger</source>
+		<tracker>https://github.com/rtreffer/ContactMerger/issues</tracker>
+		<marketversion>1.1.2</marketversion>
+		<marketvercode>7</marketvercode>
+		<package>
+			<version>1.1.2</version>
+			<versioncode>7</versioncode>
+			<apkname>de.measite.contactmerger_7.apk</apkname>
+			<srcname>de.measite.contactmerger_7_src.tar.gz</srcname>
+			<hash type="sha256">24677e7ed46251634055db991870dc9e870e908f58ab076c7346a888aef596a7</hash>
+			<sig>c13741524ff63f0dc361db6b4f89e9fe</sig>
+			<size>2786324</size>
+			<sdkver>16</sdkver>
+			<added>2014-07-18</added>
+			<permissions>READ_CONTACTS,WRITE_CONTACTS,RECEIVE_BOOT_COMPLETED,READ_CALL_LOG,WRITE_CALL_LOG</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="com.appengine.paranoid_android.lost">
 		<id>com.appengine.paranoid_android.lost</id>
 		<added>2012-01-08</added>
@@ -10478,8 +10508,8 @@
 		<web>http://xwords.sourceforge.net/android.php</web>
 		<source>http://xwords.sourceforge.net/source.php</source>
 		<tracker>http://xwords.sourceforge.net/contact.php</tracker>
-		<marketversion>4.4 beta 83</marketversion>
-		<marketvercode>76</marketvercode>
+		<marketversion>@string/app_version</marketversion>
+		<marketvercode>77</marketvercode>
 		<package>
 			<version>4.4 beta 60</version>
 			<versioncode>52</versioncode>
@@ -24854,8 +24884,8 @@
 		<source>https://code.launchpad.net/minesweeper</source>
 		<tracker>https://bugs.launchpad.net/minesweeper</tracker>
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D5J9DMDL7S5V4</donate>
-		<marketversion>1.5.2</marketversion>
-		<marketvercode>152</marketvercode>
+		<marketversion>1.5.3</marketversion>
+		<marketvercode>153</marketvercode>
 		<package>
 			<version>1.5.2</version>
 			<versioncode>152</versioncode>
@@ -26987,10 +27017,10 @@
 	<application id="org.aykit.MyOwnNotes">
 		<id>org.aykit.MyOwnNotes</id>
 		<added>2014-06-18</added>
-		<lastupdated>2014-07-05</lastupdated>
+		<lastupdated>2014-07-18</lastupdated>
 		<name>MyOwnNotes</name>
 		<summary>Notes management for ownCloud</summary>
-		<icon>org.aykit.MyOwnNotes.5.png</icon>
+		<icon>org.aykit.MyOwnNotes.7.png</icon>
 		<desc>&lt;p&gt;Create, edit, delete and sync your notes with ownCloud.&lt;/p&gt;&lt;p&gt;In order to use this app you will need:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; &lt;a href=&quot;https://github.com/owncloud/notes&quot;&gt;ownCloud Notes&lt;/a&gt; installed on an ownCloud server&lt;/li&gt;&lt;li&gt; A valid SSL certificate&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -27001,6 +27031,19 @@
 		<flattr>2887057</flattr>
 		<marketversion>1.3.1</marketversion>
 		<marketvercode>7</marketvercode>
+		<package>
+			<version>1.3.1</version>
+			<versioncode>7</versioncode>
+			<apkname>org.aykit.MyOwnNotes_7.apk</apkname>
+			<srcname>org.aykit.MyOwnNotes_7_src.tar.gz</srcname>
+			<hash type="sha256">0c5dc8c24fcf3f8000cf729ac211679f2ca75acb8d7279087309f09b548f2f0b</hash>
+			<sig>82e301e46c9036c10933f3d80deb54b9</sig>
+			<size>343742</size>
+			<sdkver>11</sdkver>
+			<added>2014-07-18</added>
+			<permissions>INTERNET,ACCESS_NETWORK_STATE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.2.2</version>
 			<versioncode>5</versioncode>
@@ -27416,8 +27459,8 @@
 		<web>http://www.navit-project.org</web>
 		<source>http://sourceforge.net/p/navit/code</source>
 		<tracker>http://trac.navit-project.org</tracker>
-		<marketversion>5811</marketversion>
-		<marketvercode>5811</marketvercode>
+		<marketversion>5820</marketversion>
+		<marketvercode>5820</marketvercode>
 		<package>
 			<version>navit 0.5.0-5720</version>
 			<versioncode>5720</versioncode>
@@ -38905,10 +38948,10 @@
 	<application id="nl.mpcjanssen.simpletask">
 		<id>nl.mpcjanssen.simpletask</id>
 		<added>2013-12-04</added>
-		<lastupdated>2014-07-17</lastupdated>
+		<lastupdated>2014-07-18</lastupdated>
 		<name>Simpletask Cloudless</name>
 		<summary>Todo list manager</summary>
-		<icon>nl.mpcjanssen.simpletask.1517.png</icon>
+		<icon>nl.mpcjanssen.simpletask.1518.png</icon>
 		<desc>&lt;p&gt;A simple task list manager that strives to have just enough features to do GTD (the Getting Things Done methodology), but no more. Based on the &lt;a href=&quot;http://todotxt.com&quot;&gt;todo.txt&lt;/a&gt; app so all info is stored in a single text file called todo.txt. Note that, with this version, you will need to take care of backups yourself.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Todo list stored in the documented todo.txt format&lt;/li&gt;&lt;li&gt; Comprehensive filtering and multi sort&lt;/li&gt;&lt;li&gt; Create calendar reminders for specific tasks directly from the app&lt;/li&gt;&lt;li&gt; Select on or more tasks and press overflow menu-&amp;gt;Add reminder&lt;/li&gt;&lt;li&gt; Share the complete tasklist or selected tasks using the Android share feature&lt;/li&gt;&lt;li&gt; Tasks can deferred into the future. Combined with the &quot;Creation date in future&quot; sort it allows you to get tasks out of your face (as in 1MTD/MYN)&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -38916,8 +38959,21 @@
 		<web>https://mpcjanssen.nl/fossil/simpletask</web>
 		<source>https://gitorious.org/simpletask/android</source>
 		<tracker>https://mpcjanssen.nl/fossil/simpletask/reportlist</tracker>
-		<marketversion>5.0.9</marketversion>
-		<marketvercode>1517</marketvercode>
+		<marketversion>5.1.0</marketversion>
+		<marketvercode>1518</marketvercode>
+		<package>
+			<version>5.1.0</version>
+			<versioncode>1518</versioncode>
+			<apkname>nl.mpcjanssen.simpletask_1518.apk</apkname>
+			<srcname>nl.mpcjanssen.simpletask_1518_src.tar.gz</srcname>
+			<hash type="sha256">e680ef914af9ab5072de761c764568549e05a7c4bfb37c12ea4348d0853f4ff0</hash>
+			<sig>dd06020d0a5f4181366d0562dff0f90e</sig>
+			<size>1546127</size>
+			<sdkver>14</sdkver>
+			<added>2014-07-18</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>5.0.9</version>
 			<versioncode>1517</versioncode>
@@ -38941,19 +38997,6 @@
 			<size>1546001</size>
 			<sdkver>14</sdkver>
 			<added>2014-07-17</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>5.0.4</version>
-			<versioncode>1512</versioncode>
-			<apkname>nl.mpcjanssen.simpletask_1512.apk</apkname>
-			<srcname>nl.mpcjanssen.simpletask_1512_src.tar.gz</srcname>
-			<hash type="sha256">a1077a0a9fa4a88a13e7cb684b230872c72467f0112a00eae2f507370167f21b</hash>
-			<sig>dd06020d0a5f4181366d0562dff0f90e</sig>
-			<size>1514567</size>
-			<sdkver>14</sdkver>
-			<added>2014-07-13</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
