@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1405658277" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1405745029" url="http://f-droid.org/repo" version="12">
 		<description>The official FDroid repository. Applications in this repository are mostly built directory from the source code. Some are official binaries built by the original application developers - these will be replaced by source-built versions over time. </description>
 	</repo>
 	<application id="de.j4velin.systemappmover">
@@ -11270,10 +11270,10 @@
 	<application id="at.bitfire.davdroid">
 		<id>at.bitfire.davdroid</id>
 		<added>2013-10-13</added>
-		<lastupdated>2014-05-27</lastupdated>
+		<lastupdated>2014-07-19</lastupdated>
 		<name>DAVdroid</name>
 		<summary>Contacts and Calendar sync</summary>
-		<icon>at.bitfire.davdroid.37.png</icon>
+		<icon>at.bitfire.davdroid.38.png</icon>
 		<desc>&lt;p&gt;DAVdroid is a CalDAV/CardDAV synchronisation adapter for Android 4+ devices. Use it with your own server (like Radicale or DAViCal) or with a trusted hoster to keep your contacts and events under your control. Integrates natively in Android calendar/contact apps.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/rfc2822/davdroid/releases/&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
@@ -11284,8 +11284,21 @@
 		<donate>http://davdroid.bitfire.at/donate</donate>
 		<bitcoin>1KSCy7RHztKuhW9fLLaUYqdwdC2iwbejZU</bitcoin>
 		<flattr>2100160</flattr>
-		<marketversion>0.5.14-alpha</marketversion>
-		<marketvercode>37</marketvercode>
+		<marketversion>0.6</marketversion>
+		<marketvercode>38</marketvercode>
+		<package>
+			<version>0.6</version>
+			<versioncode>38</versioncode>
+			<apkname>at.bitfire.davdroid_38.apk</apkname>
+			<srcname>at.bitfire.davdroid_38_src.tar.gz</srcname>
+			<hash type="sha256">c9e226938eebaf1f25a7161bebc05aa70e078ea8e16072d8321b7760bb28d43f</hash>
+			<sig>03542175324d067b4c36582242f8aecc</sig>
+			<size>1774167</size>
+			<sdkver>14</sdkver>
+			<added>2014-07-19</added>
+			<permissions>INTERNET,AUTHENTICATE_ACCOUNTS,READ_CONTACTS,WRITE_CONTACTS,READ_CALENDAR,WRITE_CALENDAR,WRITE_SYNC_SETTINGS</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.5.14-alpha</version>
 			<versioncode>37</versioncode>
@@ -11309,19 +11322,6 @@
 			<size>1771401</size>
 			<sdkver>14</sdkver>
 			<added>2014-05-11</added>
-			<permissions>INTERNET,AUTHENTICATE_ACCOUNTS,READ_CONTACTS,WRITE_CONTACTS,READ_CALENDAR,WRITE_CALENDAR,WRITE_SYNC_SETTINGS</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.5.12-alpha</version>
-			<versioncode>35</versioncode>
-			<apkname>at.bitfire.davdroid_35.apk</apkname>
-			<srcname>at.bitfire.davdroid_35_src.tar.gz</srcname>
-			<hash type="sha256">1eb33b947b08a127ea43f53a059be80241fa165cdbbf6c2327a212fe751ab92f</hash>
-			<sig>03542175324d067b4c36582242f8aecc</sig>
-			<size>1765087</size>
-			<sdkver>14</sdkver>
-			<added>2014-04-07</added>
 			<permissions>INTERNET,AUTHENTICATE_ACCOUNTS,READ_CONTACTS,WRITE_CONTACTS,READ_CALENDAR,WRITE_CALENDAR,WRITE_SYNC_SETTINGS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -13061,8 +13061,8 @@
 		<source>https://github.com/daneren2005/Subsonic</source>
 		<tracker>https://github.com/daneren2005/Subsonic/issues</tracker>
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=5GUMY7ZLZRNXS&amp;lc=US&amp;item_name=DSub&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted</donate>
-		<marketversion>4.7.2</marketversion>
-		<marketvercode>116</marketvercode>
+		<marketversion>4.7.3</marketversion>
+		<marketvercode>119</marketvercode>
 		<package>
 			<version>4.3.5</version>
 			<versioncode>80</versioncode>
@@ -24872,10 +24872,10 @@
 	<application id="it.reyboz.minesweeper">
 		<id>it.reyboz.minesweeper</id>
 		<added>2014-07-11</added>
-		<lastupdated>2014-07-17</lastupdated>
+		<lastupdated>2014-07-19</lastupdated>
 		<name>MineSweeper</name>
 		<summary>Clear minefield without detonating a mine.</summary>
-		<icon>it.reyboz.minesweeper.152.png</icon>
+		<icon>it.reyboz.minesweeper.153.png</icon>
 		<desc>&lt;p&gt;Simple one-tap strategy game where you have a virtual minefield and you must liberate it. If you play tapping randomly in the field probably your penguin will become a good petard, otherwise you and your cute penguin are probably destined to survive.&lt;/p&gt;&lt;p&gt;Tips:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; When you see any number pay much attention: There are exactly &quot;n&quot; bombs around that number!&lt;/li&gt;&lt;li&gt; Hold-tap to place flags.&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Games</categories>
@@ -24886,6 +24886,19 @@
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D5J9DMDL7S5V4</donate>
 		<marketversion>1.5.3</marketversion>
 		<marketvercode>153</marketvercode>
+		<package>
+			<version>1.5.3</version>
+			<versioncode>153</versioncode>
+			<apkname>it.reyboz.minesweeper_153.apk</apkname>
+			<srcname>it.reyboz.minesweeper_153_src.tar.gz</srcname>
+			<hash type="sha256">7fd88a23e08c35a3732f0ff609fc9bfc101a14ce4c8a12147f831ae7c644100b</hash>
+			<sig>b1dc8ff40f128d5107ad3d65a23cfe38</sig>
+			<size>1917055</size>
+			<sdkver>10</sdkver>
+			<added>2014-07-19</added>
+			<permissions>INTERNET,VIBRATE,WRITE_EXTERNAL_STORAGE,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,RECORD_AUDIO,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.microphone,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.5.2</version>
 			<versioncode>152</versioncode>
@@ -24909,19 +24922,6 @@
 			<size>1915243</size>
 			<sdkver>10</sdkver>
 			<added>2014-07-17</added>
-			<permissions>INTERNET,VIBRATE,WRITE_EXTERNAL_STORAGE,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,RECORD_AUDIO,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.microphone,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.2.0</version>
-			<versioncode>120</versioncode>
-			<apkname>it.reyboz.minesweeper_120.apk</apkname>
-			<srcname>it.reyboz.minesweeper_120_src.tar.gz</srcname>
-			<hash type="sha256">5dff797d3e22c450c71d830bf0ee223d2e35a6307cbc9314c1cb1ecc8991ea77</hash>
-			<sig>b1dc8ff40f128d5107ad3d65a23cfe38</sig>
-			<size>1914127</size>
-			<sdkver>10</sdkver>
-			<added>2014-07-15</added>
 			<permissions>INTERNET,VIBRATE,WRITE_EXTERNAL_STORAGE,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,RECORD_AUDIO,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.microphone,android.hardware.touchscreen</features>
 		</package>
@@ -27459,8 +27459,8 @@
 		<web>http://www.navit-project.org</web>
 		<source>http://sourceforge.net/p/navit/code</source>
 		<tracker>http://trac.navit-project.org</tracker>
-		<marketversion>5820</marketversion>
-		<marketvercode>5820</marketvercode>
+		<marketversion>5821</marketversion>
+		<marketvercode>5821</marketvercode>
 		<package>
 			<version>navit 0.5.0-5720</version>
 			<versioncode>5720</versioncode>
@@ -32810,10 +32810,10 @@
 	<application id="com.morlunk.mumbleclient">
 		<id>com.morlunk.mumbleclient</id>
 		<added>2014-01-29</added>
-		<lastupdated>2014-07-15</lastupdated>
+		<lastupdated>2014-07-19</lastupdated>
 		<name>Plumble</name>
 		<summary>Voice chat for Mumble servers</summary>
-		<icon>com.morlunk.mumbleclient.66.png</icon>
+		<icon>com.morlunk.mumbleclient.67.png</icon>
 		<desc>&lt;ul&gt;&lt;li&gt; Opus, CELT, and Speex codec support&lt;/li&gt;&lt;li&gt; Certificates&lt;/li&gt;&lt;li&gt; Voice activity&lt;/li&gt;&lt;li&gt; Bluetooth&lt;/li&gt;&lt;li&gt; Public servers&lt;/li&gt;&lt;li&gt; Comments&lt;/li&gt;&lt;li&gt; Administration&lt;/li&gt;&lt;li&gt; Overlay&lt;/li&gt;&lt;li&gt; Theming&lt;/li&gt;&lt;li&gt; Notifications&lt;/li&gt;&lt;li&gt; Orbot integration&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
@@ -32823,8 +32823,22 @@
 		<tracker>https://www.github.com/Morlunk/Plumble/issues</tracker>
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HZU3JS7MMDGBY</donate>
 		<flattr>1706423</flattr>
-		<marketversion>3.1.1</marketversion>
-		<marketvercode>66</marketvercode>
+		<marketversion>3.1.2</marketversion>
+		<marketvercode>67</marketvercode>
+		<package>
+			<version>3.1.2</version>
+			<versioncode>67</versioncode>
+			<apkname>com.morlunk.mumbleclient_67.apk</apkname>
+			<srcname>com.morlunk.mumbleclient_67_src.tar.gz</srcname>
+			<hash type="sha256">8face1bdfc20434e54564f7c0ac5019bde2c121dab741c07c1fedbce55ed0c7a</hash>
+			<sig>39a379d5d9d78045bb07e08ba9bfd6b8</sig>
+			<size>5865317</size>
+			<sdkver>9</sdkver>
+			<added>2014-07-19</added>
+			<permissions>RECORD_AUDIO,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,SYSTEM_ALERT_WINDOW,VIBRATE,MODIFY_AUDIO_SETTINGS,BLUETOOTH,BROADCAST_STICKY</permissions>
+			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
+			<features>android.hardware.bluetooth,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>3.1.1</version>
 			<versioncode>66</versioncode>
@@ -32849,20 +32863,6 @@
 			<size>5301191</size>
 			<sdkver>9</sdkver>
 			<added>2014-05-04</added>
-			<permissions>RECORD_AUDIO,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,SYSTEM_ALERT_WINDOW,VIBRATE,MODIFY_AUDIO_SETTINGS,BLUETOOTH,BROADCAST_STICKY</permissions>
-			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
-			<features>android.hardware.bluetooth,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>3.0.5</version>
-			<versioncode>63</versioncode>
-			<apkname>com.morlunk.mumbleclient_63.apk</apkname>
-			<srcname>com.morlunk.mumbleclient_63_src.tar.gz</srcname>
-			<hash type="sha256">56d6d81a1ce96e98da879f4176e9ea7084cd21a161d1ca2188a12a67989517c0</hash>
-			<sig>39a379d5d9d78045bb07e08ba9bfd6b8</sig>
-			<size>5276363</size>
-			<sdkver>9</sdkver>
-			<added>2014-04-20</added>
 			<permissions>RECORD_AUDIO,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,SYSTEM_ALERT_WINDOW,VIBRATE,MODIFY_AUDIO_SETTINGS,BLUETOOTH,BROADCAST_STICKY</permissions>
 			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
 			<features>android.hardware.bluetooth,android.hardware.touchscreen</features>
@@ -35237,10 +35237,10 @@
 	<application id="com.lostrealm.lembretes">
 		<id>com.lostrealm.lembretes</id>
 		<added>2014-03-03</added>
-		<lastupdated>2014-05-12</lastupdated>
+		<lastupdated>2014-07-19</lastupdated>
 		<name>Reminders</name>
 		<summary>UNICAMP canteen information</summary>
-		<icon>com.lostrealm.lembretes.22.png</icon>
+		<icon>com.lostrealm.lembretes.23.png</icon>
 		<desc>&lt;p&gt;Reminders is intended for students from UNICAMP as a simple reminder of the daily meal. In portuguese &quot;Lembretes&quot;. It connects to the webpage of the university's restaurant to retrieve the meal and according to user preferences, it reminds him. &lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Science &amp; Education</categories>
@@ -35248,8 +35248,21 @@
 		<web>https://github.com/edsonduarte1990/reminders</web>
 		<source>https://github.com/edsonduarte1990/reminders</source>
 		<tracker>https://github.com/edsonduarte1990/reminders/issues</tracker>
-		<marketversion>0.8.3</marketversion>
-		<marketvercode>22</marketvercode>
+		<marketversion>0.8.4</marketversion>
+		<marketvercode>23</marketvercode>
+		<package>
+			<version>0.8.4</version>
+			<versioncode>23</versioncode>
+			<apkname>com.lostrealm.lembretes_23.apk</apkname>
+			<srcname>com.lostrealm.lembretes_23_src.tar.gz</srcname>
+			<hash type="sha256">03b3d787026dfdcb0818e0b3054b8a08416e3820f0025f8f46e0409f8c81ba67</hash>
+			<sig>5b6440269a4a8a8341068792ec37e59d</sig>
+			<size>669710</size>
+			<sdkver>7</sdkver>
+			<added>2014-07-19</added>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,RECEIVE_BOOT_COMPLETED,VIBRATE,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.8.3</version>
 			<versioncode>22</versioncode>
@@ -35273,19 +35286,6 @@
 			<size>670145</size>
 			<sdkver>7</sdkver>
 			<added>2014-04-13</added>
-			<permissions>INTERNET,RECEIVE_BOOT_COMPLETED,VIBRATE,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.8</version>
-			<versioncode>1</versioncode>
-			<apkname>com.lostrealm.lembretes_1.apk</apkname>
-			<srcname>com.lostrealm.lembretes_1_src.tar.gz</srcname>
-			<hash type="sha256">dfaefbd6376e20e057dd217cf5bdf955999bb652c7a2b0e27c8c564e59a3cbe5</hash>
-			<sig>5b6440269a4a8a8341068792ec37e59d</sig>
-			<size>661675</size>
-			<sdkver>7</sdkver>
-			<added>2014-03-03</added>
 			<permissions>INTERNET,RECEIVE_BOOT_COMPLETED,VIBRATE,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -36015,6 +36015,35 @@
 			<sdkver>8</sdkver>
 			<added>2014-02-22</added>
 			<permissions>ACCESS_SUPERUSER</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
+	<application id="de.zieren.rot13">
+		<id>de.zieren.rot13</id>
+		<added>2014-07-19</added>
+		<lastupdated>2014-07-19</lastupdated>
+		<name>ROT13 Translator</name>
+		<summary>Encode/decode ROT13 text</summary>
+		<icon>de.zieren.rot13.3.png</icon>
+		<desc>&lt;p&gt;Encode/decode text using the simple ROT13 substitution cipher. ROT13 is a means of hiding text from a casual glance, comparable to a magazine printing the solution to a quiz upside down.&lt;/p&gt;</desc>
+		<license>GPLv3</license>
+		<categories>Office</categories>
+		<category>Office</category>
+		<web>https://code.google.com/p/rot13translator/</web>
+		<source>https://code.google.com/p/rot13translator/source/browse/</source>
+		<tracker>https://code.google.com/p/rot13translator/issues/list</tracker>
+		<marketversion>1.0.2</marketversion>
+		<marketvercode>3</marketvercode>
+		<package>
+			<version>1.0.2</version>
+			<versioncode>3</versioncode>
+			<apkname>de.zieren.rot13_3.apk</apkname>
+			<srcname>de.zieren.rot13_3_src.tar.gz</srcname>
+			<hash type="sha256">8ec0f046434beccea93d14ffc9cbf81be2f1efca07d7d5bc53aa79dbf3170fde</hash>
+			<sig>b0c6c1c917c1fb3632bf7fd03c6f01f1</sig>
+			<size>23456</size>
+			<sdkver>4</sdkver>
+			<added>2014-07-19</added>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -38948,10 +38977,10 @@
 	<application id="nl.mpcjanssen.simpletask">
 		<id>nl.mpcjanssen.simpletask</id>
 		<added>2013-12-04</added>
-		<lastupdated>2014-07-18</lastupdated>
+		<lastupdated>2014-07-19</lastupdated>
 		<name>Simpletask Cloudless</name>
 		<summary>Todo list manager</summary>
-		<icon>nl.mpcjanssen.simpletask.1518.png</icon>
+		<icon>nl.mpcjanssen.simpletask.1522.png</icon>
 		<desc>&lt;p&gt;A simple task list manager that strives to have just enough features to do GTD (the Getting Things Done methodology), but no more. Based on the &lt;a href=&quot;http://todotxt.com&quot;&gt;todo.txt&lt;/a&gt; app so all info is stored in a single text file called todo.txt. Note that, with this version, you will need to take care of backups yourself.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Todo list stored in the documented todo.txt format&lt;/li&gt;&lt;li&gt; Comprehensive filtering and multi sort&lt;/li&gt;&lt;li&gt; Create calendar reminders for specific tasks directly from the app&lt;/li&gt;&lt;li&gt; Select on or more tasks and press overflow menu-&amp;gt;Add reminder&lt;/li&gt;&lt;li&gt; Share the complete tasklist or selected tasks using the Android share feature&lt;/li&gt;&lt;li&gt; Tasks can deferred into the future. Combined with the &quot;Creation date in future&quot; sort it allows you to get tasks out of your face (as in 1MTD/MYN)&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -38959,8 +38988,21 @@
 		<web>https://mpcjanssen.nl/fossil/simpletask</web>
 		<source>https://gitorious.org/simpletask/android</source>
 		<tracker>https://mpcjanssen.nl/fossil/simpletask/reportlist</tracker>
-		<marketversion>5.1.0</marketversion>
-		<marketvercode>1518</marketvercode>
+		<marketversion>5.1.4</marketversion>
+		<marketvercode>1522</marketvercode>
+		<package>
+			<version>5.1.4</version>
+			<versioncode>1522</versioncode>
+			<apkname>nl.mpcjanssen.simpletask_1522.apk</apkname>
+			<srcname>nl.mpcjanssen.simpletask_1522_src.tar.gz</srcname>
+			<hash type="sha256">67be65396ed31200463f6b52079411b9867c8b51783832105e0d6311b77c59e8</hash>
+			<sig>dd06020d0a5f4181366d0562dff0f90e</sig>
+			<size>1546400</size>
+			<sdkver>14</sdkver>
+			<added>2014-07-19</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>5.1.0</version>
 			<versioncode>1518</versioncode>
@@ -38982,19 +39024,6 @@
 			<hash type="sha256">39509ffc39fb4ef15bd7f18d932521da6d1ea185fc0ea9704509c97c362276f4</hash>
 			<sig>dd06020d0a5f4181366d0562dff0f90e</sig>
 			<size>1546169</size>
-			<sdkver>14</sdkver>
-			<added>2014-07-17</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>5.0.7</version>
-			<versioncode>1515</versioncode>
-			<apkname>nl.mpcjanssen.simpletask_1515.apk</apkname>
-			<srcname>nl.mpcjanssen.simpletask_1515_src.tar.gz</srcname>
-			<hash type="sha256">15f9638a45f6b80e3d838f5b74ffa268dc96f3ccf7d0878c66eede66a4568a8b</hash>
-			<sig>dd06020d0a5f4181366d0562dff0f90e</sig>
-			<size>1546001</size>
 			<sdkver>14</sdkver>
 			<added>2014-07-17</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
@@ -42673,8 +42702,8 @@
 		<web>https://github.com/Amphoras/TPT-Helper</web>
 		<source>https://github.com/Amphoras/TPT-Helper/tree/V2.0.3/TPT%20Helper</source>
 		<tracker>https://github.com/Amphoras/TPT-Helper/issues</tracker>
-		<marketversion>2.0.3</marketversion>
-		<marketvercode>24</marketvercode>
+		<marketversion>2.1</marketversion>
+		<marketvercode>25</marketvercode>
 		<package>
 			<version>2.0.3</version>
 			<versioncode>24</versioncode>
@@ -46144,8 +46173,8 @@
 		<tracker>https://github.com/glesik/wifireminders/issues</tracker>
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=8RNEWF8QHQHTN</donate>
 		<bitcoin>15bSZLRTF3nH9uLrsqW2xm5UMdcd3eqF1e</bitcoin>
-		<marketversion>1.1.2</marketversion>
-		<marketvercode>112</marketvercode>
+		<marketversion>1.2.0</marketversion>
+		<marketvercode>120</marketvercode>
 		<package>
 			<version>1.1.2</version>
 			<versioncode>112</versioncode>
