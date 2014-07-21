@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1405745029" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1405831835" url="http://f-droid.org/repo" version="12">
 		<description>The official FDroid repository. Applications in this repository are mostly built directory from the source code. Some are official binaries built by the original application developers - these will be replaced by source-built versions over time. </description>
 	</repo>
 	<application id="de.j4velin.systemappmover">
@@ -17606,6 +17606,37 @@
 			<features>android.hardware.location,android.hardware.location.gps,android.hardware.location.network,android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="com.Bisha.TI89EmuDonation">
+		<id>com.Bisha.TI89EmuDonation</id>
+		<added>2014-07-20</added>
+		<lastupdated>2014-07-20</lastupdated>
+		<name>Graph 89</name>
+		<summary>Calculator emulator</summary>
+		<icon>com.Bisha.TI89EmuDonation.1133.png</icon>
+		<desc>&lt;p&gt;Emulate any of the following calculators:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; TI89, TI89T&lt;/li&gt;&lt;li&gt; TI92, TI92+&lt;/li&gt;&lt;li&gt; V200&lt;/li&gt;&lt;li&gt; TI84+, TI84+SE&lt;/li&gt;&lt;li&gt; TI83, TI83+, TI83+SE&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;No ROM images are included. You can extract one from your own calculator.&lt;/p&gt;</desc>
+		<license>GPLv3+</license>
+		<categories>Office</categories>
+		<category>Office</category>
+		<web>https://bitbucket.org/dhashoandroid/graph89-free</web>
+		<source>https://bitbucket.org/dhashoandroid/graph89-free/src</source>
+		<tracker>https://bitbucket.org/dhashoandroid/graph89-free/issues</tracker>
+		<marketversion>1.1.3c</marketversion>
+		<marketvercode>1133</marketvercode>
+		<package>
+			<version>1.1.3c</version>
+			<versioncode>1133</versioncode>
+			<apkname>com.Bisha.TI89EmuDonation_1133.apk</apkname>
+			<srcname>com.Bisha.TI89EmuDonation_1133_src.tar.gz</srcname>
+			<hash type="sha256">141bcfd0c010e3ef69c2c634af9a6580c21003abaf39cc2a09614df8eb6b3246</hash>
+			<sig>429b61dd5393540e656517f2a735fc99</sig>
+			<size>6895663</size>
+			<sdkver>8</sdkver>
+			<added>2014-07-20</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,VIBRATE,GET_ACCOUNTS</permissions>
+			<nativecode>armeabi,armeabi-v7a,mips,x86</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="org.cyanogenmod.great.freedom">
 		<id>org.cyanogenmod.great.freedom</id>
 		<added>2014-06-23</added>
@@ -18263,6 +18294,36 @@
 			<size>161733</size>
 			<sdkver>5</sdkver>
 			<added>2013-10-21</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
+	<application id="byrne.utilities.hashpass">
+		<id>byrne.utilities.hashpass</id>
+		<added>2014-07-20</added>
+		<lastupdated>2014-07-20</lastupdated>
+		<name>HashPass</name>
+		<summary>Use hashes as passwords</summary>
+		<icon>byrne.utilities.hashpass.1.png</icon>
+		<desc>&lt;p&gt;Simple password generator for android which uses hashes as passwords, affording ease in recall and effectiveness in password strength. Available hashes are MD5, SHA1, SHA256 and SHA512.&lt;/p&gt;</desc>
+		<license>GPLv3</license>
+		<categories>Security</categories>
+		<category>Security</category>
+		<web>https://github.com/dillbyrne/HashPass</web>
+		<source>https://github.com/dillbyrne/HashPass</source>
+		<tracker>https://github.com/dillbyrne/HashPass/issues</tracker>
+		<bitcoin>1L44pgmZpeMsWsd24WgN6SJjEUARG5eY6G</bitcoin>
+		<marketversion>0.1</marketversion>
+		<marketvercode>1</marketvercode>
+		<package>
+			<version>0.1</version>
+			<versioncode>1</versioncode>
+			<apkname>byrne.utilities.hashpass_1.apk</apkname>
+			<srcname>byrne.utilities.hashpass_1_src.tar.gz</srcname>
+			<hash type="sha256">eb873565b6b627e3b95e0486b0fb74faf420ac6e4b279b8b64c3901d41702fc4</hash>
+			<sig>f417af0d5393cb065cb023be165fb11c</sig>
+			<size>28218</size>
+			<sdkver>3</sdkver>
+			<added>2014-07-20</added>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -22565,10 +22626,10 @@
 	<application id="in.shubhamchaudhary.logmein">
 		<id>in.shubhamchaudhary.logmein</id>
 		<added>2014-06-21</added>
-		<lastupdated>2014-06-21</lastupdated>
+		<lastupdated>2014-07-20</lastupdated>
 		<name>logmein</name>
 		<summary>Login to campus networks</summary>
-		<icon>in.shubhamchaudhary.logmein.7.png</icon>
+		<icon>in.shubhamchaudhary.logmein.8.png</icon>
 		<desc>&lt;p&gt;Automatically login to university campus networks.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
@@ -22576,8 +22637,21 @@
 		<web>http://shubhamchaudhary.in</web>
 		<source>https://github.com/shubhamchaudhary/logmein-android</source>
 		<tracker>https://github.com/shubhamchaudhary/logmein-android/issues</tracker>
-		<marketversion>0.4.1</marketversion>
-		<marketvercode>7</marketvercode>
+		<marketversion>0.5.0</marketversion>
+		<marketvercode>8</marketvercode>
+		<package>
+			<version>0.5.0</version>
+			<versioncode>8</versioncode>
+			<apkname>in.shubhamchaudhary.logmein_8.apk</apkname>
+			<srcname>in.shubhamchaudhary.logmein_8_src.tar.gz</srcname>
+			<hash type="sha256">0848400d464326efb88aa978dbdc02c647d3875efb1bbe641b11fe01e9681444</hash>
+			<sig>2d796314bcaa6e68fe7b0607148433c0</sig>
+			<size>912300</size>
+			<sdkver>8</sdkver>
+			<added>2014-07-20</added>
+			<permissions>INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.4.1</version>
 			<versioncode>7</versioncode>
@@ -24701,10 +24775,10 @@
 	<application id="de.syss.MifareClassicTool">
 		<id>de.syss.MifareClassicTool</id>
 		<added>2013-12-09</added>
-		<lastupdated>2014-07-17</lastupdated>
+		<lastupdated>2014-07-20</lastupdated>
 		<name>Mifare Classic Tool</name>
 		<summary>Analyse a type of NFC tag</summary>
-		<icon>de.syss.MifareClassicTool.25.png</icon>
+		<icon>de.syss.MifareClassicTool.26.png</icon>
 		<desc>&lt;p&gt;This is a low-level tool for analysing Mifare Classic RFID tags. It is not intended to provide an easy interface for writing URIs to tags but that kind of thing is possible.&lt;/p&gt;&lt;p&gt;The source code page or website for has full instructions. It should work on most NFC-enabled devices but there are exceptions.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ikarus23/MifareClassicTool/raw/master/CHANGELOG.txt&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -24712,8 +24786,21 @@
 		<web>http://publications.icaria.de/mct</web>
 		<source>https://github.com/ikarus23/MifareClassicTool</source>
 		<tracker>https://github.com/ikarus23/MifareClassicTool/issues</tracker>
-		<marketversion>1.7.6</marketversion>
-		<marketvercode>25</marketvercode>
+		<marketversion>1.7.7</marketversion>
+		<marketvercode>26</marketvercode>
+		<package>
+			<version>1.7.7</version>
+			<versioncode>26</versioncode>
+			<apkname>de.syss.MifareClassicTool_26.apk</apkname>
+			<srcname>de.syss.MifareClassicTool_26_src.tar.gz</srcname>
+			<hash type="sha256">66e7583d8d7906e3b12032654443d47251d5981c651a0beff805221e848669fe</hash>
+			<sig>f8a2eae34a28aedb04629f9c3250be6e</sig>
+			<size>615421</size>
+			<sdkver>10</sdkver>
+			<added>2014-07-20</added>
+			<permissions>NFC,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.nfc,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.7.6</version>
 			<versioncode>25</versioncode>
@@ -24737,19 +24824,6 @@
 			<size>718384</size>
 			<sdkver>10</sdkver>
 			<added>2014-06-22</added>
-			<permissions>NFC,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.nfc,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.7.4</version>
-			<versioncode>23</versioncode>
-			<apkname>de.syss.MifareClassicTool_23.apk</apkname>
-			<srcname>de.syss.MifareClassicTool_23_src.tar.gz</srcname>
-			<hash type="sha256">2f44243231edbfacde8a9ab5fc0949f45256fc43ed340a4d4f47a9f12bb1979e</hash>
-			<sig>f8a2eae34a28aedb04629f9c3250be6e</sig>
-			<size>718451</size>
-			<sdkver>10</sdkver>
-			<added>2014-05-15</added>
 			<permissions>NFC,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.nfc,android.hardware.touchscreen</features>
 		</package>
@@ -26829,10 +26903,10 @@
 	<application id="org.totschnig.myexpenses">
 		<id>org.totschnig.myexpenses</id>
 		<added>2012-10-31</added>
-		<lastupdated>2014-07-03</lastupdated>
+		<lastupdated>2014-07-20</lastupdated>
 		<name>My Expenses</name>
 		<summary>Manage finances</summary>
-		<icon>org.totschnig.myexpenses.149.png</icon>
+		<icon>org.totschnig.myexpenses.151.png</icon>
 		<desc>&lt;p&gt;MyExpenses is designed to keep track of expenses, and to export these expenses as QIF files into a finance program (e.g.: Grisbi, GnuCash).&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Up to five accounts with transfers (unlimited in Contrib version)&lt;/li&gt;&lt;li&gt; Define plans (3) for future and recurrent transactions  (unlimited in Contrib version)&lt;/li&gt;&lt;li&gt; Group transactions per day, week, month, year and display sums per group&lt;/li&gt;&lt;li&gt; Two levels of categories (import from Grisbi XML and QIF), display distribution of transactions in Contrib version&lt;/li&gt;&lt;li&gt; Split transactions (Contrib version)&lt;/li&gt;&lt;li&gt; Calculator&lt;/li&gt;&lt;li&gt; Export to QIF and CSV (MS Excel), can be automatically shared (via email, FTP, Dropbox, ...) and done in batch in Contrib version&lt;/li&gt;&lt;li&gt; Import QIF data&lt;/li&gt;&lt;li&gt; Password protection, recoverable with security question in Contrib version&lt;/li&gt;&lt;li&gt; Integrated Help&lt;/li&gt;&lt;li&gt; Create transactions from templates&lt;/li&gt;&lt;li&gt; Data backup and restore&lt;/li&gt;&lt;li&gt; Aggregate financial situation (Contrib version)&lt;/li&gt;&lt;li&gt; Two themes: light and dark&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -26843,8 +26917,21 @@
 		<donate>http://www.myexpenses.mobi/#donate</donate>
 		<bitcoin>1GCUGCSfFXzSC81ogHu12KxfUn3cShekMn</bitcoin>
 		<flattr>1028216</flattr>
-		<marketversion>2.1.6</marketversion>
-		<marketvercode>149</marketvercode>
+		<marketversion>2.1.6.1</marketversion>
+		<marketvercode>151</marketvercode>
+		<package>
+			<version>2.1.6.1</version>
+			<versioncode>151</versioncode>
+			<apkname>org.totschnig.myexpenses_151.apk</apkname>
+			<srcname>org.totschnig.myexpenses_151_src.tar.gz</srcname>
+			<hash type="sha256">fa61fed68e133129ae3aebb690c32eff61c7d225fbc3caad93def7077bc6d109</hash>
+			<sig>e1ca5bcb8d0a515a6d35500974fbc3a8</sig>
+			<size>2302609</size>
+			<sdkver>7</sdkver>
+			<added>2014-07-20</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,WRITE_CALENDAR,READ_CALENDAR,RECEIVE_BOOT_COMPLETED,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>2.1.6</version>
 			<versioncode>149</versioncode>
@@ -26868,19 +26955,6 @@
 			<size>2212801</size>
 			<sdkver>7</sdkver>
 			<added>2014-06-04</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,WRITE_CALENDAR,READ_CALENDAR,RECEIVE_BOOT_COMPLETED,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>2.1.4</version>
-			<versioncode>143</versioncode>
-			<apkname>org.totschnig.myexpenses_143.apk</apkname>
-			<srcname>org.totschnig.myexpenses_143_src.tar.gz</srcname>
-			<hash type="sha256">b9d4ef4e5d0bf2d4d32e82f24b0a08b0dbc8f4b798e58f8394780dc718be24c2</hash>
-			<sig>e1ca5bcb8d0a515a6d35500974fbc3a8</sig>
-			<size>2196220</size>
-			<sdkver>7</sdkver>
-			<added>2014-05-30</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,WRITE_CALENDAR,READ_CALENDAR,RECEIVE_BOOT_COMPLETED,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -32985,10 +33059,10 @@
 	<application id="com.axelby.podax">
 		<id>com.axelby.podax</id>
 		<added>2012-01-21</added>
-		<lastupdated>2014-02-06</lastupdated>
+		<lastupdated>2014-07-20</lastupdated>
 		<name>Podax</name>
 		<summary>Podcast downloader and player</summary>
-		<icon>com.axelby.podax.56.png</icon>
+		<icon>com.axelby.podax.62.png</icon>
 		<desc>&lt;p&gt;It automatically downloads new podcasts on an RSS feed and has a widget for easy control.&lt;/p&gt;&lt;p&gt;Features include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; keeping a list of subscriptions&lt;/li&gt;&lt;li&gt; downloading new podcasts when they are available&lt;/li&gt;&lt;li&gt; importing subscriptions from OPML&lt;/li&gt;&lt;li&gt; two widgets for easy pausing and resuming&lt;/li&gt;&lt;li&gt; discover popular podcasts from other Podax listeners&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;(note: some versions earlier than 6.02 had the Tracking antifeature, but versions from 6.02 onwards don't)&lt;/p&gt;</desc>
 		<license>NewBSD</license>
 		<categories>Multimedia</categories>
@@ -32998,6 +33072,20 @@
 		<tracker>https://github.com/thasmin/Podax/issues</tracker>
 		<marketversion>7.05</marketversion>
 		<marketvercode>62</marketvercode>
+		<package>
+			<version>7.05</version>
+			<versioncode>62</versioncode>
+			<apkname>com.axelby.podax_62.apk</apkname>
+			<srcname>com.axelby.podax_62_src.tar.gz</srcname>
+			<hash type="sha256">173b10f5adc0aec9fb6061f44d4570c85d56ae6a6bf4ecf3c5bebe9ca86881b0</hash>
+			<sig>00bdc7cda1b4bc137791365162459697</sig>
+			<size>1589994</size>
+			<sdkver>9</sdkver>
+			<added>2014-07-20</added>
+			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,GET_ACCOUNTS,AUTHENTICATE_ACCOUNTS,READ_SYNC_STATS,READ_SYNC_SETTINGS,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED</permissions>
+			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>6.2</version>
 			<versioncode>56</versioncode>
@@ -33021,19 +33109,6 @@
 			<size>861283</size>
 			<sdkver>9</sdkver>
 			<added>2014-01-24</added>
-			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,GET_ACCOUNTS,AUTHENTICATE_ACCOUNTS,READ_SYNC_STATS,READ_SYNC_SETTINGS,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>6.1.7</version>
-			<versioncode>50</versioncode>
-			<apkname>com.axelby.podax_50.apk</apkname>
-			<srcname>com.axelby.podax_50_src.tar.gz</srcname>
-			<hash type="sha256">d10aaf3b684791520bf55f62292682ccf37cc9f059332031e09009a5647eb0f3</hash>
-			<sig>00bdc7cda1b4bc137791365162459697</sig>
-			<size>860344</size>
-			<sdkver>9</sdkver>
-			<added>2013-12-22</added>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,GET_ACCOUNTS,AUTHENTICATE_ACCOUNTS,READ_SYNC_STATS,READ_SYNC_SETTINGS,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -35431,6 +35506,36 @@
 			<added>2011-01-31</added>
 			<permissions>READ_PHONE_STATE,READ_CONTACTS,BATTERY_STATS,RECEIVE_MMS,RECEIVE_SMS,ACCESS_WIFI_STATE,ACCESS_NETWORK_STATE,CHANGE_WIFI_STATE,INTERNET,BLUETOOTH,BLUETOOTH_ADMIN,WAKE_LOCK,WRITE_SETTINGS,RECEIVE_BOOT_COMPLETED,READ_LOGS,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,READ_CALL_LOG</permissions>
 			<features>android.hardware.wifi,android.hardware.telephony,android.hardware.touchscreen</features>
+		</package>
+	</application>
+	<application id="com.vsmartcard.remotesmartcardreader.app">
+		<id>com.vsmartcard.remotesmartcardreader.app</id>
+		<added>2014-07-20</added>
+		<lastupdated>2014-07-20</lastupdated>
+		<name>Remote Smart Card Reader</name>
+		<summary>Use your phone as NFC smart card reader</summary>
+		<icon>com.vsmartcard.remotesmartcardreader.app.1.png</icon>
+		<desc>&lt;p&gt;Use a host computer to use the smartphone's NFC hardware as contact-less smartcard reader. On the host computer a special smart card driver, vpcd, must be installed. The app establishes a connection to vpcd over the network when a contact-less card is detected. Since vpcd integrates seamlessly into the PC/SC framework of the host system, so the contact-less card can be accessed by a typical smart card application, for example &lt;a href=&quot;https://github.com/OpenSC/OpenSC&quot;&gt;OpenSC&lt;/a&gt;.&lt;/p&gt;</desc>
+		<license>GPLv3</license>
+		<categories>Office</categories>
+		<category>Office</category>
+		<web>https://frankmorgner.github.io/vsmartcard/remote-reader/README.html</web>
+		<source>https://github.com/frankmorgner/vsmartcard</source>
+		<tracker>https://github.com/frankmorgner/vsmartcard/issues</tracker>
+		<marketversion>1.0</marketversion>
+		<marketvercode>1</marketvercode>
+		<package>
+			<version>1.0</version>
+			<versioncode>1</versioncode>
+			<apkname>com.vsmartcard.remotesmartcardreader.app_1.apk</apkname>
+			<srcname>com.vsmartcard.remotesmartcardreader.app_1_src.tar.gz</srcname>
+			<hash type="sha256">4d938ea5c55f9a868f3fafc4aa5a5e2b50c55c869565a588701cb03b37a17527</hash>
+			<sig>05e8fe1b9f906104f112ad3b08060404</sig>
+			<size>852792</size>
+			<sdkver>10</sdkver>
+			<added>2014-07-20</added>
+			<permissions>INTERNET,NFC</permissions>
+			<features>android.hardware.nfc,android.hardware.touchscreen</features>
 		</package>
 	</application>
 	<application id="remuco.client.android">
@@ -42691,11 +42796,11 @@
 	<application id="com.amphoras.tpthelper">
 		<id>com.amphoras.tpthelper</id>
 		<added>2012-08-29</added>
-		<lastupdated>2012-08-29</lastupdated>
+		<lastupdated>2014-07-20</lastupdated>
 		<name>TPT Helper</name>
 		<summary>Tools for ZTE phones</summary>
-		<icon>com.amphoras.tpthelper.24.png</icon>
-		<desc>&lt;p&gt;TPT Helper is designed for the ZTE phones. It helps you to easily repartition the phone and for the ZTE Blade, convert it to the Gen 2 memory layout to let you run the latest custom ROMs. ZTE phones supported so far are the ZTE Blade/Orange San Francisco, ZTE Skate/Orange Monte Carlo and the Orange San Francisco II/T-Mobile Vivacity.&lt;/p&gt;&lt;p&gt;Warning: TPTs can be dangerous and could permanently brick your phone. Only use files designed for your phone, and always follow the in-app instructions. When you flash a TPT, all your data will be wiped. Make a backup first.&lt;/p&gt;</desc>
+		<icon>com.amphoras.tpthelper.25.png</icon>
+		<desc>&lt;p&gt;TPT Helper is designed for the ZTE phones. It helps you to easily repartition the phone and for the ZTE Blade, convert it to the Gen 2 memory layout to let you run the latest custom ROMs. ZTE phones supported so far are the ZTE Blade alias Orange San Francisco, ZTE Skate alias Orange Monte Carlo and the Orange San Francisco II alias T-Mobile Vivacity.&lt;/p&gt;&lt;p&gt;Warning: TPTs can be dangerous and could permanently brick your phone. Only use files designed for your phone, and always follow the in-app instructions. When you flash a TPT, all your data will be wiped. Make a backup first.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
 		<category>System</category>
@@ -42704,6 +42809,19 @@
 		<tracker>https://github.com/Amphoras/TPT-Helper/issues</tracker>
 		<marketversion>2.1</marketversion>
 		<marketvercode>25</marketvercode>
+		<package>
+			<version>2.1</version>
+			<versioncode>25</versioncode>
+			<apkname>com.amphoras.tpthelper_25.apk</apkname>
+			<srcname>com.amphoras.tpthelper_25_src.tar.gz</srcname>
+			<hash type="sha256">9bcb7b25e511c0ae0d51caf83ec29ee5da50b1ee2af6a50a1acba1f45ec52e2c</hash>
+			<sig>41d60eff55de5eda06cf1747b17dec78</sig>
+			<size>363165</size>
+			<sdkver>3</sdkver>
+			<added>2014-07-20</added>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WRITE_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>2.0.3</version>
 			<versioncode>24</versioncode>
@@ -43226,6 +43344,38 @@
 			<added>2014-05-12</added>
 			<permissions>INTERNET,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,VIBRATE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.location,android.hardware.location.gps,android.hardware.touchscreen</features>
+		</package>
+	</application>
+	<application id="com.lonepulse.travisjr">
+		<id>com.lonepulse.travisjr</id>
+		<added>2014-07-20</added>
+		<lastupdated>2014-07-20</lastupdated>
+		<name>Travis Jr.</name>
+		<summary>Travis-CI client</summary>
+		<icon>com.lonepulse.travisjr.2.png</icon>
+		<desc>&lt;p&gt;Mobile client for the popular continuous integration system Travis-CI. Allows to authenticate via Github and view your repositories and builds and supports viewing build logs with panning and zooming.&lt;/p&gt;&lt;p&gt;Anti-feature:Network Services. Travis-CI.org itself runs primarily proprietary code.&lt;/p&gt;</desc>
+		<license>Apache2</license>
+		<categories>Development</categories>
+		<category>Development</category>
+		<web>http://sahan.me/Travis-Jr/</web>
+		<source>https://github.com/sahan/Travis-Jr/</source>
+		<tracker>https://github.com/sahan/Travis-Jr/issues</tracker>
+		<marketversion>0.2.0</marketversion>
+		<marketvercode>2</marketvercode>
+		<antifeatures>NonFreeNet</antifeatures>
+		<provides>com.lonepulse.travisjr</provides>
+		<package>
+			<version>0.2.0</version>
+			<versioncode>2</versioncode>
+			<apkname>com.lonepulse.travisjr_2.apk</apkname>
+			<srcname>com.lonepulse.travisjr_2_src.tar.gz</srcname>
+			<hash type="sha256">7781b4edec51c5171452ef77934c8aee188b0c1d7a5cfe46435d14438685e2f8</hash>
+			<sig>d8fedd961c25d056433d1c37c0776d2e</sig>
+			<size>527770</size>
+			<sdkver>14</sdkver>
+			<added>2014-07-20</added>
+			<permissions>GET_ACCOUNTS,INTERNET,ACCESS_NETWORK_STATE,VIBRATE</permissions>
+			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
 	<application id="de.koelle.christian.trickytripper">
