@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1405831835" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1405916437" url="http://f-droid.org/repo" version="12">
 		<description>The official FDroid repository. Applications in this repository are mostly built directory from the source code. Some are official binaries built by the original application developers - these will be replaced by source-built versions over time. </description>
 	</repo>
 	<application id="de.j4velin.systemappmover">
@@ -4594,10 +4594,10 @@
 	<application id="indrora.atomic">
 		<id>indrora.atomic</id>
 		<added>2014-04-11</added>
-		<lastupdated>2014-07-17</lastupdated>
+		<lastupdated>2014-07-21</lastupdated>
 		<name>Atomic</name>
 		<summary>IRC (chat) client</summary>
-		<icon>indrora.atomic.16.png</icon>
+		<icon>indrora.atomic.18.png</icon>
 		<desc>&lt;p&gt;Internet Relay Chat (IRC) client based on &lt;a href=&quot;fdroid.app:org.yaaic&quot;&gt;Yaaic&lt;/a&gt;.&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Internet</categories>
@@ -4605,8 +4605,21 @@
 		<web>http://indrora.github.io/Atomic</web>
 		<source>https://github.com/indrora/Atomic</source>
 		<tracker>https://github.com/indrora/Atomic/issues</tracker>
-		<marketversion>1.16</marketversion>
-		<marketvercode>16</marketvercode>
+		<marketversion>1.18</marketversion>
+		<marketvercode>18</marketvercode>
+		<package>
+			<version>1.18</version>
+			<versioncode>18</versioncode>
+			<apkname>indrora.atomic_18.apk</apkname>
+			<srcname>indrora.atomic_18_src.tar.gz</srcname>
+			<hash type="sha256">9fcf608abd8dc35e14bd3e1ed8386798506fbe815e325e3ca34d3f6d50941f43</hash>
+			<sig>5f05c77001f4a0ff5d3383bf2f1e9361</sig>
+			<size>1303129</size>
+			<sdkver>7</sdkver>
+			<added>2014-07-21</added>
+			<permissions>INTERNET,ACCESS_NETWORK_STATE,VIBRATE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.16</version>
 			<versioncode>16</versioncode>
@@ -4630,19 +4643,6 @@
 			<size>1380299</size>
 			<sdkver>7</sdkver>
 			<added>2014-06-12</added>
-			<permissions>INTERNET,VIBRATE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.14</version>
-			<versioncode>14</versioncode>
-			<apkname>indrora.atomic_14.apk</apkname>
-			<srcname>indrora.atomic_14_src.tar.gz</srcname>
-			<hash type="sha256">ee184f9b713be0f5dea4b50966215386f2f230efd67b6ecb37b98552c1dc7d85</hash>
-			<sig>5f05c77001f4a0ff5d3383bf2f1e9361</sig>
-			<size>1374817</size>
-			<sdkver>7</sdkver>
-			<added>2014-04-17</added>
 			<permissions>INTERNET,VIBRATE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -6817,6 +6817,36 @@
 			<sdkver>8</sdkver>
 			<added>2014-06-25</added>
 			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,USE_CREDENTIALS,READ_SYNC_STATS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
+	<application id="byrne.utilities.converter">
+		<id>byrne.utilities.converter</id>
+		<added>2014-07-21</added>
+		<lastupdated>2014-07-21</lastupdated>
+		<name>Bodha Converter</name>
+		<summary>Convert binary, octal, decimal, hex and ASCII</summary>
+		<icon>byrne.utilities.converter.1.png</icon>
+		<desc>&lt;p&gt;Supports general (binary, octal, decimal and hexadecimal) conversions up to 2^63-1 in their respective formats. It also supports ASCII characters in the range of NUL to DEL (0 - 127). A convenient table is also included for quick lookups also in the range of 0 - 127.&lt;/p&gt;</desc>
+		<license>GPLv3</license>
+		<categories>Science &amp; Education</categories>
+		<category>Science &amp; Education</category>
+		<web>https://github.com/dillbyrne/Bodha-Converter</web>
+		<source>https://github.com/dillbyrne/Bodha-Converter</source>
+		<tracker>https://github.com/dillbyrne/Bodha-Converter/issues</tracker>
+		<bitcoin>1L44pgmZpeMsWsd24WgN6SJjEUARG5eY6G</bitcoin>
+		<marketversion>1.0</marketversion>
+		<marketvercode>1</marketvercode>
+		<package>
+			<version>1.0</version>
+			<versioncode>1</versioncode>
+			<apkname>byrne.utilities.converter_1.apk</apkname>
+			<srcname>byrne.utilities.converter_1_src.tar.gz</srcname>
+			<hash type="sha256">ca1183aa31b49053df348218bddcf67febd86fe8996d0f5cdbe2428a4022f9b7</hash>
+			<sig>097da0bcf16ae528fd0140f0631d9689</sig>
+			<size>21970</size>
+			<sdkver>3</sdkver>
+			<added>2014-07-21</added>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -17998,8 +18028,8 @@
 		<web>http://sourceforge.net/p/halachictimes</web>
 		<source>https://svn.code.sf.net/p/halachictimes/code</source>
 		<tracker/>
-		<marketversion>3.1</marketversion>
-		<marketvercode>24</marketvercode>
+		<marketversion>4.0</marketversion>
+		<marketvercode>25</marketvercode>
 		<package>
 			<version>3.1</version>
 			<versioncode>24</versioncode>
@@ -24958,8 +24988,8 @@
 		<source>https://code.launchpad.net/minesweeper</source>
 		<tracker>https://bugs.launchpad.net/minesweeper</tracker>
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D5J9DMDL7S5V4</donate>
-		<marketversion>1.5.3</marketversion>
-		<marketvercode>153</marketvercode>
+		<marketversion>1.5.4</marketversion>
+		<marketvercode>154</marketvercode>
 		<package>
 			<version>1.5.3</version>
 			<versioncode>153</versioncode>
@@ -26903,10 +26933,10 @@
 	<application id="org.totschnig.myexpenses">
 		<id>org.totschnig.myexpenses</id>
 		<added>2012-10-31</added>
-		<lastupdated>2014-07-20</lastupdated>
+		<lastupdated>2014-07-21</lastupdated>
 		<name>My Expenses</name>
 		<summary>Manage finances</summary>
-		<icon>org.totschnig.myexpenses.151.png</icon>
+		<icon>org.totschnig.myexpenses.152.png</icon>
 		<desc>&lt;p&gt;MyExpenses is designed to keep track of expenses, and to export these expenses as QIF files into a finance program (e.g.: Grisbi, GnuCash).&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Up to five accounts with transfers (unlimited in Contrib version)&lt;/li&gt;&lt;li&gt; Define plans (3) for future and recurrent transactions  (unlimited in Contrib version)&lt;/li&gt;&lt;li&gt; Group transactions per day, week, month, year and display sums per group&lt;/li&gt;&lt;li&gt; Two levels of categories (import from Grisbi XML and QIF), display distribution of transactions in Contrib version&lt;/li&gt;&lt;li&gt; Split transactions (Contrib version)&lt;/li&gt;&lt;li&gt; Calculator&lt;/li&gt;&lt;li&gt; Export to QIF and CSV (MS Excel), can be automatically shared (via email, FTP, Dropbox, ...) and done in batch in Contrib version&lt;/li&gt;&lt;li&gt; Import QIF data&lt;/li&gt;&lt;li&gt; Password protection, recoverable with security question in Contrib version&lt;/li&gt;&lt;li&gt; Integrated Help&lt;/li&gt;&lt;li&gt; Create transactions from templates&lt;/li&gt;&lt;li&gt; Data backup and restore&lt;/li&gt;&lt;li&gt; Aggregate financial situation (Contrib version)&lt;/li&gt;&lt;li&gt; Two themes: light and dark&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -26917,8 +26947,21 @@
 		<donate>http://www.myexpenses.mobi/#donate</donate>
 		<bitcoin>1GCUGCSfFXzSC81ogHu12KxfUn3cShekMn</bitcoin>
 		<flattr>1028216</flattr>
-		<marketversion>2.1.6.1</marketversion>
-		<marketvercode>151</marketvercode>
+		<marketversion>2.1.6.2</marketversion>
+		<marketvercode>152</marketvercode>
+		<package>
+			<version>2.1.6.2</version>
+			<versioncode>152</versioncode>
+			<apkname>org.totschnig.myexpenses_152.apk</apkname>
+			<srcname>org.totschnig.myexpenses_152_src.tar.gz</srcname>
+			<hash type="sha256">bac668b36ad0123e97b299158a76d6e325bcc0cd3cb408fffb21c6de7fc74623</hash>
+			<sig>e1ca5bcb8d0a515a6d35500974fbc3a8</sig>
+			<size>2302581</size>
+			<sdkver>7</sdkver>
+			<added>2014-07-21</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,WRITE_CALENDAR,READ_CALENDAR,RECEIVE_BOOT_COMPLETED,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>2.1.6.1</version>
 			<versioncode>151</versioncode>
@@ -26942,19 +26985,6 @@
 			<size>2301156</size>
 			<sdkver>7</sdkver>
 			<added>2014-07-03</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,WRITE_CALENDAR,READ_CALENDAR,RECEIVE_BOOT_COMPLETED,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>2.1.5</version>
-			<versioncode>145</versioncode>
-			<apkname>org.totschnig.myexpenses_145.apk</apkname>
-			<srcname>org.totschnig.myexpenses_145_src.tar.gz</srcname>
-			<hash type="sha256">86eb0ce76b46ad58cef9919b9b8a30ec72af41ed5cc53d9b33e1b0b91f87ce8f</hash>
-			<sig>e1ca5bcb8d0a515a6d35500974fbc3a8</sig>
-			<size>2212801</size>
-			<sdkver>7</sdkver>
-			<added>2014-06-04</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,WRITE_CALENDAR,READ_CALENDAR,RECEIVE_BOOT_COMPLETED,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -27533,8 +27563,8 @@
 		<web>http://www.navit-project.org</web>
 		<source>http://sourceforge.net/p/navit/code</source>
 		<tracker>http://trac.navit-project.org</tracker>
-		<marketversion>5821</marketversion>
-		<marketvercode>5821</marketvercode>
+		<marketversion>5822</marketversion>
+		<marketvercode>5822</marketvercode>
 		<package>
 			<version>navit 0.5.0-5720</version>
 			<versioncode>5720</versioncode>
@@ -32002,6 +32032,38 @@
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="byrne.utilities.pasteedroid">
+		<id>byrne.utilities.pasteedroid</id>
+		<added>2014-07-21</added>
+		<lastupdated>2014-07-21</lastupdated>
+		<name>Pastee Droid</name>
+		<summary>Post snippets online with Pastee service</summary>
+		<icon>byrne.utilities.pasteedroid.1.png</icon>
+		<desc>&lt;p&gt;Client for the pastebin service located at pastee.org. Let's you quickly upload text or code snippets.&lt;/p&gt;</desc>
+		<license>GPLv3</license>
+		<categories>Internet</categories>
+		<category>Internet</category>
+		<web>https://github.com/dillbyrne/PasteeDroid</web>
+		<source>https://github.com/dillbyrne/PasteeDroid</source>
+		<tracker>https://github.com/dillbyrne/PasteeDroid/issues</tracker>
+		<bitcoin>1L44pgmZpeMsWsd24WgN6SJjEUARG5eY6G</bitcoin>
+		<marketversion>1.0</marketversion>
+		<marketvercode>1</marketvercode>
+		<antifeatures>NonFreeNet</antifeatures>
+		<package>
+			<version>1.0</version>
+			<versioncode>1</versioncode>
+			<apkname>byrne.utilities.pasteedroid_1.apk</apkname>
+			<srcname>byrne.utilities.pasteedroid_1_src.tar.gz</srcname>
+			<hash type="sha256">ac6db80a266b3ce37080389f669d67aab855d8d254d1f6800881134be353eaf3</hash>
+			<sig>77453314e89a5994dc9d30321b4a156e</sig>
+			<size>74956</size>
+			<sdkver>7</sdkver>
+			<added>2014-07-21</added>
+			<permissions>INTERNET,ACCESS_NETWORK_STATE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="com.th.XenonWallpapers">
 		<id>com.th.XenonWallpapers</id>
 		<added>2014-01-07</added>
@@ -33634,8 +33696,8 @@
 		<web/>
 		<source>https://github.com/DamienOReilly/PrepayCredit</source>
 		<tracker>https://github.com/DamienOReilly/PrepayCredit/issues</tracker>
-		<marketversion>0.9</marketversion>
-		<marketvercode>9</marketvercode>
+		<marketversion>0.11</marketversion>
+		<marketvercode>13</marketvercode>
 		<package>
 			<version>0.9</version>
 			<versioncode>9</versioncode>
@@ -34281,8 +34343,8 @@
 		<web>http://quasseldroid.iskrembilen.com/</web>
 		<source>https://github.com/sandsmark/QuasselDroid</source>
 		<tracker>https://github.com/sandsmark/QuasselDroid/issues</tracker>
-		<marketversion>0.9.8</marketversion>
-		<marketvercode>84</marketvercode>
+		<marketversion>0.10.0</marketversion>
+		<marketvercode>86</marketvercode>
 		<package>
 			<version>0.9.8</version>
 			<versioncode>84</versioncode>
@@ -47655,8 +47717,8 @@
 		<web>http://xmp.sourceforge.net</web>
 		<source>http://sourceforge.net/projects/xmp/develop</source>
 		<tracker/>
-		<marketversion>3.9.3</marketversion>
-		<marketvercode>54</marketvercode>
+		<marketversion>3.9.4</marketversion>
+		<marketvercode>55</marketvercode>
 		<package>
 			<version>3.6.0</version>
 			<versioncode>39</versioncode>
@@ -47898,6 +47960,36 @@
 			<sdkver>8</sdkver>
 			<added>2013-11-13</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<nativecode>armeabi</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
+	<application id="uobikiemukot.yaft">
+		<id>uobikiemukot.yaft</id>
+		<added>2014-07-21</added>
+		<lastupdated>2014-07-21</lastupdated>
+		<name>yaft</name>
+		<summary>Simple terminal emulator</summary>
+		<desc>&lt;p&gt;Simple terminal emulator for minimalists. It is based on yaft -- yet another framebuffer terminal. &lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; almost compatible with vt102 and linux console&lt;/li&gt;&lt;li&gt; UTF-8 support&lt;/li&gt;&lt;li&gt; 256 color support&lt;/li&gt;&lt;/ul&gt;</desc>
+		<license>MIT</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web>https://github.com/uobikiemukot/yaft-android</web>
+		<source>https://github.com/uobikiemukot/yaft-android</source>
+		<tracker>https://github.com/uobikiemukot/yaft-android/issues</tracker>
+		<marketversion>1.0</marketversion>
+		<marketvercode>4</marketvercode>
+		<package>
+			<version>1.0</version>
+			<versioncode>4</versioncode>
+			<apkname>uobikiemukot.yaft_4.apk</apkname>
+			<srcname>uobikiemukot.yaft_4_src.tar.gz</srcname>
+			<hash type="sha256">7215516355bad778e72e76b9562b7d9630c1cf66c70d1f24b9f7f3143d66d67d</hash>
+			<sig>578f531c102cadeee8df10f5a55640f8</sig>
+			<size>126506</size>
+			<sdkver>9</sdkver>
+			<added>2014-07-21</added>
+			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,ACCESS_SUPERUSER</permissions>
 			<nativecode>armeabi</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
