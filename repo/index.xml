@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1405916437" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1406002965" url="http://f-droid.org/repo" version="12">
 		<description>The official FDroid repository. Applications in this repository are mostly built directory from the source code. Some are official binaries built by the original application developers - these will be replaced by source-built versions over time. </description>
 	</repo>
 	<application id="de.j4velin.systemappmover">
@@ -2897,8 +2897,8 @@
 		<web>https://code.google.com/p/ankidroid/wiki/Index</web>
 		<source>https://github.com/ankidroid/Anki-Android</source>
 		<tracker>https://github.com/ankidroid/Anki-Android/issues</tracker>
-		<marketversion>2.1.3</marketversion>
-		<marketvercode>20103300</marketvercode>
+		<marketversion>2.2</marketversion>
+		<marketvercode>20200300</marketvercode>
 		<package>
 			<version>2.2alpha17</version>
 			<versioncode>20200117</versioncode>
@@ -9846,8 +9846,8 @@
 		<web>https://github.com/rtreffer/ContactMerger</web>
 		<source>https://github.com/rtreffer/ContactMerger</source>
 		<tracker>https://github.com/rtreffer/ContactMerger/issues</tracker>
-		<marketversion>1.1.2</marketversion>
-		<marketvercode>7</marketvercode>
+		<marketversion>1.1.3</marketversion>
+		<marketvercode>8</marketvercode>
 		<package>
 			<version>1.1.2</version>
 			<versioncode>7</versioncode>
@@ -9981,7 +9981,7 @@
 	</application>
 	<application id="eu.siacs.conversations">
 		<id>eu.siacs.conversations</id>
-		<added>2014-04-13</added>
+		<added>2014-05-20</added>
 		<lastupdated>2014-07-06</lastupdated>
 		<name>Conversations</name>
 		<summary>XMPP client</summary>
@@ -9993,8 +9993,8 @@
 		<web>https://github.com/siacs/Conversations</web>
 		<source>https://github.com/siacs/Conversations</source>
 		<tracker>https://github.com/siacs/Conversations/issues</tracker>
-		<marketversion>0.4.1</marketversion>
-		<marketvercode>19</marketvercode>
+		<marketversion>0.5-beta</marketversion>
+		<marketvercode>20</marketvercode>
 		<package>
 			<version>0.4.1</version>
 			<versioncode>19</versioncode>
@@ -11928,8 +11928,8 @@
 		<web>https://github.com/zagaberoo/diode</web>
 		<source>https://github.com/zagaberoo/diode</source>
 		<tracker>https://github.com/zagaberoo/diode/issues</tracker>
-		<marketversion>1.1.2</marketversion>
-		<marketvercode>14</marketvercode>
+		<marketversion>1.1.3</marketversion>
+		<marketvercode>15</marketvercode>
 		<package>
 			<version>1.1.2</version>
 			<versioncode>14</versioncode>
@@ -18028,8 +18028,8 @@
 		<web>http://sourceforge.net/p/halachictimes</web>
 		<source>https://svn.code.sf.net/p/halachictimes/code</source>
 		<tracker/>
-		<marketversion>4.0</marketversion>
-		<marketvercode>25</marketvercode>
+		<marketversion>4.1</marketversion>
+		<marketvercode>27</marketvercode>
 		<package>
 			<version>3.1</version>
 			<versioncode>24</versioncode>
@@ -24976,10 +24976,10 @@
 	<application id="it.reyboz.minesweeper">
 		<id>it.reyboz.minesweeper</id>
 		<added>2014-07-11</added>
-		<lastupdated>2014-07-19</lastupdated>
+		<lastupdated>2014-07-22</lastupdated>
 		<name>MineSweeper</name>
 		<summary>Clear minefield without detonating a mine.</summary>
-		<icon>it.reyboz.minesweeper.153.png</icon>
+		<icon>it.reyboz.minesweeper.154.png</icon>
 		<desc>&lt;p&gt;Simple one-tap strategy game where you have a virtual minefield and you must liberate it. If you play tapping randomly in the field probably your penguin will become a good petard, otherwise you and your cute penguin are probably destined to survive.&lt;/p&gt;&lt;p&gt;Tips:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; When you see any number pay much attention: There are exactly &quot;n&quot; bombs around that number!&lt;/li&gt;&lt;li&gt; Hold-tap to place flags.&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Games</categories>
@@ -24990,6 +24990,19 @@
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D5J9DMDL7S5V4</donate>
 		<marketversion>1.5.4</marketversion>
 		<marketvercode>154</marketvercode>
+		<package>
+			<version>1.5.4</version>
+			<versioncode>154</versioncode>
+			<apkname>it.reyboz.minesweeper_154.apk</apkname>
+			<srcname>it.reyboz.minesweeper_154_src.tar.gz</srcname>
+			<hash type="sha256">914f0a58ef1618829334d238ad2392bcfcbaf5a27ee2916d0af49a007c3e83f8</hash>
+			<sig>b1dc8ff40f128d5107ad3d65a23cfe38</sig>
+			<size>1917671</size>
+			<sdkver>10</sdkver>
+			<added>2014-07-22</added>
+			<permissions>INTERNET,VIBRATE,WRITE_EXTERNAL_STORAGE,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,RECORD_AUDIO,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.microphone,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.5.3</version>
 			<versioncode>153</versioncode>
@@ -25011,19 +25024,6 @@
 			<hash type="sha256">4e6a2df4c29df44584acd452d97f420550aae9f423dfbb46878775fa8acea869</hash>
 			<sig>b1dc8ff40f128d5107ad3d65a23cfe38</sig>
 			<size>1915879</size>
-			<sdkver>10</sdkver>
-			<added>2014-07-17</added>
-			<permissions>INTERNET,VIBRATE,WRITE_EXTERNAL_STORAGE,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,RECORD_AUDIO,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.microphone,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.5.1</version>
-			<versioncode>151</versioncode>
-			<apkname>it.reyboz.minesweeper_151.apk</apkname>
-			<srcname>it.reyboz.minesweeper_151_src.tar.gz</srcname>
-			<hash type="sha256">ef8195098be4673b471b7fcc116e444ae79f5c54133999bef76b24468646286f</hash>
-			<sig>b1dc8ff40f128d5107ad3d65a23cfe38</sig>
-			<size>1915243</size>
 			<sdkver>10</sdkver>
 			<added>2014-07-17</added>
 			<permissions>INTERNET,VIBRATE,WRITE_EXTERNAL_STORAGE,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,RECORD_AUDIO,READ_EXTERNAL_STORAGE</permissions>
@@ -34332,10 +34332,10 @@
 	<application id="com.iskrembilen.quasseldroid">
 		<id>com.iskrembilen.quasseldroid</id>
 		<added>2014-06-28</added>
-		<lastupdated>2014-06-28</lastupdated>
+		<lastupdated>2014-07-22</lastupdated>
 		<name>Quasseldroid</name>
 		<summary>Client for Quassel IRC</summary>
-		<icon>com.iskrembilen.quasseldroid.84.png</icon>
+		<icon>com.iskrembilen.quasseldroid.86.png</icon>
 		<desc>&lt;p&gt;Quassel is a distributed, decentralized IRC client. This app is a pure Java client for the Quassel core.&lt;/p&gt;&lt;p&gt;A proprietary library has been stripped from the build.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
@@ -34345,6 +34345,19 @@
 		<tracker>https://github.com/sandsmark/QuasselDroid/issues</tracker>
 		<marketversion>0.10.0</marketversion>
 		<marketvercode>86</marketvercode>
+		<package>
+			<version>0.10.0</version>
+			<versioncode>86</versioncode>
+			<apkname>com.iskrembilen.quasseldroid_86.apk</apkname>
+			<srcname>com.iskrembilen.quasseldroid_86_src.tar.gz</srcname>
+			<hash type="sha256">aa69cff8654fa6083936332aa3bc3f274753a1414bd80fd968d23a36e866bd34</hash>
+			<sig>564089d4cfed3710eb007c63cb13116e</sig>
+			<size>1072903</size>
+			<sdkver>7</sdkver>
+			<added>2014-07-22</added>
+			<permissions>VIBRATE,INTERNET,ACCESS_NETWORK_STATE,WAKE_LOCK</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.9.8</version>
 			<versioncode>84</versioncode>
@@ -45911,8 +45924,8 @@
 		<web>http://opacapp.de</web>
 		<source>https://github.com/raphaelm/opacclient</source>
 		<tracker>https://github.com/raphaelm/opacclient/issues</tracker>
-		<marketversion>3.0.8</marketversion>
-		<marketvercode>82</marketvercode>
+		<marketversion>3.0.10</marketversion>
+		<marketvercode>84</marketvercode>
 		<package>
 			<version>3.0.8</version>
 			<versioncode>82</versioncode>
