@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1406002965" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1406110774" url="http://f-droid.org/repo" version="12">
 		<description>The official FDroid repository. Applications in this repository are mostly built directory from the source code. Some are official binaries built by the original application developers - these will be replaced by source-built versions over time. </description>
 	</repo>
 	<application id="de.j4velin.systemappmover">
@@ -2897,8 +2897,8 @@
 		<web>https://code.google.com/p/ankidroid/wiki/Index</web>
 		<source>https://github.com/ankidroid/Anki-Android</source>
 		<tracker>https://github.com/ankidroid/Anki-Android/issues</tracker>
-		<marketversion>2.2</marketversion>
-		<marketvercode>20200300</marketvercode>
+		<marketversion>2.2.2</marketversion>
+		<marketvercode>20202300</marketvercode>
 		<package>
 			<version>2.2alpha17</version>
 			<versioncode>20200117</versioncode>
@@ -9671,8 +9671,8 @@
 		<web/>
 		<source>https://bitbucket.org/alekseyt/compass</source>
 		<tracker>https://bitbucket.org/alekseyt/compass/issues</tracker>
-		<marketversion>1.4.2</marketversion>
-		<marketvercode>18</marketvercode>
+		<marketversion>1.4.3</marketversion>
+		<marketvercode>10403</marketvercode>
 		<package>
 			<version>1.4.2</version>
 			<versioncode>18</versioncode>
@@ -11917,10 +11917,10 @@
 	<application id="in.shick.diode">
 		<id>in.shick.diode</id>
 		<added>2012-07-01</added>
-		<lastupdated>2014-03-22</lastupdated>
+		<lastupdated>2014-07-23</lastupdated>
 		<name>Diode</name>
 		<summary>Client for reddit.com</summary>
-		<icon>in.shick.diode.14.png</icon>
+		<icon>in.shick.diode.15.png</icon>
 		<desc>&lt;p&gt;Diode provides quick and easy access to Reddit on your device complete with login, commenting and submissions. Discuss Diode with other users at the official &lt;a href=&quot;https://pay.reddit.com/r/diode.compact&quot;&gt;subreddit&lt;/a&gt;.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
@@ -11930,6 +11930,19 @@
 		<tracker>https://github.com/zagaberoo/diode/issues</tracker>
 		<marketversion>1.1.3</marketversion>
 		<marketvercode>15</marketvercode>
+		<package>
+			<version>1.1.3</version>
+			<versioncode>15</versioncode>
+			<apkname>in.shick.diode_15.apk</apkname>
+			<srcname>in.shick.diode_15_src.tar.gz</srcname>
+			<hash type="sha256">26d8eb0fe3876ab69e2f208e07b98ce800beb6c7cbb00908e96499abcd8b2dfd</hash>
+			<sig>2d2978d1ae836952dfe5a0641103cef7</sig>
+			<size>565280</size>
+			<sdkver>4</sdkver>
+			<added>2014-07-23</added>
+			<permissions>INTERNET,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,com.android.browser.permission.READ_HISTORY_BOOKMARKS,com.android.browser.permission.WRITE_HISTORY_BOOKMARKS</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.1.2</version>
 			<versioncode>14</versioncode>
@@ -11953,19 +11966,6 @@
 			<size>564686</size>
 			<sdkver>4</sdkver>
 			<added>2014-01-15</added>
-			<permissions>INTERNET,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,com.android.browser.permission.READ_HISTORY_BOOKMARKS,com.android.browser.permission.WRITE_HISTORY_BOOKMARKS</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.1.0</version>
-			<versioncode>12</versioncode>
-			<apkname>in.shick.diode_12.apk</apkname>
-			<srcname>in.shick.diode_12_src.tar.gz</srcname>
-			<hash type="sha256">0e5ae7f77c56cdd7b35263c00a03671835c73c7fed4afb658b42d0af640c2fe0</hash>
-			<sig>2d2978d1ae836952dfe5a0641103cef7</sig>
-			<size>564612</size>
-			<sdkver>4</sdkver>
-			<added>2013-08-16</added>
 			<permissions>INTERNET,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,com.android.browser.permission.READ_HISTORY_BOOKMARKS,com.android.browser.permission.WRITE_HISTORY_BOOKMARKS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -15150,10 +15150,10 @@
 	<application id="org.mozilla.firefox">
 		<id>org.mozilla.firefox</id>
 		<added>2013-10-29</added>
-		<lastupdated>2014-06-25</lastupdated>
+		<lastupdated>2014-07-23</lastupdated>
 		<name>Firefox</name>
 		<summary>Web browser</summary>
-		<icon>org.mozilla.firefox.2014060517.png</icon>
+		<icon>org.mozilla.firefox.2014071712.png</icon>
 		<desc>&lt;p&gt;Mobile version of the Firefox web browser. Uses the Gecko layout engine to render web pages, which implements current and anticipated web standards. Features include: bookmark sync, custom search engines, support for addons and the ability to enable or disable the search suggestions.&lt;/p&gt;&lt;p&gt;Anti-features: Non-free Addons: The license of the addons/modules on addons.mozilla.org may be seen in the version notes of the addon and often the license is Custom or other non-free. However there is no such license info for most apps from the marketplace. Tracking: Stats are sent back regularly to the developers, but that can be disabled via settings.&lt;/p&gt;</desc>
 		<license>MPL2</license>
 		<categories>Internet</categories>
@@ -15162,9 +15162,22 @@
 		<source>http://hg.mozilla.org</source>
 		<tracker>https://bugzilla.mozilla.org</tracker>
 		<donate>https://sendto.mozilla.org/page/contribute/openwebfund</donate>
-		<marketversion>30.0</marketversion>
-		<marketvercode>2014060517</marketvercode>
+		<marketversion>31.0</marketversion>
+		<marketvercode>2014071712</marketvercode>
 		<antifeatures>NonFreeAdd,Tracking</antifeatures>
+		<package>
+			<version>31.0</version>
+			<versioncode>2014071712</versioncode>
+			<apkname>fennec-31.0.multi.android-arm.apk</apkname>
+			<hash type="sha256">728ea1777d16bf7424842b4018d80e84e4c0249bf1031e129b89e86fcdf9fc3e</hash>
+			<sig>20e61aee1b748061ec3b0ab1bbe5bac4</sig>
+			<size>30103092</size>
+			<sdkver>8</sdkver>
+			<added>2014-07-23</added>
+			<permissions>RECEIVE_BOOT_COMPLETED,org.mozilla.firefox.permission.PER_ANDROID_PACKAGE,GET_ACCOUNTS,ACCESS_NETWORK_STATE,MANAGE_ACCOUNTS,USE_CREDENTIALS,AUTHENTICATE_ACCOUNTS,WRITE_SYNC_SETTINGS,WRITE_SETTINGS,READ_SYNC_STATS,READ_SYNC_SETTINGS,org.mozilla.firefox_fxaccount.permission.PER_ACCOUNT_TYPE,RECEIVE_BOOT_COMPLETED,org.mozilla.firefox.permission.PER_ANDROID_PACKAGE,GET_ACCOUNTS,ACCESS_NETWORK_STATE,MANAGE_ACCOUNTS,USE_CREDENTIALS,AUTHENTICATE_ACCOUNTS,WRITE_SYNC_SETTINGS,WRITE_SETTINGS,READ_SYNC_STATS,READ_SYNC_SETTINGS,org.mozilla.firefox_sync.permission.PER_ACCOUNT_TYPE,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,INTERNET,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.browser.permission.READ_HISTORY_BOOKMARKS,WAKE_LOCK,VIBRATE,org.mozilla.firefox.permissions.PASSWORD_PROVIDER,org.mozilla.firefox.permissions.BROWSER_PROVIDER,org.mozilla.firefox.permissions.FORMHISTORY_PROVIDER,NFC,RECORD_AUDIO,CAMERA,READ_EXTERNAL_STORAGE</permissions>
+			<nativecode>armeabi-v7a</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>30.0</version>
 			<versioncode>2014060517</versioncode>
@@ -15188,19 +15201,6 @@
 			<sdkver>8</sdkver>
 			<added>2014-05-02</added>
 			<permissions>RECEIVE_BOOT_COMPLETED,org.mozilla.firefox.permission.PER_ANDROID_PACKAGE,GET_ACCOUNTS,ACCESS_NETWORK_STATE,MANAGE_ACCOUNTS,USE_CREDENTIALS,AUTHENTICATE_ACCOUNTS,WRITE_SYNC_SETTINGS,WRITE_SETTINGS,READ_SYNC_STATS,READ_SYNC_SETTINGS,org.mozilla.firefox_fxaccount.permission.PER_ACCOUNT_TYPE,RECEIVE_BOOT_COMPLETED,org.mozilla.firefox.permission.PER_ANDROID_PACKAGE,GET_ACCOUNTS,ACCESS_NETWORK_STATE,MANAGE_ACCOUNTS,USE_CREDENTIALS,AUTHENTICATE_ACCOUNTS,WRITE_SYNC_SETTINGS,WRITE_SETTINGS,READ_SYNC_STATS,READ_SYNC_SETTINGS,org.mozilla.firefox_sync.permission.PER_ACCOUNT_TYPE,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,INTERNET,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.browser.permission.READ_HISTORY_BOOKMARKS,WAKE_LOCK,VIBRATE,org.mozilla.firefox.permissions.PASSWORD_PROVIDER,org.mozilla.firefox.permissions.BROWSER_PROVIDER,org.mozilla.firefox.permissions.FORMHISTORY_PROVIDER,NFC,RECORD_AUDIO,CAMERA,READ_EXTERNAL_STORAGE</permissions>
-			<nativecode>armeabi-v7a</nativecode>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>28.0</version>
-			<versioncode>2014031421</versioncode>
-			<apkname>fennec-28.0.multi.android-arm.apk</apkname>
-			<hash type="sha256">9ff78db21d66402afc494ed4230932aa4e2a5afed73c349f79e039a2d4ba8ea3</hash>
-			<sig>20e61aee1b748061ec3b0ab1bbe5bac4</sig>
-			<size>26800271</size>
-			<sdkver>8</sdkver>
-			<added>2014-03-21</added>
-			<permissions>RECEIVE_BOOT_COMPLETED,org.mozilla.firefox.permission.PER_ANDROID_PACKAGE,RECEIVE_BOOT_COMPLETED,org.mozilla.firefox.permission.PER_ANDROID_PACKAGE,GET_ACCOUNTS,ACCESS_NETWORK_STATE,MANAGE_ACCOUNTS,USE_CREDENTIALS,AUTHENTICATE_ACCOUNTS,WRITE_SYNC_SETTINGS,WRITE_SETTINGS,READ_SYNC_STATS,READ_SYNC_SETTINGS,org.mozilla.firefox_sync.permission.PER_ACCOUNT_TYPE,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,INTERNET,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.browser.permission.READ_HISTORY_BOOKMARKS,WAKE_LOCK,VIBRATE,org.mozilla.firefox.permissions.PASSWORD_PROVIDER,org.mozilla.firefox.permissions.BROWSER_PROVIDER,org.mozilla.firefox.permissions.FORMHISTORY_PROVIDER,NFC,RECORD_AUDIO,CAMERA,READ_EXTERNAL_STORAGE</permissions>
 			<nativecode>armeabi-v7a</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -29856,10 +29856,10 @@
 	<application id="net.sourceforge.opencamera">
 		<id>net.sourceforge.opencamera</id>
 		<added>2014-03-02</added>
-		<lastupdated>2014-05-27</lastupdated>
+		<lastupdated>2014-07-23</lastupdated>
 		<name>Open Camera</name>
 		<summary>Camera App</summary>
-		<icon>net.sourceforge.opencamera.15.png</icon>
+		<icon>net.sourceforge.opencamera.16.png</icon>
 		<desc>&lt;p&gt;A feature rich camera application, including:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; auto-stabilise option&lt;/li&gt;&lt;li&gt; multitouch zoom&lt;/li&gt;&lt;li&gt; flash/torch&lt;/li&gt;&lt;li&gt; choice of focus modes&lt;/li&gt;&lt;li&gt; face detection&lt;/li&gt;&lt;li&gt; front/back camera support&lt;/li&gt;&lt;li&gt; change recording resolution&lt;/li&gt;&lt;li&gt; video/audio recording&lt;/li&gt;&lt;li&gt; timer&lt;/li&gt;&lt;li&gt; burst mode&lt;/li&gt;&lt;li&gt; silencable shutter&lt;/li&gt;&lt;li&gt; configurable gui&lt;/li&gt;&lt;li&gt; geotagging&lt;/li&gt;&lt;li&gt; external microphone support&lt;/li&gt;&lt;li&gt; ...&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Multimedia</categories>
@@ -29869,8 +29869,21 @@
 		<tracker>http://sourceforge.net/p/opencamera/tickets</tracker>
 		<donate>http://sourceforge.net/donate/?user_id=439017</donate>
 		<bitcoin>1LKCFto9SQGqtcvqZxHkqDPqNjSnfMmsow</bitcoin>
-		<marketversion>1.13</marketversion>
-		<marketvercode>15</marketvercode>
+		<marketversion>1.14</marketversion>
+		<marketvercode>16</marketvercode>
+		<package>
+			<version>1.14</version>
+			<versioncode>16</versioncode>
+			<apkname>net.sourceforge.opencamera_16.apk</apkname>
+			<srcname>net.sourceforge.opencamera_16_src.tar.gz</srcname>
+			<hash type="sha256">1ddd21b5e5260ce0f44db171a63a0c7a41ffe2d2aaf00f7f3727681adf7328eb</hash>
+			<sig>d4664f3db91631459ab7d4f9aaf09409</sig>
+			<size>486706</size>
+			<sdkver>15</sdkver>
+			<added>2014-07-23</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,CAMERA,RECORD_AUDIO,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.camera,android.hardware.camera.autofocus,android.hardware.microphone,android.hardware.location,android.hardware.location.gps,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.13</version>
 			<versioncode>15</versioncode>
@@ -29894,19 +29907,6 @@
 			<size>468436</size>
 			<sdkver>14</sdkver>
 			<added>2014-05-20</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,CAMERA,RECORD_AUDIO,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.camera,android.hardware.camera.autofocus,android.hardware.microphone,android.hardware.location,android.hardware.location.gps,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.11</version>
-			<versioncode>13</versioncode>
-			<apkname>net.sourceforge.opencamera_13.apk</apkname>
-			<srcname>net.sourceforge.opencamera_13_src.tar.gz</srcname>
-			<hash type="sha256">12da69a6089ef623badc4e8a48f75aff644cec5c2e36740231bb689ddb0fbc76</hash>
-			<sig>d4664f3db91631459ab7d4f9aaf09409</sig>
-			<size>468344</size>
-			<sdkver>14</sdkver>
-			<added>2014-05-18</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,CAMERA,RECORD_AUDIO,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.camera,android.hardware.camera.autofocus,android.hardware.microphone,android.hardware.location,android.hardware.location.gps,android.hardware.touchscreen</features>
 		</package>
@@ -33494,8 +33494,8 @@
 		<web>http://ppsspp.org</web>
 		<source>https://github.com/hrydgard/ppsspp</source>
 		<tracker>https://github.com/hrydgard/ppsspp/issues</tracker>
-		<marketversion>0.9.8</marketversion>
-		<marketvercode>9803</marketvercode>
+		<marketversion>0.9.9</marketversion>
+		<marketvercode>9903</marketvercode>
 		<package>
 			<version>0.9.8</version>
 			<versioncode>9803</versioncode>
@@ -33696,8 +33696,8 @@
 		<web/>
 		<source>https://github.com/DamienOReilly/PrepayCredit</source>
 		<tracker>https://github.com/DamienOReilly/PrepayCredit/issues</tracker>
-		<marketversion>0.11</marketversion>
-		<marketvercode>13</marketvercode>
+		<marketversion>0.12</marketversion>
+		<marketvercode>14</marketvercode>
 		<package>
 			<version>0.9</version>
 			<versioncode>9</versioncode>
@@ -34343,8 +34343,8 @@
 		<web>http://quasseldroid.iskrembilen.com/</web>
 		<source>https://github.com/sandsmark/QuasselDroid</source>
 		<tracker>https://github.com/sandsmark/QuasselDroid/issues</tracker>
-		<marketversion>0.10.0</marketversion>
-		<marketvercode>86</marketvercode>
+		<marketversion>0.10.1</marketversion>
+		<marketvercode>87</marketvercode>
 		<package>
 			<version>0.10.0</version>
 			<versioncode>86</versioncode>
@@ -34930,8 +34930,8 @@
 		<source>https://github.com/OEP/rainwave-android</source>
 		<tracker>https://github.com/OEP/rainwave-android/issues</tracker>
 		<donate>http://rainwave.cc/pages/tip_jar</donate>
-		<marketversion>1.1.4</marketversion>
-		<marketvercode>11</marketvercode>
+		<marketversion>1.1.5</marketversion>
+		<marketvercode>12</marketvercode>
 		<package>
 			<version>1.1.4</version>
 			<versioncode>11</versioncode>
