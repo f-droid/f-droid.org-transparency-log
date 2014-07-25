@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1406110774" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1406194867" url="http://f-droid.org/repo" version="12">
 		<description>The official FDroid repository. Applications in this repository are mostly built directory from the source code. Some are official binaries built by the original application developers - these will be replaced by source-built versions over time. </description>
 	</repo>
 	<application id="de.j4velin.systemappmover">
@@ -2886,10 +2886,10 @@
 	<application id="com.ichi2.anki">
 		<id>com.ichi2.anki</id>
 		<added>2010-11-12</added>
-		<lastupdated>2014-04-06</lastupdated>
+		<lastupdated>2014-07-24</lastupdated>
 		<name>AnkiDroid</name>
 		<summary>A flashcard-based study aid</summary>
-		<icon>com.ichi2.anki.20200117.png</icon>
+		<icon>com.ichi2.anki.20202300.png</icon>
 		<desc>&lt;p&gt;Anki is a program which makes remembering things easy. Because it is a lot more efficient than traditional study methods, you can either greatly decrease your time spent studying, or greatly increase the amount you learn. AnkiDroid is the Android port of Anki, and is compatible with Anki data.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Science &amp; Education</categories>
@@ -2900,6 +2900,32 @@
 		<marketversion>2.2.2</marketversion>
 		<marketvercode>20202300</marketvercode>
 		<package>
+			<version>2.2.2</version>
+			<versioncode>20202300</versioncode>
+			<apkname>com.ichi2.anki_20202300.apk</apkname>
+			<srcname>com.ichi2.anki_20202300_src.tar.gz</srcname>
+			<hash type="sha256">44e525ef928c79fae37a61ba825428700ba29a144ef69a8f9b38c2051156153b</hash>
+			<sig>9899acf97dcacd57c1a3fd134be93a77</sig>
+			<size>5981531</size>
+			<sdkver>7</sdkver>
+			<added>2014-07-24</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,VIBRATE,INTERNET,ACCESS_NETWORK_STATE,RECORD_AUDIO,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.microphone,android.hardware.touchscreen</features>
+		</package>
+		<package>
+			<version>2.2</version>
+			<versioncode>20200300</versioncode>
+			<apkname>com.ichi2.anki_20200300.apk</apkname>
+			<srcname>com.ichi2.anki_20200300_src.tar.gz</srcname>
+			<hash type="sha256">7e58d7544ee50795cc29c722f9abe3c0c05e304e7c0d605ebcfe2d654974408e</hash>
+			<sig>9899acf97dcacd57c1a3fd134be93a77</sig>
+			<size>5978528</size>
+			<sdkver>7</sdkver>
+			<added>2014-07-24</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,VIBRATE,INTERNET,ACCESS_NETWORK_STATE,RECORD_AUDIO,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.microphone,android.hardware.touchscreen</features>
+		</package>
+		<package>
 			<version>2.2alpha17</version>
 			<versioncode>20200117</versioncode>
 			<apkname>com.ichi2.anki_20200117.apk</apkname>
@@ -2909,32 +2935,6 @@
 			<size>5610848</size>
 			<sdkver>7</sdkver>
 			<added>2014-04-02</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,VIBRATE,INTERNET,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>2.2alpha14</version>
-			<versioncode>20200114</versioncode>
-			<apkname>com.ichi2.anki_20200114.apk</apkname>
-			<srcname>com.ichi2.anki_20200114_src.tar.gz</srcname>
-			<hash type="sha256">101590d58d4382c00cc8a5ec54b6c754ac92faf7608d2075a0f644bcae4e5ec5</hash>
-			<sig>9899acf97dcacd57c1a3fd134be93a77</sig>
-			<size>5610495</size>
-			<sdkver>7</sdkver>
-			<added>2014-04-01</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,VIBRATE,INTERNET,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>2.2alpha1</version>
-			<versioncode>20200101</versioncode>
-			<apkname>com.ichi2.anki_20200101.apk</apkname>
-			<srcname>com.ichi2.anki_20200101_src.tar.gz</srcname>
-			<hash type="sha256">83b9291de54d920b66ccf1d8a89e5c755fdcfff970afcc500c0ef98ddb914564</hash>
-			<sig>9899acf97dcacd57c1a3fd134be93a77</sig>
-			<size>5607351</size>
-			<sdkver>7</sdkver>
-			<added>2014-03-31</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,VIBRATE,INTERNET,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -9202,10 +9202,10 @@
 	<application id="org.floens.chan">
 		<id>org.floens.chan</id>
 		<added>2014-06-03</added>
-		<lastupdated>2014-06-20</lastupdated>
+		<lastupdated>2014-07-24</lastupdated>
 		<name>Clover</name>
 		<summary>4chan image board browser</summary>
-		<icon>org.floens.chan.28.png</icon>
+		<icon>org.floens.chan.32.png</icon>
 		<desc>&lt;p&gt;Clover is a browser for the popular &lt;a href=&quot;https://4chan.org/&quot;&gt;4chan&lt;/a&gt; image board&lt;/p&gt;&lt;p&gt;Features include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Customizable boards - you can add more boards in the settings&lt;/li&gt;&lt;li&gt; View images fast and save them&lt;/li&gt;&lt;li&gt; Pin threads for easy access&lt;/li&gt;&lt;li&gt; Watch threads to be notified of new posts and replies to you&lt;/li&gt;&lt;li&gt; 4chan pass support&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
@@ -9215,8 +9215,21 @@
 		<tracker>https://github.com/Floens/Clover/issues</tracker>
 		<donate>https://floens.github.io/Clover/#donate</donate>
 		<bitcoin>1N7VtcNh8L8u4tF9CJ38GjnPbmxM4Vixi6</bitcoin>
-		<marketversion>v1.1.2</marketversion>
-		<marketvercode>28</marketvercode>
+		<marketversion>v1.1.3</marketversion>
+		<marketvercode>32</marketvercode>
+		<package>
+			<version>v1.1.3</version>
+			<versioncode>32</versioncode>
+			<apkname>org.floens.chan_32.apk</apkname>
+			<srcname>org.floens.chan_32_src.tar.gz</srcname>
+			<hash type="sha256">3e22d30d555853a40f1ffe17f51a18cccbb4e0a0083a1b4688d2329955c2485f</hash>
+			<sig>e2a3403ec4446f9bd9e6be5aaebbcd25</sig>
+			<size>611111</size>
+			<sdkver>14</sdkver>
+			<added>2014-07-24</added>
+			<permissions>INTERNET,WRITE_EXTERNAL_STORAGE,NFC,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>v1.1.2</version>
 			<versioncode>28</versioncode>
@@ -9835,10 +9848,10 @@
 	<application id="de.measite.contactmerger">
 		<id>de.measite.contactmerger</id>
 		<added>2014-07-18</added>
-		<lastupdated>2014-07-18</lastupdated>
+		<lastupdated>2014-07-24</lastupdated>
 		<name>Contact Merger</name>
 		<summary>Index and merge contacts with Lucene</summary>
-		<icon>de.measite.contactmerger.7.png</icon>
+		<icon>de.measite.contactmerger.8.png</icon>
 		<desc>&lt;p&gt;Index your contacts with lucene and provide a simple list of mergable contacts. The Service will run whenever the systems battery status is good, the data is old and/or the phone is plugged in.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>Office</categories>
@@ -9848,6 +9861,19 @@
 		<tracker>https://github.com/rtreffer/ContactMerger/issues</tracker>
 		<marketversion>1.1.3</marketversion>
 		<marketvercode>8</marketvercode>
+		<package>
+			<version>1.1.3</version>
+			<versioncode>8</versioncode>
+			<apkname>de.measite.contactmerger_8.apk</apkname>
+			<srcname>de.measite.contactmerger_8_src.tar.gz</srcname>
+			<hash type="sha256">ed0d4b0877f5bed70869ee255dc72a31f8075205b039311874338559b77b4e29</hash>
+			<sig>c13741524ff63f0dc361db6b4f89e9fe</sig>
+			<size>2786396</size>
+			<sdkver>16</sdkver>
+			<added>2014-07-24</added>
+			<permissions>READ_CONTACTS,WRITE_CONTACTS,RECEIVE_BOOT_COMPLETED,READ_CALL_LOG,WRITE_CALL_LOG</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.1.2</version>
 			<versioncode>7</versioncode>
@@ -17700,10 +17726,10 @@
 	<application id="it.greenaddress.cordova">
 		<id>it.greenaddress.cordova</id>
 		<added>2014-07-03</added>
-		<lastupdated>2014-07-07</lastupdated>
+		<lastupdated>2014-07-24</lastupdated>
 		<name>GreenAddress.It</name>
 		<summary>GreenAddress client</summary>
-		<icon>it.greenaddress.cordova.38.png</icon>
+		<icon>it.greenaddress.cordova.43.png</icon>
 		<desc>&lt;p&gt;Wallet that uses multisig to improve security (adding 2 factor for instance or limits) and Hierarchical Deterministic addresses (see &lt;a href=&quot;https://en.bitcoin.it/wiki/BIP_0032&quot;&gt;BIP32&lt;/a&gt;).&lt;/p&gt;&lt;p&gt;It offers the advantages of a web wallet:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Ubiquitously available&lt;/li&gt;&lt;li&gt; Social/email/sms integration&lt;/li&gt;&lt;li&gt; Two factor authentication&lt;/li&gt;&lt;li&gt; Transactions limits/restrictions&lt;/li&gt;&lt;li&gt; Greenaddress instant transaction&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;and the advantages of a local software wallet like Electrum:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Mnemonic seed backup once and forget&lt;/li&gt;&lt;li&gt; Your private keys are never on the server, not even encrypted&lt;/li&gt;&lt;li&gt; No long wait to synchronize the full client with the Bitcoin blockchain&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;See &lt;a href=&quot;https://greenaddress.it&quot;&gt;their website&lt;/a&gt; and &lt;a href=&quot;https://greenaddress.it/faq&quot;&gt;their FAQ&lt;/a&gt; for more information.&lt;/p&gt;&lt;p&gt;Supports NFC for login and QR code scanning for login and transactions.&lt;/p&gt;</desc>
 		<license>LGPLv2.1</license>
 		<categories>Internet</categories>
@@ -17711,8 +17737,22 @@
 		<web>https://greenaddress.it</web>
 		<source>https://github.com/greenaddress/WalletCordova</source>
 		<tracker>https://github.com/greenaddress/WalletCordova/issues</tracker>
-		<marketversion>0.0.38</marketversion>
-		<marketvercode>38</marketvercode>
+		<marketversion>0.0.43</marketversion>
+		<marketvercode>43</marketvercode>
+		<package>
+			<version>0.0.43</version>
+			<versioncode>43</versioncode>
+			<apkname>it.greenaddress.cordova_43.apk</apkname>
+			<srcname>it.greenaddress.cordova_43_src.tar.gz</srcname>
+			<hash type="sha256">fb962f82718a2efb68e99afa6cc152a2cd8540305038120dbc624b7d4d319fdd</hash>
+			<sig>075a316ba48b906938a3d5b5227c7eb8</sig>
+			<size>6747883</size>
+			<sdkver>14</sdkver>
+			<added>2014-07-24</added>
+			<permissions>INTERNET,NFC,ACCESS_NETWORK_STATE,GET_ACCOUNTS,WAKE_LOCK,VIBRATE,com.google.android.c2dm.permission.RECEIVE,it.greenaddress.cordova.permission.C2D_MESSAGE,READ_PHONE_STATE,CAMERA,FLASHLIGHT</permissions>
+			<nativecode>armeabi,mips,x86</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.0.38</version>
 			<versioncode>38</versioncode>
@@ -19113,6 +19153,35 @@
 			<added>2012-09-11</added>
 			<permissions>INTERNET,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,WAKE_LOCK,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.wifi,android.hardware.touchscreen</features>
+		</package>
+	</application>
+	<application id="com.bobbyrne01.howfardoyouswim">
+		<id>com.bobbyrne01.howfardoyouswim</id>
+		<added>2014-07-24</added>
+		<lastupdated>2014-07-24</lastupdated>
+		<name>How far do you swim</name>
+		<summary>Calculate the distance you swam</summary>
+		<icon>com.bobbyrne01.howfardoyouswim.1.png</icon>
+		<desc>&lt;p&gt;Calculates distance swam in terms of kilometers or miles.&lt;/p&gt;</desc>
+		<license>LGPLv3</license>
+		<categories>Navigation</categories>
+		<category>Navigation</category>
+		<web>https://github.com/bobbyrne01/howfardoyouswim-android</web>
+		<source>https://github.com/bobbyrne01/howfardoyouswim-android</source>
+		<tracker>https://github.com/bobbyrne01/howfardoyouswim-android/issues</tracker>
+		<marketversion>0.1</marketversion>
+		<marketvercode>1</marketvercode>
+		<package>
+			<version>0.1</version>
+			<versioncode>1</versioncode>
+			<apkname>com.bobbyrne01.howfardoyouswim_1.apk</apkname>
+			<srcname>com.bobbyrne01.howfardoyouswim_1_src.tar.gz</srcname>
+			<hash type="sha256">2e91df44b34deed2338d929c66728119f026cdaca3991c5f3f8ccc5f75d03698</hash>
+			<sig>78dca537373823f06ffb0e02b48fcc55</sig>
+			<size>250661</size>
+			<sdkver>8</sdkver>
+			<added>2014-07-24</added>
+			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
 	<application id="hsware.HSTempo">
@@ -31291,7 +31360,7 @@
 		<name>OsmAnd~</name>
 		<summary>Offline/online maps and navigation</summary>
 		<icon>net.osmand.plus.182.png</icon>
-		<desc>&lt;p&gt;Osmand~'s features can be extended by enabling the plugins via the settings, which include online maps from many sources, tracking, OSM editing and accessibility enhancements.&lt;/p&gt;&lt;p&gt;Map data of both vector and raster types can be stored on the phone memory card for offline usage, and navigation by default uses offline methods. Map data packages for many territories can be downloaded from within the app and there is a desktop program available on the website as well for creating your own.&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;Osmand~'s features can be extended by enabling the plugins via the settings, which include online maps from many sources, tracking, OSM editing and accessibility enhancements.&lt;/p&gt;&lt;p&gt;Map data of both vector and raster types can be stored on the phone memory card for offline usage, and navigation by default uses offline methods. Map data packages for many territories can be downloaded from within the app and there is a desktop program available on the website as well for creating your own.&lt;/p&gt;&lt;p&gt;Anti-Features: Tracking - It will send your device and application specs to an Analytics server upon downloading the list of maps you can download.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Navigation</categories>
 		<category>Navigation</category>
@@ -33689,7 +33758,7 @@
 		<name>Prepay Credit</name>
 		<summary>Info for Irish cell network</summary>
 		<icon>damo.three.ie.9.png</icon>
-		<desc>&lt;p&gt;For pre-pay customers of 3 Ireland: fetches and displays your My3 3pay usage information.&lt;/p&gt;&lt;p&gt;It can work when you are on 3's GSM network and also when on Wi-Fi. You can choose whether to go through an intermediate server (run by the author, but source code is published) to speed things up over cellular. The app requires your My3 username and password; the app shows how to set up an account and provides a way for obtaining your SIM serial.&lt;/p&gt;&lt;p&gt;Neither the app nor its author is affiliated with Hutchison 3G Ireland.&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;For prepay (3pay) customers of 3 Ireland: fetches and displays your My3 3pay usage information.&lt;/p&gt;&lt;p&gt;It can work when you are on 3's GSM network and also when on Wi-Fi.&lt;/p&gt;&lt;p&gt;The app requires your My3 login credentials; the app shows how to set up an account and provides a way for obtaining your SIM serial  (ICCID) which is required to register.&lt;/p&gt;&lt;p&gt;Neither the app nor its author is affiliated with Hutchison 3G Ireland.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
 		<category>Internet</category>
@@ -39042,8 +39111,8 @@
 		<web>https://github.com/tgwizard/sls</web>
 		<source>https://github.com/tgwizard/sls</source>
 		<tracker>https://github.com/tgwizard/sls/issues</tracker>
-		<marketversion>1.4.6</marketversion>
-		<marketvercode>33</marketvercode>
+		<marketversion>1.4.7</marketversion>
+		<marketvercode>36</marketvercode>
 		<package>
 			<version>1.4.6</version>
 			<versioncode>33</versioncode>
@@ -39157,19 +39226,32 @@
 	<application id="nl.mpcjanssen.simpletask">
 		<id>nl.mpcjanssen.simpletask</id>
 		<added>2013-12-04</added>
-		<lastupdated>2014-07-19</lastupdated>
+		<lastupdated>2014-07-24</lastupdated>
 		<name>Simpletask Cloudless</name>
 		<summary>Todo list manager</summary>
-		<icon>nl.mpcjanssen.simpletask.1522.png</icon>
+		<icon>nl.mpcjanssen.simpletask.1523.png</icon>
 		<desc>&lt;p&gt;A simple task list manager that strives to have just enough features to do GTD (the Getting Things Done methodology), but no more. Based on the &lt;a href=&quot;http://todotxt.com&quot;&gt;todo.txt&lt;/a&gt; app so all info is stored in a single text file called todo.txt. Note that, with this version, you will need to take care of backups yourself.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Todo list stored in the documented todo.txt format&lt;/li&gt;&lt;li&gt; Comprehensive filtering and multi sort&lt;/li&gt;&lt;li&gt; Create calendar reminders for specific tasks directly from the app&lt;/li&gt;&lt;li&gt; Select on or more tasks and press overflow menu-&amp;gt;Add reminder&lt;/li&gt;&lt;li&gt; Share the complete tasklist or selected tasks using the Android share feature&lt;/li&gt;&lt;li&gt; Tasks can deferred into the future. Combined with the &quot;Creation date in future&quot; sort it allows you to get tasks out of your face (as in 1MTD/MYN)&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
 		<category>Office</category>
-		<web>https://mpcjanssen.nl/fossil/simpletask</web>
-		<source>https://gitorious.org/simpletask/android</source>
-		<tracker>https://mpcjanssen.nl/fossil/simpletask/reportlist</tracker>
-		<marketversion>5.1.4</marketversion>
-		<marketvercode>1522</marketvercode>
+		<web>https://github.com/mpcjanssen/simpletask-android</web>
+		<source>https://github.com/mpcjanssen/simpletask-android</source>
+		<tracker>https://github.com/mpcjanssen/simpletask-android/issues</tracker>
+		<marketversion>5.1.5</marketversion>
+		<marketvercode>1523</marketvercode>
+		<package>
+			<version>5.1.5</version>
+			<versioncode>1523</versioncode>
+			<apkname>nl.mpcjanssen.simpletask_1523.apk</apkname>
+			<srcname>nl.mpcjanssen.simpletask_1523_src.tar.gz</srcname>
+			<hash type="sha256">de2019cf9f210db2761cd7d2165857201a71050cc2f9926858d7dce032bf9ec0</hash>
+			<sig>dd06020d0a5f4181366d0562dff0f90e</sig>
+			<size>1546455</size>
+			<sdkver>14</sdkver>
+			<added>2014-07-24</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>5.1.4</version>
 			<versioncode>1522</versioncode>
@@ -39193,19 +39275,6 @@
 			<size>1546127</size>
 			<sdkver>14</sdkver>
 			<added>2014-07-18</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>5.0.9</version>
-			<versioncode>1517</versioncode>
-			<apkname>nl.mpcjanssen.simpletask_1517.apk</apkname>
-			<srcname>nl.mpcjanssen.simpletask_1517_src.tar.gz</srcname>
-			<hash type="sha256">39509ffc39fb4ef15bd7f18d932521da6d1ea185fc0ea9704509c97c362276f4</hash>
-			<sig>dd06020d0a5f4181366d0562dff0f90e</sig>
-			<size>1546169</size>
-			<sdkver>14</sdkver>
-			<added>2014-07-17</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
