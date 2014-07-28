@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1406194867" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1406434272" url="http://f-droid.org/repo" version="12">
 		<description>The official FDroid repository. Applications in this repository are mostly built directory from the source code. Some are official binaries built by the original application developers - these will be replaced by source-built versions over time. </description>
 	</repo>
 	<application id="de.j4velin.systemappmover">
@@ -2985,10 +2985,10 @@
 	<application id="de.danoeh.antennapod">
 		<id>de.danoeh.antennapod</id>
 		<added>2012-09-20</added>
-		<lastupdated>2014-06-15</lastupdated>
+		<lastupdated>2014-07-26</lastupdated>
 		<name>AntennaPod</name>
 		<summary>Listen to audio feeds</summary>
-		<icon>de.danoeh.antennapod.38.png</icon>
+		<icon>de.danoeh.antennapod.39.png</icon>
 		<desc>&lt;p&gt;&lt;b&gt;N.B.&lt;/b&gt; The Flattr functionality is disabled in the f-droid.org build as the API keys are not in the source.&lt;/p&gt;&lt;p&gt;AntennaPod is a podcast manager for Android 2.3.3 and above. It offers all the basic features you expect from a podcatcher, like streaming and downloading episodes, refreshing all feeds automatically or adding them to a queue to listen to them later. The Miro directory can be searched and browsed for shows.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://raw.github.com/danieloeh/AntennaPod/master/CHANGELOG.md&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Status: BETA&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Multimedia</categories>
@@ -2998,8 +2998,21 @@
 		<tracker>https://github.com/danieloeh/AntennaPod/issues</tracker>
 		<bitcoin>1DzvtuvdW8VhDsq9GUytMyALmsHeaHEKbg</bitcoin>
 		<flattr>745609</flattr>
-		<marketversion>0.9.9.1</marketversion>
-		<marketvercode>38</marketvercode>
+		<marketversion>0.9.9.2</marketversion>
+		<marketvercode>39</marketvercode>
+		<package>
+			<version>0.9.9.2</version>
+			<versioncode>39</versioncode>
+			<apkname>de.danoeh.antennapod_39.apk</apkname>
+			<srcname>de.danoeh.antennapod_39_src.tar.gz</srcname>
+			<hash type="sha256">d2a185237c6bd5a9de1d60e8c55f1aa99e7e7f2565437f4a46a4cfb968d8b6e8</hash>
+			<sig>3870fa89bfb5e13509ce5888800bc643</sig>
+			<size>2708794</size>
+			<sdkver>10</sdkver>
+			<added>2014-07-26</added>
+			<permissions>INTERNET,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,RECEIVE_BOOT_COMPLETED,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.wifi</features>
+		</package>
 		<package>
 			<version>0.9.9.1</version>
 			<versioncode>38</versioncode>
@@ -3023,19 +3036,6 @@
 			<size>2154130</size>
 			<sdkver>10</sdkver>
 			<added>2014-06-01</added>
-			<permissions>INTERNET,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,RECEIVE_BOOT_COMPLETED,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.wifi</features>
-		</package>
-		<package>
-			<version>0.9.8.3</version>
-			<versioncode>36</versioncode>
-			<apkname>de.danoeh.antennapod_36.apk</apkname>
-			<srcname>de.danoeh.antennapod_36_src.tar.gz</srcname>
-			<hash type="sha256">9ca4ffef18badb05861619891dc99cf5a6eb74091be2eafdf15525d5da3a4846</hash>
-			<sig>3870fa89bfb5e13509ce5888800bc643</sig>
-			<size>1893002</size>
-			<sdkver>10</sdkver>
-			<added>2014-04-07</added>
 			<permissions>INTERNET,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,RECEIVE_BOOT_COMPLETED,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.wifi</features>
 		</package>
@@ -7662,8 +7662,8 @@
 		<web>http://www.frozendevs.com</web>
 		<source>https://github.com/Frozen-Developers/android-cache-cleaner</source>
 		<tracker>https://github.com/Frozen-Developers/android-cache-cleaner/issues</tracker>
-		<marketversion>1.1.7</marketversion>
-		<marketvercode>10</marketvercode>
+		<marketversion>1.1.8</marketversion>
+		<marketvercode>11</marketvercode>
 		<package>
 			<version>1.1.7</version>
 			<versioncode>10</versioncode>
@@ -9331,8 +9331,8 @@
 		<web>https://github.com/banasiak/CoinFlip</web>
 		<source>https://github.com/banasiak/CoinFlip</source>
 		<tracker>https://github.com/banasiak/CoinFlip/issues</tracker>
-		<marketversion>6.0</marketversion>
-		<marketvercode>37</marketvercode>
+		<marketversion>6.1</marketversion>
+		<marketvercode>38</marketvercode>
 		<package>
 			<version>5.5.2</version>
 			<versioncode>35</versioncode>
@@ -10008,10 +10008,10 @@
 	<application id="eu.siacs.conversations">
 		<id>eu.siacs.conversations</id>
 		<added>2014-05-20</added>
-		<lastupdated>2014-07-06</lastupdated>
+		<lastupdated>2014-07-26</lastupdated>
 		<name>Conversations</name>
 		<summary>XMPP client</summary>
-		<icon>eu.siacs.conversations.19.png</icon>
+		<icon>eu.siacs.conversations.21.png</icon>
 		<desc>&lt;p&gt;XMPP client designed with ease of use and security in mind.&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; end-to-end encryption with either OTR or openPGP&lt;/li&gt;&lt;li&gt; Holo UI&lt;/li&gt;&lt;li&gt; syncs with your desktop client&lt;/li&gt;&lt;li&gt; group chats&lt;/li&gt;&lt;li&gt; addressbook integration&lt;/li&gt;&lt;li&gt; multiple accounts / unified inbox&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Noteable XEPs:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; XEP-0198: Stream Management&lt;/li&gt;&lt;li&gt; XEP-0280: Message Carbons&lt;/li&gt;&lt;li&gt; XEP-0237: Roster Versioning&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
@@ -10019,8 +10019,21 @@
 		<web>https://github.com/siacs/Conversations</web>
 		<source>https://github.com/siacs/Conversations</source>
 		<tracker>https://github.com/siacs/Conversations/issues</tracker>
-		<marketversion>0.5-beta</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>0.5</marketversion>
+		<marketvercode>21</marketvercode>
+		<package>
+			<version>0.5</version>
+			<versioncode>21</versioncode>
+			<apkname>eu.siacs.conversations_21.apk</apkname>
+			<srcname>eu.siacs.conversations_21_src.tar.gz</srcname>
+			<hash type="sha256">87975bcf8af20144f003347acba44f5d8e5a7a6a629d732049ed3ba2f3a83a77</hash>
+			<sig>befc8ef80c66cb2d7d23dc99959287b5</sig>
+			<size>1652635</size>
+			<sdkver>14</sdkver>
+			<added>2014-07-26</added>
+			<permissions>READ_CONTACTS,READ_PROFILE,INTERNET,ACCESS_NETWORK_STATE,WAKE_LOCK,RECEIVE_BOOT_COMPLETED,VIBRATE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.4.1</version>
 			<versioncode>19</versioncode>
@@ -10044,19 +10057,6 @@
 			<size>1567635</size>
 			<sdkver>14</sdkver>
 			<added>2014-07-01</added>
-			<permissions>READ_CONTACTS,READ_PROFILE,INTERNET,ACCESS_NETWORK_STATE,WAKE_LOCK,RECEIVE_BOOT_COMPLETED,VIBRATE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.3</version>
-			<versioncode>16</versioncode>
-			<apkname>eu.siacs.conversations_16.apk</apkname>
-			<srcname>eu.siacs.conversations_16_src.tar.gz</srcname>
-			<hash type="sha256">033f3d3064450820c72b4d6b4c561ddf99933673db718f025041d69319c0ecf8</hash>
-			<sig>befc8ef80c66cb2d7d23dc99959287b5</sig>
-			<size>1521504</size>
-			<sdkver>14</sdkver>
-			<added>2014-06-09</added>
 			<permissions>READ_CONTACTS,READ_PROFILE,INTERNET,ACCESS_NETWORK_STATE,WAKE_LOCK,RECEIVE_BOOT_COMPLETED,VIBRATE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -10637,6 +10637,38 @@
 			<added>2014-05-26</added>
 			<permissions>ACCESS_SUPERUSER</permissions>
 			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
+	<application id="com.csipsimple">
+		<id>com.csipsimple</id>
+		<added>2010-10-27</added>
+		<lastupdated>2014-07-26</lastupdated>
+		<name>CSipSimple</name>
+		<summary>SIP (VOIP) client</summary>
+		<icon>com.csipsimple.2417.png</icon>
+		<desc>&lt;ul&gt;&lt;li&gt; High performances&lt;/li&gt;&lt;li&gt; Rewriting/filtering rules for integration with Android&lt;/li&gt;&lt;li&gt; SIP SIMPLE for Messaging&lt;/li&gt;&lt;li&gt; Record calls&lt;/li&gt;&lt;li&gt; Simple configuration&lt;/li&gt;&lt;li&gt; Fancy UI&lt;/li&gt;&lt;li&gt; Many codecs (HD codecs, optimized codecs)&lt;/li&gt;&lt;li&gt; Supported crypto : TLS for SIP and SRTP/ZRTP for media&lt;/li&gt;&lt;li&gt; Themes&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;This build doesn't include SILK (Skype) support.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://code.google.com/p/csipsimple/wiki/ChangeLog&quot;&gt;ChangeLog&lt;/a&gt;&lt;/p&gt;</desc>
+		<license>GPLv3</license>
+		<categories>Phone &amp; SMS</categories>
+		<category>Phone &amp; SMS</category>
+		<web>https://code.google.com/p/csipsimple</web>
+		<source>https://code.google.com/p/csipsimple/source</source>
+		<tracker>https://code.google.com/p/csipsimple/issues</tracker>
+		<donate>https://code.google.com/p/csipsimple/wiki/Donate</donate>
+		<marketversion>1.02.01</marketversion>
+		<marketvercode>2417</marketvercode>
+		<package>
+			<version>1.02.01-2417</version>
+			<versioncode>2417</versioncode>
+			<apkname>com.csipsimple_2417.apk</apkname>
+			<srcname>com.csipsimple_2417_src.tar.gz</srcname>
+			<hash type="sha256">d16f9d649bcd9000eaa7e4cb03ce6d5c7a2072c293e43eebae2de0718acbe7cc</hash>
+			<sig>15d4f12ee700dffde1e00b8c8cf7c9ea</sig>
+			<size>12048874</size>
+			<sdkver>4</sdkver>
+			<added>2014-07-26</added>
+			<permissions>INTERNET,RECORD_AUDIO,MODIFY_AUDIO_SETTINGS,PROCESS_OUTGOING_CALLS,WRITE_SETTINGS,READ_PHONE_STATE,ACCESS_WIFI_STATE,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,READ_CONTACTS,WRITE_CONTACTS,CALL_PHONE,WAKE_LOCK,DISABLE_KEYGUARD,VIBRATE,BLUETOOTH,READ_LOGS,WRITE_CALL_LOG,USE_SIP,CONFIGURE_SIP,WRITE_EXTERNAL_STORAGE,CAMERA,BROADCAST_STICKY,READ_PROFILE,WRITE_CALL_LOG,READ_EXTERNAL_STORAGE</permissions>
+			<nativecode>armeabi,armeabi-v7a,mips,x86</nativecode>
+			<features>android.hardware.microphone</features>
 		</package>
 	</application>
 	<application id="com.hykwok.CurrencyConverter">
@@ -11326,10 +11358,10 @@
 	<application id="at.bitfire.davdroid">
 		<id>at.bitfire.davdroid</id>
 		<added>2013-10-13</added>
-		<lastupdated>2014-07-19</lastupdated>
+		<lastupdated>2014-07-25</lastupdated>
 		<name>DAVdroid</name>
 		<summary>Contacts and Calendar sync</summary>
-		<icon>at.bitfire.davdroid.38.png</icon>
+		<icon>at.bitfire.davdroid.39.png</icon>
 		<desc>&lt;p&gt;DAVdroid is a CalDAV/CardDAV synchronisation adapter for Android 4+ devices. Use it with your own server (like Radicale or DAViCal) or with a trusted hoster to keep your contacts and events under your control. Integrates natively in Android calendar/contact apps.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/rfc2822/davdroid/releases/&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
@@ -11340,8 +11372,21 @@
 		<donate>http://davdroid.bitfire.at/donate</donate>
 		<bitcoin>1KSCy7RHztKuhW9fLLaUYqdwdC2iwbejZU</bitcoin>
 		<flattr>2100160</flattr>
-		<marketversion>0.6</marketversion>
-		<marketvercode>38</marketvercode>
+		<marketversion>0.6.1</marketversion>
+		<marketvercode>39</marketvercode>
+		<package>
+			<version>0.6.1</version>
+			<versioncode>39</versioncode>
+			<apkname>at.bitfire.davdroid_39.apk</apkname>
+			<srcname>at.bitfire.davdroid_39_src.tar.gz</srcname>
+			<hash type="sha256">d53393f60059ab60adde5940cee5ffc52ec040d0ccd8b4d01606ea40de231d97</hash>
+			<sig>03542175324d067b4c36582242f8aecc</sig>
+			<size>1775278</size>
+			<sdkver>14</sdkver>
+			<added>2014-07-25</added>
+			<permissions>INTERNET,AUTHENTICATE_ACCOUNTS,READ_CONTACTS,WRITE_CONTACTS,READ_CALENDAR,WRITE_CALENDAR,WRITE_SYNC_SETTINGS</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.6</version>
 			<versioncode>38</versioncode>
@@ -11365,19 +11410,6 @@
 			<size>1772409</size>
 			<sdkver>14</sdkver>
 			<added>2014-05-27</added>
-			<permissions>INTERNET,AUTHENTICATE_ACCOUNTS,READ_CONTACTS,WRITE_CONTACTS,READ_CALENDAR,WRITE_CALENDAR,WRITE_SYNC_SETTINGS</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.5.13-alpha</version>
-			<versioncode>36</versioncode>
-			<apkname>at.bitfire.davdroid_36.apk</apkname>
-			<srcname>at.bitfire.davdroid_36_src.tar.gz</srcname>
-			<hash type="sha256">1a151e6bf1b4cc9ff24c62cdc6793e9b4cbab90ebc4e36f844a845cd54df0c44</hash>
-			<sig>03542175324d067b4c36582242f8aecc</sig>
-			<size>1771401</size>
-			<sdkver>14</sdkver>
-			<added>2014-05-11</added>
 			<permissions>INTERNET,AUTHENTICATE_ACCOUNTS,READ_CONTACTS,WRITE_CONTACTS,READ_CALENDAR,WRITE_CALENDAR,WRITE_SYNC_SETTINGS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -13446,8 +13478,8 @@
 		<web>http://pejici.net/~slobo/projects/easydice.html</web>
 		<source>https://github.com/pejic/EasyDice</source>
 		<tracker>https://github.com/pejic/EasyDice/issues</tracker>
-		<marketversion>1.6.1</marketversion>
-		<marketvercode>5</marketvercode>
+		<marketversion>1.6.2</marketversion>
+		<marketvercode>6</marketvercode>
 		<package>
 			<version>1.6.1</version>
 			<versioncode>5</versioncode>
@@ -17726,10 +17758,10 @@
 	<application id="it.greenaddress.cordova">
 		<id>it.greenaddress.cordova</id>
 		<added>2014-07-03</added>
-		<lastupdated>2014-07-24</lastupdated>
+		<lastupdated>2014-07-26</lastupdated>
 		<name>GreenAddress.It</name>
 		<summary>GreenAddress client</summary>
-		<icon>it.greenaddress.cordova.43.png</icon>
+		<icon>it.greenaddress.cordova.45.png</icon>
 		<desc>&lt;p&gt;Wallet that uses multisig to improve security (adding 2 factor for instance or limits) and Hierarchical Deterministic addresses (see &lt;a href=&quot;https://en.bitcoin.it/wiki/BIP_0032&quot;&gt;BIP32&lt;/a&gt;).&lt;/p&gt;&lt;p&gt;It offers the advantages of a web wallet:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Ubiquitously available&lt;/li&gt;&lt;li&gt; Social/email/sms integration&lt;/li&gt;&lt;li&gt; Two factor authentication&lt;/li&gt;&lt;li&gt; Transactions limits/restrictions&lt;/li&gt;&lt;li&gt; Greenaddress instant transaction&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;and the advantages of a local software wallet like Electrum:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Mnemonic seed backup once and forget&lt;/li&gt;&lt;li&gt; Your private keys are never on the server, not even encrypted&lt;/li&gt;&lt;li&gt; No long wait to synchronize the full client with the Bitcoin blockchain&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;See &lt;a href=&quot;https://greenaddress.it&quot;&gt;their website&lt;/a&gt; and &lt;a href=&quot;https://greenaddress.it/faq&quot;&gt;their FAQ&lt;/a&gt; for more information.&lt;/p&gt;&lt;p&gt;Supports NFC for login and QR code scanning for login and transactions.&lt;/p&gt;</desc>
 		<license>LGPLv2.1</license>
 		<categories>Internet</categories>
@@ -17737,8 +17769,36 @@
 		<web>https://greenaddress.it</web>
 		<source>https://github.com/greenaddress/WalletCordova</source>
 		<tracker>https://github.com/greenaddress/WalletCordova/issues</tracker>
-		<marketversion>0.0.43</marketversion>
-		<marketvercode>43</marketvercode>
+		<marketversion>0.0.45</marketversion>
+		<marketvercode>45</marketvercode>
+		<package>
+			<version>0.0.45</version>
+			<versioncode>45</versioncode>
+			<apkname>it.greenaddress.cordova_45.apk</apkname>
+			<srcname>it.greenaddress.cordova_45_src.tar.gz</srcname>
+			<hash type="sha256">29f20174c56e2a56588a3856848683f82bfc944d3bf5f6e6492ab93d018b78dc</hash>
+			<sig>075a316ba48b906938a3d5b5227c7eb8</sig>
+			<size>6759708</size>
+			<sdkver>14</sdkver>
+			<added>2014-07-26</added>
+			<permissions>INTERNET,NFC,ACCESS_NETWORK_STATE,GET_ACCOUNTS,WAKE_LOCK,VIBRATE,com.google.android.c2dm.permission.RECEIVE,it.greenaddress.cordova.permission.C2D_MESSAGE,READ_PHONE_STATE,CAMERA,FLASHLIGHT</permissions>
+			<nativecode>armeabi,mips,x86</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
+		<package>
+			<version>0.0.44</version>
+			<versioncode>44</versioncode>
+			<apkname>it.greenaddress.cordova_44.apk</apkname>
+			<srcname>it.greenaddress.cordova_44_src.tar.gz</srcname>
+			<hash type="sha256">4c144df4e16d05f571ad190c5aa8daf2f3ccb4e4942bdd52d3af0a4404152cc5</hash>
+			<sig>075a316ba48b906938a3d5b5227c7eb8</sig>
+			<size>6758092</size>
+			<sdkver>14</sdkver>
+			<added>2014-07-26</added>
+			<permissions>INTERNET,NFC,ACCESS_NETWORK_STATE,GET_ACCOUNTS,WAKE_LOCK,VIBRATE,com.google.android.c2dm.permission.RECEIVE,it.greenaddress.cordova.permission.C2D_MESSAGE,READ_PHONE_STATE,CAMERA,FLASHLIGHT</permissions>
+			<nativecode>armeabi,mips,x86</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.0.43</version>
 			<versioncode>43</versioncode>
@@ -17751,34 +17811,6 @@
 			<added>2014-07-24</added>
 			<permissions>INTERNET,NFC,ACCESS_NETWORK_STATE,GET_ACCOUNTS,WAKE_LOCK,VIBRATE,com.google.android.c2dm.permission.RECEIVE,it.greenaddress.cordova.permission.C2D_MESSAGE,READ_PHONE_STATE,CAMERA,FLASHLIGHT</permissions>
 			<nativecode>armeabi,mips,x86</nativecode>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.0.38</version>
-			<versioncode>38</versioncode>
-			<apkname>it.greenaddress.cordova_38.apk</apkname>
-			<srcname>it.greenaddress.cordova_38_src.tar.gz</srcname>
-			<hash type="sha256">fea5bc29892aaffaa7ac6143c5e67f8c3e5c7d734c3a2b45cff80f8aa53d11bb</hash>
-			<sig>075a316ba48b906938a3d5b5227c7eb8</sig>
-			<size>6674367</size>
-			<sdkver>14</sdkver>
-			<added>2014-07-07</added>
-			<permissions>INTERNET,NFC,ACCESS_NETWORK_STATE,GET_ACCOUNTS,WAKE_LOCK,VIBRATE,com.google.android.c2dm.permission.RECEIVE,it.greenaddress.cordova.permission.C2D_MESSAGE,READ_PHONE_STATE,CAMERA,FLASHLIGHT</permissions>
-			<nativecode>armeabi,mips,x86</nativecode>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.0.35</version>
-			<versioncode>35</versioncode>
-			<apkname>it.greenaddress.cordova_35.apk</apkname>
-			<srcname>it.greenaddress.cordova_35_src.tar.gz</srcname>
-			<hash type="sha256">091bd4e22d1438d5b7ed37643a1f101103b06e38eef1a2f3470b36a71c186770</hash>
-			<sig>075a316ba48b906938a3d5b5227c7eb8</sig>
-			<size>6581291</size>
-			<sdkver>14</sdkver>
-			<added>2014-07-03</added>
-			<permissions>INTERNET,NFC,ACCESS_NETWORK_STATE,GET_ACCOUNTS,WAKE_LOCK,VIBRATE,com.google.android.c2dm.permission.RECEIVE,it.greenaddress.cordova.permission.C2D_MESSAGE,READ_PHONE_STATE,CAMERA,FLASHLIGHT</permissions>
-			<nativecode>armeabi</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -18370,10 +18402,10 @@
 	<application id="byrne.utilities.hashpass">
 		<id>byrne.utilities.hashpass</id>
 		<added>2014-07-20</added>
-		<lastupdated>2014-07-20</lastupdated>
+		<lastupdated>2014-07-26</lastupdated>
 		<name>HashPass</name>
 		<summary>Use hashes as passwords</summary>
-		<icon>byrne.utilities.hashpass.1.png</icon>
+		<icon>byrne.utilities.hashpass.2.png</icon>
 		<desc>&lt;p&gt;Simple password generator for android which uses hashes as passwords, affording ease in recall and effectiveness in password strength. Available hashes are MD5, SHA1, SHA256 and SHA512.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Security</categories>
@@ -18382,8 +18414,20 @@
 		<source>https://github.com/dillbyrne/HashPass</source>
 		<tracker>https://github.com/dillbyrne/HashPass/issues</tracker>
 		<bitcoin>1L44pgmZpeMsWsd24WgN6SJjEUARG5eY6G</bitcoin>
-		<marketversion>0.1</marketversion>
-		<marketvercode>1</marketvercode>
+		<marketversion>1.1</marketversion>
+		<marketvercode>2</marketvercode>
+		<package>
+			<version>1.1</version>
+			<versioncode>2</versioncode>
+			<apkname>byrne.utilities.hashpass_2.apk</apkname>
+			<srcname>byrne.utilities.hashpass_2_src.tar.gz</srcname>
+			<hash type="sha256">6e5e3166b8b75ec277d97be8a904666716d443e5a2b745460756893e79311a42</hash>
+			<sig>f417af0d5393cb065cb023be165fb11c</sig>
+			<size>30951</size>
+			<sdkver>3</sdkver>
+			<added>2014-07-26</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.1</version>
 			<versioncode>1</versioncode>
@@ -27002,10 +27046,10 @@
 	<application id="org.totschnig.myexpenses">
 		<id>org.totschnig.myexpenses</id>
 		<added>2012-10-31</added>
-		<lastupdated>2014-07-21</lastupdated>
+		<lastupdated>2014-07-26</lastupdated>
 		<name>My Expenses</name>
 		<summary>Manage finances</summary>
-		<icon>org.totschnig.myexpenses.152.png</icon>
+		<icon>org.totschnig.myexpenses.153.png</icon>
 		<desc>&lt;p&gt;MyExpenses is designed to keep track of expenses, and to export these expenses as QIF files into a finance program (e.g.: Grisbi, GnuCash).&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Up to five accounts with transfers (unlimited in Contrib version)&lt;/li&gt;&lt;li&gt; Define plans (3) for future and recurrent transactions  (unlimited in Contrib version)&lt;/li&gt;&lt;li&gt; Group transactions per day, week, month, year and display sums per group&lt;/li&gt;&lt;li&gt; Two levels of categories (import from Grisbi XML and QIF), display distribution of transactions in Contrib version&lt;/li&gt;&lt;li&gt; Split transactions (Contrib version)&lt;/li&gt;&lt;li&gt; Calculator&lt;/li&gt;&lt;li&gt; Export to QIF and CSV (MS Excel), can be automatically shared (via email, FTP, Dropbox, ...) and done in batch in Contrib version&lt;/li&gt;&lt;li&gt; Import QIF data&lt;/li&gt;&lt;li&gt; Password protection, recoverable with security question in Contrib version&lt;/li&gt;&lt;li&gt; Integrated Help&lt;/li&gt;&lt;li&gt; Create transactions from templates&lt;/li&gt;&lt;li&gt; Data backup and restore&lt;/li&gt;&lt;li&gt; Aggregate financial situation (Contrib version)&lt;/li&gt;&lt;li&gt; Two themes: light and dark&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -27016,8 +27060,21 @@
 		<donate>http://www.myexpenses.mobi/#donate</donate>
 		<bitcoin>1GCUGCSfFXzSC81ogHu12KxfUn3cShekMn</bitcoin>
 		<flattr>1028216</flattr>
-		<marketversion>2.1.6.2</marketversion>
-		<marketvercode>152</marketvercode>
+		<marketversion>2.1.6.3</marketversion>
+		<marketvercode>153</marketvercode>
+		<package>
+			<version>2.1.6.3</version>
+			<versioncode>153</versioncode>
+			<apkname>org.totschnig.myexpenses_153.apk</apkname>
+			<srcname>org.totschnig.myexpenses_153_src.tar.gz</srcname>
+			<hash type="sha256">7fcddbae89ea6686899fa3ba3ce3ce1f74c6401634f9fe21849f35ff1f4640bf</hash>
+			<sig>e1ca5bcb8d0a515a6d35500974fbc3a8</sig>
+			<size>2308693</size>
+			<sdkver>7</sdkver>
+			<added>2014-07-26</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,WRITE_CALENDAR,READ_CALENDAR,RECEIVE_BOOT_COMPLETED,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>2.1.6.2</version>
 			<versioncode>152</versioncode>
@@ -27041,19 +27098,6 @@
 			<size>2302609</size>
 			<sdkver>7</sdkver>
 			<added>2014-07-20</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,WRITE_CALENDAR,READ_CALENDAR,RECEIVE_BOOT_COMPLETED,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>2.1.6</version>
-			<versioncode>149</versioncode>
-			<apkname>org.totschnig.myexpenses_149.apk</apkname>
-			<srcname>org.totschnig.myexpenses_149_src.tar.gz</srcname>
-			<hash type="sha256">23bfff0c47b7b84aac634a779e4b27e9d24ed159df91a5c99ef88e5432c28003</hash>
-			<sig>e1ca5bcb8d0a515a6d35500974fbc3a8</sig>
-			<size>2301156</size>
-			<sdkver>7</sdkver>
-			<added>2014-07-03</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,WRITE_CALENDAR,READ_CALENDAR,RECEIVE_BOOT_COMPLETED,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -27632,8 +27676,8 @@
 		<web>http://www.navit-project.org</web>
 		<source>http://sourceforge.net/p/navit/code</source>
 		<tracker>http://trac.navit-project.org</tracker>
-		<marketversion>5822</marketversion>
-		<marketvercode>5822</marketvercode>
+		<marketversion>5827</marketversion>
+		<marketvercode>5827</marketvercode>
 		<package>
 			<version>navit 0.5.0-5720</version>
 			<versioncode>5720</versioncode>
@@ -32310,8 +32354,8 @@
 		<source>https://github.com/horn3t/android_packages_apps_PerformanceControl</source>
 		<tracker>http://forum.xda-developers.com/devdb/project/?id=600#bugReporter</tracker>
 		<donate>http://forum.xda-developers.com/donatetome.php?u=4674443</donate>
-		<marketversion>2.2.3</marketversion>
-		<marketvercode>2203</marketvercode>
+		<marketversion>2.2.4</marketversion>
+		<marketvercode>2204</marketvercode>
 		<requirements>root</requirements>
 		<package>
 			<version>2.2.3</version>
@@ -39226,10 +39270,10 @@
 	<application id="nl.mpcjanssen.simpletask">
 		<id>nl.mpcjanssen.simpletask</id>
 		<added>2013-12-04</added>
-		<lastupdated>2014-07-24</lastupdated>
+		<lastupdated>2014-07-26</lastupdated>
 		<name>Simpletask Cloudless</name>
 		<summary>Todo list manager</summary>
-		<icon>nl.mpcjanssen.simpletask.1523.png</icon>
+		<icon>nl.mpcjanssen.simpletask.1525.png</icon>
 		<desc>&lt;p&gt;A simple task list manager that strives to have just enough features to do GTD (the Getting Things Done methodology), but no more. Based on the &lt;a href=&quot;http://todotxt.com&quot;&gt;todo.txt&lt;/a&gt; app so all info is stored in a single text file called todo.txt. Note that, with this version, you will need to take care of backups yourself.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Todo list stored in the documented todo.txt format&lt;/li&gt;&lt;li&gt; Comprehensive filtering and multi sort&lt;/li&gt;&lt;li&gt; Create calendar reminders for specific tasks directly from the app&lt;/li&gt;&lt;li&gt; Select on or more tasks and press overflow menu-&amp;gt;Add reminder&lt;/li&gt;&lt;li&gt; Share the complete tasklist or selected tasks using the Android share feature&lt;/li&gt;&lt;li&gt; Tasks can deferred into the future. Combined with the &quot;Creation date in future&quot; sort it allows you to get tasks out of your face (as in 1MTD/MYN)&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -39237,8 +39281,34 @@
 		<web>https://github.com/mpcjanssen/simpletask-android</web>
 		<source>https://github.com/mpcjanssen/simpletask-android</source>
 		<tracker>https://github.com/mpcjanssen/simpletask-android/issues</tracker>
-		<marketversion>5.1.5</marketversion>
-		<marketvercode>1523</marketvercode>
+		<marketversion>5.1.7</marketversion>
+		<marketvercode>1525</marketvercode>
+		<package>
+			<version>5.1.7</version>
+			<versioncode>1525</versioncode>
+			<apkname>nl.mpcjanssen.simpletask_1525.apk</apkname>
+			<srcname>nl.mpcjanssen.simpletask_1525_src.tar.gz</srcname>
+			<hash type="sha256">3507b335622c3364fff87c6a15a6362f8e3d4a1e03b375243010245ce7d07848</hash>
+			<sig>dd06020d0a5f4181366d0562dff0f90e</sig>
+			<size>1547403</size>
+			<sdkver>14</sdkver>
+			<added>2014-07-26</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+		<package>
+			<version>5.1.6</version>
+			<versioncode>1524</versioncode>
+			<apkname>nl.mpcjanssen.simpletask_1524.apk</apkname>
+			<srcname>nl.mpcjanssen.simpletask_1524_src.tar.gz</srcname>
+			<hash type="sha256">c63626b508b7efa5e9351a72897fcf59a7133210bd115ae53d554871c07fcb63</hash>
+			<sig>dd06020d0a5f4181366d0562dff0f90e</sig>
+			<size>1546607</size>
+			<sdkver>14</sdkver>
+			<added>2014-07-25</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>5.1.5</version>
 			<versioncode>1523</versioncode>
@@ -39249,32 +39319,6 @@
 			<size>1546455</size>
 			<sdkver>14</sdkver>
 			<added>2014-07-24</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>5.1.4</version>
-			<versioncode>1522</versioncode>
-			<apkname>nl.mpcjanssen.simpletask_1522.apk</apkname>
-			<srcname>nl.mpcjanssen.simpletask_1522_src.tar.gz</srcname>
-			<hash type="sha256">67be65396ed31200463f6b52079411b9867c8b51783832105e0d6311b77c59e8</hash>
-			<sig>dd06020d0a5f4181366d0562dff0f90e</sig>
-			<size>1546400</size>
-			<sdkver>14</sdkver>
-			<added>2014-07-19</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>5.1.0</version>
-			<versioncode>1518</versioncode>
-			<apkname>nl.mpcjanssen.simpletask_1518.apk</apkname>
-			<srcname>nl.mpcjanssen.simpletask_1518_src.tar.gz</srcname>
-			<hash type="sha256">e680ef914af9ab5072de761c764568549e05a7c4bfb37c12ea4348d0853f4ff0</hash>
-			<sig>dd06020d0a5f4181366d0562dff0f90e</sig>
-			<size>1546127</size>
-			<sdkver>14</sdkver>
-			<added>2014-07-18</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -42504,10 +42548,10 @@
 	<application id="com.danvelazco.fbwrapper">
 		<id>com.danvelazco.fbwrapper</id>
 		<added>2013-06-13</added>
-		<lastupdated>2014-07-08</lastupdated>
+		<lastupdated>2014-07-26</lastupdated>
 		<name>Tinfoil for Facebook</name>
 		<summary>Facebook browser with privacy</summary>
-		<icon>com.danvelazco.fbwrapper.20140701.png</icon>
+		<icon>com.danvelazco.fbwrapper.20140724.png</icon>
 		<desc>&lt;p&gt;Browse Facebook's mobile site with a simple web browser, which protects your privacy by avoiding the ability of the page and others to track your browsing history. It also includes other functionalities, like shortcuts to the notifications page or app settings to control whether your current location is to be provided to Facebook's website.&lt;/p&gt;&lt;p&gt;The COARSE_LOCATION permission is only used if you enable &quot;Allow Check-ins&quot; on the preferences section, which is disabled by default.&lt;/p&gt;&lt;p&gt;AntiFeatures:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Tracking. You are required to log in to Facebook.&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>Apache2</license>
 		<categories>Internet</categories>
@@ -42515,9 +42559,22 @@
 		<web/>
 		<source>https://github.com/velazcod/Tinfoil-Facebook</source>
 		<tracker>https://github.com/velazcod/Tinfoil-Facebook/issues</tracker>
-		<marketversion>1.4</marketversion>
-		<marketvercode>20140701</marketvercode>
+		<marketversion>1.5</marketversion>
+		<marketvercode>20140724</marketvercode>
 		<antifeatures>Tracking</antifeatures>
+		<package>
+			<version>1.5</version>
+			<versioncode>20140724</versioncode>
+			<apkname>com.danvelazco.fbwrapper_20140724.apk</apkname>
+			<srcname>com.danvelazco.fbwrapper_20140724_src.tar.gz</srcname>
+			<hash type="sha256">adc1fe02a8f39b4c99b0646e124bab7178b720aa1750430b8d5e00e169a801a4</hash>
+			<sig>264fdeeca6315941fdcf3262cfff0f22</sig>
+			<size>396628</size>
+			<sdkver>14</sdkver>
+			<added>2014-07-26</added>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_NETWORK_STATE,INTERNET,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.location,android.hardware.location.network,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.4</version>
 			<versioncode>20140701</versioncode>
@@ -42541,19 +42598,6 @@
 			<size>264730</size>
 			<sdkver>15</sdkver>
 			<added>2014-01-04</added>
-			<permissions>ACCESS_COARSE_LOCATION,ACCESS_NETWORK_STATE,INTERNET</permissions>
-			<features>android.hardware.location,android.hardware.location.network,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.2.1</version>
-			<versioncode>20130726</versioncode>
-			<apkname>com.danvelazco.fbwrapper_20130726.apk</apkname>
-			<srcname>com.danvelazco.fbwrapper_20130726_src.tar.gz</srcname>
-			<hash type="sha256">1b6ed7540876958a437bb78cc0a1f6e0fadcf8a42ae6486f6493295f51a7d0c0</hash>
-			<sig>264fdeeca6315941fdcf3262cfff0f22</sig>
-			<size>258146</size>
-			<sdkver>14</sdkver>
-			<added>2013-08-09</added>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_NETWORK_STATE,INTERNET</permissions>
 			<features>android.hardware.location,android.hardware.location.network,android.hardware.touchscreen</features>
 		</package>
@@ -43557,15 +43601,15 @@
 		<added>2013-01-24</added>
 		<lastupdated>2013-01-24</lastupdated>
 		<name>Tricorder</name>
-		<summary>Star Trek-style gadget</summary>
+		<summary>Sci-fi gadget</summary>
 		<icon>org.hermit.tricorder.41.png</icon>
-		<desc>&lt;p&gt;Turns your Android device into a functional thing like what used to be used in Star Trek.&lt;/p&gt;&lt;p&gt;Status: Probably the final version, excepting forks.&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;Turns your Android device into a functional thing like what used to be used to be on the tv.&lt;/p&gt;&lt;p&gt;Status: Probably the final version, excepting forks.&lt;/p&gt;</desc>
 		<license>GPLv2</license>
-		<categories>Games</categories>
-		<category>Games</category>
-		<web>https://code.google.com/p/moonblink/wiki/Tricorder</web>
-		<source>https://bitbucket.org/dalb8/tricorder</source>
-		<tracker>https://code.google.com/p/moonblink/issues</tracker>
+		<categories>System</categories>
+		<category>System</category>
+		<web>https://code.google.com/p/moonblink/</web>
+		<source>https://gitorious.org/f-droid-mirrors/tricorder</source>
+		<tracker/>
 		<marketversion>5.12</marketversion>
 		<marketvercode>41</marketvercode>
 		<package>
@@ -46454,10 +46498,10 @@
 	<application id="ru.glesik.wifireminders">
 		<id>ru.glesik.wifireminders</id>
 		<added>2014-06-15</added>
-		<lastupdated>2014-07-17</lastupdated>
+		<lastupdated>2014-07-25</lastupdated>
 		<name>Wi-Fi Reminders</name>
 		<summary>Wi-Fi based reminders</summary>
-		<icon>ru.glesik.wifireminders.112.png</icon>
+		<icon>ru.glesik.wifireminders.121.png</icon>
 		<desc>&lt;p&gt;Shows custom notifications when specified wireless networks are in range. You can set arbitrary reminders for any stored wireless network. As soon as your device is active (e. g. the screen is on) and the network is visible, the reminder will be displayed as standard notification with sound, vibration and blinking indicator.&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Office</categories>
@@ -46467,8 +46511,21 @@
 		<tracker>https://github.com/glesik/wifireminders/issues</tracker>
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=8RNEWF8QHQHTN</donate>
 		<bitcoin>15bSZLRTF3nH9uLrsqW2xm5UMdcd3eqF1e</bitcoin>
-		<marketversion>1.2.0</marketversion>
-		<marketvercode>120</marketvercode>
+		<marketversion>1.2.1</marketversion>
+		<marketvercode>121</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>121</versioncode>
+			<apkname>ru.glesik.wifireminders_121.apk</apkname>
+			<srcname>ru.glesik.wifireminders_121_src.tar.gz</srcname>
+			<hash type="sha256">bec33146e2533536df902274895b24880d97d4c13f919fd46c45bfb8ca19b48f</hash>
+			<sig>5095cfb63de1e7c9e9a44f51762cfbb5</sig>
+			<size>218962</size>
+			<sdkver>8</sdkver>
+			<added>2014-07-25</added>
+			<permissions>ACCESS_WIFI_STATE,VIBRATE,CHANGE_WIFI_STATE,RECEIVE_BOOT_COMPLETED</permissions>
+			<features>android.hardware.wifi,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.1.2</version>
 			<versioncode>112</versioncode>
@@ -46492,19 +46549,6 @@
 			<size>216745</size>
 			<sdkver>8</sdkver>
 			<added>2014-06-27</added>
-			<permissions>ACCESS_WIFI_STATE,VIBRATE,CHANGE_WIFI_STATE,RECEIVE_BOOT_COMPLETED</permissions>
-			<features>android.hardware.wifi,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.1.0</version>
-			<versioncode>110</versioncode>
-			<apkname>ru.glesik.wifireminders_110.apk</apkname>
-			<srcname>ru.glesik.wifireminders_110_src.tar.gz</srcname>
-			<hash type="sha256">6e2102a21c628b0e7189cdcae7c03f35166777cc9c2ac308198d66b0e7179ce5</hash>
-			<sig>5095cfb63de1e7c9e9a44f51762cfbb5</sig>
-			<size>216802</size>
-			<sdkver>8</sdkver>
-			<added>2014-06-15</added>
 			<permissions>ACCESS_WIFI_STATE,VIBRATE,CHANGE_WIFI_STATE,RECEIVE_BOOT_COMPLETED</permissions>
 			<features>android.hardware.wifi,android.hardware.touchscreen</features>
 		</package>
@@ -48575,8 +48619,8 @@
 		<web>https://github.com/qii/weiciyuan/wiki</web>
 		<source>https://github.com/qii/weiciyuan</source>
 		<tracker>https://github.com/qii/weiciyuan/issues</tracker>
-		<marketversion>0.5.0beta6</marketversion>
-		<marketvercode>43</marketvercode>
+		<marketversion>0.5.0beta7</marketversion>
+		<marketvercode>47</marketvercode>
 		<package>
 			<version>0.483</version>
 			<versioncode>25</versioncode>
