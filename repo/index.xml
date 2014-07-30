@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1406520523" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1406610410" url="http://f-droid.org/repo" version="12">
 		<description>The official FDroid repository. Applications in this repository are mostly built directory from the source code. Some are official binaries built by the original application developers - these will be replaced by source-built versions over time. </description>
 	</repo>
 	<application id="de.j4velin.systemappmover">
@@ -696,8 +696,8 @@
 		<web>http://acdisplay.artemchep.com</web>
 		<source>https://github.com/AChep/AcDisplay</source>
 		<tracker>https://github.com/AChep/AcDisplay/issues</tracker>
-		<marketversion>2.4.1</marketversion>
-		<marketvercode>25</marketvercode>
+		<marketversion>2.4.2</marketversion>
+		<marketvercode>26</marketvercode>
 		<package>
 			<version>2.3</version>
 			<versioncode>21</versioncode>
@@ -9673,10 +9673,10 @@
 	<application id="com.sgr_b2.compass">
 		<id>com.sgr_b2.compass</id>
 		<added>2013-11-13</added>
-		<lastupdated>2014-03-16</lastupdated>
+		<lastupdated>2014-07-29</lastupdated>
 		<name>Community compass</name>
 		<summary>Feature Compass</summary>
-		<icon>com.sgr_b2.compass.18.png</icon>
+		<icon>com.sgr_b2.compass.10403.png</icon>
 		<desc>&lt;p&gt;An outdoors application which can help you to find your way though the forest or desert, or whatever. It provides inter-device location exchange by SMS and can make distress call even if the device screen is broken by sending SMS with your location on your behalf.&lt;/p&gt;&lt;p&gt;Due to pointer-navigation nature, it can also be used as either magnetic or GPS compass reading direction to north from your device magnetic sensors or from GPS chip.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://bitbucket.org/alekseyt/compass/src/master/CHANGELOG&quot;&gt;CHANGELOG&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Navigation</categories>
@@ -9686,6 +9686,20 @@
 		<tracker>https://bitbucket.org/alekseyt/compass/issues</tracker>
 		<marketversion>1.4.3</marketversion>
 		<marketvercode>10403</marketvercode>
+		<package>
+			<version>1.4.3</version>
+			<versioncode>10403</versioncode>
+			<apkname>com.sgr_b2.compass_10403.apk</apkname>
+			<srcname>com.sgr_b2.compass_10403_src.tar.gz</srcname>
+			<hash type="sha256">6600884e1f37f9703f96ee048e724d1991eca32fe580988ad8966f7ba504be02</hash>
+			<sig>8c2f21d27c3f0b7400e45aa5408a2cc1</sig>
+			<size>78920</size>
+			<sdkver>5</sdkver>
+			<added>2014-07-29</added>
+			<permissions>RECEIVE_BOOT_COMPLETED,ACCESS_FINE_LOCATION,READ_CONTACTS,READ_SMS,WRITE_SMS,SEND_SMS,VIBRATE</permissions>
+			<nativecode>armeabi</nativecode>
+			<features>android.hardware.location,android.hardware.location.gps,android.hardware.telephony,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.4.2</version>
 			<versioncode>18</versioncode>
@@ -9710,20 +9724,6 @@
 			<size>77607</size>
 			<sdkver>5</sdkver>
 			<added>2014-01-15</added>
-			<permissions>RECEIVE_BOOT_COMPLETED,ACCESS_FINE_LOCATION,READ_CONTACTS,READ_SMS,WRITE_SMS,SEND_SMS,VIBRATE</permissions>
-			<nativecode>armeabi</nativecode>
-			<features>android.hardware.location,android.hardware.location.gps,android.hardware.telephony,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.4</version>
-			<versioncode>16</versioncode>
-			<apkname>com.sgr_b2.compass_16.apk</apkname>
-			<srcname>com.sgr_b2.compass_16_src.tar.gz</srcname>
-			<hash type="sha256">a0ae631d2f32e2b1ae02e7ae09c81b6cc4d9d679e6fd03238ea04baca1134074</hash>
-			<sig>8c2f21d27c3f0b7400e45aa5408a2cc1</sig>
-			<size>74742</size>
-			<sdkver>5</sdkver>
-			<added>2013-12-24</added>
 			<permissions>RECEIVE_BOOT_COMPLETED,ACCESS_FINE_LOCATION,READ_CONTACTS,READ_SMS,WRITE_SMS,SEND_SMS,VIBRATE</permissions>
 			<nativecode>armeabi</nativecode>
 			<features>android.hardware.location,android.hardware.location.gps,android.hardware.telephony,android.hardware.touchscreen</features>
@@ -10019,8 +10019,8 @@
 		<web>https://github.com/siacs/Conversations</web>
 		<source>https://github.com/siacs/Conversations</source>
 		<tracker>https://github.com/siacs/Conversations/issues</tracker>
-		<marketversion>0.5</marketversion>
-		<marketvercode>21</marketvercode>
+		<marketversion>0.5.1</marketversion>
+		<marketvercode>22</marketvercode>
 		<package>
 			<version>0.5</version>
 			<versioncode>21</versioncode>
@@ -10270,10 +10270,10 @@
 	<application id="com.example.CosyDVR">
 		<id>com.example.CosyDVR</id>
 		<added>2014-06-06</added>
-		<lastupdated>2014-06-28</lastupdated>
+		<lastupdated>2014-07-29</lastupdated>
 		<name>CosyDVR</name>
 		<summary>Video recording (DVR) software for in-car use</summary>
-		<icon>com.example.CosyDVR.5.png</icon>
+		<icon>com.example.CosyDVR.6.png</icon>
 		<desc>&lt;p&gt;DVR software kit designed for in-car use:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Works in background as a service&lt;/li&gt;&lt;li&gt; Works even when the keyboard is locked&lt;/li&gt;&lt;li&gt; Autostart recording after program launch&lt;/li&gt;&lt;li&gt; Autoremove old files&lt;/li&gt;&lt;li&gt; FLASH button for night recordings (if device supports)&lt;/li&gt;&lt;li&gt; GPS data is recorded into subtitle files *.srt&lt;/li&gt;&lt;li&gt; Separate *.gpx file for upload to the OpenStreetMap.org&lt;/li&gt;&lt;li&gt; GPS data is shown on the screen&lt;/li&gt;&lt;li&gt; Night mode for better video under low light condition&lt;/li&gt;&lt;li&gt; Different focus modes (infinity, auto, continuous video, macro)&lt;/li&gt;&lt;li&gt; Zoooming in/out with gestures&lt;/li&gt;&lt;li&gt; Refocus on screen tap&lt;/li&gt;&lt;li&gt; Exit function is protected with long click to avoid accedental click&lt;/li&gt;&lt;li&gt; Configurable options (video size, bitrate, maxtemp and minfree space, fragment time etc.)&lt;/li&gt;&lt;li&gt; Notification area clickable icon for bringing app to front&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;This software might not work with all devices.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Multimedia</categories>
@@ -10283,6 +10283,19 @@
 		<tracker>https://github.com/sergstetsuk/CosyDVR/issues</tracker>
 		<marketversion>1.1</marketversion>
 		<marketvercode>5</marketvercode>
+		<package>
+			<version>1.2</version>
+			<versioncode>6</versioncode>
+			<apkname>com.example.CosyDVR_6.apk</apkname>
+			<srcname>com.example.CosyDVR_6_src.tar.gz</srcname>
+			<hash type="sha256">2781f7ac83026cccb6e0a6ada720490c51b8425efc85529f3e463fdd2f8ab94c</hash>
+			<sig>fa78754ca50064a13dbffab4d1b0bee5</sig>
+			<size>327638</size>
+			<sdkver>11</sdkver>
+			<added>2014-07-29</added>
+			<permissions>CAMERA,RECORD_AUDIO,SYSTEM_ALERT_WINDOW,WRITE_EXTERNAL_STORAGE,MODIFY_AUDIO_SETTINGS,WAKE_LOCK,ACCESS_FINE_LOCATION,INTERNET,BATTERY_STATS,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.camera,android.hardware.camera.autofocus,android.hardware.location,android.hardware.location.gps,android.hardware.microphone,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.1</version>
 			<versioncode>5</versioncode>
@@ -10565,7 +10578,7 @@
 		<source>http://xwords.sourceforge.net/source.php</source>
 		<tracker>http://xwords.sourceforge.net/contact.php</tracker>
 		<marketversion>@string/app_version</marketversion>
-		<marketvercode>77</marketvercode>
+		<marketvercode>79</marketvercode>
 		<package>
 			<version>4.4 beta 60</version>
 			<versioncode>52</versioncode>
@@ -13573,10 +13586,10 @@
 	<application id="app.easytoken">
 		<id>app.easytoken</id>
 		<added>2014-07-11</added>
-		<lastupdated>2014-07-11</lastupdated>
+		<lastupdated>2014-07-29</lastupdated>
 		<name>Easy Token</name>
 		<summary>RSA SecurID software token with widgets</summary>
-		<icon>app.easytoken.819.png</icon>
+		<icon>app.easytoken.909.png</icon>
 		<desc>&lt;p&gt;Easy Token is an RSA SecurID compatible software authenticator with advanced usability features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Convenient lock screen and home screen widgets provide instant tokencodes without navigating to an app.&lt;/li&gt;&lt;li&gt; Optionally save your PIN.&lt;/li&gt;&lt;li&gt; Supports SDTID files, importing http://127.0.0.1/... tokens from email, and QR tokens.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Requirements:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Android 4.1 (JB) or higher&lt;/li&gt;&lt;li&gt; A token seed issued by your system administrator.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Sample token seeds are posted in the XDA thread.&lt;/p&gt;</desc>
 		<license>GPLv2+</license>
 		<categories>Security</categories>
@@ -13586,6 +13599,20 @@
 		<tracker>https://github.com/cernekee/EasyToken/issues</tracker>
 		<marketversion>0.90</marketversion>
 		<marketvercode>909</marketvercode>
+		<package>
+			<version>0.90</version>
+			<versioncode>909</versioncode>
+			<apkname>app.easytoken_909.apk</apkname>
+			<srcname>app.easytoken_909_src.tar.gz</srcname>
+			<hash type="sha256">4d688551eec4e75e6ac3469ab220f4c3d3e40e2254c9916f31fecdb1f04cb27e</hash>
+			<sig>16586c194a6845e057c3adbaf0355347</sig>
+			<size>809099</size>
+			<sdkver>16</sdkver>
+			<added>2014-07-29</added>
+			<permissions>READ_EXTERNAL_STORAGE,INTERNET</permissions>
+			<nativecode>armeabi,mips,x86</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.81</version>
 			<versioncode>819</versioncode>
@@ -14867,7 +14894,7 @@
 		<summary>Addon for FBReader</summary>
 		<icon>org.geometerplus.fbreader.plugin.tts.102001.png</icon>
 		<desc>&lt;p&gt;N.B v1.2 is for post Android 3.0 and v1.1 is for pre Android 3.0&lt;/p&gt;&lt;p&gt;Adds text to speech functionality to FBReader. It doesn't create a launcher entry, but the speech can be activated from FBReader's context menu.&lt;/p&gt;</desc>
-		<license>Public Domain</license>
+		<license>PublicDomain</license>
 		<categories>Reading</categories>
 		<category>Reading</category>
 		<web>http://www.fbreader.org/FBReaderJ</web>
@@ -19902,7 +19929,7 @@
 		<summary>Remote for presentations</summary>
 		<icon>org.libreoffice.impressremote.11.png</icon>
 		<desc>&lt;p&gt;Interact with your slideshow presentation from your Android device.&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Slide previews&lt;/li&gt;&lt;li&gt; Speaker notes&lt;/li&gt;&lt;li&gt; Play/Pause presentation&lt;/li&gt;&lt;li&gt; Set timers&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;To set up the app with your computer, follow this guide: &lt;a href=&quot;https://wiki.documentfoundation.org/Development/Impress/RemoteHowTo&quot;&gt;RemoteHowTo&lt;/a&gt;&lt;/p&gt;</desc>
-		<license>MPLv2</license>
+		<license>MPL2</license>
 		<categories>Office</categories>
 		<category>Office</category>
 		<web>https://www.libreoffice.org</web>
@@ -21105,7 +21132,7 @@
 		<summary>Make symmetrical pictures</summary>
 		<icon>vnd.blueararat.kaleidoscope6.18.png</icon>
 		<desc>&lt;p&gt;Simulation of a kaleidoscope: a cylinder with mirrors containing loose, colored objects such as beads or pebbles and bits of glass. You can use any image or take a picture from the camera and the settings allow you to change the number of mirrors that are used.&lt;/p&gt;</desc>
-		<license>Public Domain</license>
+		<license>PublicDomain</license>
 		<categories>Multimedia</categories>
 		<category>Multimedia</category>
 		<web>https://github.com/prrt714/Kaleidoscope</web>
@@ -22293,7 +22320,7 @@
 		<summary>Lightweight browser</summary>
 		<icon>acr.browser.lightning.66.png</icon>
 		<desc>&lt;ul&gt;&lt;li&gt; Fast Start Times&lt;/li&gt;&lt;li&gt; Small Footprint&lt;/li&gt;&lt;li&gt; Smooth Scrolling&lt;/li&gt;&lt;li&gt; Long-press a tab to delete it&lt;/li&gt;&lt;li&gt; Long-press the back button to exit the browser&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;There is a proprietary software version of this app found elsewhere which uses drawers instead of tabs for its UI.&lt;/p&gt;&lt;p&gt;Prerelease software. Former stable versions can be found at &lt;a href=&quot;fdroid.app:acr.browser.barebones&quot;&gt;Lightning&lt;/a&gt;.&lt;/p&gt;</desc>
-		<license>MPLv2</license>
+		<license>MPL2</license>
 		<categories>Internet</categories>
 		<category>Internet</category>
 		<web>https://github.com/anthonycr/Lightning-Browser</web>
@@ -22769,10 +22796,10 @@
 	<application id="in.shubhamchaudhary.logmein">
 		<id>in.shubhamchaudhary.logmein</id>
 		<added>2014-06-21</added>
-		<lastupdated>2014-07-20</lastupdated>
+		<lastupdated>2014-07-29</lastupdated>
 		<name>logmein</name>
 		<summary>Login to campus networks</summary>
-		<icon>in.shubhamchaudhary.logmein.8.png</icon>
+		<icon>in.shubhamchaudhary.logmein.9.png</icon>
 		<desc>&lt;p&gt;Automatically login to university campus networks.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
@@ -22780,8 +22807,21 @@
 		<web>http://shubhamchaudhary.in</web>
 		<source>https://github.com/shubhamchaudhary/logmein-android</source>
 		<tracker>https://github.com/shubhamchaudhary/logmein-android/issues</tracker>
-		<marketversion>0.5.0</marketversion>
-		<marketvercode>8</marketvercode>
+		<marketversion>0.5.1</marketversion>
+		<marketvercode>9</marketvercode>
+		<package>
+			<version>0.5.1</version>
+			<versioncode>9</versioncode>
+			<apkname>in.shubhamchaudhary.logmein_9.apk</apkname>
+			<srcname>in.shubhamchaudhary.logmein_9_src.tar.gz</srcname>
+			<hash type="sha256">9dadba5c14191c8693532f707823f322e8d783620cdb9cda3ea83d4c20b1a64c</hash>
+			<sig>2d796314bcaa6e68fe7b0607148433c0</sig>
+			<size>918493</size>
+			<sdkver>8</sdkver>
+			<added>2014-07-29</added>
+			<permissions>INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.5.0</version>
 			<versioncode>8</versioncode>
@@ -26654,7 +26694,7 @@
 		<summary>Slideshow wallpaper</summary>
 		<icon>org.tamanegi.wallpaper.multipicture.dnt.48.png</icon>
 		<desc>&lt;p&gt;Display a slideshow as the wallpaper. Use images from a music album or a local directory such as the camera directory /sdcard/DCIM. Double tap to change picture and there are many options for cropping and colour depth etc.&lt;/p&gt;&lt;p&gt;Website is in Japanese.&lt;/p&gt;</desc>
-		<license>Public Domain</license>
+		<license>PublicDomain</license>
 		<categories>Wallpaper</categories>
 		<category>Wallpaper</category>
 		<web>http://www.tamanegi.org/prog/android-apps/mplwp.html</web>
@@ -32039,6 +32079,37 @@
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="com.jefftharris.passwdsafe">
+		<id>com.jefftharris.passwdsafe</id>
+		<added>2014-07-29</added>
+		<lastupdated>2014-07-29</lastupdated>
+		<name>PasswdSafe</name>
+		<summary>Popular easy-to-use and secure password manager</summary>
+		<icon>com.jefftharris.passwdsafe.40601.png</icon>
+		<desc>&lt;p&gt;PasswdSafe is a port of the popular Password Safe (pwsafe) application to the Android platform. Supports viewing and editing of Password Safe data files. Files are stored by default in the root directory on the SD card. Just copy a .psafe3 or .dat file to the card. Note: The SD card must be unmounted from the PC for the files to be seen.&lt;/p&gt;</desc>
+		<license>Artistic2</license>
+		<categories>Office</categories>
+		<category>Office</category>
+		<web>http://passwdsafe.sourceforge.net</web>
+		<source>http://sourceforge.net/p/passwdsafe/code/ci/default/tree</source>
+		<tracker>http://sourceforge.net/projects/passwdsafe/support</tracker>
+		<donate>http://passwdsafe.sourceforge.net</donate>
+		<marketversion>4.6.1</marketversion>
+		<marketvercode>40601</marketvercode>
+		<package>
+			<version>4.6.1</version>
+			<versioncode>40601</versioncode>
+			<apkname>com.jefftharris.passwdsafe_40601.apk</apkname>
+			<srcname>com.jefftharris.passwdsafe_40601_src.tar.gz</srcname>
+			<hash type="sha256">83beb265baf5bcb825e1e85780ffa8f723115b9509834a0dd7d09e6656d36b29</hash>
+			<sig>7ebebc75d7f5745d6c0b75d42784e40a</sig>
+			<size>1662260</size>
+			<sdkver>4</sdkver>
+			<added>2014-07-29</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,com.jefftharris.passwdsafe.client.provider.permission.ACCESS,com.jefftharris.passwdsafe.sync.provider.permission.ACCESS,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="com.uploadedlobster.PwdHash">
 		<id>com.uploadedlobster.PwdHash</id>
 		<added>2012-07-21</added>
@@ -32342,10 +32413,10 @@
 	<application id="com.brewcrewfoo.performance">
 		<id>com.brewcrewfoo.performance</id>
 		<added>2013-12-09</added>
-		<lastupdated>2014-07-11</lastupdated>
+		<lastupdated>2014-07-29</lastupdated>
 		<name>Performance Control</name>
 		<summary>System configuration</summary>
-		<icon>com.brewcrewfoo.performance.2203.png</icon>
+		<icon>com.brewcrewfoo.performance.2204.png</icon>
 		<desc>&lt;ul&gt;&lt;li&gt; Change CPU Governor, I/O Scheduler and Clock Speed&lt;/li&gt;&lt;li&gt; Battery information + Fast Charge setting + Battery Life eXtender setting&lt;/li&gt;&lt;li&gt; Change Voltages Assigned to each CPU frequency&lt;/li&gt;&lt;li&gt; Customize MinFree Task Killer (set the amount of RAM the minfree taskiller will keep)&lt;/li&gt;&lt;li&gt; zRam (RAM compression)&lt;/li&gt;&lt;li&gt; Customize SD read-ahead&lt;/li&gt;&lt;li&gt; VM Settings such as: Dirty Ratio, Dynamic Fsync, Backlight timeout&lt;/li&gt;&lt;li&gt; Integrated CPU Spy&lt;/li&gt;&lt;li&gt; Linux Kernel, CPU, Memory informations&lt;/li&gt;&lt;li&gt; Misc. Tools: Custom shell command, Wipe cache+dalvik cache, build.prop editor etc.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;The sqlite functions won't work unless you have the sqlite3 busybox binary installed.&lt;/p&gt;&lt;p&gt;Requires root, busybox and a custom ROM.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -32357,6 +32428,19 @@
 		<marketversion>2.2.4</marketversion>
 		<marketvercode>2204</marketvercode>
 		<requirements>root</requirements>
+		<package>
+			<version>2.2.4</version>
+			<versioncode>2204</versioncode>
+			<apkname>com.brewcrewfoo.performance_2204.apk</apkname>
+			<srcname>com.brewcrewfoo.performance_2204_src.tar.gz</srcname>
+			<hash type="sha256">628d577b7b2587fe7fa527cf383a5682f60feaf41e475ba0f66e988b3a9deff3</hash>
+			<sig>ae58b5b4f86b2d52b5a942124db7dd4f</sig>
+			<size>519847</size>
+			<sdkver>14</sdkver>
+			<added>2014-07-29</added>
+			<permissions>RECEIVE_BOOT_COMPLETED,WRITE_SETTINGS,ACCESS_SUPERUSER,WRITE_EXTERNAL_STORAGE,VIBRATE,INTERNET,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>2.2.3</version>
 			<versioncode>2203</versioncode>
@@ -32380,19 +32464,6 @@
 			<size>514419</size>
 			<sdkver>14</sdkver>
 			<added>2014-07-01</added>
-			<permissions>RECEIVE_BOOT_COMPLETED,WRITE_SETTINGS,ACCESS_SUPERUSER,WRITE_EXTERNAL_STORAGE,VIBRATE,INTERNET,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>2.1.19</version>
-			<versioncode>2119</versioncode>
-			<apkname>com.brewcrewfoo.performance_2119.apk</apkname>
-			<srcname>com.brewcrewfoo.performance_2119_src.tar.gz</srcname>
-			<hash type="sha256">d0735fd62b14c3acbd5360e488c1586212ba5f05b4aca5ab21269c604f0c6cbe</hash>
-			<sig>ae58b5b4f86b2d52b5a942124db7dd4f</sig>
-			<size>502515</size>
-			<sdkver>14</sdkver>
-			<added>2014-05-26</added>
 			<permissions>RECEIVE_BOOT_COMPLETED,WRITE_SETTINGS,ACCESS_SUPERUSER,WRITE_EXTERNAL_STORAGE,VIBRATE,INTERNET,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -34445,10 +34516,10 @@
 	<application id="com.iskrembilen.quasseldroid">
 		<id>com.iskrembilen.quasseldroid</id>
 		<added>2014-06-28</added>
-		<lastupdated>2014-07-22</lastupdated>
+		<lastupdated>2014-07-29</lastupdated>
 		<name>Quasseldroid</name>
 		<summary>Client for Quassel IRC</summary>
-		<icon>com.iskrembilen.quasseldroid.86.png</icon>
+		<icon>com.iskrembilen.quasseldroid.87.png</icon>
 		<desc>&lt;p&gt;Quassel is a distributed, decentralized IRC client. This app is a pure Java client for the Quassel core.&lt;/p&gt;&lt;p&gt;A proprietary library has been stripped from the build.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
@@ -34458,6 +34529,19 @@
 		<tracker>https://github.com/sandsmark/QuasselDroid/issues</tracker>
 		<marketversion>0.10.1</marketversion>
 		<marketvercode>87</marketvercode>
+		<package>
+			<version>0.10.1</version>
+			<versioncode>87</versioncode>
+			<apkname>com.iskrembilen.quasseldroid_87.apk</apkname>
+			<srcname>com.iskrembilen.quasseldroid_87_src.tar.gz</srcname>
+			<hash type="sha256">86fe37a170dc628d515715767a6abda49b1a4512c5e1809ddc2e97a79c440f6a</hash>
+			<sig>564089d4cfed3710eb007c63cb13116e</sig>
+			<size>1074525</size>
+			<sdkver>7</sdkver>
+			<added>2014-07-29</added>
+			<permissions>VIBRATE,INTERNET,ACCESS_NETWORK_STATE,WAKE_LOCK</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.10.0</version>
 			<versioncode>86</versioncode>
@@ -35031,10 +35115,10 @@
 	<application id="cc.rainwave.android">
 		<id>cc.rainwave.android</id>
 		<added>2014-01-09</added>
-		<lastupdated>2014-07-11</lastupdated>
+		<lastupdated>2014-07-29</lastupdated>
 		<name>Rainwave</name>
 		<summary>Client for music station</summary>
-		<icon>cc.rainwave.android.11.png</icon>
+		<icon>cc.rainwave.android.12.png</icon>
 		<desc>&lt;p&gt;Listen to music on rainwave.cc, an icecast music station, via music players like &lt;a href=&quot;fdroid.app:com.android.music&quot;&gt;Music&lt;/a&gt; or &lt;a href=&quot;fdroid.app:net.sourceforge.servestream&quot;&gt;ServeStream&lt;/a&gt;. You can also log in to vote and request tracks to be played.&lt;/p&gt;</desc>
 		<license>NewBSD</license>
 		<categories>Multimedia</categories>
@@ -35045,6 +35129,19 @@
 		<donate>http://rainwave.cc/pages/tip_jar</donate>
 		<marketversion>1.1.5</marketversion>
 		<marketvercode>12</marketvercode>
+		<package>
+			<version>1.1.5</version>
+			<versioncode>12</versioncode>
+			<apkname>cc.rainwave.android_12.apk</apkname>
+			<srcname>cc.rainwave.android_12_src.tar.gz</srcname>
+			<hash type="sha256">c7ef1c396c8634f5d2517943123549dba8a02ea7f04071a842462fcc29bc5e1a</hash>
+			<sig>b11592e2744a7f8850be5a47474556fa</sig>
+			<size>212265</size>
+			<sdkver>5</sdkver>
+			<added>2014-07-29</added>
+			<permissions>INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.1.4</version>
 			<versioncode>11</versioncode>
@@ -35068,19 +35165,6 @@
 			<size>233368</size>
 			<sdkver>5</sdkver>
 			<added>2014-04-13</added>
-			<permissions>INTERNET</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.1</version>
-			<versioncode>4</versioncode>
-			<apkname>cc.rainwave.android_4.apk</apkname>
-			<srcname>cc.rainwave.android_4_src.tar.gz</srcname>
-			<hash type="sha256">8bdb134a8eb51c77f6e6e02bd5c10655b11b56b1deb01f943fea2a00d1cf8449</hash>
-			<sig>b11592e2744a7f8850be5a47474556fa</sig>
-			<size>228271</size>
-			<sdkver>4</sdkver>
-			<added>2014-01-09</added>
 			<permissions>INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -39144,10 +39228,10 @@
 	<application id="com.adam.aslfms">
 		<id>com.adam.aslfms</id>
 		<added>2012-09-20</added>
-		<lastupdated>2014-02-18</lastupdated>
+		<lastupdated>2014-07-29</lastupdated>
 		<name>Simple Last.fm Scrobbler</name>
 		<summary>Last.fm/Libre.fm Scrobbler</summary>
-		<icon>com.adam.aslfms.33.png</icon>
+		<icon>com.adam.aslfms.36.png</icon>
 		<desc>&lt;p&gt;Scrobbling means submitting listening information to Last.fm and/or Libre.fm; you can then get music recommendations and view your listening history and statistics. The media player that you use must be able to work with the API e.g. &lt;a href=&quot;fdroid.app:org.kreed.vanilla&quot;&gt;Vanilla Music (old)&lt;/a&gt; or &lt;a href=&quot;fdroid.app:jp.co.kayo.android.localplayer&quot;&gt;Just Player&lt;/a&gt;. Apps can also hook into the Now-Playing broadcast: for example, &lt;a href=&quot;fdroid.app:com.jlyr&quot;&gt;JLyr Lyrics&lt;/a&gt; can use it to grab lyrics.&lt;/p&gt;&lt;p&gt;More info about scrobbling can be found on &lt;a href=&quot;http://www.last.fm/help/faq?category=Scrobbling#201&quot;&gt;Last.fm's FAQ&lt;/a&gt;.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Multimedia</categories>
@@ -39157,6 +39241,18 @@
 		<tracker>https://github.com/tgwizard/sls/issues</tracker>
 		<marketversion>1.4.7</marketversion>
 		<marketvercode>36</marketvercode>
+		<package>
+			<version>1.4.7</version>
+			<versioncode>36</versioncode>
+			<apkname>com.adam.aslfms_36.apk</apkname>
+			<srcname>com.adam.aslfms_36_src.tar.gz</srcname>
+			<hash type="sha256">e3e1919bfc2ec46c032ffdc3d8857983af80f88745af68386811939ecd8576b9</hash>
+			<sig>bc99e187e50b1dd06a10c80481ba2498</sig>
+			<size>116881</size>
+			<sdkver>7</sdkver>
+			<added>2014-07-29</added>
+			<permissions>INTERNET,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>1.4.6</version>
 			<versioncode>33</versioncode>
@@ -39179,18 +39275,6 @@
 			<size>115259</size>
 			<sdkver>7</sdkver>
 			<added>2013-10-11</added>
-			<permissions>INTERNET,ACCESS_NETWORK_STATE</permissions>
-		</package>
-		<package>
-			<version>1.4.4</version>
-			<versioncode>31</versioncode>
-			<apkname>com.adam.aslfms_31.apk</apkname>
-			<srcname>com.adam.aslfms_31_src.tar.gz</srcname>
-			<hash type="sha256">91783aa8ddee124a1514e32340ea03a5546b962493cacfd3a21ebbcceae26859</hash>
-			<sig>bc99e187e50b1dd06a10c80481ba2498</sig>
-			<size>114805</size>
-			<sdkver>7</sdkver>
-			<added>2012-10-27</added>
 			<permissions>INTERNET,ACCESS_NETWORK_STATE</permissions>
 		</package>
 	</application>
@@ -39270,10 +39354,10 @@
 	<application id="nl.mpcjanssen.simpletask">
 		<id>nl.mpcjanssen.simpletask</id>
 		<added>2013-12-04</added>
-		<lastupdated>2014-07-26</lastupdated>
+		<lastupdated>2014-07-29</lastupdated>
 		<name>Simpletask Cloudless</name>
 		<summary>Todo list manager</summary>
-		<icon>nl.mpcjanssen.simpletask.1525.png</icon>
+		<icon>nl.mpcjanssen.simpletask.1526.png</icon>
 		<desc>&lt;p&gt;A simple task list manager that strives to have just enough features to do GTD (the Getting Things Done methodology), but no more. Based on the &lt;a href=&quot;http://todotxt.com&quot;&gt;todo.txt&lt;/a&gt; app so all info is stored in a single text file called todo.txt. Note that, with this version, you will need to take care of backups yourself.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Todo list stored in the documented todo.txt format&lt;/li&gt;&lt;li&gt; Comprehensive filtering and multi sort&lt;/li&gt;&lt;li&gt; Create calendar reminders for specific tasks directly from the app&lt;/li&gt;&lt;li&gt; Select on or more tasks and press overflow menu-&amp;gt;Add reminder&lt;/li&gt;&lt;li&gt; Share the complete tasklist or selected tasks using the Android share feature&lt;/li&gt;&lt;li&gt; Tasks can deferred into the future. Combined with the &quot;Creation date in future&quot; sort it allows you to get tasks out of your face (as in 1MTD/MYN)&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -39281,8 +39365,21 @@
 		<web>https://github.com/mpcjanssen/simpletask-android</web>
 		<source>https://github.com/mpcjanssen/simpletask-android</source>
 		<tracker>https://github.com/mpcjanssen/simpletask-android/issues</tracker>
-		<marketversion>5.1.7</marketversion>
-		<marketvercode>1525</marketvercode>
+		<marketversion>5.1.8</marketversion>
+		<marketvercode>1526</marketvercode>
+		<package>
+			<version>5.1.8</version>
+			<versioncode>1526</versioncode>
+			<apkname>nl.mpcjanssen.simpletask_1526.apk</apkname>
+			<srcname>nl.mpcjanssen.simpletask_1526_src.tar.gz</srcname>
+			<hash type="sha256">04209783ee2e8d3009b270ee1d66894036dd84676fffcf08182abdf64f5879b5</hash>
+			<sig>dd06020d0a5f4181366d0562dff0f90e</sig>
+			<size>1547429</size>
+			<sdkver>14</sdkver>
+			<added>2014-07-29</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>5.1.7</version>
 			<versioncode>1525</versioncode>
@@ -39306,19 +39403,6 @@
 			<size>1546607</size>
 			<sdkver>14</sdkver>
 			<added>2014-07-25</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>5.1.5</version>
-			<versioncode>1523</versioncode>
-			<apkname>nl.mpcjanssen.simpletask_1523.apk</apkname>
-			<srcname>nl.mpcjanssen.simpletask_1523_src.tar.gz</srcname>
-			<hash type="sha256">de2019cf9f210db2761cd7d2165857201a71050cc2f9926858d7dce032bf9ec0</hash>
-			<sig>dd06020d0a5f4181366d0562dff0f90e</sig>
-			<size>1546455</size>
-			<sdkver>14</sdkver>
-			<added>2014-07-24</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -40554,7 +40638,7 @@
 		<name>Speedo</name>
 		<summary>Simple Speedometer</summary>
 		<desc>&lt;p&gt;Measures your speed with GPS&lt;/p&gt;</desc>
-		<license>Public Domain</license>
+		<license>PublicDomain</license>
 		<categories>Navigation</categories>
 		<category>Navigation</category>
 		<web>http://sourceforge.net/projects/androidspeedo</web>
@@ -41726,10 +41810,10 @@
 	<application id="org.telegram.messenger">
 		<id>org.telegram.messenger</id>
 		<added>2014-02-24</added>
-		<lastupdated>2014-06-19</lastupdated>
+		<lastupdated>2014-07-29</lastupdated>
 		<name>Telegram</name>
 		<summary>Messaging client</summary>
-		<icon>org.telegram.messenger.250.png</icon>
+		<icon>org.telegram.messenger.288.png</icon>
 		<desc>&lt;p&gt;Client for the Telegram messaging platform. Chat with friends, start group chats and share all kinds of content. All of your messages and conversations are stored in Telegram's cloud.&lt;/p&gt;&lt;p&gt;The messaging platform is aimed at mobile devices, but desktop and web clients exist as well.&lt;/p&gt;&lt;p&gt;Several proprietary parts were removed from the original Telegram client, including Google Play Services for the location services and HockeySDK for self-updates. Push notifications through Google Cloud Messaging and the automatic SMS receiving features were also removed.&lt;/p&gt;&lt;p&gt;Anti-Feature: Non-Free Network, since the servers run proprietary software.&lt;/p&gt;</desc>
 		<license>GPLv2+</license>
 		<categories>Internet</categories>
@@ -41740,6 +41824,20 @@
 		<marketversion>1.6.1</marketversion>
 		<marketvercode>288</marketvercode>
 		<antifeatures>NonFreeNet</antifeatures>
+		<package>
+			<version>1.6.1</version>
+			<versioncode>288</versioncode>
+			<apkname>org.telegram.messenger_288.apk</apkname>
+			<srcname>org.telegram.messenger_288_src.tar.gz</srcname>
+			<hash type="sha256">8af71da5ba28b99eea39bee83ef65fd498bcaa40575c4025186b0e6e81361e07</hash>
+			<sig>74cc10c64f04f84586e731180181f2de</sig>
+			<size>8355028</size>
+			<sdkver>8</sdkver>
+			<added>2014-07-29</added>
+			<permissions>INTERNET,RECORD_AUDIO,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,CAMERA,GET_ACCOUNTS,READ_CONTACTS,WRITE_CONTACTS,MANAGE_ACCOUNTS,READ_PROFILE,WRITE_SYNC_SETTINGS,READ_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,VIBRATE,SYSTEM_ALERT_WINDOW,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED</permissions>
+			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.5.0</version>
 			<versioncode>250</versioncode>
@@ -41764,20 +41862,6 @@
 			<size>9116083</size>
 			<sdkver>8</sdkver>
 			<added>2014-04-12</added>
-			<permissions>INTERNET,RECORD_AUDIO,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,CAMERA,GET_ACCOUNTS,READ_CONTACTS,WRITE_CONTACTS,MANAGE_ACCOUNTS,READ_PROFILE,WRITE_SYNC_SETTINGS,READ_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,VIBRATE,SYSTEM_ALERT_WINDOW,READ_PHONE_STATE</permissions>
-			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.4.9</version>
-			<versioncode>212</versioncode>
-			<apkname>org.telegram.messenger_212.apk</apkname>
-			<srcname>org.telegram.messenger_212_src.tar.gz</srcname>
-			<hash type="sha256">affa0076976244055ddfb9d82e515ca05f2ce03ce9de6deec0ef45f92a892594</hash>
-			<sig>74cc10c64f04f84586e731180181f2de</sig>
-			<size>9086637</size>
-			<sdkver>8</sdkver>
-			<added>2014-03-30</added>
 			<permissions>INTERNET,RECORD_AUDIO,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,CAMERA,GET_ACCOUNTS,READ_CONTACTS,WRITE_CONTACTS,MANAGE_ACCOUNTS,READ_PROFILE,WRITE_SYNC_SETTINGS,READ_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,VIBRATE,SYSTEM_ALERT_WINDOW,READ_PHONE_STATE</permissions>
 			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
 			<features>android.hardware.touchscreen</features>
@@ -43225,8 +43309,8 @@
 		<web>http://tramhunter.andybotting.com</web>
 		<source>https://github.com/andybotting/tramhunter</source>
 		<tracker>https://github.com/andybotting/tramhunter/issues</tracker>
-		<marketversion>1.3</marketversion>
-		<marketvercode>1300</marketvercode>
+		<marketversion>1.4</marketversion>
+		<marketvercode>1400</marketvercode>
 		<package>
 			<version>1.3</version>
 			<versioncode>1300</versioncode>
@@ -44564,7 +44648,7 @@
 		<summary>Copy Unicode characters</summary>
 		<icon>org.madore.android.unicodeMap.4.png</icon>
 		<desc>&lt;p&gt;UnicodeMap lets you browse Unicode characters by range and search for them by name, display them (when Android has the font) and copy them to the clipboard. It can also decode a string of Unicode characters to names. Of course, Android will only properly display a minuscule fraction of the characters, but those that are not properly displayed still “work” in the sense that you can copy them around or whatever.&lt;/p&gt;</desc>
-		<license>Public Domain</license>
+		<license>PublicDomain</license>
 		<categories>Office</categories>
 		<category>Office</category>
 		<web>http://www.madore.org/~david/programs/UnicodeMap.html</web>
@@ -47157,8 +47241,8 @@
 		<web>https://github.com/conchyliculture/wikipoff</web>
 		<source>https://github.com/conchyliculture/wikipoff</source>
 		<tracker>https://github.com/conchyliculture/wikipoff/issues</tracker>
-		<marketversion>0.1.2</marketversion>
-		<marketvercode>3</marketvercode>
+		<marketversion>0.2.0</marketversion>
+		<marketvercode>4</marketvercode>
 		<package>
 			<version>0.1.2</version>
 			<versioncode>3</versioncode>
