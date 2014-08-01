@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1406695493" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1406781888" url="http://f-droid.org/repo" version="12">
 		<description>The official FDroid repository. Applications in this repository are mostly built directory from the source code. Some are official binaries built by the original application developers - these will be replaced by source-built versions over time. </description>
 	</repo>
 	<application id="de.j4velin.systemappmover">
@@ -9861,10 +9861,10 @@
 	<application id="de.measite.contactmerger">
 		<id>de.measite.contactmerger</id>
 		<added>2014-07-18</added>
-		<lastupdated>2014-07-24</lastupdated>
+		<lastupdated>2014-07-31</lastupdated>
 		<name>Contact Merger</name>
 		<summary>Index and merge contacts with Lucene</summary>
-		<icon>de.measite.contactmerger.8.png</icon>
+		<icon>de.measite.contactmerger.9.png</icon>
 		<desc>&lt;p&gt;Index your contacts with lucene and provide a simple list of mergable contacts. The Service will run whenever the systems battery status is good, the data is old and/or the phone is plugged in.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>Office</categories>
@@ -9874,6 +9874,19 @@
 		<tracker>https://github.com/rtreffer/ContactMerger/issues</tracker>
 		<marketversion>1.2.0</marketversion>
 		<marketvercode>9</marketvercode>
+		<package>
+			<version>1.2.0</version>
+			<versioncode>9</versioncode>
+			<apkname>de.measite.contactmerger_9.apk</apkname>
+			<srcname>de.measite.contactmerger_9_src.tar.gz</srcname>
+			<hash type="sha256">8bccabf4f9bf2e01a8d25db047445fa76a7ddd4100ea7bce547347acdd4057db</hash>
+			<sig>c13741524ff63f0dc361db6b4f89e9fe</sig>
+			<size>2789391</size>
+			<sdkver>16</sdkver>
+			<added>2014-07-31</added>
+			<permissions>READ_CONTACTS,WRITE_CONTACTS,RECEIVE_BOOT_COMPLETED,READ_CALL_LOG,WRITE_CALL_LOG</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.1.3</version>
 			<versioncode>8</versioncode>
@@ -10590,8 +10603,8 @@
 		<web>http://xwords.sourceforge.net/android.php</web>
 		<source>http://xwords.sourceforge.net/source.php</source>
 		<tracker>http://xwords.sourceforge.net/contact.php</tracker>
-		<marketversion>4.4 beta 86</marketversion>
-		<marketvercode>79</marketvercode>
+		<marketversion>4.4 beta 87</marketversion>
+		<marketvercode>80</marketvercode>
 		<package>
 			<version>4.4 beta 60</version>
 			<versioncode>52</versioncode>
@@ -29538,8 +29551,8 @@
 		<web>http://trikita.co/#obsqr</web>
 		<source>https://bitbucket.org/trikita/obsqr/src</source>
 		<tracker>https://bitbucket.org/trikita/obsqr/issues?status=new&amp;status=open</tracker>
-		<marketversion>2.6</marketversion>
-		<marketvercode>12</marketvercode>
+		<marketversion>2.7</marketversion>
+		<marketvercode>13</marketvercode>
 		<package>
 			<version>2.6</version>
 			<versioncode>11</versioncode>
@@ -31223,10 +31236,10 @@
 	<application id="org.torproject.android">
 		<id>org.torproject.android</id>
 		<added>2012-12-14</added>
-		<lastupdated>2014-07-03</lastupdated>
+		<lastupdated>2014-07-31</lastupdated>
 		<name>Orbot</name>
 		<summary>Tor (anonymity) client</summary>
-		<icon>org.torproject.android.109.png</icon>
+		<icon>org.torproject.android.113.png</icon>
 		<desc>&lt;p&gt;Tor is both software and an open network that helps you defend against network surveillance that threatens personal freedom and privacy, confidential business activities and relationships.&lt;/p&gt;&lt;p&gt;Orbot allows access to Tor by accessing a local SOCKS or HTTP proxy. On a rooted device, the proxying can be completely transparent i.e. the app that accesses the network need not be aware of the proxy's existence; you can choose which apps go via the proxy in the settings.&lt;/p&gt;&lt;p&gt;If you don't have root access, there are some apps that are designed to work closely with tor or allow proxied connections: &lt;a href=&quot;fdroid.app:info.guardianproject.otr.app.im&quot;&gt;ChatSecure&lt;/a&gt;, &lt;a href=&quot;fdroid.app:info.guardianproject.browser&quot;&gt;Orweb&lt;/a&gt; and &lt;a href=&quot;fdroid.app:org.mariotaku.twidere&quot;&gt;Twidere&lt;/a&gt;. There is also a proxy configurator addon for &lt;a href=&quot;fdroid.app:org.mozilla.firefox&quot;&gt;Firefox&lt;/a&gt; called &lt;a href=&quot;https://github.com/guardianproject/ProxyMob/downloads&quot;&gt;ProxyMob&lt;/a&gt; (not yet available from the Mozilla addon site).&lt;/p&gt;&lt;p&gt;Requires root: No, but you will need to use apps that allow proxies if root is not granted.&lt;/p&gt;</desc>
 		<license>NewBSD</license>
 		<categories>Security,Internet</categories>
@@ -31236,8 +31249,21 @@
 		<tracker>https://dev.guardianproject.info/projects/orbot/issues</tracker>
 		<donate>https://www.torproject.org/donate/donate.html.en</donate>
 		<flattr>5649</flattr>
-		<marketversion>14.0.4.3</marketversion>
-		<marketvercode>109</marketvercode>
+		<marketversion>14.0.5</marketversion>
+		<marketvercode>113</marketvercode>
+		<package>
+			<version>14.0.5</version>
+			<versioncode>113</versioncode>
+			<apkname>org.torproject.android_113.apk</apkname>
+			<srcname>org.torproject.android_113_src.tar.gz</srcname>
+			<hash type="sha256">ddca799f006c750d8eefe49dc29f015f6fb33664d9d307fbf0678e35b84a8949</hash>
+			<sig>712fc2bc32764a0345e72e6c71483028</sig>
+			<size>5522132</size>
+			<sdkver>9</sdkver>
+			<added>2014-07-31</added>
+			<permissions>INTERNET,RECEIVE_BOOT_COMPLETED,ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,org.torproject.android.MANAGE_TOR</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>14.0.4.3</version>
 			<versioncode>109</versioncode>
@@ -31261,19 +31287,6 @@
 			<size>5451630</size>
 			<sdkver>9</sdkver>
 			<added>2014-06-21</added>
-			<permissions>INTERNET,RECEIVE_BOOT_COMPLETED,ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,org.torproject.android.MANAGE_TOR</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>14.0.4</version>
-			<versioncode>106</versioncode>
-			<apkname>org.torproject.android_106.apk</apkname>
-			<srcname>org.torproject.android_106_src.tar.gz</srcname>
-			<hash type="sha256">a503dd7038a0c5f30ed69f8e3be6e61e20cc09f8ce03645b2392577b055dd4f3</hash>
-			<sig>712fc2bc32764a0345e72e6c71483028</sig>
-			<size>5448402</size>
-			<sdkver>9</sdkver>
-			<added>2014-06-16</added>
 			<permissions>INTERNET,RECEIVE_BOOT_COMPLETED,ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,org.torproject.android.MANAGE_TOR</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -39396,10 +39409,10 @@
 	<application id="nl.mpcjanssen.simpletask">
 		<id>nl.mpcjanssen.simpletask</id>
 		<added>2013-12-04</added>
-		<lastupdated>2014-07-29</lastupdated>
+		<lastupdated>2014-07-31</lastupdated>
 		<name>Simpletask Cloudless</name>
 		<summary>Todo list manager</summary>
-		<icon>nl.mpcjanssen.simpletask.1526.png</icon>
+		<icon>nl.mpcjanssen.simpletask.1527.png</icon>
 		<desc>&lt;p&gt;A simple task list manager that strives to have just enough features to do GTD (the Getting Things Done methodology), but no more. Based on the &lt;a href=&quot;http://todotxt.com&quot;&gt;todo.txt&lt;/a&gt; app so all info is stored in a single text file called todo.txt. Note that, with this version, you will need to take care of backups yourself.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Todo list stored in the documented todo.txt format&lt;/li&gt;&lt;li&gt; Comprehensive filtering and multi sort&lt;/li&gt;&lt;li&gt; Create calendar reminders for specific tasks directly from the app&lt;/li&gt;&lt;li&gt; Select on or more tasks and press overflow menu-&amp;gt;Add reminder&lt;/li&gt;&lt;li&gt; Share the complete tasklist or selected tasks using the Android share feature&lt;/li&gt;&lt;li&gt; Tasks can deferred into the future. Combined with the &quot;Creation date in future&quot; sort it allows you to get tasks out of your face (as in 1MTD/MYN)&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -39407,8 +39420,21 @@
 		<web>https://github.com/mpcjanssen/simpletask-android</web>
 		<source>https://github.com/mpcjanssen/simpletask-android</source>
 		<tracker>https://github.com/mpcjanssen/simpletask-android/issues</tracker>
-		<marketversion>5.1.8</marketversion>
-		<marketvercode>1526</marketvercode>
+		<marketversion>5.2.0</marketversion>
+		<marketvercode>1527</marketvercode>
+		<package>
+			<version>5.2.0</version>
+			<versioncode>1527</versioncode>
+			<apkname>nl.mpcjanssen.simpletask_1527.apk</apkname>
+			<srcname>nl.mpcjanssen.simpletask_1527_src.tar.gz</srcname>
+			<hash type="sha256">a1d1a14484caf7bf1798117dd048decd0c4dbbd527add3350f425861ed970971</hash>
+			<sig>dd06020d0a5f4181366d0562dff0f90e</sig>
+			<size>1810913</size>
+			<sdkver>14</sdkver>
+			<added>2014-07-31</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>5.1.8</version>
 			<versioncode>1526</versioncode>
@@ -39432,19 +39458,6 @@
 			<size>1547403</size>
 			<sdkver>14</sdkver>
 			<added>2014-07-26</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>5.1.6</version>
-			<versioncode>1524</versioncode>
-			<apkname>nl.mpcjanssen.simpletask_1524.apk</apkname>
-			<srcname>nl.mpcjanssen.simpletask_1524_src.tar.gz</srcname>
-			<hash type="sha256">c63626b508b7efa5e9351a72897fcf59a7133210bd115ae53d554871c07fcb63</hash>
-			<sig>dd06020d0a5f4181366d0562dff0f90e</sig>
-			<size>1546607</size>
-			<sdkver>14</sdkver>
-			<added>2014-07-25</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
