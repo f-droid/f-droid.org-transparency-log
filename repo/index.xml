@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1406781888" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1406868404" url="http://f-droid.org/repo" version="12">
 		<description>The official FDroid repository. Applications in this repository are mostly built directory from the source code. Some are official binaries built by the original application developers - these will be replaced by source-built versions over time. </description>
 	</repo>
 	<application id="de.j4velin.systemappmover">
@@ -10045,8 +10045,8 @@
 		<web>https://github.com/siacs/Conversations</web>
 		<source>https://github.com/siacs/Conversations</source>
 		<tracker>https://github.com/siacs/Conversations/issues</tracker>
-		<marketversion>0.5.1</marketversion>
-		<marketvercode>22</marketvercode>
+		<marketversion>0.5.2</marketversion>
+		<marketvercode>23</marketvercode>
 		<package>
 			<version>0.5.1</version>
 			<versioncode>22</versioncode>
@@ -11541,8 +11541,8 @@
 		<web>https://github.com/uberspot/DebianDroid</web>
 		<source>https://github.com/uberspot/DebianDroid</source>
 		<tracker>https://github.com/uberspot/DebianDroid/issues</tracker>
-		<marketversion>1.732</marketversion>
-		<marketvercode>16</marketvercode>
+		<marketversion>1.733</marketversion>
+		<marketvercode>17</marketvercode>
 		<package>
 			<version>1.732</version>
 			<versioncode>16</versioncode>
@@ -19838,10 +19838,10 @@
 	<application id="eu.e43.impeller">
 		<id>eu.e43.impeller</id>
 		<added>2013-05-10</added>
-		<lastupdated>2014-04-26</lastupdated>
+		<lastupdated>2014-08-01</lastupdated>
 		<name>Impeller</name>
 		<summary>Client for the Pump.io network</summary>
-		<icon>eu.e43.impeller.9010.png</icon>
+		<icon>eu.e43.impeller.9050.png</icon>
 		<desc>&lt;p&gt;A client for &lt;a href=&quot;http://pump.io&quot;&gt;pump.io&lt;/a&gt;, a stream server for distributed social networking and microblogging. Register a &lt;a href=&quot;http://pump.io/tryit.html&quot;&gt;free account&lt;/a&gt; at a participating website and follow some &lt;a href=&quot;https://static.jpope.org/users.html&quot;&gt;people&lt;/a&gt;, before using the app.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>Internet</categories>
@@ -19849,8 +19849,21 @@
 		<web>http://impeller.e43.eu</web>
 		<source>https://github.com/oshepherd/Impeller</source>
 		<tracker>https://e43oss.atlassian.net/browse/IMP</tracker>
-		<marketversion>0.9.1</marketversion>
-		<marketvercode>9010</marketvercode>
+		<marketversion>0.9.5</marketversion>
+		<marketvercode>9050</marketvercode>
+		<package>
+			<version>0.9.5</version>
+			<versioncode>9050</versioncode>
+			<apkname>eu.e43.impeller_9050.apk</apkname>
+			<srcname>eu.e43.impeller_9050_src.tar.gz</srcname>
+			<hash type="sha256">12d7e47a0da8d0f2b2a774f1eb857b17622fc37c5f25fe8f128a8b38e98fad6f</hash>
+			<sig>f0d2a6630fa6379c6ff3a23011fedbbc</sig>
+			<size>2841459</size>
+			<sdkver>14</sdkver>
+			<added>2014-08-01</added>
+			<permissions>GET_ACCOUNTS,USE_CREDENTIALS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS,READ_CONTACTS,WRITE_CONTACTS,READ_SYNC_SETTINGS,WRITE_SYNC_SETTINGS,READ_SYNC_STATS,READ_SOCIAL_STREAM,WRITE_SOCIAL_STREAM,INTERNET,ACCESS_COARSE_LOCATION,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_CALL_LOG,WRITE_CALL_LOG</permissions>
+			<features>android.hardware.location,android.hardware.location.network,android.hardware.microphone,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.9.1</version>
 			<versioncode>9010</versioncode>
@@ -19872,19 +19885,6 @@
 			<hash type="sha256">d260e421d1b299ab5455c87d7df31a7cac7dfd16a49ae374afedb54e7909399a</hash>
 			<sig>f0d2a6630fa6379c6ff3a23011fedbbc</sig>
 			<size>2833406</size>
-			<sdkver>8</sdkver>
-			<added>2014-04-19</added>
-			<permissions>GET_ACCOUNTS,USE_CREDENTIALS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS,READ_CONTACTS,WRITE_CONTACTS,READ_SYNC_SETTINGS,WRITE_SYNC_SETTINGS,READ_SYNC_STATS,READ_SOCIAL_STREAM,WRITE_SOCIAL_STREAM,INTERNET,ACCESS_COARSE_LOCATION,READ_EXTERNAL_STORAGE,RECORD_AUDIO</permissions>
-			<features>android.hardware.location,android.hardware.location.network,android.hardware.microphone,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.9a</version>
-			<versioncode>9001</versioncode>
-			<apkname>eu.e43.impeller_9001.apk</apkname>
-			<srcname>eu.e43.impeller_9001_src.tar.gz</srcname>
-			<hash type="sha256">1e86649139f400e478ea0749cba51625dfc9124f781120fbdbd429f9f2d7f4be</hash>
-			<sig>f0d2a6630fa6379c6ff3a23011fedbbc</sig>
-			<size>2833388</size>
 			<sdkver>8</sdkver>
 			<added>2014-04-19</added>
 			<permissions>GET_ACCOUNTS,USE_CREDENTIALS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS,READ_CONTACTS,WRITE_CONTACTS,READ_SYNC_SETTINGS,WRITE_SYNC_SETTINGS,READ_SYNC_STATS,READ_SOCIAL_STREAM,WRITE_SOCIAL_STREAM,INTERNET,ACCESS_COARSE_LOCATION,READ_EXTERNAL_STORAGE,RECORD_AUDIO</permissions>
@@ -31699,10 +31699,10 @@
 	<application id="com.owncloud.android">
 		<id>com.owncloud.android</id>
 		<added>2012-08-02</added>
-		<lastupdated>2014-06-04</lastupdated>
+		<lastupdated>2014-08-01</lastupdated>
 		<name>ownCloud</name>
 		<summary>Synchronization client</summary>
-		<icon>com.owncloud.android.105007.png</icon>
+		<icon>com.owncloud.android.10500800.png</icon>
 		<desc>&lt;p&gt;ownCloud is a free software package you can install on a server to manage files, contacts, calendars, music, pictures and much more. This is the official Android app which enables you to view and upload files.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
@@ -31711,8 +31711,21 @@
 		<source>https://github.com/owncloud/android</source>
 		<tracker>https://github.com/owncloud/android/issues</tracker>
 		<flattr>f15dfcd9a3f7f9de8e9eb5f9fe9911e7</flattr>
-		<marketversion>1.5.7</marketversion>
-		<marketvercode>105007</marketvercode>
+		<marketversion>1.5.8</marketversion>
+		<marketvercode>10500800</marketvercode>
+		<package>
+			<version>1.5.8</version>
+			<versioncode>10500800</versioncode>
+			<apkname>com.owncloud.android_10500800.apk</apkname>
+			<srcname>com.owncloud.android_10500800_src.tar.gz</srcname>
+			<hash type="sha256">c981ef0467ee11d50ef930e3b2865b16e0bff77e6cfa8274fe9dad3e6764a5e0</hash>
+			<sig>7a2b73a14604b9707f378c6ecdc2f3af</sig>
+			<size>2150725</size>
+			<sdkver>8</sdkver>
+			<added>2014-08-01</added>
+			<permissions>GET_ACCOUNTS,USE_CREDENTIALS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS,INTERNET,WRITE_SETTINGS,READ_SYNC_STATS,READ_SYNC_SETTINGS,WRITE_SYNC_SETTINGS,BROADCAST_STICKY,ACCESS_NETWORK_STATE,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.5.7</version>
 			<versioncode>105007</versioncode>
@@ -31736,19 +31749,6 @@
 			<size>2093690</size>
 			<sdkver>8</sdkver>
 			<added>2014-05-31</added>
-			<permissions>GET_ACCOUNTS,USE_CREDENTIALS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS,INTERNET,WRITE_SETTINGS,READ_SYNC_STATS,READ_SYNC_SETTINGS,WRITE_SYNC_SETTINGS,BROADCAST_STICKY,ACCESS_NETWORK_STATE,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.5.5</version>
-			<versioncode>105005</versioncode>
-			<apkname>com.owncloud.android_105005.apk</apkname>
-			<srcname>com.owncloud.android_105005_src.tar.gz</srcname>
-			<hash type="sha256">ade881b98c016c24add8cec67b073e6f11b2c498fd75f2f2b0819b897afb9091</hash>
-			<sig>7a2b73a14604b9707f378c6ecdc2f3af</sig>
-			<size>2074142</size>
-			<sdkver>8</sdkver>
-			<added>2014-04-26</added>
 			<permissions>GET_ACCOUNTS,USE_CREDENTIALS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS,INTERNET,WRITE_SETTINGS,READ_SYNC_STATS,READ_SYNC_SETTINGS,WRITE_SYNC_SETTINGS,BROADCAST_STICKY,ACCESS_NETWORK_STATE,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -33371,8 +33371,8 @@
 		<web>https://github.com/thasmin/Podax</web>
 		<source>https://github.com/thasmin/Podax</source>
 		<tracker>https://github.com/thasmin/Podax/issues</tracker>
-		<marketversion>7.05</marketversion>
-		<marketvercode>62</marketvercode>
+		<marketversion>7.06</marketversion>
+		<marketvercode>63</marketvercode>
 		<package>
 			<version>7.05</version>
 			<versioncode>62</versioncode>
@@ -35346,10 +35346,10 @@
 	<application id="org.quantumbadger.redreader">
 		<id>org.quantumbadger.redreader</id>
 		<added>2013-04-07</added>
-		<lastupdated>2014-04-15</lastupdated>
+		<lastupdated>2014-08-01</lastupdated>
 		<name>RedReader Beta</name>
 		<summary>Client for reddit.com</summary>
-		<icon>org.quantumbadger.redreader.47.png</icon>
+		<icon>org.quantumbadger.redreader.48.png</icon>
 		<desc>&lt;p&gt;An unofficial client for the news site reddit.com.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Swipe posts left and right to perform customizable actions, such as upvote/downvote, or save/hide.&lt;/li&gt;&lt;li&gt; Advanced cache management - automatically stores past versions of posts and comments.&lt;/li&gt;&lt;li&gt; Streaming - shows posts/comments as they download - good for slow connections.&lt;/li&gt;&lt;li&gt; Support for multiple accounts.&lt;/li&gt;&lt;li&gt; Two-column tablet mode (can be used on your phone, if it's big enough)&lt;/li&gt;&lt;li&gt; Image precaching (optional: always, never, or Wi-Fi only).&lt;/li&gt;&lt;li&gt; Built in image viewer, and GIF player.&lt;/li&gt;&lt;li&gt; Compression - both during downloads, and in cache storage.&lt;/li&gt;&lt;li&gt; Night mode (i.e. a dark theme)&lt;/li&gt;&lt;li&gt; Holo theme on every device&lt;/li&gt;&lt;li&gt; Support for Android 2.2+ (but works best on Android 4.0+)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Status: BETA&lt;/p&gt;&lt;p&gt;Details of each crash in the UI thread will be logged to external storage, under the filename &quot;redreader_crash_log_(UUID).txt&quot; - please attach the relevant log when reporting a bug. Crashes in other parts of the application will cause a prompt to be displayed asking you to email the exception details directly.&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Internet</categories>
@@ -35358,8 +35358,21 @@
 		<source>https://github.com/QuantumBadger/RedReader</source>
 		<tracker>https://github.com/QuantumBadger/RedReader/issues</tracker>
 		<bitcoin>1874wapGxDo2vEp4avisda4gx3SCjsHCQJ</bitcoin>
-		<marketversion>1.8.5.2</marketversion>
-		<marketvercode>47</marketvercode>
+		<marketversion>1.8.6</marketversion>
+		<marketvercode>48</marketvercode>
+		<package>
+			<version>1.8.6</version>
+			<versioncode>48</versioncode>
+			<apkname>org.quantumbadger.redreader_48.apk</apkname>
+			<srcname>org.quantumbadger.redreader_48_src.tar.gz</srcname>
+			<hash type="sha256">620cbe2f60935a75b823ba4a5785b000df42d542b47ce1c9e61b033cbdb0755d</hash>
+			<sig>c6cdfabfd2abece0bc1a6b9827c9c9f8</sig>
+			<size>3725251</size>
+			<sdkver>8</sdkver>
+			<added>2014-08-01</added>
+			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.8.5.2</version>
 			<versioncode>47</versioncode>
@@ -35383,19 +35396,6 @@
 			<size>3688926</size>
 			<sdkver>8</sdkver>
 			<added>2014-04-15</added>
-			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.8.4</version>
-			<versioncode>44</versioncode>
-			<apkname>org.quantumbadger.redreader_44.apk</apkname>
-			<srcname>org.quantumbadger.redreader_44_src.tar.gz</srcname>
-			<hash type="sha256">23679a22cd0917723b806f1e51e358ac71e26199c79df3c621162931729ee9da</hash>
-			<sig>c6cdfabfd2abece0bc1a6b9827c9c9f8</sig>
-			<size>3646255</size>
-			<sdkver>8</sdkver>
-			<added>2014-03-18</added>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -40629,6 +40629,37 @@
 			<features>android.hardware.location,android.hardware.location.gps,android.hardware.bluetooth,android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="fly.speedmeter.grub">
+		<id>fly.speedmeter.grub</id>
+		<added>2014-08-01</added>
+		<lastupdated>2014-08-01</lastupdated>
+		<name>SpeedMeter</name>
+		<summary>Lightweight speed meter</summary>
+		<icon>fly.speedmeter.grub.12.png</icon>
+		<desc>&lt;p&gt;Display some useful information about a route:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Actual speed&lt;/li&gt;&lt;li&gt; Time elapsed&lt;/li&gt;&lt;li&gt; M or KM traveled&lt;/li&gt;&lt;li&gt; Max speed&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Older versions are available as &lt;a href=&quot;fdroid.app:isn.fly.speedmeter&quot;&gt;SpeedMeter&lt;/a&gt;.&lt;/p&gt;</desc>
+		<license>GPLv2</license>
+		<categories>Navigation</categories>
+		<category>Navigation</category>
+		<web>https://github.com/flyingrub/SpeedMeter</web>
+		<source>https://github.com/flyingrub/SpeedMeter</source>
+		<tracker>https://github.com/flyingrub/SpeedMeter/issues</tracker>
+		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=SP3QEMAM8XZYQ</donate>
+		<marketversion>1.2</marketversion>
+		<marketvercode>12</marketvercode>
+		<package>
+			<version>1.2</version>
+			<versioncode>12</versioncode>
+			<apkname>fly.speedmeter.grub_12.apk</apkname>
+			<srcname>fly.speedmeter.grub_12_src.tar.gz</srcname>
+			<hash type="sha256">44a4e490297b00cc93e7a628d1b30808a30f70f3bf740a43c071c05ba50ad5e7</hash>
+			<sig>0fb3cd80c3de853e8dc26ec26d217b9e</sig>
+			<size>54592</size>
+			<sdkver>16</sdkver>
+			<added>2014-08-01</added>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION</permissions>
+			<features>android.hardware.location,android.hardware.location.gps,android.hardware.location.network,android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="isn.fly.speedmeter">
 		<id>isn.fly.speedmeter</id>
 		<added>2014-04-15</added>
@@ -40636,7 +40667,7 @@
 		<name>SpeedMeter</name>
 		<summary>Lightweight speed meter</summary>
 		<icon>isn.fly.speedmeter.11.png</icon>
-		<desc>&lt;p&gt;This app can display some useful information about a route:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Actual speed&lt;/li&gt;&lt;li&gt; Time elapsed&lt;/li&gt;&lt;li&gt; M or KM traveled&lt;/li&gt;&lt;li&gt; Max speed&lt;/li&gt;&lt;/ul&gt;</desc>
+		<desc>&lt;p&gt;This app can display some useful information about a route:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Actual speed&lt;/li&gt;&lt;li&gt; Time elapsed&lt;/li&gt;&lt;li&gt; M or KM traveled&lt;/li&gt;&lt;li&gt; Max speed&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Upstream changed application id, newer versions are available at &lt;a href=&quot;fdroid.app:fly.speedmeter.grub&quot;&gt;SpeedMeter&lt;/a&gt;.&lt;/p&gt;</desc>
 		<license>GPLv2</license>
 		<categories>Navigation</categories>
 		<category>Navigation</category>
@@ -45372,8 +45403,8 @@
 		<source>http://git.videolan.org/?p=vlc-ports/android.git;a=summary</source>
 		<tracker>http://www.videolan.org/support/index.html#bugs</tracker>
 		<donate>http://www.videolan.org/contribute.html#money</donate>
-		<marketversion>0.9.7.1</marketversion>
-		<marketvercode>9714</marketvercode>
+		<marketversion>0.9.8</marketversion>
+		<marketvercode>9804</marketvercode>
 		<package>
 			<version>0.9.7.1</version>
 			<versioncode>9714</versioncode>
