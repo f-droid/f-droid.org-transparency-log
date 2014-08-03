@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1406868404" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1406958719" url="http://f-droid.org/repo" version="12">
 		<description>The official FDroid repository. Applications in this repository are mostly built directory from the source code. Some are official binaries built by the original application developers - these will be replaced by source-built versions over time. </description>
 	</repo>
 	<application id="de.j4velin.systemappmover">
@@ -696,8 +696,8 @@
 		<web>http://acdisplay.artemchep.com</web>
 		<source>https://github.com/AChep/AcDisplay</source>
 		<tracker>https://github.com/AChep/AcDisplay/issues</tracker>
-		<marketversion>2.4.2</marketversion>
-		<marketvercode>26</marketvercode>
+		<marketversion>2.4.3</marketversion>
+		<marketvercode>27</marketvercode>
 		<package>
 			<version>2.3</version>
 			<versioncode>21</versioncode>
@@ -5810,6 +5810,35 @@
 			<features>android.hardware.location,android.hardware.location.gps,android.hardware.location.network,android.hardware.wifi,android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="org.segin.bfinterpreter">
+		<id>org.segin.bfinterpreter</id>
+		<added>2014-08-02</added>
+		<lastupdated>2014-08-02</lastupdated>
+		<name>BF Interpreter</name>
+		<summary>Interpreter for &quot;Brainfuck&quot; programming language</summary>
+		<icon>org.segin.bfinterpreter.3.png</icon>
+		<desc>&lt;p&gt;Implementation of the &quot;Brainfuck&quot; programming language.&lt;/p&gt;</desc>
+		<license>Apache2</license>
+		<categories>Office</categories>
+		<category>Office</category>
+		<web>https://github.com/segin/BFInterpreter</web>
+		<source>https://github.com/segin/BFInterpreter</source>
+		<tracker>https://github.com/segin/BFInterpreter/issues</tracker>
+		<marketversion>0.3</marketversion>
+		<marketvercode>3</marketvercode>
+		<package>
+			<version>0.3</version>
+			<versioncode>3</versioncode>
+			<apkname>org.segin.bfinterpreter_3.apk</apkname>
+			<srcname>org.segin.bfinterpreter_3_src.tar.gz</srcname>
+			<hash type="sha256">02473e6332cbd28508de74ab08df7ee0d2d366ec0aa85873a11ec7926251c774</hash>
+			<sig>16541b724e929c47a9aabf53df17c04a</sig>
+			<size>865725</size>
+			<sdkver>7</sdkver>
+			<added>2014-08-02</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="com.ihunda.android.binauralbeat">
 		<id>com.ihunda.android.binauralbeat</id>
 		<added>2012-02-11</added>
@@ -10034,10 +10063,10 @@
 	<application id="eu.siacs.conversations">
 		<id>eu.siacs.conversations</id>
 		<added>2014-05-20</added>
-		<lastupdated>2014-07-30</lastupdated>
+		<lastupdated>2014-08-02</lastupdated>
 		<name>Conversations</name>
 		<summary>XMPP client</summary>
-		<icon>eu.siacs.conversations.22.png</icon>
+		<icon>eu.siacs.conversations.23.png</icon>
 		<desc>&lt;p&gt;XMPP client designed with ease of use and security in mind.&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; end-to-end encryption with either OTR or openPGP&lt;/li&gt;&lt;li&gt; Holo UI&lt;/li&gt;&lt;li&gt; syncs with your desktop client&lt;/li&gt;&lt;li&gt; group chats&lt;/li&gt;&lt;li&gt; addressbook integration&lt;/li&gt;&lt;li&gt; multiple accounts / unified inbox&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Noteable XEPs:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; XEP-0198: Stream Management&lt;/li&gt;&lt;li&gt; XEP-0280: Message Carbons&lt;/li&gt;&lt;li&gt; XEP-0237: Roster Versioning&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/siacs/Conversations/blob/development/CHANGELOG.md&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
@@ -10047,6 +10076,19 @@
 		<tracker>https://github.com/siacs/Conversations/issues</tracker>
 		<marketversion>0.5.2</marketversion>
 		<marketvercode>23</marketvercode>
+		<package>
+			<version>0.5.2</version>
+			<versioncode>23</versioncode>
+			<apkname>eu.siacs.conversations_23.apk</apkname>
+			<srcname>eu.siacs.conversations_23_src.tar.gz</srcname>
+			<hash type="sha256">f5ff3b948aa5670a7a4e549a637495885f83052ef0e56005e1999bded882068b</hash>
+			<sig>befc8ef80c66cb2d7d23dc99959287b5</sig>
+			<size>1670097</size>
+			<sdkver>14</sdkver>
+			<added>2014-08-02</added>
+			<permissions>READ_CONTACTS,READ_PROFILE,INTERNET,ACCESS_NETWORK_STATE,WAKE_LOCK,RECEIVE_BOOT_COMPLETED,VIBRATE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.5.1</version>
 			<versioncode>22</versioncode>
@@ -10070,19 +10112,6 @@
 			<size>1652635</size>
 			<sdkver>14</sdkver>
 			<added>2014-07-26</added>
-			<permissions>READ_CONTACTS,READ_PROFILE,INTERNET,ACCESS_NETWORK_STATE,WAKE_LOCK,RECEIVE_BOOT_COMPLETED,VIBRATE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.4.1</version>
-			<versioncode>19</versioncode>
-			<apkname>eu.siacs.conversations_19.apk</apkname>
-			<srcname>eu.siacs.conversations_19_src.tar.gz</srcname>
-			<hash type="sha256">77a62e590cdcbb4394f42a1eaa853afd3b22c3034bc3984c7d108970b55b8b1d</hash>
-			<sig>befc8ef80c66cb2d7d23dc99959287b5</sig>
-			<size>1567635</size>
-			<sdkver>14</sdkver>
-			<added>2014-07-06</added>
 			<permissions>READ_CONTACTS,READ_PROFILE,INTERNET,ACCESS_NETWORK_STATE,WAKE_LOCK,RECEIVE_BOOT_COMPLETED,VIBRATE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -15644,6 +15673,36 @@
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="org.anhonesteffort.flock">
+		<id>org.anhonesteffort.flock</id>
+		<added>2014-08-02</added>
+		<lastupdated>2014-08-02</lastupdated>
+		<name>Flock</name>
+		<summary>Secure contact and calendar syncing</summary>
+		<icon>org.anhonesteffort.flock.4.png</icon>
+		<desc>&lt;p&gt;Flock is a replacement for the default contact and calendar synchronization services provided by Google. Flock provides end-to-end encryption between multiple Android devices putting the privacy of your contacts and calendars back under your control. To facilitate syncing between multiple devices a &quot;sync service&quot; is required, this can be any standards compliant WebDAV server that conforms to the following RFCs:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; RFC 2518 - HTTP Extensions for Distributed Authoring -- WEBDAV&lt;/li&gt;&lt;li&gt; RFC 4918 - HTTP Extensions for Web Distributed Authoring and Versioning (WebDAV)&lt;/li&gt;&lt;li&gt; RFC 6352 - CardDAV: vCard Extensions to Web Distributed Authoring and Versioning (WebDAV)&lt;/li&gt;&lt;li&gt; RFC 4791 - Calendaring Extensions to WebDAV (CalDAV)&lt;/li&gt;&lt;/ul&gt;</desc>
+		<license>GPLv3</license>
+		<categories>Office,System</categories>
+		<category>Office</category>
+		<web>https://github.com/WhisperSystems/Flock</web>
+		<source>https://github.com/WhisperSystems/Flock</source>
+		<tracker>https://github.com/WhisperSystems/Flock/issues</tracker>
+		<marketversion>0.70</marketversion>
+		<marketvercode>4</marketvercode>
+		<package>
+			<version>0.70</version>
+			<versioncode>4</versioncode>
+			<apkname>org.anhonesteffort.flock_4.apk</apkname>
+			<srcname>org.anhonesteffort.flock_4_src.tar.gz</srcname>
+			<hash type="sha256">e8bcd0382af38c42f5445d8dd5f702ae1fd3c2b96fcd19898be683c50110a9ef</hash>
+			<sig>da0c33fe41301572e6c06f6a570a7a90</sig>
+			<size>4414385</size>
+			<sdkver>16</sdkver>
+			<added>2014-08-02</added>
+			<permissions>USE_CREDENTIALS,GET_ACCOUNTS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS,READ_SYNC_STATS,READ_SYNC_SETTINGS,WRITE_SYNC_SETTINGS,READ_CONTACTS,WRITE_CONTACTS,READ_CALENDAR,WRITE_CALENDAR,INTERNET,RECEIVE_BOOT_COMPLETED</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="com.sputnik.wispr">
 		<id>com.sputnik.wispr</id>
 		<added>2012-08-29</added>
@@ -19838,10 +19897,10 @@
 	<application id="eu.e43.impeller">
 		<id>eu.e43.impeller</id>
 		<added>2013-05-10</added>
-		<lastupdated>2014-08-01</lastupdated>
+		<lastupdated>2014-08-02</lastupdated>
 		<name>Impeller</name>
 		<summary>Client for the Pump.io network</summary>
-		<icon>eu.e43.impeller.9050.png</icon>
+		<icon>eu.e43.impeller.9051.png</icon>
 		<desc>&lt;p&gt;A client for &lt;a href=&quot;http://pump.io&quot;&gt;pump.io&lt;/a&gt;, a stream server for distributed social networking and microblogging. Register a &lt;a href=&quot;http://pump.io/tryit.html&quot;&gt;free account&lt;/a&gt; at a participating website and follow some &lt;a href=&quot;https://static.jpope.org/users.html&quot;&gt;people&lt;/a&gt;, before using the app.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>Internet</categories>
@@ -19849,8 +19908,21 @@
 		<web>http://impeller.e43.eu</web>
 		<source>https://github.com/oshepherd/Impeller</source>
 		<tracker>https://e43oss.atlassian.net/browse/IMP</tracker>
-		<marketversion>0.9.5</marketversion>
-		<marketvercode>9050</marketvercode>
+		<marketversion>0.9.5a</marketversion>
+		<marketvercode>9051</marketvercode>
+		<package>
+			<version>0.9.5a</version>
+			<versioncode>9051</versioncode>
+			<apkname>eu.e43.impeller_9051.apk</apkname>
+			<srcname>eu.e43.impeller_9051_src.tar.gz</srcname>
+			<hash type="sha256">1dc0abe20c7bb7491c260f3ff57bb18f4afb0ea0ee9eea677d96507f8c42b7ab</hash>
+			<sig>f0d2a6630fa6379c6ff3a23011fedbbc</sig>
+			<size>2841642</size>
+			<sdkver>14</sdkver>
+			<added>2014-08-02</added>
+			<permissions>GET_ACCOUNTS,USE_CREDENTIALS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS,READ_CONTACTS,WRITE_CONTACTS,READ_SYNC_SETTINGS,WRITE_SYNC_SETTINGS,READ_SYNC_STATS,READ_SOCIAL_STREAM,WRITE_SOCIAL_STREAM,INTERNET,ACCESS_COARSE_LOCATION,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_CALL_LOG,WRITE_CALL_LOG</permissions>
+			<features>android.hardware.location,android.hardware.location.network,android.hardware.microphone,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.9.5</version>
 			<versioncode>9050</versioncode>
@@ -19874,19 +19946,6 @@
 			<size>2838497</size>
 			<sdkver>8</sdkver>
 			<added>2014-04-26</added>
-			<permissions>GET_ACCOUNTS,USE_CREDENTIALS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS,READ_CONTACTS,WRITE_CONTACTS,READ_SYNC_SETTINGS,WRITE_SYNC_SETTINGS,READ_SYNC_STATS,READ_SOCIAL_STREAM,WRITE_SOCIAL_STREAM,INTERNET,ACCESS_COARSE_LOCATION,READ_EXTERNAL_STORAGE,RECORD_AUDIO</permissions>
-			<features>android.hardware.location,android.hardware.location.network,android.hardware.microphone,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.9b</version>
-			<versioncode>9002</versioncode>
-			<apkname>eu.e43.impeller_9002.apk</apkname>
-			<srcname>eu.e43.impeller_9002_src.tar.gz</srcname>
-			<hash type="sha256">d260e421d1b299ab5455c87d7df31a7cac7dfd16a49ae374afedb54e7909399a</hash>
-			<sig>f0d2a6630fa6379c6ff3a23011fedbbc</sig>
-			<size>2833406</size>
-			<sdkver>8</sdkver>
-			<added>2014-04-19</added>
 			<permissions>GET_ACCOUNTS,USE_CREDENTIALS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS,READ_CONTACTS,WRITE_CONTACTS,READ_SYNC_SETTINGS,WRITE_SYNC_SETTINGS,READ_SYNC_STATS,READ_SOCIAL_STREAM,WRITE_SOCIAL_STREAM,INTERNET,ACCESS_COARSE_LOCATION,READ_EXTERNAL_STORAGE,RECORD_AUDIO</permissions>
 			<features>android.hardware.location,android.hardware.location.network,android.hardware.microphone,android.hardware.touchscreen</features>
 		</package>
@@ -23533,10 +23592,10 @@
 	<application id="org.projectmaxs.main">
 		<id>org.projectmaxs.main</id>
 		<added>2013-10-10</added>
-		<lastupdated>2014-06-12</lastupdated>
+		<lastupdated>2014-08-02</lastupdated>
 		<name>MAXS Main</name>
 		<summary>Main component of MAXS</summary>
-		<icon>org.projectmaxs.main.20.png</icon>
+		<icon>org.projectmaxs.main.22.png</icon>
 		<desc>&lt;p&gt;MAXS (Modular Android XMPP Service) allows you to receive notifications and remote control your Android device over XMPP. You will need at least one transport component and one module besides MAXS main in order to make use of MAXS.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -23547,8 +23606,20 @@
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>1AUuXzvVUh1HMb2kVYnDWz8TgjbJMaZqDt</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.0.1.17</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>0.0.1.18</marketversion>
+		<marketvercode>22</marketvercode>
+		<package>
+			<version>0.0.1.18</version>
+			<versioncode>22</versioncode>
+			<apkname>org.projectmaxs.main_22.apk</apkname>
+			<srcname>org.projectmaxs.main_22_src.tar.gz</srcname>
+			<hash type="sha256">772c20cb30173bdd4e5cc38c08c8951bab387fc1f88effeb1eda92a3d6cd7a60</hash>
+			<sig>bdee2e3cc8f8eac2e6ce01e1c75f35d5</sig>
+			<size>88927</size>
+			<sdkver>10</sdkver>
+			<added>2014-08-02</added>
+			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.USE_MODULE,org.projectmaxs.permission.USE_TRANSPORT,org.projectmaxs.permission.USE_FILEWRITE,org.projectmaxs.permission.USE_FILEREAD,RECEIVE_BOOT_COMPLETED</permissions>
+		</package>
 		<package>
 			<version>0.0.1.17</version>
 			<versioncode>20</versioncode>
@@ -23573,26 +23644,14 @@
 			<added>2014-06-06</added>
 			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.USE_MODULE,org.projectmaxs.permission.USE_TRANSPORT,org.projectmaxs.permission.USE_FILEWRITE,org.projectmaxs.permission.USE_FILEREAD,RECEIVE_BOOT_COMPLETED</permissions>
 		</package>
-		<package>
-			<version>0.0.1.15</version>
-			<versioncode>16</versioncode>
-			<apkname>org.projectmaxs.main_16.apk</apkname>
-			<srcname>org.projectmaxs.main_16_src.tar.gz</srcname>
-			<hash type="sha256">1ad3ca32925d6f2a4918e353edcefb744640ede3f5c1da52c23203c0fbd06faa</hash>
-			<sig>bdee2e3cc8f8eac2e6ce01e1c75f35d5</sig>
-			<size>93579</size>
-			<sdkver>10</sdkver>
-			<added>2014-06-04</added>
-			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.USE_MODULE,org.projectmaxs.permission.USE_TRANSPORT,org.projectmaxs.permission.USE_FILEWRITE,org.projectmaxs.permission.USE_FILEREAD,RECEIVE_BOOT_COMPLETED</permissions>
-		</package>
 	</application>
 	<application id="org.projectmaxs.module.alarmset">
 		<id>org.projectmaxs.module.alarmset</id>
 		<added>2014-02-10</added>
-		<lastupdated>2014-06-12</lastupdated>
+		<lastupdated>2014-08-02</lastupdated>
 		<name>MAXS Module AlarmSet</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.alarmset.20.png</icon>
+		<icon>org.projectmaxs.module.alarmset.22.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -23603,8 +23662,20 @@
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>1AUuXzvVUh1HMb2kVYnDWz8TgjbJMaZqDt</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.0.1.17</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>0.0.1.18</marketversion>
+		<marketvercode>22</marketvercode>
+		<package>
+			<version>0.0.1.18</version>
+			<versioncode>22</versioncode>
+			<apkname>org.projectmaxs.module.alarmset_22.apk</apkname>
+			<srcname>org.projectmaxs.module.alarmset_22_src.tar.gz</srcname>
+			<hash type="sha256">6b6bf04b1c1083b32948bce3b02b415497170fc6282a0078a511048ab24b0346</hash>
+			<sig>cba41e24be9006206e59fb7ea85f4073</sig>
+			<size>56295</size>
+			<sdkver>10</sdkver>
+			<added>2014-08-02</added>
+			<permissions>com.android.alarm.permission.SET_ALARM,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+		</package>
 		<package>
 			<version>0.0.1.17</version>
 			<versioncode>20</versioncode>
@@ -23629,26 +23700,14 @@
 			<added>2014-06-06</added>
 			<permissions>com.android.alarm.permission.SET_ALARM,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
-		<package>
-			<version>0.0.1.15</version>
-			<versioncode>16</versioncode>
-			<apkname>org.projectmaxs.module.alarmset_16.apk</apkname>
-			<srcname>org.projectmaxs.module.alarmset_16_src.tar.gz</srcname>
-			<hash type="sha256">949870882b0114022f91d0cc05e8b50c9b0e7749c20f663cc20063419055721a</hash>
-			<sig>cba41e24be9006206e59fb7ea85f4073</sig>
-			<size>66860</size>
-			<sdkver>10</sdkver>
-			<added>2014-06-04</added>
-			<permissions>com.android.alarm.permission.SET_ALARM,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-		</package>
 	</application>
 	<application id="org.projectmaxs.module.bluetooth">
 		<id>org.projectmaxs.module.bluetooth</id>
 		<added>2013-10-10</added>
-		<lastupdated>2014-06-12</lastupdated>
+		<lastupdated>2014-08-02</lastupdated>
 		<name>MAXS Module Bluetooth</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.bluetooth.20.png</icon>
+		<icon>org.projectmaxs.module.bluetooth.22.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -23659,8 +23718,21 @@
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>1AUuXzvVUh1HMb2kVYnDWz8TgjbJMaZqDt</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.0.1.17</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>0.0.1.18</marketversion>
+		<marketvercode>22</marketvercode>
+		<package>
+			<version>0.0.1.18</version>
+			<versioncode>22</versioncode>
+			<apkname>org.projectmaxs.module.bluetooth_22.apk</apkname>
+			<srcname>org.projectmaxs.module.bluetooth_22_src.tar.gz</srcname>
+			<hash type="sha256">ac0679be4356e50ce69600c6f42e4b8a5e4273b37f0785c7fee27c1751e0e4de</hash>
+			<sig>ead4fb4e3a7b84677b3fdd5454a5410f</sig>
+			<size>55042</size>
+			<sdkver>10</sdkver>
+			<added>2014-08-02</added>
+			<permissions>BLUETOOTH,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+			<features>android.hardware.bluetooth</features>
+		</package>
 		<package>
 			<version>0.0.1.17</version>
 			<versioncode>20</versioncode>
@@ -23687,27 +23759,14 @@
 			<permissions>BLUETOOTH,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 			<features>android.hardware.bluetooth</features>
 		</package>
-		<package>
-			<version>0.0.1.15</version>
-			<versioncode>16</versioncode>
-			<apkname>org.projectmaxs.module.bluetooth_16.apk</apkname>
-			<srcname>org.projectmaxs.module.bluetooth_16_src.tar.gz</srcname>
-			<hash type="sha256">45b8b089614e4b86bf4d03dda368bdf789683dc285fe774c32fae4ff6cef361c</hash>
-			<sig>ead4fb4e3a7b84677b3fdd5454a5410f</sig>
-			<size>65535</size>
-			<sdkver>10</sdkver>
-			<added>2014-06-04</added>
-			<permissions>BLUETOOTH,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-			<features>android.hardware.bluetooth</features>
-		</package>
 	</application>
 	<application id="org.projectmaxs.module.bluetoothadmin">
 		<id>org.projectmaxs.module.bluetoothadmin</id>
 		<added>2013-10-10</added>
-		<lastupdated>2014-06-12</lastupdated>
+		<lastupdated>2014-08-02</lastupdated>
 		<name>MAXS Module BluetoothAdmin</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.bluetoothadmin.20.png</icon>
+		<icon>org.projectmaxs.module.bluetoothadmin.22.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -23718,8 +23777,21 @@
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>1AUuXzvVUh1HMb2kVYnDWz8TgjbJMaZqDt</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.0.1.17</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>0.0.1.18</marketversion>
+		<marketvercode>22</marketvercode>
+		<package>
+			<version>0.0.1.18</version>
+			<versioncode>22</versioncode>
+			<apkname>org.projectmaxs.module.bluetoothadmin_22.apk</apkname>
+			<srcname>org.projectmaxs.module.bluetoothadmin_22_src.tar.gz</srcname>
+			<hash type="sha256">2967737e3c4918a95c35eecdd4456833fb449b4dbf183fbcd0f68f39feb976af</hash>
+			<sig>b8e23cd2aa9886627e53387fe2a7b0f9</sig>
+			<size>56316</size>
+			<sdkver>10</sdkver>
+			<added>2014-08-02</added>
+			<permissions>BLUETOOTH,BLUETOOTH_ADMIN,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+			<features>android.hardware.bluetooth</features>
+		</package>
 		<package>
 			<version>0.0.1.17</version>
 			<versioncode>20</versioncode>
@@ -23746,27 +23818,14 @@
 			<permissions>BLUETOOTH,BLUETOOTH_ADMIN,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 			<features>android.hardware.bluetooth</features>
 		</package>
-		<package>
-			<version>0.0.1.15</version>
-			<versioncode>16</versioncode>
-			<apkname>org.projectmaxs.module.bluetoothadmin_16.apk</apkname>
-			<srcname>org.projectmaxs.module.bluetoothadmin_16_src.tar.gz</srcname>
-			<hash type="sha256">9a44322cf595db2183bf3e41aa1305376143484fc150dacc2c754b42f95542b7</hash>
-			<sig>b8e23cd2aa9886627e53387fe2a7b0f9</sig>
-			<size>66752</size>
-			<sdkver>10</sdkver>
-			<added>2014-06-04</added>
-			<permissions>BLUETOOTH,BLUETOOTH_ADMIN,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-			<features>android.hardware.bluetooth</features>
-		</package>
 	</application>
 	<application id="org.projectmaxs.module.clipboard">
 		<id>org.projectmaxs.module.clipboard</id>
 		<added>2013-10-10</added>
-		<lastupdated>2014-06-12</lastupdated>
+		<lastupdated>2014-08-02</lastupdated>
 		<name>MAXS Module Clipboard</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.clipboard.20.png</icon>
+		<icon>org.projectmaxs.module.clipboard.22.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -23777,8 +23836,20 @@
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>1AUuXzvVUh1HMb2kVYnDWz8TgjbJMaZqDt</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.0.1.17</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>0.0.1.18</marketversion>
+		<marketvercode>22</marketvercode>
+		<package>
+			<version>0.0.1.18</version>
+			<versioncode>22</versioncode>
+			<apkname>org.projectmaxs.module.clipboard_22.apk</apkname>
+			<srcname>org.projectmaxs.module.clipboard_22_src.tar.gz</srcname>
+			<hash type="sha256">a14c2e0c83b4ab843c470edcb8ec582fda159de4d24023eb3c8bcb8730f28257</hash>
+			<sig>629e52f57a641659d015784b1ecf283f</sig>
+			<size>55321</size>
+			<sdkver>10</sdkver>
+			<added>2014-08-02</added>
+			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+		</package>
 		<package>
 			<version>0.0.1.17</version>
 			<versioncode>20</versioncode>
@@ -23803,26 +23874,14 @@
 			<added>2014-06-06</added>
 			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
-		<package>
-			<version>0.0.1.15</version>
-			<versioncode>16</versioncode>
-			<apkname>org.projectmaxs.module.clipboard_16.apk</apkname>
-			<srcname>org.projectmaxs.module.clipboard_16_src.tar.gz</srcname>
-			<hash type="sha256">e090f51287b836bcc8cf0e9dd503aab47bc0075acd5b50d5199c9d084c268a87</hash>
-			<sig>629e52f57a641659d015784b1ecf283f</sig>
-			<size>65716</size>
-			<sdkver>10</sdkver>
-			<added>2014-06-04</added>
-			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-		</package>
 	</application>
 	<application id="org.projectmaxs.module.contactsread">
 		<id>org.projectmaxs.module.contactsread</id>
 		<added>2013-10-10</added>
-		<lastupdated>2014-06-12</lastupdated>
+		<lastupdated>2014-08-02</lastupdated>
 		<name>MAXS Module ContactsRead</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.contactsread.20.png</icon>
+		<icon>org.projectmaxs.module.contactsread.22.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -23833,8 +23892,20 @@
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>1AUuXzvVUh1HMb2kVYnDWz8TgjbJMaZqDt</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.0.1.17</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>0.0.1.18</marketversion>
+		<marketvercode>22</marketvercode>
+		<package>
+			<version>0.0.1.18</version>
+			<versioncode>22</versioncode>
+			<apkname>org.projectmaxs.module.contactsread_22.apk</apkname>
+			<srcname>org.projectmaxs.module.contactsread_22_src.tar.gz</srcname>
+			<hash type="sha256">0e2a4042a465e809bcb747f85c3ea16f1472e71e8eaa701184cb0fd25376b131</hash>
+			<sig>b0175a838b63c668d7775e2c4b53783c</sig>
+			<size>56183</size>
+			<sdkver>10</sdkver>
+			<added>2014-08-02</added>
+			<permissions>READ_CONTACTS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+		</package>
 		<package>
 			<version>0.0.1.17</version>
 			<versioncode>20</versioncode>
@@ -23859,26 +23930,14 @@
 			<added>2014-06-06</added>
 			<permissions>READ_CONTACTS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
-		<package>
-			<version>0.0.1.15</version>
-			<versioncode>16</versioncode>
-			<apkname>org.projectmaxs.module.contactsread_16.apk</apkname>
-			<srcname>org.projectmaxs.module.contactsread_16_src.tar.gz</srcname>
-			<hash type="sha256">453e75e3c7ce4b4d4d89bd836c78c64d5e624cf850b072fc4c457b10f9d49093</hash>
-			<sig>b0175a838b63c668d7775e2c4b53783c</sig>
-			<size>66707</size>
-			<sdkver>10</sdkver>
-			<added>2014-06-04</added>
-			<permissions>READ_CONTACTS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-		</package>
 	</application>
 	<application id="org.projectmaxs.module.fileread">
 		<id>org.projectmaxs.module.fileread</id>
 		<added>2013-10-10</added>
-		<lastupdated>2014-06-12</lastupdated>
+		<lastupdated>2014-08-02</lastupdated>
 		<name>MAXS Module FileRead</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.fileread.20.png</icon>
+		<icon>org.projectmaxs.module.fileread.22.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -23889,8 +23948,20 @@
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>1AUuXzvVUh1HMb2kVYnDWz8TgjbJMaZqDt</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.0.1.17</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>0.0.1.18</marketversion>
+		<marketvercode>22</marketvercode>
+		<package>
+			<version>0.0.1.18</version>
+			<versioncode>22</versioncode>
+			<apkname>org.projectmaxs.module.fileread_22.apk</apkname>
+			<srcname>org.projectmaxs.module.fileread_22_src.tar.gz</srcname>
+			<hash type="sha256">6b2d882092f4163e5262f3b3b0f1ab700df271ae7438203c5d6a022e8eb13e9f</hash>
+			<sig>91e915621e039a4df2d01726d929e1dd</sig>
+			<size>59445</size>
+			<sdkver>10</sdkver>
+			<added>2014-08-02</added>
+			<permissions>READ_EXTERNAL_STORAGE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.USE_OUTGOING_FILETRANSFER_SERVICE</permissions>
+		</package>
 		<package>
 			<version>0.0.1.17</version>
 			<versioncode>20</versioncode>
@@ -23915,26 +23986,14 @@
 			<added>2014-06-06</added>
 			<permissions>READ_EXTERNAL_STORAGE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.USE_OUTGOING_FILETRANSFER_SERVICE</permissions>
 		</package>
-		<package>
-			<version>0.0.1.15</version>
-			<versioncode>16</versioncode>
-			<apkname>org.projectmaxs.module.fileread_16.apk</apkname>
-			<srcname>org.projectmaxs.module.fileread_16_src.tar.gz</srcname>
-			<hash type="sha256">1c20685c232b0bba8035517515e813786e040bbfcffe006960af08defa6f338a</hash>
-			<sig>91e915621e039a4df2d01726d929e1dd</sig>
-			<size>69962</size>
-			<sdkver>10</sdkver>
-			<added>2014-06-04</added>
-			<permissions>READ_EXTERNAL_STORAGE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.USE_OUTGOING_FILETRANSFER_SERVICE</permissions>
-		</package>
 	</application>
 	<application id="org.projectmaxs.module.filewrite">
 		<id>org.projectmaxs.module.filewrite</id>
 		<added>2013-10-10</added>
-		<lastupdated>2014-06-12</lastupdated>
+		<lastupdated>2014-08-02</lastupdated>
 		<name>MAXS Module FileWrite</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.filewrite.20.png</icon>
+		<icon>org.projectmaxs.module.filewrite.22.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -23945,8 +24004,20 @@
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>1AUuXzvVUh1HMb2kVYnDWz8TgjbJMaZqDt</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.0.1.17</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>0.0.1.18</marketversion>
+		<marketvercode>22</marketvercode>
+		<package>
+			<version>0.0.1.18</version>
+			<versioncode>22</versioncode>
+			<apkname>org.projectmaxs.module.filewrite_22.apk</apkname>
+			<srcname>org.projectmaxs.module.filewrite_22_src.tar.gz</srcname>
+			<hash type="sha256">3dcd88c1a30ff0dc31fb9d352c72a6c4a2c175991c44cc83507614b816eecc58</hash>
+			<sig>0197d84967bb0976ef622de56518a977</sig>
+			<size>56425</size>
+			<sdkver>10</sdkver>
+			<added>2014-08-02</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,READ_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>0.0.1.17</version>
 			<versioncode>20</versioncode>
@@ -23971,26 +24042,14 @@
 			<added>2014-06-06</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,READ_EXTERNAL_STORAGE</permissions>
 		</package>
-		<package>
-			<version>0.0.1.15</version>
-			<versioncode>16</versioncode>
-			<apkname>org.projectmaxs.module.filewrite_16.apk</apkname>
-			<srcname>org.projectmaxs.module.filewrite_16_src.tar.gz</srcname>
-			<hash type="sha256">244dc87fe414e892d562b8e471f8f0d854c254c505ba9202022ae5f05d81cfa4</hash>
-			<sig>0197d84967bb0976ef622de56518a977</sig>
-			<size>66990</size>
-			<sdkver>10</sdkver>
-			<added>2014-06-04</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,READ_EXTERNAL_STORAGE</permissions>
-		</package>
 	</application>
 	<application id="org.projectmaxs.module.locationfine">
 		<id>org.projectmaxs.module.locationfine</id>
 		<added>2014-02-10</added>
-		<lastupdated>2014-06-12</lastupdated>
+		<lastupdated>2014-08-02</lastupdated>
 		<name>MAXS Module LocationFine</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.locationfine.20.png</icon>
+		<icon>org.projectmaxs.module.locationfine.22.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -24001,8 +24060,21 @@
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>1AUuXzvVUh1HMb2kVYnDWz8TgjbJMaZqDt</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.0.1.17</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>0.0.1.18</marketversion>
+		<marketvercode>22</marketvercode>
+		<package>
+			<version>0.0.1.18</version>
+			<versioncode>22</versioncode>
+			<apkname>org.projectmaxs.module.locationfine_22.apk</apkname>
+			<srcname>org.projectmaxs.module.locationfine_22_src.tar.gz</srcname>
+			<hash type="sha256">4ed4dd25088fe89548be7c9be3cafe33d7dbb980efc3b69e21b935d48829b561</hash>
+			<sig>c83268fec3ef30e572ea83c8d9ed8939</sig>
+			<size>58297</size>
+			<sdkver>10</sdkver>
+			<added>2014-08-02</added>
+			<permissions>ACCESS_FINE_LOCATION,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+			<features>android.hardware.location,android.hardware.location.gps</features>
+		</package>
 		<package>
 			<version>0.0.1.17</version>
 			<versioncode>20</versioncode>
@@ -24029,27 +24101,14 @@
 			<permissions>ACCESS_FINE_LOCATION,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 			<features>android.hardware.location,android.hardware.location.gps</features>
 		</package>
-		<package>
-			<version>0.0.1.15</version>
-			<versioncode>16</versioncode>
-			<apkname>org.projectmaxs.module.locationfine_16.apk</apkname>
-			<srcname>org.projectmaxs.module.locationfine_16_src.tar.gz</srcname>
-			<hash type="sha256">7e1656c290a5212bbbeaf672833312a6bffa80ba2cce3dbdb2debb46501f71be</hash>
-			<sig>c83268fec3ef30e572ea83c8d9ed8939</sig>
-			<size>68848</size>
-			<sdkver>10</sdkver>
-			<added>2014-06-04</added>
-			<permissions>ACCESS_FINE_LOCATION,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-			<features>android.hardware.location,android.hardware.location.gps</features>
-		</package>
 	</application>
 	<application id="org.projectmaxs.module.misc">
 		<id>org.projectmaxs.module.misc</id>
 		<added>2014-02-10</added>
-		<lastupdated>2014-06-12</lastupdated>
+		<lastupdated>2014-08-02</lastupdated>
 		<name>MAXS Module Misc</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.misc.20.png</icon>
+		<icon>org.projectmaxs.module.misc.22.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -24060,8 +24119,20 @@
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>1AUuXzvVUh1HMb2kVYnDWz8TgjbJMaZqDt</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.0.1.17</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>0.0.1.18</marketversion>
+		<marketvercode>22</marketvercode>
+		<package>
+			<version>0.0.1.18</version>
+			<versioncode>22</versioncode>
+			<apkname>org.projectmaxs.module.misc_22.apk</apkname>
+			<srcname>org.projectmaxs.module.misc_22_src.tar.gz</srcname>
+			<hash type="sha256">de4de369dc6e1c534424d1a901d31918377df44860300aef1a3982aaa66a1c6e</hash>
+			<sig>228318ccaaaeaf4be441a34bf39114bb</sig>
+			<size>56543</size>
+			<sdkver>10</sdkver>
+			<added>2014-08-02</added>
+			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+		</package>
 		<package>
 			<version>0.0.1.17</version>
 			<versioncode>20</versioncode>
@@ -24086,26 +24157,14 @@
 			<added>2014-06-06</added>
 			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
-		<package>
-			<version>0.0.1.15</version>
-			<versioncode>16</versioncode>
-			<apkname>org.projectmaxs.module.misc_16.apk</apkname>
-			<srcname>org.projectmaxs.module.misc_16_src.tar.gz</srcname>
-			<hash type="sha256">52eef972bd634deb2a4bcbe9650309ff8e29583fcf0b6cdae2781a8f314cbd40</hash>
-			<sig>228318ccaaaeaf4be441a34bf39114bb</sig>
-			<size>66923</size>
-			<sdkver>10</sdkver>
-			<added>2014-06-04</added>
-			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-		</package>
 	</application>
-	<application id="org.projectmaxs.module.notification">
-		<id>org.projectmaxs.module.notification</id>
-		<added>2014-06-07</added>
-		<lastupdated>2014-06-12</lastupdated>
-		<name>MAXS Module Notification</name>
+	<application id="org.projectmaxs.module.nfc">
+		<id>org.projectmaxs.module.nfc</id>
+		<added>2014-08-02</added>
+		<lastupdated>2014-08-02</lastupdated>
+		<name>MAXS Module NFC</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.notification.20.png</icon>
+		<icon>org.projectmaxs.module.nfc.22.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -24116,8 +24175,53 @@
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>1AUuXzvVUh1HMb2kVYnDWz8TgjbJMaZqDt</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.0.1.17</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>0.0.1.18</marketversion>
+		<marketvercode>22</marketvercode>
+		<package>
+			<version>0.0.1.18</version>
+			<versioncode>22</versioncode>
+			<apkname>org.projectmaxs.module.nfc_22.apk</apkname>
+			<srcname>org.projectmaxs.module.nfc_22_src.tar.gz</srcname>
+			<hash type="sha256">3244d229426b7527b39360867921c21d24eae6b3528967e06802def3590ff5d6</hash>
+			<sig>53ebae3eb667faaa9cde39b2367eb786</sig>
+			<size>57567</size>
+			<sdkver>10</sdkver>
+			<added>2014-08-02</added>
+			<permissions>NFC,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+			<features>android.hardware.nfc</features>
+		</package>
+	</application>
+	<application id="org.projectmaxs.module.notification">
+		<id>org.projectmaxs.module.notification</id>
+		<added>2014-06-07</added>
+		<lastupdated>2014-08-02</lastupdated>
+		<name>MAXS Module Notification</name>
+		<summary>A Module for MAXS</summary>
+		<icon>org.projectmaxs.module.notification.22.png</icon>
+		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
+		<license>GPLv3</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web>http://projectmaxs.org</web>
+		<source>http://projectmaxs.org/source</source>
+		<tracker>http://projectmaxs.org/issues</tracker>
+		<donate>http://projectmaxs.org/donate</donate>
+		<bitcoin>1AUuXzvVUh1HMb2kVYnDWz8TgjbJMaZqDt</bitcoin>
+		<flattr>2148361</flattr>
+		<marketversion>0.0.1.18</marketversion>
+		<marketvercode>22</marketvercode>
+		<package>
+			<version>0.0.1.18</version>
+			<versioncode>22</versioncode>
+			<apkname>org.projectmaxs.module.notification_22.apk</apkname>
+			<srcname>org.projectmaxs.module.notification_22_src.tar.gz</srcname>
+			<hash type="sha256">b46f4c4e63655639612e5ec26f36dce01616a732ca7f9df03b90bb9b329733f5</hash>
+			<sig>a6cc0e86bff6aacd7cb19f2f673bc9de</sig>
+			<size>56424</size>
+			<sdkver>18</sdkver>
+			<added>2014-08-02</added>
+			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+		</package>
 		<package>
 			<version>0.0.1.17</version>
 			<versioncode>20</versioncode>
@@ -24146,10 +24250,10 @@
 	<application id="org.projectmaxs.module.phonestateread">
 		<id>org.projectmaxs.module.phonestateread</id>
 		<added>2013-10-10</added>
-		<lastupdated>2014-06-12</lastupdated>
+		<lastupdated>2014-08-02</lastupdated>
 		<name>MAXS Module PhonestateRead</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.phonestateread.20.png</icon>
+		<icon>org.projectmaxs.module.phonestateread.22.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -24160,8 +24264,20 @@
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>1AUuXzvVUh1HMb2kVYnDWz8TgjbJMaZqDt</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.0.1.17</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>0.0.1.18</marketversion>
+		<marketvercode>22</marketvercode>
+		<package>
+			<version>0.0.1.18</version>
+			<versioncode>22</versioncode>
+			<apkname>org.projectmaxs.module.phonestateread_22.apk</apkname>
+			<srcname>org.projectmaxs.module.phonestateread_22_src.tar.gz</srcname>
+			<hash type="sha256">7b5cd89f25fae21bc61f47b74557e19b452a4b839f276840cd7948b2d4373676</hash>
+			<sig>125b8770d8b1f726df335c7afef5c811</sig>
+			<size>56178</size>
+			<sdkver>10</sdkver>
+			<added>2014-08-02</added>
+			<permissions>READ_PHONE_STATE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.READ_CONTACTS</permissions>
+		</package>
 		<package>
 			<version>0.0.1.17</version>
 			<versioncode>20</versioncode>
@@ -24186,26 +24302,14 @@
 			<added>2014-06-06</added>
 			<permissions>READ_PHONE_STATE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.READ_CONTACTS</permissions>
 		</package>
-		<package>
-			<version>0.0.1.15</version>
-			<versioncode>16</versioncode>
-			<apkname>org.projectmaxs.module.phonestateread_16.apk</apkname>
-			<srcname>org.projectmaxs.module.phonestateread_16_src.tar.gz</srcname>
-			<hash type="sha256">443289cf5bcc2e48c4e14faceeacb3bc12c12b209655d42f38398db3f184b0f3</hash>
-			<sig>125b8770d8b1f726df335c7afef5c811</sig>
-			<size>66572</size>
-			<sdkver>10</sdkver>
-			<added>2014-06-04</added>
-			<permissions>READ_PHONE_STATE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.READ_CONTACTS</permissions>
-		</package>
 	</application>
 	<application id="org.projectmaxs.module.ringermode">
 		<id>org.projectmaxs.module.ringermode</id>
 		<added>2013-10-10</added>
-		<lastupdated>2014-06-12</lastupdated>
+		<lastupdated>2014-08-02</lastupdated>
 		<name>MAXS Module Ringermode</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.ringermode.20.png</icon>
+		<icon>org.projectmaxs.module.ringermode.22.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -24216,8 +24320,20 @@
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>1AUuXzvVUh1HMb2kVYnDWz8TgjbJMaZqDt</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.0.1.17</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>0.0.1.18</marketversion>
+		<marketvercode>22</marketvercode>
+		<package>
+			<version>0.0.1.18</version>
+			<versioncode>22</versioncode>
+			<apkname>org.projectmaxs.module.ringermode_22.apk</apkname>
+			<srcname>org.projectmaxs.module.ringermode_22_src.tar.gz</srcname>
+			<hash type="sha256">d965cf759db25da29673a1895b6c9de0a261fc130df026bb2dc69049b8168017</hash>
+			<sig>368157a043390ee41ffa88274e7d21b7</sig>
+			<size>55750</size>
+			<sdkver>10</sdkver>
+			<added>2014-08-02</added>
+			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+		</package>
 		<package>
 			<version>0.0.1.17</version>
 			<versioncode>20</versioncode>
@@ -24242,26 +24358,14 @@
 			<added>2014-06-06</added>
 			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
-		<package>
-			<version>0.0.1.15</version>
-			<versioncode>16</versioncode>
-			<apkname>org.projectmaxs.module.ringermode_16.apk</apkname>
-			<srcname>org.projectmaxs.module.ringermode_16_src.tar.gz</srcname>
-			<hash type="sha256">9580b2d82cffb214c333736f856ade68952c17d8b6ed3ae20186e6a190e2fcd7</hash>
-			<sig>368157a043390ee41ffa88274e7d21b7</sig>
-			<size>66079</size>
-			<sdkver>10</sdkver>
-			<added>2014-06-04</added>
-			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-		</package>
 	</application>
 	<application id="org.projectmaxs.module.shell">
 		<id>org.projectmaxs.module.shell</id>
 		<added>2014-02-12</added>
-		<lastupdated>2014-06-12</lastupdated>
+		<lastupdated>2014-08-02</lastupdated>
 		<name>MAXS Module Shell</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.shell.20.png</icon>
+		<icon>org.projectmaxs.module.shell.22.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -24272,8 +24376,20 @@
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>1AUuXzvVUh1HMb2kVYnDWz8TgjbJMaZqDt</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.0.1.17</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>0.0.1.18</marketversion>
+		<marketvercode>22</marketvercode>
+		<package>
+			<version>0.0.1.18</version>
+			<versioncode>22</versioncode>
+			<apkname>org.projectmaxs.module.shell_22.apk</apkname>
+			<srcname>org.projectmaxs.module.shell_22_src.tar.gz</srcname>
+			<hash type="sha256">68086b9125ad68c0664dfe52a63cbea7a1c12fe4de84c7c5fd2d25fb5700bff0</hash>
+			<sig>4f46baa266c349e03e0afd6e734d7bae</sig>
+			<size>67655</size>
+			<sdkver>10</sdkver>
+			<added>2014-08-02</added>
+			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+		</package>
 		<package>
 			<version>0.0.1.17</version>
 			<versioncode>20</versioncode>
@@ -24298,26 +24414,14 @@
 			<added>2014-06-06</added>
 			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
-		<package>
-			<version>0.0.1.15</version>
-			<versioncode>16</versioncode>
-			<apkname>org.projectmaxs.module.shell_16.apk</apkname>
-			<srcname>org.projectmaxs.module.shell_16_src.tar.gz</srcname>
-			<hash type="sha256">375a8408787812213199add227bc785bc13242ae2682d3963c056c927f6e3c44</hash>
-			<sig>4f46baa266c349e03e0afd6e734d7bae</sig>
-			<size>78012</size>
-			<sdkver>10</sdkver>
-			<added>2014-06-04</added>
-			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-		</package>
 	</application>
 	<application id="org.projectmaxs.module.smsnotify">
 		<id>org.projectmaxs.module.smsnotify</id>
 		<added>2013-10-10</added>
-		<lastupdated>2014-06-12</lastupdated>
+		<lastupdated>2014-08-02</lastupdated>
 		<name>MAXS Module SmsNotify</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.smsnotify.20.png</icon>
+		<icon>org.projectmaxs.module.smsnotify.22.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -24328,8 +24432,21 @@
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>1AUuXzvVUh1HMb2kVYnDWz8TgjbJMaZqDt</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.0.1.17</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>0.0.1.18</marketversion>
+		<marketvercode>22</marketvercode>
+		<package>
+			<version>0.0.1.18</version>
+			<versioncode>22</versioncode>
+			<apkname>org.projectmaxs.module.smsnotify_22.apk</apkname>
+			<srcname>org.projectmaxs.module.smsnotify_22_src.tar.gz</srcname>
+			<hash type="sha256">7b57051e5f52a629a59fcfa6c9e6d52f52497e7765cfbb424885e1c61fc7d2ee</hash>
+			<sig>1ce4af43e95772dbf12507214aa18f75</sig>
+			<size>55506</size>
+			<sdkver>10</sdkver>
+			<added>2014-08-02</added>
+			<permissions>RECEIVE_SMS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.READ_CONTACTS</permissions>
+			<features>android.hardware.telephony</features>
+		</package>
 		<package>
 			<version>0.0.1.17</version>
 			<versioncode>20</versioncode>
@@ -24356,27 +24473,14 @@
 			<permissions>RECEIVE_SMS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.READ_CONTACTS</permissions>
 			<features>android.hardware.telephony</features>
 		</package>
-		<package>
-			<version>0.0.1.15</version>
-			<versioncode>16</versioncode>
-			<apkname>org.projectmaxs.module.smsnotify_16.apk</apkname>
-			<srcname>org.projectmaxs.module.smsnotify_16_src.tar.gz</srcname>
-			<hash type="sha256">d393f95cea0114e7f6a2bc4efac34f2abc710512ae7761abb7cba8d1d8df1cd9</hash>
-			<sig>1ce4af43e95772dbf12507214aa18f75</sig>
-			<size>65953</size>
-			<sdkver>10</sdkver>
-			<added>2014-06-04</added>
-			<permissions>RECEIVE_SMS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.READ_CONTACTS</permissions>
-			<features>android.hardware.telephony</features>
-		</package>
 	</application>
 	<application id="org.projectmaxs.module.smsread">
 		<id>org.projectmaxs.module.smsread</id>
 		<added>2013-10-10</added>
-		<lastupdated>2014-06-12</lastupdated>
+		<lastupdated>2014-08-02</lastupdated>
 		<name>MAXS Module SmsRead</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.smsread.20.png</icon>
+		<icon>org.projectmaxs.module.smsread.22.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -24387,8 +24491,21 @@
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>1AUuXzvVUh1HMb2kVYnDWz8TgjbJMaZqDt</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.0.1.17</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>0.0.1.18</marketversion>
+		<marketvercode>22</marketvercode>
+		<package>
+			<version>0.0.1.18</version>
+			<versioncode>22</versioncode>
+			<apkname>org.projectmaxs.module.smsread_22.apk</apkname>
+			<srcname>org.projectmaxs.module.smsread_22_src.tar.gz</srcname>
+			<hash type="sha256">e8519c18947cccc1355c9709e22ec85f9fd6b72b7d8d9a5fe920c65d5f23b192</hash>
+			<sig>b3f03d8838ef7bf5aaf9131baa4f1bf3</sig>
+			<size>55834</size>
+			<sdkver>10</sdkver>
+			<added>2014-08-02</added>
+			<permissions>READ_SMS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.READ_CONTACTS</permissions>
+			<features>android.hardware.telephony</features>
+		</package>
 		<package>
 			<version>0.0.1.17</version>
 			<versioncode>20</versioncode>
@@ -24415,27 +24532,14 @@
 			<permissions>READ_SMS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.READ_CONTACTS</permissions>
 			<features>android.hardware.telephony</features>
 		</package>
-		<package>
-			<version>0.0.1.15</version>
-			<versioncode>16</versioncode>
-			<apkname>org.projectmaxs.module.smsread_16.apk</apkname>
-			<srcname>org.projectmaxs.module.smsread_16_src.tar.gz</srcname>
-			<hash type="sha256">83cc878f4fa971e9275c647b432ca5ff6d73ff3b2531c60420a7aa9e540494eb</hash>
-			<sig>b3f03d8838ef7bf5aaf9131baa4f1bf3</sig>
-			<size>66269</size>
-			<sdkver>10</sdkver>
-			<added>2014-06-04</added>
-			<permissions>READ_SMS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.READ_CONTACTS</permissions>
-			<features>android.hardware.telephony</features>
-		</package>
 	</application>
 	<application id="org.projectmaxs.module.smssend">
 		<id>org.projectmaxs.module.smssend</id>
 		<added>2013-10-10</added>
-		<lastupdated>2014-06-12</lastupdated>
+		<lastupdated>2014-08-02</lastupdated>
 		<name>MAXS Module SmsSend</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.smssend.20.png</icon>
+		<icon>org.projectmaxs.module.smssend.22.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -24446,8 +24550,21 @@
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>1AUuXzvVUh1HMb2kVYnDWz8TgjbJMaZqDt</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.0.1.17</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>0.0.1.18</marketversion>
+		<marketvercode>22</marketvercode>
+		<package>
+			<version>0.0.1.18</version>
+			<versioncode>22</versioncode>
+			<apkname>org.projectmaxs.module.smssend_22.apk</apkname>
+			<srcname>org.projectmaxs.module.smssend_22_src.tar.gz</srcname>
+			<hash type="sha256">9d9925c38bc413ac76c1cc18231488df89a5d5e38fe20ba1f2232f48c5803129</hash>
+			<sig>0a2267cea5a6c020f66921a5c1e1e577</sig>
+			<size>62694</size>
+			<sdkver>10</sdkver>
+			<added>2014-08-02</added>
+			<permissions>SEND_SMS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.READ_CONTACTS,org.projectmaxs.permission.WRITE_SMS</permissions>
+			<features>android.hardware.telephony</features>
+		</package>
 		<package>
 			<version>0.0.1.17</version>
 			<versioncode>20</versioncode>
@@ -24474,27 +24591,14 @@
 			<permissions>SEND_SMS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.READ_CONTACTS,org.projectmaxs.permission.WRITE_SMS</permissions>
 			<features>android.hardware.telephony</features>
 		</package>
-		<package>
-			<version>0.0.1.15</version>
-			<versioncode>16</versioncode>
-			<apkname>org.projectmaxs.module.smssend_16.apk</apkname>
-			<srcname>org.projectmaxs.module.smssend_16_src.tar.gz</srcname>
-			<hash type="sha256">13a8a9e6112cbe5528bbb7214cb4b6e7fa41abd195b7cd5c1317275c3511abd6</hash>
-			<sig>0a2267cea5a6c020f66921a5c1e1e577</sig>
-			<size>73221</size>
-			<sdkver>10</sdkver>
-			<added>2014-06-04</added>
-			<permissions>SEND_SMS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.READ_CONTACTS,org.projectmaxs.permission.WRITE_SMS</permissions>
-			<features>android.hardware.telephony</features>
-		</package>
 	</application>
 	<application id="org.projectmaxs.module.smswrite">
 		<id>org.projectmaxs.module.smswrite</id>
 		<added>2013-10-10</added>
-		<lastupdated>2014-06-12</lastupdated>
+		<lastupdated>2014-08-02</lastupdated>
 		<name>MAXS Module SmsWrite</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.smswrite.20.png</icon>
+		<icon>org.projectmaxs.module.smswrite.22.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -24505,8 +24609,21 @@
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>1AUuXzvVUh1HMb2kVYnDWz8TgjbJMaZqDt</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.0.1.17</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>0.0.1.18</marketversion>
+		<marketvercode>22</marketvercode>
+		<package>
+			<version>0.0.1.18</version>
+			<versioncode>22</versioncode>
+			<apkname>org.projectmaxs.module.smswrite_22.apk</apkname>
+			<srcname>org.projectmaxs.module.smswrite_22_src.tar.gz</srcname>
+			<hash type="sha256">9bd79be3f5a7479a5addc6ec26152398753cd7b0dcce8d6bb9e0103bd05ffccc</hash>
+			<sig>d60c97569567ccaca9e09883926ec015</sig>
+			<size>55746</size>
+			<sdkver>10</sdkver>
+			<added>2014-08-02</added>
+			<permissions>READ_SMS,WRITE_SMS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+			<features>android.hardware.telephony</features>
+		</package>
 		<package>
 			<version>0.0.1.17</version>
 			<versioncode>20</versioncode>
@@ -24533,27 +24650,14 @@
 			<permissions>READ_SMS,WRITE_SMS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 			<features>android.hardware.telephony</features>
 		</package>
-		<package>
-			<version>0.0.1.15</version>
-			<versioncode>16</versioncode>
-			<apkname>org.projectmaxs.module.smswrite_16.apk</apkname>
-			<srcname>org.projectmaxs.module.smswrite_16_src.tar.gz</srcname>
-			<hash type="sha256">c523608eccfe30098e54dbd60453f52adf918f3b6cdb3e201f64be625fac71d2</hash>
-			<sig>d60c97569567ccaca9e09883926ec015</sig>
-			<size>66119</size>
-			<sdkver>10</sdkver>
-			<added>2014-06-04</added>
-			<permissions>READ_SMS,WRITE_SMS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-			<features>android.hardware.telephony</features>
-		</package>
 	</application>
 	<application id="org.projectmaxs.module.wifiaccess">
 		<id>org.projectmaxs.module.wifiaccess</id>
 		<added>2014-02-10</added>
-		<lastupdated>2014-06-12</lastupdated>
+		<lastupdated>2014-08-02</lastupdated>
 		<name>MAXS Module WifiAccess</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.wifiaccess.20.png</icon>
+		<icon>org.projectmaxs.module.wifiaccess.22.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -24564,8 +24668,21 @@
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>1AUuXzvVUh1HMb2kVYnDWz8TgjbJMaZqDt</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.0.1.17</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>0.0.1.18</marketversion>
+		<marketvercode>22</marketvercode>
+		<package>
+			<version>0.0.1.18</version>
+			<versioncode>22</versioncode>
+			<apkname>org.projectmaxs.module.wifiaccess_22.apk</apkname>
+			<srcname>org.projectmaxs.module.wifiaccess_22_src.tar.gz</srcname>
+			<hash type="sha256">e99308544b97bef8a8b4b6445994e522e3137c0324da25d5a64a013c0643d3d2</hash>
+			<sig>2908e5ec5a76f1d3bf9555206cb41fc1</sig>
+			<size>56850</size>
+			<sdkver>10</sdkver>
+			<added>2014-08-02</added>
+			<permissions>ACCESS_WIFI_STATE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+			<features>android.hardware.wifi</features>
+		</package>
 		<package>
 			<version>0.0.1.17</version>
 			<versioncode>20</versioncode>
@@ -24592,27 +24709,14 @@
 			<permissions>ACCESS_WIFI_STATE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 			<features>android.hardware.wifi</features>
 		</package>
-		<package>
-			<version>0.0.1.15</version>
-			<versioncode>16</versioncode>
-			<apkname>org.projectmaxs.module.wifiaccess_16.apk</apkname>
-			<srcname>org.projectmaxs.module.wifiaccess_16_src.tar.gz</srcname>
-			<hash type="sha256">576c42c46e64446bc58c4c91ef07b2fad58ed378a8a3261347399ad339973632</hash>
-			<sig>2908e5ec5a76f1d3bf9555206cb41fc1</sig>
-			<size>67410</size>
-			<sdkver>10</sdkver>
-			<added>2014-06-04</added>
-			<permissions>ACCESS_WIFI_STATE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-			<features>android.hardware.wifi</features>
-		</package>
 	</application>
 	<application id="org.projectmaxs.module.wifichange">
 		<id>org.projectmaxs.module.wifichange</id>
 		<added>2014-02-10</added>
-		<lastupdated>2014-06-12</lastupdated>
+		<lastupdated>2014-08-02</lastupdated>
 		<name>MAXS Module WifiChange</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.wifichange.20.png</icon>
+		<icon>org.projectmaxs.module.wifichange.22.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -24623,8 +24727,21 @@
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>1AUuXzvVUh1HMb2kVYnDWz8TgjbJMaZqDt</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.0.1.17</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>0.0.1.18</marketversion>
+		<marketvercode>22</marketvercode>
+		<package>
+			<version>0.0.1.18</version>
+			<versioncode>22</versioncode>
+			<apkname>org.projectmaxs.module.wifichange_22.apk</apkname>
+			<srcname>org.projectmaxs.module.wifichange_22_src.tar.gz</srcname>
+			<hash type="sha256">8281879728bce5907cfb16f81b299d656cde9e5f8b474e41cd586e31bb78a737</hash>
+			<sig>f91b340dfdf67f7f67ae2c3d46db84a9</sig>
+			<size>55292</size>
+			<sdkver>10</sdkver>
+			<added>2014-08-02</added>
+			<permissions>CHANGE_WIFI_STATE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+			<features>android.hardware.wifi</features>
+		</package>
 		<package>
 			<version>0.0.1.17</version>
 			<versioncode>20</versioncode>
@@ -24651,27 +24768,14 @@
 			<permissions>CHANGE_WIFI_STATE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 			<features>android.hardware.wifi</features>
 		</package>
-		<package>
-			<version>0.0.1.15</version>
-			<versioncode>16</versioncode>
-			<apkname>org.projectmaxs.module.wifichange_16.apk</apkname>
-			<srcname>org.projectmaxs.module.wifichange_16_src.tar.gz</srcname>
-			<hash type="sha256">b4601790e2da285e7e9b74c5b9e901960f1c046284b3b69f3a7fec240809c41d</hash>
-			<sig>f91b340dfdf67f7f67ae2c3d46db84a9</sig>
-			<size>65729</size>
-			<sdkver>10</sdkver>
-			<added>2014-06-04</added>
-			<permissions>CHANGE_WIFI_STATE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-			<features>android.hardware.wifi</features>
-		</package>
 	</application>
 	<application id="org.projectmaxs.transport.xmpp">
 		<id>org.projectmaxs.transport.xmpp</id>
 		<added>2013-10-10</added>
-		<lastupdated>2014-06-12</lastupdated>
+		<lastupdated>2014-08-02</lastupdated>
 		<name>MAXS Transport XMPP</name>
 		<summary>XMPP Transport for MAXS</summary>
-		<icon>org.projectmaxs.transport.xmpp.20.png</icon>
+		<icon>org.projectmaxs.transport.xmpp.22.png</icon>
 		<desc>&lt;p&gt;This is the XMPP Transport for MAXS, which does not instally any lauchner. You need &quot;MAXS Main&quot; and preferable some MAXS Modules to make use of it!&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -24682,8 +24786,20 @@
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>1AUuXzvVUh1HMb2kVYnDWz8TgjbJMaZqDt</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.0.1.17</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>0.0.1.18</marketversion>
+		<marketvercode>22</marketvercode>
+		<package>
+			<version>0.0.1.18</version>
+			<versioncode>22</versioncode>
+			<apkname>org.projectmaxs.transport.xmpp_22.apk</apkname>
+			<srcname>org.projectmaxs.transport.xmpp_22_src.tar.gz</srcname>
+			<hash type="sha256">dfee07de7586ec04324c3cf867ed0638d3c5f3b8ed9514725060457de7bef152</hash>
+			<sig>8c427c889c26ca9350a5fab2f1a6d4cf</sig>
+			<size>319506</size>
+			<sdkver>10</sdkver>
+			<added>2014-08-02</added>
+			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_TRANSPORT,org.projectmaxs.permission.USE_INCOMING_FILETRANSFER_SERVICE,INTERNET,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE</permissions>
+		</package>
 		<package>
 			<version>0.0.1.17</version>
 			<versioncode>20</versioncode>
@@ -24706,18 +24822,6 @@
 			<size>327082</size>
 			<sdkver>10</sdkver>
 			<added>2014-06-06</added>
-			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_TRANSPORT,org.projectmaxs.permission.USE_INCOMING_FILETRANSFER_SERVICE,INTERNET,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE</permissions>
-		</package>
-		<package>
-			<version>0.0.1.15</version>
-			<versioncode>16</versioncode>
-			<apkname>org.projectmaxs.transport.xmpp_16.apk</apkname>
-			<srcname>org.projectmaxs.transport.xmpp_16_src.tar.gz</srcname>
-			<hash type="sha256">903c5ee20f40707f1253f047cbc7683d077063faa31347f7a26dc56edf5a69db</hash>
-			<sig>8c427c889c26ca9350a5fab2f1a6d4cf</sig>
-			<size>326822</size>
-			<sdkver>10</sdkver>
-			<added>2014-06-04</added>
 			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_TRANSPORT,org.projectmaxs.permission.USE_INCOMING_FILETRANSFER_SERVICE,INTERNET,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE</permissions>
 		</package>
 	</application>
@@ -33924,10 +34028,10 @@
 	<application id="damo.three.ie">
 		<id>damo.three.ie</id>
 		<added>2013-08-16</added>
-		<lastupdated>2013-09-03</lastupdated>
+		<lastupdated>2014-08-02</lastupdated>
 		<name>Prepay Credit</name>
 		<summary>Info for Irish cell network</summary>
-		<icon>damo.three.ie.9.png</icon>
+		<icon>damo.three.ie.14.png</icon>
 		<desc>&lt;p&gt;For prepay (3pay) customers of 3 Ireland: fetches and displays your My3 3pay usage information.&lt;/p&gt;&lt;p&gt;It can work when you are on 3's GSM network and also when on Wi-Fi.&lt;/p&gt;&lt;p&gt;The app requires your My3 login credentials; the app shows how to set up an account and provides a way for obtaining your SIM serial  (ICCID) which is required to register.&lt;/p&gt;&lt;p&gt;Neither the app nor its author is affiliated with Hutchison 3G Ireland.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
@@ -33937,6 +34041,19 @@
 		<tracker>https://github.com/DamienOReilly/PrepayCredit/issues</tracker>
 		<marketversion>0.12</marketversion>
 		<marketvercode>14</marketvercode>
+		<package>
+			<version>0.12</version>
+			<versioncode>14</versioncode>
+			<apkname>damo.three.ie_14.apk</apkname>
+			<srcname>damo.three.ie_14_src.tar.gz</srcname>
+			<hash type="sha256">6c97fffceb9f3760cbbff0034ca0c61cb153bc9f140db93c1af9e483f8c5c87f</hash>
+			<sig>15419ceb1c8ca736dec9af5c8ddc9d50</sig>
+			<size>1552366</size>
+			<sdkver>7</sdkver>
+			<added>2014-08-02</added>
+			<permissions>INTERNET,READ_PHONE_STATE,READ_LOGS,VIBRATE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,ACCESS_NETWORK_STATE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.9</version>
 			<versioncode>9</versioncode>
@@ -41429,6 +41546,36 @@
 			<size>173453</size>
 			<sdkver>12</sdkver>
 			<added>2013-06-24</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
+	<application id="org.ciasaboark.tacere">
+		<id>org.ciasaboark.tacere</id>
+		<added>2014-08-02</added>
+		<lastupdated>2014-08-02</lastupdated>
+		<name>Tacere</name>
+		<summary>Silence phone on calendar events</summary>
+		<icon>org.ciasaboark.tacere.6.png</icon>
+		<desc>&lt;p&gt;Automatically silence the phone whenever there is an active event or meeting in the calendar. It includes support to:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Silence during events marked as &quot;free&quot; or &quot;available&quot;.&lt;/li&gt;&lt;li&gt; Silence during all day events.&lt;/li&gt;&lt;li&gt; Automatically silence all calendar events or choose specific events to silence.&lt;/li&gt;&lt;li&gt; View upcoming events.&lt;/li&gt;&lt;li&gt; Change your settings for each event.&lt;/li&gt;&lt;li&gt; Schedule a different ringer state for each instance of a repeating event.&lt;/li&gt;&lt;li&gt; Automatically adjust media and alarm volumes if desired.&lt;/li&gt;&lt;/ul&gt;</desc>
+		<license>NewBSD</license>
+		<categories>Office</categories>
+		<category>Office</category>
+		<web>https://github.com/ciasaboark/Tacere</web>
+		<source>https://github.com/ciasaboark/Tacere</source>
+		<tracker>https://github.com/ciasaboark/Tacere/issues</tracker>
+		<marketversion>2.0.4 beta</marketversion>
+		<marketvercode>7</marketvercode>
+		<package>
+			<version>2.0.4</version>
+			<versioncode>6</versioncode>
+			<apkname>org.ciasaboark.tacere_6.apk</apkname>
+			<srcname>org.ciasaboark.tacere_6_src.tar.gz</srcname>
+			<hash type="sha256">cc41513c373f6a44151367a0e5e421e79ffa41cb017b72e4e8e1594c88c7279c</hash>
+			<sig>1402d5dbfc12cc232daebf01d42dd5fa</sig>
+			<size>383823</size>
+			<sdkver>15</sdkver>
+			<added>2014-08-02</added>
+			<permissions>READ_CALENDAR,RECEIVE_BOOT_COMPLETED,VIBRATE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
