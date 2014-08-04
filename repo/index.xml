@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1406958719" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1407115858" url="http://f-droid.org/repo" version="12">
 		<description>The official FDroid repository. Applications in this repository are mostly built directory from the source code. Some are official binaries built by the original application developers - these will be replaced by source-built versions over time. </description>
 	</repo>
 	<application id="de.j4velin.systemappmover">
@@ -696,8 +696,8 @@
 		<web>http://acdisplay.artemchep.com</web>
 		<source>https://github.com/AChep/AcDisplay</source>
 		<tracker>https://github.com/AChep/AcDisplay/issues</tracker>
-		<marketversion>2.4.3</marketversion>
-		<marketvercode>27</marketvercode>
+		<marketversion>2.4.5</marketversion>
+		<marketvercode>29</marketvercode>
 		<package>
 			<version>2.3</version>
 			<versioncode>21</versioncode>
@@ -1199,10 +1199,10 @@
 	<application id="dev.ukanth.ufirewall">
 		<id>dev.ukanth.ufirewall</id>
 		<added>2013-03-19</added>
-		<lastupdated>2014-07-18</lastupdated>
+		<lastupdated>2014-08-03</lastupdated>
 		<name>AFWall+</name>
 		<summary>Control network traffic</summary>
-		<icon>dev.ukanth.ufirewall.168.png</icon>
+		<icon>dev.ukanth.ufirewall.170.png</icon>
 		<desc>&lt;p&gt;Firewall (iptables frontend), based on DroidWall which is no longer being developed.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Import/Export Rules to external storage&lt;/li&gt;&lt;li&gt; Search Applications&lt;/li&gt;&lt;li&gt; Multiple profiles with custom names&lt;/li&gt;&lt;li&gt; Highlights system applications with custom color&lt;/li&gt;&lt;li&gt; Notify on new installations&lt;/li&gt;&lt;li&gt; VPN Support&lt;/li&gt;&lt;li&gt; Device Admin support to protect against being uninstalled&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Requires root: Yes. iptables must run as root.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ukanth/afwall/blob/master/Changelog.md&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Security,Internet</categories>
@@ -1211,9 +1211,22 @@
 		<source>https://github.com/ukanth/afwall</source>
 		<tracker>https://github.com/ukanth/afwall/issues</tracker>
 		<donate>http://forum.xda-developers.com/donatetome.php?u=3249429</donate>
-		<marketversion>1.3.3</marketversion>
-		<marketvercode>168</marketvercode>
+		<marketversion>1.3.4</marketversion>
+		<marketvercode>170</marketvercode>
 		<requirements>root</requirements>
+		<package>
+			<version>1.3.4</version>
+			<versioncode>170</versioncode>
+			<apkname>dev.ukanth.ufirewall_170.apk</apkname>
+			<srcname>dev.ukanth.ufirewall_170_src.tar.gz</srcname>
+			<hash type="sha256">410427d5a2fa2327760eb33328e758954652c18a1205b8b4f0ac15d5175b809b</hash>
+			<sig>bc693edcdb5eeb24195a3f14362d8bb7</sig>
+			<size>3763832</size>
+			<sdkver>8</sdkver>
+			<added>2014-08-03</added>
+			<permissions>RECEIVE_BOOT_COMPLETED,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET,ACCESS_WIFI_STATE,ACCESS_SUPERUSER,KILL_BACKGROUND_PROCESSES,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.wifi,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.3.3</version>
 			<versioncode>168</versioncode>
@@ -1238,19 +1251,6 @@
 			<sdkver>8</sdkver>
 			<added>2014-05-30</added>
 			<permissions>RECEIVE_BOOT_COMPLETED,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET,ACCESS_WIFI_STATE,ACCESS_SUPERUSER,KILL_BACKGROUND_PROCESSES,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.wifi,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.3.1.1</version>
-			<versioncode>164</versioncode>
-			<apkname>dev.ukanth.ufirewall_164.apk</apkname>
-			<srcname>dev.ukanth.ufirewall_164_src.tar.gz</srcname>
-			<hash type="sha256">75579f795c329b85f922e0b2f2eb37b2b9f81be381ab3a2418c7748287c2e7c4</hash>
-			<sig>bc693edcdb5eeb24195a3f14362d8bb7</sig>
-			<size>3714746</size>
-			<sdkver>8</sdkver>
-			<added>2014-04-29</added>
-			<permissions>RECEIVE_BOOT_COMPLETED,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET,ACCESS_WIFI_STATE,ACCESS_SUPERUSER,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.wifi,android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -11559,10 +11559,10 @@
 	<application id="net.debian.debiandroid">
 		<id>net.debian.debiandroid</id>
 		<added>2013-12-15</added>
-		<lastupdated>2014-01-31</lastupdated>
+		<lastupdated>2014-08-04</lastupdated>
 		<name>DebianDroid</name>
 		<summary>Tools for Debian project members</summary>
-		<icon>net.debian.debiandroid.16.png</icon>
+		<icon>net.debian.debiandroid.17.png</icon>
 		<desc>&lt;p&gt;App for maintainers, uploaders or developers of the Debian community. It communicates with the Debian soap and rest api and retrieves information that can be useful when you're not in front of your workstation at home or at office.&lt;/p&gt;&lt;p&gt;It eases a lot of operations like checking the next DInstall time, submitting a new bug report or responding to an existing one, getting info on packages and on pending bugs for those packages, etc.&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Science &amp; Education,Development</categories>
@@ -11572,6 +11572,18 @@
 		<tracker>https://github.com/uberspot/DebianDroid/issues</tracker>
 		<marketversion>1.733</marketversion>
 		<marketvercode>17</marketvercode>
+		<package>
+			<version>1.733</version>
+			<versioncode>17</versioncode>
+			<apkname>net.debian.debiandroid_17.apk</apkname>
+			<srcname>net.debian.debiandroid_17_src.tar.gz</srcname>
+			<hash type="sha256">907ed23d6eb179d0cac68551e64614b0745674a11d60262f40129366f970f662</hash>
+			<sig>7856275e1d2a4595febe587cea6423db</sig>
+			<size>1548538</size>
+			<sdkver>8</sdkver>
+			<added>2014-08-04</added>
+			<permissions>INTERNET,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>1.732</version>
 			<versioncode>16</versioncode>
@@ -11594,18 +11606,6 @@
 			<size>1637770</size>
 			<sdkver>8</sdkver>
 			<added>2013-12-24</added>
-			<permissions>INTERNET,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE</permissions>
-		</package>
-		<package>
-			<version>1.7</version>
-			<versioncode>12</versioncode>
-			<apkname>net.debian.debiandroid_12.apk</apkname>
-			<srcname>net.debian.debiandroid_12_src.tar.gz</srcname>
-			<hash type="sha256">a1321d0b011e31f1fb7e3acb839a0a49bc8b8c27012841e4cb0945eb8edacef6</hash>
-			<sig>7856275e1d2a4595febe587cea6423db</sig>
-			<size>1636843</size>
-			<sdkver>8</sdkver>
-			<added>2013-12-15</added>
 			<permissions>INTERNET,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
@@ -13875,10 +13875,10 @@
 	<application id="org.epstudios.epmobile">
 		<id>org.epstudios.epmobile</id>
 		<added>2012-08-23</added>
-		<lastupdated>2014-06-14</lastupdated>
+		<lastupdated>2014-08-03</lastupdated>
 		<name>EP Mobile</name>
 		<summary>Medical tools</summary>
-		<icon>org.epstudios.epmobile.35.png</icon>
+		<icon>org.epstudios.epmobile.36.png</icon>
 		<desc>&lt;p&gt;EP Mobile is an application that provides a set of tools for electrophysiologists and other health care workers who deal with cardiac arrhythmias. The program includes EP calculators, drug dose calculators, risk scores, diagnostic tools, ECG figures, and more.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mannd/epmobile/tree/master/doc/changes&quot;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Science &amp; Education</categories>
@@ -13886,8 +13886,20 @@
 		<web>http://www.epstudiossoftware.com/blog/?page_id=6</web>
 		<source>https://github.com/mannd/epmobile</source>
 		<tracker>https://github.com/mannd/epmobile/issues</tracker>
-		<marketversion>2.4</marketversion>
-		<marketvercode>35</marketvercode>
+		<marketversion>2.5</marketversion>
+		<marketvercode>36</marketvercode>
+		<package>
+			<version>2.5</version>
+			<versioncode>36</versioncode>
+			<apkname>org.epstudios.epmobile_36.apk</apkname>
+			<srcname>org.epstudios.epmobile_36_src.tar.gz</srcname>
+			<hash type="sha256">663cf1d70a5df7e9d7459bc434ee012ad8f32bcbede342935f9e08058df93f61</hash>
+			<sig>1de57ef7702cafe69869bb00ce72738d</sig>
+			<size>921688</size>
+			<sdkver>7</sdkver>
+			<added>2014-08-03</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>2.4</version>
 			<versioncode>35</versioncode>
@@ -13910,18 +13922,6 @@
 			<size>909165</size>
 			<sdkver>7</sdkver>
 			<added>2014-04-12</added>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>2.3.2</version>
-			<versioncode>33</versioncode>
-			<apkname>org.epstudios.epmobile_33.apk</apkname>
-			<srcname>org.epstudios.epmobile_33_src.tar.gz</srcname>
-			<hash type="sha256">066fd5372f58832dd2f56000f859e5ec8e12aa29280487e26a634eb2629f187f</hash>
-			<sig>1de57ef7702cafe69869bb00ce72738d</sig>
-			<size>909155</size>
-			<sdkver>7</sdkver>
-			<added>2014-04-11</added>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -15670,36 +15670,6 @@
 			<sdkver>7</sdkver>
 			<added>2013-06-22</added>
 			<permissions>SYSTEM_ALERT_WINDOW,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-	</application>
-	<application id="org.anhonesteffort.flock">
-		<id>org.anhonesteffort.flock</id>
-		<added>2014-08-02</added>
-		<lastupdated>2014-08-02</lastupdated>
-		<name>Flock</name>
-		<summary>Secure contact and calendar syncing</summary>
-		<icon>org.anhonesteffort.flock.4.png</icon>
-		<desc>&lt;p&gt;Flock is a replacement for the default contact and calendar synchronization services provided by Google. Flock provides end-to-end encryption between multiple Android devices putting the privacy of your contacts and calendars back under your control. To facilitate syncing between multiple devices a &quot;sync service&quot; is required, this can be any standards compliant WebDAV server that conforms to the following RFCs:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; RFC 2518 - HTTP Extensions for Distributed Authoring -- WEBDAV&lt;/li&gt;&lt;li&gt; RFC 4918 - HTTP Extensions for Web Distributed Authoring and Versioning (WebDAV)&lt;/li&gt;&lt;li&gt; RFC 6352 - CardDAV: vCard Extensions to Web Distributed Authoring and Versioning (WebDAV)&lt;/li&gt;&lt;li&gt; RFC 4791 - Calendaring Extensions to WebDAV (CalDAV)&lt;/li&gt;&lt;/ul&gt;</desc>
-		<license>GPLv3</license>
-		<categories>Office,System</categories>
-		<category>Office</category>
-		<web>https://github.com/WhisperSystems/Flock</web>
-		<source>https://github.com/WhisperSystems/Flock</source>
-		<tracker>https://github.com/WhisperSystems/Flock/issues</tracker>
-		<marketversion>0.70</marketversion>
-		<marketvercode>4</marketvercode>
-		<package>
-			<version>0.70</version>
-			<versioncode>4</versioncode>
-			<apkname>org.anhonesteffort.flock_4.apk</apkname>
-			<srcname>org.anhonesteffort.flock_4_src.tar.gz</srcname>
-			<hash type="sha256">e8bcd0382af38c42f5445d8dd5f702ae1fd3c2b96fcd19898be683c50110a9ef</hash>
-			<sig>da0c33fe41301572e6c06f6a570a7a90</sig>
-			<size>4414385</size>
-			<sdkver>16</sdkver>
-			<added>2014-08-02</added>
-			<permissions>USE_CREDENTIALS,GET_ACCOUNTS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS,READ_SYNC_STATS,READ_SYNC_SETTINGS,WRITE_SYNC_SETTINGS,READ_CONTACTS,WRITE_CONTACTS,READ_CALENDAR,WRITE_CALENDAR,INTERNET,RECEIVE_BOOT_COMPLETED</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -27875,8 +27845,8 @@
 		<web>http://www.navit-project.org</web>
 		<source>http://sourceforge.net/p/navit/code</source>
 		<tracker>http://trac.navit-project.org</tracker>
-		<marketversion>5827</marketversion>
-		<marketvercode>5827</marketvercode>
+		<marketversion>5829</marketversion>
+		<marketvercode>5829</marketvercode>
 		<package>
 			<version>navit 0.5.0-5720</version>
 			<versioncode>5720</versioncode>
@@ -30168,10 +30138,10 @@
 	<application id="net.sourceforge.opencamera">
 		<id>net.sourceforge.opencamera</id>
 		<added>2014-03-02</added>
-		<lastupdated>2014-07-23</lastupdated>
+		<lastupdated>2014-08-03</lastupdated>
 		<name>Open Camera</name>
 		<summary>Camera App</summary>
-		<icon>net.sourceforge.opencamera.16.png</icon>
+		<icon>net.sourceforge.opencamera.17.png</icon>
 		<desc>&lt;p&gt;A feature rich camera application, including:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; auto-stabilise option&lt;/li&gt;&lt;li&gt; multitouch zoom&lt;/li&gt;&lt;li&gt; flash/torch&lt;/li&gt;&lt;li&gt; choice of focus modes&lt;/li&gt;&lt;li&gt; face detection&lt;/li&gt;&lt;li&gt; front/back camera support&lt;/li&gt;&lt;li&gt; change recording resolution&lt;/li&gt;&lt;li&gt; video/audio recording&lt;/li&gt;&lt;li&gt; timer&lt;/li&gt;&lt;li&gt; burst mode&lt;/li&gt;&lt;li&gt; silencable shutter&lt;/li&gt;&lt;li&gt; configurable gui&lt;/li&gt;&lt;li&gt; geotagging&lt;/li&gt;&lt;li&gt; external microphone support&lt;/li&gt;&lt;li&gt; ...&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Multimedia</categories>
@@ -30181,8 +30151,21 @@
 		<tracker>http://sourceforge.net/p/opencamera/tickets</tracker>
 		<donate>http://sourceforge.net/donate/?user_id=439017</donate>
 		<bitcoin>1LKCFto9SQGqtcvqZxHkqDPqNjSnfMmsow</bitcoin>
-		<marketversion>1.14</marketversion>
-		<marketvercode>16</marketvercode>
+		<marketversion>1.15</marketversion>
+		<marketvercode>17</marketvercode>
+		<package>
+			<version>1.15</version>
+			<versioncode>17</versioncode>
+			<apkname>net.sourceforge.opencamera_17.apk</apkname>
+			<srcname>net.sourceforge.opencamera_17_src.tar.gz</srcname>
+			<hash type="sha256">558b1ddf917119daa62ee1018902fbbc8768c599f59b9a224e7049f67aa29370</hash>
+			<sig>d4664f3db91631459ab7d4f9aaf09409</sig>
+			<size>490319</size>
+			<sdkver>15</sdkver>
+			<added>2014-08-03</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,CAMERA,RECORD_AUDIO,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.camera,android.hardware.camera.autofocus,android.hardware.microphone,android.hardware.location,android.hardware.location.gps,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.14</version>
 			<versioncode>16</versioncode>
@@ -30206,19 +30189,6 @@
 			<size>472092</size>
 			<sdkver>14</sdkver>
 			<added>2014-05-27</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,CAMERA,RECORD_AUDIO,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.camera,android.hardware.camera.autofocus,android.hardware.microphone,android.hardware.location,android.hardware.location.gps,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.12</version>
-			<versioncode>14</versioncode>
-			<apkname>net.sourceforge.opencamera_14.apk</apkname>
-			<srcname>net.sourceforge.opencamera_14_src.tar.gz</srcname>
-			<hash type="sha256">8a0fcecab0aaac425cae80c5c54efe0aec831ab9ded5a81c9d1cef4bfe40aad7</hash>
-			<sig>d4664f3db91631459ab7d4f9aaf09409</sig>
-			<size>468436</size>
-			<sdkver>14</sdkver>
-			<added>2014-05-20</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,CAMERA,RECORD_AUDIO,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.camera,android.hardware.camera.autofocus,android.hardware.microphone,android.hardware.location,android.hardware.location.gps,android.hardware.touchscreen</features>
 		</package>
@@ -31340,10 +31310,10 @@
 	<application id="org.torproject.android">
 		<id>org.torproject.android</id>
 		<added>2012-12-14</added>
-		<lastupdated>2014-07-31</lastupdated>
+		<lastupdated>2014-08-03</lastupdated>
 		<name>Orbot</name>
 		<summary>Tor (anonymity) client</summary>
-		<icon>org.torproject.android.113.png</icon>
+		<icon>org.torproject.android.114.png</icon>
 		<desc>&lt;p&gt;Tor is both software and an open network that helps you defend against network surveillance that threatens personal freedom and privacy, confidential business activities and relationships.&lt;/p&gt;&lt;p&gt;Orbot allows access to Tor by accessing a local SOCKS or HTTP proxy. On a rooted device, the proxying can be completely transparent i.e. the app that accesses the network need not be aware of the proxy's existence; you can choose which apps go via the proxy in the settings.&lt;/p&gt;&lt;p&gt;If you don't have root access, there are some apps that are designed to work closely with tor or allow proxied connections: &lt;a href=&quot;fdroid.app:info.guardianproject.otr.app.im&quot;&gt;ChatSecure&lt;/a&gt;, &lt;a href=&quot;fdroid.app:info.guardianproject.browser&quot;&gt;Orweb&lt;/a&gt; and &lt;a href=&quot;fdroid.app:org.mariotaku.twidere&quot;&gt;Twidere&lt;/a&gt;. There is also a proxy configurator addon for &lt;a href=&quot;fdroid.app:org.mozilla.firefox&quot;&gt;Firefox&lt;/a&gt; called &lt;a href=&quot;https://github.com/guardianproject/ProxyMob/downloads&quot;&gt;ProxyMob&lt;/a&gt; (not yet available from the Mozilla addon site).&lt;/p&gt;&lt;p&gt;Requires root: No, but you will need to use apps that allow proxies if root is not granted.&lt;/p&gt;</desc>
 		<license>NewBSD</license>
 		<categories>Security,Internet</categories>
@@ -31353,8 +31323,21 @@
 		<tracker>https://dev.guardianproject.info/projects/orbot/issues</tracker>
 		<donate>https://www.torproject.org/donate/donate.html.en</donate>
 		<flattr>5649</flattr>
-		<marketversion>14.0.5</marketversion>
-		<marketvercode>113</marketvercode>
+		<marketversion>14.0.5.1</marketversion>
+		<marketvercode>114</marketvercode>
+		<package>
+			<version>14.0.5.1</version>
+			<versioncode>114</versioncode>
+			<apkname>org.torproject.android_114.apk</apkname>
+			<srcname>org.torproject.android_114_src.tar.gz</srcname>
+			<hash type="sha256">888d6e8c8db2f7a219def7dbcbbf3c968f928bb57145b2bfe2c6df0a6905456a</hash>
+			<sig>712fc2bc32764a0345e72e6c71483028</sig>
+			<size>5522030</size>
+			<sdkver>9</sdkver>
+			<added>2014-08-03</added>
+			<permissions>INTERNET,RECEIVE_BOOT_COMPLETED,ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,org.torproject.android.MANAGE_TOR</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>14.0.5</version>
 			<versioncode>113</versioncode>
@@ -31379,19 +31362,6 @@
 			<sdkver>9</sdkver>
 			<added>2014-07-03</added>
 			<permissions>INTERNET,RECEIVE_BOOT_COMPLETED,ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,WRITE_EXTERNAL_STORAGE,org.torproject.android.MANAGE_TOR,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>14.0.4.1</version>
-			<versioncode>107</versioncode>
-			<apkname>org.torproject.android_107.apk</apkname>
-			<srcname>org.torproject.android_107_src.tar.gz</srcname>
-			<hash type="sha256">e9bc540b95891998a3e5ce32f020d95c91d6735ca7823dff61813eb09a2cd3c3</hash>
-			<sig>712fc2bc32764a0345e72e6c71483028</sig>
-			<size>5451630</size>
-			<sdkver>9</sdkver>
-			<added>2014-06-21</added>
-			<permissions>INTERNET,RECEIVE_BOOT_COMPLETED,ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,org.torproject.android.MANAGE_TOR</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -32253,8 +32223,8 @@
 		<source>http://sourceforge.net/p/passwdsafe/code/ci/default/tree</source>
 		<tracker>http://sourceforge.net/projects/passwdsafe/support</tracker>
 		<donate>http://passwdsafe.sourceforge.net</donate>
-		<marketversion>4.6.1</marketversion>
-		<marketvercode>40601</marketvercode>
+		<marketversion>4.7.1</marketversion>
+		<marketvercode>40702</marketvercode>
 		<package>
 			<version>4.6.1</version>
 			<versioncode>40601</versioncode>
@@ -35463,10 +35433,10 @@
 	<application id="org.quantumbadger.redreader">
 		<id>org.quantumbadger.redreader</id>
 		<added>2013-04-07</added>
-		<lastupdated>2014-08-01</lastupdated>
+		<lastupdated>2014-08-04</lastupdated>
 		<name>RedReader Beta</name>
 		<summary>Client for reddit.com</summary>
-		<icon>org.quantumbadger.redreader.48.png</icon>
+		<icon>org.quantumbadger.redreader.49.png</icon>
 		<desc>&lt;p&gt;An unofficial client for the news site reddit.com.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Swipe posts left and right to perform customizable actions, such as upvote/downvote, or save/hide.&lt;/li&gt;&lt;li&gt; Advanced cache management - automatically stores past versions of posts and comments.&lt;/li&gt;&lt;li&gt; Streaming - shows posts/comments as they download - good for slow connections.&lt;/li&gt;&lt;li&gt; Support for multiple accounts.&lt;/li&gt;&lt;li&gt; Two-column tablet mode (can be used on your phone, if it's big enough)&lt;/li&gt;&lt;li&gt; Image precaching (optional: always, never, or Wi-Fi only).&lt;/li&gt;&lt;li&gt; Built in image viewer, and GIF player.&lt;/li&gt;&lt;li&gt; Compression - both during downloads, and in cache storage.&lt;/li&gt;&lt;li&gt; Night mode (i.e. a dark theme)&lt;/li&gt;&lt;li&gt; Holo theme on every device&lt;/li&gt;&lt;li&gt; Support for Android 2.2+ (but works best on Android 4.0+)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Status: BETA&lt;/p&gt;&lt;p&gt;Details of each crash in the UI thread will be logged to external storage, under the filename &quot;redreader_crash_log_(UUID).txt&quot; - please attach the relevant log when reporting a bug. Crashes in other parts of the application will cause a prompt to be displayed asking you to email the exception details directly.&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Internet</categories>
@@ -35475,8 +35445,21 @@
 		<source>https://github.com/QuantumBadger/RedReader</source>
 		<tracker>https://github.com/QuantumBadger/RedReader/issues</tracker>
 		<bitcoin>1874wapGxDo2vEp4avisda4gx3SCjsHCQJ</bitcoin>
-		<marketversion>1.8.6</marketversion>
-		<marketvercode>48</marketvercode>
+		<marketversion>1.8.6.1</marketversion>
+		<marketvercode>49</marketvercode>
+		<package>
+			<version>1.8.6.1</version>
+			<versioncode>49</versioncode>
+			<apkname>org.quantumbadger.redreader_49.apk</apkname>
+			<srcname>org.quantumbadger.redreader_49_src.tar.gz</srcname>
+			<hash type="sha256">e040b95bae0acc2e6b3ea3bfb0357415ec783fa57fe7a83de59f24e1f0a2218b</hash>
+			<sig>c6cdfabfd2abece0bc1a6b9827c9c9f8</sig>
+			<size>3725904</size>
+			<sdkver>8</sdkver>
+			<added>2014-08-04</added>
+			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.8.6</version>
 			<versioncode>48</versioncode>
@@ -35498,19 +35481,6 @@
 			<hash type="sha256">78682c3483851035e38292bee7ce84900534e2facb1e4836d5ae72d8c6e3fc83</hash>
 			<sig>c6cdfabfd2abece0bc1a6b9827c9c9f8</sig>
 			<size>3688897</size>
-			<sdkver>8</sdkver>
-			<added>2014-04-15</added>
-			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.8.5.1</version>
-			<versioncode>46</versioncode>
-			<apkname>org.quantumbadger.redreader_46.apk</apkname>
-			<srcname>org.quantumbadger.redreader_46_src.tar.gz</srcname>
-			<hash type="sha256">e9c548b0d80e2cee5af49d1e5ab5ea8a1f7b4d487f46c5458d66114194d73cdc</hash>
-			<sig>c6cdfabfd2abece0bc1a6b9827c9c9f8</sig>
-			<size>3688926</size>
 			<sdkver>8</sdkver>
 			<added>2014-04-15</added>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE</permissions>
@@ -39110,8 +39080,8 @@
 		<web/>
 		<source>https://github.com/yuriykulikov/AlarmClock</source>
 		<tracker>https://github.com/yuriykulikov/AlarmClock/issues</tracker>
-		<marketversion>2.7.05</marketversion>
-		<marketvercode>2705</marketvercode>
+		<marketversion>2.7.07</marketversion>
+		<marketvercode>2707</marketvercode>
 		<package>
 			<version>2.7.05</version>
 			<versioncode>2705</versioncode>
@@ -45538,10 +45508,10 @@
 	<application id="org.videolan.vlc">
 		<id>org.videolan.vlc</id>
 		<added>2013-03-22</added>
-		<lastupdated>2014-07-10</lastupdated>
+		<lastupdated>2014-08-04</lastupdated>
 		<name>VLC</name>
 		<summary>Media player</summary>
-		<icon>org.videolan.vlc.9714.png</icon>
+		<icon>org.videolan.vlc.9804.png</icon>
 		<desc>&lt;p&gt;Video and audio player that supports a wide range of formats, for both local and remote playback.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://git.videolan.org/?p=vlc-ports/android.git;a=blob_plain;f=NEWS&quot;&gt;NEWS&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>LGPLv3</license>
 		<categories>Multimedia</categories>
@@ -45552,6 +45522,34 @@
 		<donate>http://www.videolan.org/contribute.html#money</donate>
 		<marketversion>0.9.8</marketversion>
 		<marketvercode>9804</marketvercode>
+		<package>
+			<version>0.9.8</version>
+			<versioncode>9804</versioncode>
+			<apkname>org.videolan.vlc_9804.apk</apkname>
+			<srcname>org.videolan.vlc_9804_src.tar.gz</srcname>
+			<hash type="sha256">079a753db573f56a766ad63e3e1a3b17eec479b7ea926c24b480926eb2bf3826</hash>
+			<sig>5cf2f3be5449176221424f605b0c401f</sig>
+			<size>11925857</size>
+			<sdkver>7</sdkver>
+			<added>2014-08-04</added>
+			<permissions>MODIFY_AUDIO_SETTINGS,INTERNET,READ_PHONE_STATE,READ_LOGS,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
+			<nativecode>armeabi-v7a</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
+		<package>
+			<version>0.9.8</version>
+			<versioncode>9802</versioncode>
+			<apkname>org.videolan.vlc_9802.apk</apkname>
+			<srcname>org.videolan.vlc_9802_src.tar.gz</srcname>
+			<hash type="sha256">20cd9835f235bd6ae6cee3b655f4f4f4a9af2139eb18c0de8a00a6f24ecb60c8</hash>
+			<sig>5cf2f3be5449176221424f605b0c401f</sig>
+			<size>13001266</size>
+			<sdkver>7</sdkver>
+			<added>2014-08-04</added>
+			<permissions>MODIFY_AUDIO_SETTINGS,INTERNET,READ_PHONE_STATE,READ_LOGS,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
+			<nativecode>x86</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.9.7.1</version>
 			<versioncode>9714</versioncode>
@@ -45604,34 +45602,6 @@
 			<size>12970123</size>
 			<sdkver>7</sdkver>
 			<added>2014-07-08</added>
-			<permissions>MODIFY_AUDIO_SETTINGS,INTERNET,READ_PHONE_STATE,READ_LOGS,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
-			<nativecode>x86</nativecode>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.9.6</version>
-			<versioncode>9604</versioncode>
-			<apkname>org.videolan.vlc_9604.apk</apkname>
-			<srcname>org.videolan.vlc_9604_src.tar.gz</srcname>
-			<hash type="sha256">65cb1266ec04fbda2a1316fc82a2a1ec436cc0ab09d0361ede800e316ec7584f</hash>
-			<sig>5cf2f3be5449176221424f605b0c401f</sig>
-			<size>11756659</size>
-			<sdkver>7</sdkver>
-			<added>2014-06-24</added>
-			<permissions>MODIFY_AUDIO_SETTINGS,INTERNET,READ_PHONE_STATE,READ_LOGS,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
-			<nativecode>armeabi-v7a</nativecode>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.9.6</version>
-			<versioncode>9602</versioncode>
-			<apkname>org.videolan.vlc_9602.apk</apkname>
-			<srcname>org.videolan.vlc_9602_src.tar.gz</srcname>
-			<hash type="sha256">af280341895f47fc14375f3f3a83b59340f94f963349b66f45e1b09552b7651a</hash>
-			<sig>5cf2f3be5449176221424f605b0c401f</sig>
-			<size>12831296</size>
-			<sdkver>7</sdkver>
-			<added>2014-06-24</added>
 			<permissions>MODIFY_AUDIO_SETTINGS,INTERNET,READ_PHONE_STATE,READ_LOGS,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
 			<nativecode>x86</nativecode>
 			<features>android.hardware.touchscreen</features>
