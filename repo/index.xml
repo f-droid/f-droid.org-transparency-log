@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1407126061" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1407214190" url="http://f-droid.org/repo" version="12">
 		<description>The official FDroid repository. Applications in this repository are mostly built directory from the source code. Some are official binaries built by the original application developers - these will be replaced by source-built versions over time. </description>
 	</repo>
 	<application id="de.j4velin.systemappmover">
@@ -2886,10 +2886,10 @@
 	<application id="com.ichi2.anki">
 		<id>com.ichi2.anki</id>
 		<added>2010-11-12</added>
-		<lastupdated>2014-07-24</lastupdated>
+		<lastupdated>2014-08-05</lastupdated>
 		<name>AnkiDroid</name>
 		<summary>A flashcard-based study aid</summary>
-		<icon>com.ichi2.anki.20202300.png</icon>
+		<icon>com.ichi2.anki.20203300.png</icon>
 		<desc>&lt;p&gt;Anki is a program which makes remembering things easy. Because it is a lot more efficient than traditional study methods, you can either greatly decrease your time spent studying, or greatly increase the amount you learn. AnkiDroid is the Android port of Anki, and is compatible with Anki data.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Science &amp; Education</categories>
@@ -2897,8 +2897,21 @@
 		<web>https://code.google.com/p/ankidroid/wiki/Index</web>
 		<source>https://github.com/ankidroid/Anki-Android</source>
 		<tracker>https://github.com/ankidroid/Anki-Android/issues</tracker>
-		<marketversion>2.2.2</marketversion>
-		<marketvercode>20202300</marketvercode>
+		<marketversion>2.2.3</marketversion>
+		<marketvercode>20203300</marketvercode>
+		<package>
+			<version>2.2.3</version>
+			<versioncode>20203300</versioncode>
+			<apkname>com.ichi2.anki_20203300.apk</apkname>
+			<srcname>com.ichi2.anki_20203300_src.tar.gz</srcname>
+			<hash type="sha256">8dd261bd12d9b9215c684bcf17b1c7444235a64217c33b58da445fd386a45b03</hash>
+			<sig>9899acf97dcacd57c1a3fd134be93a77</sig>
+			<size>5990282</size>
+			<sdkver>7</sdkver>
+			<added>2014-08-05</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,VIBRATE,INTERNET,ACCESS_NETWORK_STATE,RECORD_AUDIO,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.microphone,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>2.2.2</version>
 			<versioncode>20202300</versioncode>
@@ -2924,19 +2937,6 @@
 			<added>2014-07-24</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,VIBRATE,INTERNET,ACCESS_NETWORK_STATE,RECORD_AUDIO,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.microphone,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>2.2alpha17</version>
-			<versioncode>20200117</versioncode>
-			<apkname>com.ichi2.anki_20200117.apk</apkname>
-			<srcname>com.ichi2.anki_20200117_src.tar.gz</srcname>
-			<hash type="sha256">faecec6f999422243e1450505ee0827dac9e49a50b8176fd4a60e349cca9e666</hash>
-			<sig>9899acf97dcacd57c1a3fd134be93a77</sig>
-			<size>5610848</size>
-			<sdkver>7</sdkver>
-			<added>2014-04-02</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,VIBRATE,INTERNET,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
 	<application id="An.stop">
@@ -28390,8 +28390,8 @@
 		<web>http://newsblur.com</web>
 		<source>https://github.com/samuelclay/NewsBlur</source>
 		<tracker>https://github.com/samuelclay/NewsBlur/issues</tracker>
-		<marketversion>3.7.1</marketversion>
-		<marketvercode>68</marketvercode>
+		<marketversion>4.0.0b1</marketversion>
+		<marketvercode>70</marketvercode>
 		<package>
 			<version>3.7.1</version>
 			<versioncode>68</versioncode>
@@ -31365,6 +31365,37 @@
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="org.ethack.orwall">
+		<id>org.ethack.orwall</id>
+		<added>2014-08-05</added>
+		<lastupdated>2014-08-05</lastupdated>
+		<name>orWall</name>
+		<summary>Force apps to use TOR</summary>
+		<icon>org.ethack.orwall.16.png</icon>
+		<desc>&lt;p&gt;Force selected applications through Orbot while preventing unchecked applications to have network access.&lt;/p&gt;&lt;p&gt;In short, orWall will add special iptables rules in order to redirect traffic for applications through Tor; it will also add required rules in order to block traffic for other apps. The redirection is based on the application user id. Each android application runs as a dedicated user, and iptables has support for traffic filtering based on the process owner, meaning it's really easy and pretty safe to do this kind of thing on an Android device.&lt;/p&gt;&lt;p&gt;The application works in two stages: first, an init-script will block all incoming and outgoing traffic. This should prevent leaks, knowing Android sends stuff before you can even access the device. Second stage comes once the device is fully booted: orWall itself takes the lead on the firewall, and add required rules in order to allow Orbot traffic, and redirect selected application to Orbot TransPort.&lt;/p&gt;</desc>
+		<license>GPLv3</license>
+		<categories>Internet</categories>
+		<category>Internet</category>
+		<web>https://orwall.org/</web>
+		<source>https://github.com/EthACKdotOrg/orWall</source>
+		<tracker>https://github.com/EthACKdotOrg/orWall/issues</tracker>
+		<marketversion>0.12-beta</marketversion>
+		<marketvercode>16</marketvercode>
+		<requirements>root</requirements>
+		<package>
+			<version>0.12-beta</version>
+			<versioncode>16</versioncode>
+			<apkname>org.ethack.orwall_16.apk</apkname>
+			<srcname>org.ethack.orwall_16_src.tar.gz</srcname>
+			<hash type="sha256">42e3cc270e700c69b9cb838bf2fbcbcf0b166c086ba501b78f2c6027497f617d</hash>
+			<sig>a9886043bfad5df910757c578c13da63</sig>
+			<size>2190577</size>
+			<sdkver>14</sdkver>
+			<added>2014-08-05</added>
+			<permissions>RECEIVE_BOOT_COMPLETED,ACCESS_SUPERUSER,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET</permissions>
+			<features>android.hardware.wifi,android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="info.guardianproject.browser">
 		<id>info.guardianproject.browser</id>
 		<added>2011-12-07</added>
@@ -32211,10 +32242,10 @@
 	<application id="com.jefftharris.passwdsafe">
 		<id>com.jefftharris.passwdsafe</id>
 		<added>2014-07-29</added>
-		<lastupdated>2014-07-29</lastupdated>
+		<lastupdated>2014-08-05</lastupdated>
 		<name>PasswdSafe</name>
 		<summary>Popular easy-to-use and secure password manager</summary>
-		<icon>com.jefftharris.passwdsafe.40601.png</icon>
+		<icon>com.jefftharris.passwdsafe.40702.png</icon>
 		<desc>&lt;p&gt;PasswdSafe is a port of the popular Password Safe (pwsafe) application to the Android platform. Supports viewing and editing of Password Safe data files. Files are stored by default in the root directory on the SD card. Just copy a .psafe3 or .dat file to the card. Note: The SD card must be unmounted from the PC for the files to be seen.&lt;/p&gt;</desc>
 		<license>Artistic2</license>
 		<categories>Office</categories>
@@ -32225,6 +32256,19 @@
 		<donate>http://passwdsafe.sourceforge.net</donate>
 		<marketversion>4.7.1</marketversion>
 		<marketvercode>40702</marketvercode>
+		<package>
+			<version>4.7.1</version>
+			<versioncode>40702</versioncode>
+			<apkname>com.jefftharris.passwdsafe_40702.apk</apkname>
+			<srcname>com.jefftharris.passwdsafe_40702_src.tar.gz</srcname>
+			<hash type="sha256">74f7083f5f74f68ddd318091142dd6320b43254104f1f17d43eb72dc8b736e63</hash>
+			<sig>7ebebc75d7f5745d6c0b75d42784e40a</sig>
+			<size>1684232</size>
+			<sdkver>4</sdkver>
+			<added>2014-08-05</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,com.jefftharris.passwdsafe.client.provider.permission.ACCESS,com.jefftharris.passwdsafe.sync.provider.permission.ACCESS,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>4.6.1</version>
 			<versioncode>40601</versioncode>
@@ -32854,8 +32898,8 @@
 		<tracker>https://github.com/LittleFox94/PGPAuth/issues</tracker>
 		<bitcoin>18ii4wvKxPFvKoGk7MXLngq9yWNsp7ABPd</bitcoin>
 		<flattr>372271</flattr>
-		<marketversion>1.4</marketversion>
-		<marketvercode>9</marketvercode>
+		<marketversion>1.5</marketversion>
+		<marketvercode>10</marketvercode>
 		<package>
 			<version>1.4</version>
 			<versioncode>9</versioncode>
@@ -32996,8 +33040,8 @@
 		<web>http://forum.xda-developers.com/showthread.php?p=46387352</web>
 		<source>https://github.com/jruesga/PhotoPhase</source>
 		<tracker>https://github.com/jruesga/PhotoPhase/issues</tracker>
-		<marketversion>1.0.6</marketversion>
-		<marketvercode>1008</marketvercode>
+		<marketversion>1.0.7</marketversion>
+		<marketvercode>1009</marketvercode>
 		<package>
 			<version>1.0.6</version>
 			<versioncode>1008</versioncode>
@@ -35433,10 +35477,10 @@
 	<application id="org.quantumbadger.redreader">
 		<id>org.quantumbadger.redreader</id>
 		<added>2013-04-07</added>
-		<lastupdated>2014-08-04</lastupdated>
+		<lastupdated>2014-08-05</lastupdated>
 		<name>RedReader Beta</name>
 		<summary>Client for reddit.com</summary>
-		<icon>org.quantumbadger.redreader.49.png</icon>
+		<icon>org.quantumbadger.redreader.50.png</icon>
 		<desc>&lt;p&gt;An unofficial client for the news site reddit.com.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Swipe posts left and right to perform customizable actions, such as upvote/downvote, or save/hide.&lt;/li&gt;&lt;li&gt; Advanced cache management - automatically stores past versions of posts and comments.&lt;/li&gt;&lt;li&gt; Streaming - shows posts/comments as they download - good for slow connections.&lt;/li&gt;&lt;li&gt; Support for multiple accounts.&lt;/li&gt;&lt;li&gt; Two-column tablet mode (can be used on your phone, if it's big enough)&lt;/li&gt;&lt;li&gt; Image precaching (optional: always, never, or Wi-Fi only).&lt;/li&gt;&lt;li&gt; Built in image viewer, and GIF player.&lt;/li&gt;&lt;li&gt; Compression - both during downloads, and in cache storage.&lt;/li&gt;&lt;li&gt; Night mode (i.e. a dark theme)&lt;/li&gt;&lt;li&gt; Holo theme on every device&lt;/li&gt;&lt;li&gt; Support for Android 2.2+ (but works best on Android 4.0+)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Status: BETA&lt;/p&gt;&lt;p&gt;Details of each crash in the UI thread will be logged to external storage, under the filename &quot;redreader_crash_log_(UUID).txt&quot; - please attach the relevant log when reporting a bug. Crashes in other parts of the application will cause a prompt to be displayed asking you to email the exception details directly.&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Internet</categories>
@@ -35445,8 +35489,21 @@
 		<source>https://github.com/QuantumBadger/RedReader</source>
 		<tracker>https://github.com/QuantumBadger/RedReader/issues</tracker>
 		<bitcoin>1874wapGxDo2vEp4avisda4gx3SCjsHCQJ</bitcoin>
-		<marketversion>1.8.6.1</marketversion>
-		<marketvercode>49</marketvercode>
+		<marketversion>1.8.6.2</marketversion>
+		<marketvercode>50</marketvercode>
+		<package>
+			<version>1.8.6.2</version>
+			<versioncode>50</versioncode>
+			<apkname>org.quantumbadger.redreader_50.apk</apkname>
+			<srcname>org.quantumbadger.redreader_50_src.tar.gz</srcname>
+			<hash type="sha256">4d632f1b54ed6fb457cb52b99f9bfe09bb7996e4a52905ea93ee22d93c971f67</hash>
+			<sig>c6cdfabfd2abece0bc1a6b9827c9c9f8</sig>
+			<size>3725914</size>
+			<sdkver>8</sdkver>
+			<added>2014-08-05</added>
+			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.8.6.1</version>
 			<versioncode>49</versioncode>
@@ -35470,19 +35527,6 @@
 			<size>3725251</size>
 			<sdkver>8</sdkver>
 			<added>2014-08-01</added>
-			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.8.5.2</version>
-			<versioncode>47</versioncode>
-			<apkname>org.quantumbadger.redreader_47.apk</apkname>
-			<srcname>org.quantumbadger.redreader_47_src.tar.gz</srcname>
-			<hash type="sha256">78682c3483851035e38292bee7ce84900534e2facb1e4836d5ae72d8c6e3fc83</hash>
-			<sig>c6cdfabfd2abece0bc1a6b9827c9c9f8</sig>
-			<size>3688897</size>
-			<sdkver>8</sdkver>
-			<added>2014-04-15</added>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -39069,10 +39113,10 @@
 	<application id="com.better.alarm">
 		<id>com.better.alarm</id>
 		<added>2013-06-20</added>
-		<lastupdated>2014-07-11</lastupdated>
+		<lastupdated>2014-08-05</lastupdated>
 		<name>Simple Alarm Clock</name>
 		<summary>Improved alarm clock</summary>
-		<icon>com.better.alarm.2705.png</icon>
+		<icon>com.better.alarm.2707.png</icon>
 		<desc>&lt;p&gt;Smart alarm clock that includes many improvements over the stock alarm clock. It does not have any extra features such as dock mode or a world clock.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>System</categories>
@@ -39082,6 +39126,19 @@
 		<tracker>https://github.com/yuriykulikov/AlarmClock/issues</tracker>
 		<marketversion>2.7.07</marketversion>
 		<marketvercode>2707</marketvercode>
+		<package>
+			<version>2.7.07</version>
+			<versioncode>2707</versioncode>
+			<apkname>com.better.alarm_2707.apk</apkname>
+			<srcname>com.better.alarm_2707_src.tar.gz</srcname>
+			<hash type="sha256">5693bbedc9448b9f78d3dc661d98ec0a9e2e668b9707dd4414ec87b1798928fe</hash>
+			<sig>59be00127dd3b263aa310e73986394d0</sig>
+			<size>2138178</size>
+			<sdkver>15</sdkver>
+			<added>2014-08-05</added>
+			<permissions>RECEIVE_BOOT_COMPLETED,WAKE_LOCK,VIBRATE,WRITE_SETTINGS,DISABLE_KEYGUARD,READ_PHONE_STATE,INTERNET,READ_EXTERNAL_STORAGE,com.android.alarm.permission.SET_ALARM</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>2.7.05</version>
 			<versioncode>2705</versioncode>
@@ -39106,19 +39163,6 @@
 			<sdkver>15</sdkver>
 			<added>2014-07-11</added>
 			<permissions>RECEIVE_BOOT_COMPLETED,WAKE_LOCK,VIBRATE,WRITE_SETTINGS,DISABLE_KEYGUARD,READ_PHONE_STATE,INTERNET,READ_EXTERNAL_STORAGE,com.android.alarm.permission.SET_ALARM</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>2.5.09</version>
-			<versioncode>2509</versioncode>
-			<apkname>com.better.alarm_2509.apk</apkname>
-			<srcname>com.better.alarm_2509_src.tar.gz</srcname>
-			<hash type="sha256">1b96102c6f1c6fbf8b2e4d328b022219b39519aac024d6a664e57fe9825b6984</hash>
-			<sig>59be00127dd3b263aa310e73986394d0</sig>
-			<size>1192018</size>
-			<sdkver>15</sdkver>
-			<added>2013-09-09</added>
-			<permissions>RECEIVE_BOOT_COMPLETED,WAKE_LOCK,VIBRATE,WRITE_SETTINGS,DISABLE_KEYGUARD,READ_PHONE_STATE,INTERNET,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -46324,8 +46368,8 @@
 		<web>http://opacapp.de</web>
 		<source>https://github.com/raphaelm/opacclient</source>
 		<tracker>https://github.com/raphaelm/opacclient/issues</tracker>
-		<marketversion>3.0.10</marketversion>
-		<marketvercode>84</marketvercode>
+		<marketversion>3.0.11</marketversion>
+		<marketvercode>85</marketvercode>
 		<package>
 			<version>3.0.8</version>
 			<versioncode>82</versioncode>
@@ -46699,10 +46743,10 @@
 	<application id="de.freewarepoint.whohasmystuff">
 		<id>de.freewarepoint.whohasmystuff</id>
 		<added>2012-09-22</added>
-		<lastupdated>2014-07-17</lastupdated>
+		<lastupdated>2014-08-05</lastupdated>
 		<name>Who Has My Stuff?</name>
 		<summary>Manager for lent items</summary>
-		<icon>de.freewarepoint.whohasmystuff.15.png</icon>
+		<icon>de.freewarepoint.whohasmystuff.16.png</icon>
 		<desc>&lt;p&gt;Did you ever search for a book, wondering who might have borrowed it from you? Do you often forget how much money people are owing you? Now you can keep track of your lent things with this very simple application. It lets you define a description, date and contact person from your address book for each object.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -46712,6 +46756,19 @@
 		<tracker>https://github.com/stovocor/whohasmystuff/issues</tracker>
 		<marketversion>1.0.15</marketversion>
 		<marketvercode>16</marketvercode>
+		<package>
+			<version>1.0.15</version>
+			<versioncode>16</versioncode>
+			<apkname>de.freewarepoint.whohasmystuff_16.apk</apkname>
+			<srcname>de.freewarepoint.whohasmystuff_16_src.tar.gz</srcname>
+			<hash type="sha256">4d7952b71edd295b7f5ab941efe4208113fd769e5b1a240cd6d70c53d97ff213</hash>
+			<sig>c7ca904c79d4dff63902f6c9e595a01d</sig>
+			<size>796755</size>
+			<sdkver>5</sdkver>
+			<added>2014-08-05</added>
+			<permissions>READ_CONTACTS,WRITE_EXTERNAL_STORAGE,READ_CALENDAR,WRITE_CALENDAR,READ_EXTERNAL_STORAGE,READ_CALL_LOG</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.0.14</version>
 			<versioncode>15</versioncode>
@@ -46735,19 +46792,6 @@
 			<size>104336</size>
 			<sdkver>5</sdkver>
 			<added>2014-03-10</added>
-			<permissions>READ_CONTACTS,WRITE_EXTERNAL_STORAGE,READ_CALENDAR,WRITE_CALENDAR,READ_EXTERNAL_STORAGE,READ_CALL_LOG</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.0.12</version>
-			<versioncode>13</versioncode>
-			<apkname>de.freewarepoint.whohasmystuff_13.apk</apkname>
-			<srcname>de.freewarepoint.whohasmystuff_13_src.tar.gz</srcname>
-			<hash type="sha256">503163163a788bf62740d7dcf21e8fa94277a014fc8d889c637a8f33d2d0f264</hash>
-			<sig>c7ca904c79d4dff63902f6c9e595a01d</sig>
-			<size>94417</size>
-			<sdkver>5</sdkver>
-			<added>2013-09-11</added>
 			<permissions>READ_CONTACTS,WRITE_EXTERNAL_STORAGE,READ_CALENDAR,WRITE_CALENDAR,READ_EXTERNAL_STORAGE,READ_CALL_LOG</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -47620,8 +47664,8 @@
 		<web>http://android.wordpress.org</web>
 		<source>https://github.com/wordpress-mobile/WordPress-Android</source>
 		<tracker>http://android.trac.wordpress.org</tracker>
-		<marketversion>2.9.1</marketversion>
-		<marketvercode>117</marketvercode>
+		<marketversion>3.0.1</marketversion>
+		<marketvercode>125</marketvercode>
 		<package>
 			<version>2.7.1</version>
 			<versioncode>103</versioncode>
