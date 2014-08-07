@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1407214190" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1407300384" url="http://f-droid.org/repo" version="12">
 		<description>The official FDroid repository. Applications in this repository are mostly built directory from the source code. Some are official binaries built by the original application developers - these will be replaced by source-built versions over time. </description>
 	</repo>
 	<application id="de.j4velin.systemappmover">
@@ -1713,8 +1713,8 @@
 		<web>https://github.com/uberspot/AnagramSolver</web>
 		<source>https://github.com/uberspot/AnagramSolver</source>
 		<tracker>https://github.com/uberspot/AnagramSolver/issues</tracker>
-		<marketversion>2.4</marketversion>
-		<marketvercode>18</marketvercode>
+		<marketversion>2.45</marketversion>
+		<marketvercode>19</marketvercode>
 		<package>
 			<version>2.4</version>
 			<versioncode>18</versioncode>
@@ -2807,9 +2807,9 @@
 		<license>GPLv3</license>
 		<categories>Wallpaper</categories>
 		<category>Wallpaper</category>
-		<web>https://miqote.com/wallpapers/angelplayerwp/</web>
+		<web>https://miqote.com/wallpapers/angelplayerwp</web>
 		<source>https://code.launchpad.net/~miqote/angelplayerwp/tail</source>
-		<tracker>https://answers.launchpad.net/angelplayerwp/</tracker>
+		<tracker>https://answers.launchpad.net/angelplayerwp</tracker>
 		<marketversion>1.1</marketversion>
 		<marketvercode>11</marketvercode>
 		<package>
@@ -3197,7 +3197,7 @@
 		<license>Apache2</license>
 		<categories>System</categories>
 		<category>System</category>
-		<web>https://anysoftkeyboard.github.io/</web>
+		<web>https://anysoftkeyboard.github.io</web>
 		<source>https://github.com/AnySoftKeyboard/AnySoftKeyboard</source>
 		<tracker>https://github.com/AnySoftKeyboard/AnySoftKeyboard/issues</tracker>
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=9989122</donate>
@@ -7731,7 +7731,7 @@
 		<license>GPLv3</license>
 		<categories>Phone &amp; SMS</categories>
 		<category>Phone &amp; SMS</category>
-		<web>https://panicbutton.io/</web>
+		<web>https://panicbutton.io</web>
 		<source>https://github.com/iilab/PanicButton</source>
 		<tracker>https://github.com/iilab/PanicButton/issues</tracker>
 		<marketversion>1.2.8</marketversion>
@@ -13535,10 +13535,10 @@
 	<application id="net.pejici.easydice">
 		<id>net.pejici.easydice</id>
 		<added>2014-02-02</added>
-		<lastupdated>2014-05-06</lastupdated>
+		<lastupdated>2014-08-06</lastupdated>
 		<name>Easy Dice</name>
 		<summary>RPG dice roller</summary>
-		<icon>net.pejici.easydice.5.png</icon>
+		<icon>net.pejici.easydice.6.png</icon>
 		<desc>&lt;p&gt;Easy Dice is an rpg dice rolling app with the following features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Variety of die types: D4, D6, D8, D10, D10x10, D12, D20&lt;/li&gt;&lt;li&gt; Choose which dice to roll together. For example a D4 with two D8.&lt;/li&gt;&lt;li&gt; Re-rolling of dice. Tap dice to select which ones will roll and which ones will stay.&lt;/li&gt;&lt;li&gt; Adding up. Sums all the die face values.&lt;/li&gt;&lt;li&gt; Die sets: keep dice sets for later. E.g. different attacks in an RPG game.&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Games</categories>
@@ -13548,6 +13548,18 @@
 		<tracker>https://github.com/pejic/EasyDice/issues</tracker>
 		<marketversion>1.6.2</marketversion>
 		<marketvercode>6</marketvercode>
+		<package>
+			<version>1.6.2</version>
+			<versioncode>6</versioncode>
+			<apkname>net.pejici.easydice_6.apk</apkname>
+			<srcname>net.pejici.easydice_6_src.tar.gz</srcname>
+			<hash type="sha256">d437703e51d34312f0bce3b1bfb23f310dcc96400724f513613befd508b0ea38</hash>
+			<sig>7f13a0c9259fb333dc2d038383967909</sig>
+			<size>6525971</size>
+			<sdkver>14</sdkver>
+			<added>2014-08-06</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.6.1</version>
 			<versioncode>5</versioncode>
@@ -13570,18 +13582,6 @@
 			<size>6525199</size>
 			<sdkver>14</sdkver>
 			<added>2014-05-01</added>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.5</version>
-			<versioncode>3</versioncode>
-			<apkname>net.pejici.easydice_3.apk</apkname>
-			<srcname>net.pejici.easydice_3_src.tar.gz</srcname>
-			<hash type="sha256">aa2a7cc81f7881ebd263a0300716e9dec5831ef38458a1002507395efe3b9703</hash>
-			<sig>7f13a0c9259fb333dc2d038383967909</sig>
-			<size>6520424</size>
-			<sdkver>14</sdkver>
-			<added>2014-02-02</added>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -14446,10 +14446,10 @@
 	<application id="org.fdroid.fdroid">
 		<id>org.fdroid.fdroid</id>
 		<added>2011-01-17</added>
-		<lastupdated>2014-06-28</lastupdated>
+		<lastupdated>2014-08-06</lastupdated>
 		<name>F-Droid</name>
 		<summary>Application manager</summary>
-		<icon>org.fdroid.fdroid.700.png</icon>
+		<icon>org.fdroid.fdroid.710.png</icon>
 		<desc>&lt;p&gt;Connects to F-Droid compatible repositories. The default repo is hosted at f-droid.org, which contains only bona fide FOSS.&lt;/p&gt;&lt;p&gt;Android is open in the sense that you are free to install apks from anywhere you wish, but there are many good reasons for using a client/repository setup:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Be notified when updates are available&lt;/li&gt;&lt;li&gt; Keep track of older and beta versions&lt;/li&gt;&lt;li&gt; Filter apps that aren't compatible with the device&lt;/li&gt;&lt;li&gt; Find apps via categories and searchable descriptions&lt;/li&gt;&lt;li&gt; Access associated urls for donations, source code etc.&lt;/li&gt;&lt;li&gt; Stay safe by checking repo index signatures and apk hashes&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;http://f-droid.org/posts/category/changelog&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>System</categories>
@@ -14462,6 +14462,18 @@
 		<flattr>343053</flattr>
 		<marketversion>0.66</marketversion>
 		<marketvercode>660</marketvercode>
+		<package>
+			<version>0.71</version>
+			<versioncode>710</versioncode>
+			<apkname>org.fdroid.fdroid_710.apk</apkname>
+			<srcname>org.fdroid.fdroid_710_src.tar.gz</srcname>
+			<hash type="sha256">d4815fb6c15bb781da43877fd90464c0645c47d6c08dc7f9f9327df4ffbd8f17</hash>
+			<sig>9063aaadfff9cfd811a9c72fb5012f28</sig>
+			<size>1636598</size>
+			<sdkver>7</sdkver>
+			<added>2014-08-06</added>
+			<permissions>INTERNET,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,CHANGE_WIFI_STATE,BLUETOOTH,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,NFC,INSTALL_PACKAGES,DELETE_PACKAGES,ACCESS_SUPERUSER,READ_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>0.70-test</version>
 			<versioncode>700</versioncode>
@@ -14520,18 +14532,6 @@
 			<size>737265</size>
 			<sdkver>5</sdkver>
 			<added>2014-05-01</added>
-			<permissions>INTERNET,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,NFC,READ_EXTERNAL_STORAGE</permissions>
-		</package>
-		<package>
-			<version>0.65</version>
-			<versioncode>650</versioncode>
-			<apkname>org.fdroid.fdroid_650.apk</apkname>
-			<srcname>org.fdroid.fdroid_650_src.tar.gz</srcname>
-			<hash type="sha256">cb8b3f520de17bb4f1098486e109689f22f8e38f7954666147a0752df8132432</hash>
-			<sig>9063aaadfff9cfd811a9c72fb5012f28</sig>
-			<size>737734</size>
-			<sdkver>5</sdkver>
-			<added>2014-04-29</added>
 			<permissions>INTERNET,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,NFC,READ_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
@@ -18066,7 +18066,7 @@
 		<categories>Games</categories>
 		<category>Games</category>
 		<web>https://gitorious.org/guess-the-number</web>
-		<source>https://gitorious.org/guess-the-number/guess-the-number/</source>
+		<source>https://gitorious.org/guess-the-number/guess-the-number</source>
 		<tracker>https://gitorious.org/guess-the-number/guess-the-number/merge_requests</tracker>
 		<marketversion>0.1</marketversion>
 		<marketvercode>1</marketvercode>
@@ -19867,10 +19867,10 @@
 	<application id="eu.e43.impeller">
 		<id>eu.e43.impeller</id>
 		<added>2013-05-10</added>
-		<lastupdated>2014-08-02</lastupdated>
+		<lastupdated>2014-08-06</lastupdated>
 		<name>Impeller</name>
 		<summary>Client for the Pump.io network</summary>
-		<icon>eu.e43.impeller.9051.png</icon>
+		<icon>eu.e43.impeller.9052.png</icon>
 		<desc>&lt;p&gt;A client for &lt;a href=&quot;http://pump.io&quot;&gt;pump.io&lt;/a&gt;, a stream server for distributed social networking and microblogging. Register a &lt;a href=&quot;http://pump.io/tryit.html&quot;&gt;free account&lt;/a&gt; at a participating website and follow some &lt;a href=&quot;https://static.jpope.org/users.html&quot;&gt;people&lt;/a&gt;, before using the app.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>Internet</categories>
@@ -19878,8 +19878,21 @@
 		<web>http://impeller.e43.eu</web>
 		<source>https://github.com/oshepherd/Impeller</source>
 		<tracker>https://e43oss.atlassian.net/browse/IMP</tracker>
-		<marketversion>0.9.5a</marketversion>
-		<marketvercode>9051</marketvercode>
+		<marketversion>0.9.5b</marketversion>
+		<marketvercode>9052</marketvercode>
+		<package>
+			<version>0.9.5b</version>
+			<versioncode>9052</versioncode>
+			<apkname>eu.e43.impeller_9052.apk</apkname>
+			<srcname>eu.e43.impeller_9052_src.tar.gz</srcname>
+			<hash type="sha256">c2bb281c1d830ab0668ed5eefc5e65bdd2d33b3bb2dee837acbdc98acf79a5f0</hash>
+			<sig>f0d2a6630fa6379c6ff3a23011fedbbc</sig>
+			<size>2842117</size>
+			<sdkver>14</sdkver>
+			<added>2014-08-06</added>
+			<permissions>GET_ACCOUNTS,USE_CREDENTIALS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS,READ_CONTACTS,WRITE_CONTACTS,READ_SYNC_SETTINGS,WRITE_SYNC_SETTINGS,READ_SYNC_STATS,READ_SOCIAL_STREAM,WRITE_SOCIAL_STREAM,INTERNET,ACCESS_COARSE_LOCATION,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_CALL_LOG,WRITE_CALL_LOG</permissions>
+			<features>android.hardware.location,android.hardware.location.network,android.hardware.microphone,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.9.5a</version>
 			<versioncode>9051</versioncode>
@@ -19904,19 +19917,6 @@
 			<sdkver>14</sdkver>
 			<added>2014-08-01</added>
 			<permissions>GET_ACCOUNTS,USE_CREDENTIALS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS,READ_CONTACTS,WRITE_CONTACTS,READ_SYNC_SETTINGS,WRITE_SYNC_SETTINGS,READ_SYNC_STATS,READ_SOCIAL_STREAM,WRITE_SOCIAL_STREAM,INTERNET,ACCESS_COARSE_LOCATION,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_CALL_LOG,WRITE_CALL_LOG</permissions>
-			<features>android.hardware.location,android.hardware.location.network,android.hardware.microphone,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.9.1</version>
-			<versioncode>9010</versioncode>
-			<apkname>eu.e43.impeller_9010.apk</apkname>
-			<srcname>eu.e43.impeller_9010_src.tar.gz</srcname>
-			<hash type="sha256">3187926d7d24cfdbe02f789cdbc914c5ec0419ddc3a594faa13a4eaeb47aff6f</hash>
-			<sig>f0d2a6630fa6379c6ff3a23011fedbbc</sig>
-			<size>2838497</size>
-			<sdkver>8</sdkver>
-			<added>2014-04-26</added>
-			<permissions>GET_ACCOUNTS,USE_CREDENTIALS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS,READ_CONTACTS,WRITE_CONTACTS,READ_SYNC_SETTINGS,WRITE_SYNC_SETTINGS,READ_SYNC_STATS,READ_SOCIAL_STREAM,WRITE_SOCIAL_STREAM,INTERNET,ACCESS_COARSE_LOCATION,READ_EXTERNAL_STORAGE,RECORD_AUDIO</permissions>
 			<features>android.hardware.location,android.hardware.location.network,android.hardware.microphone,android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -27845,8 +27845,8 @@
 		<web>http://www.navit-project.org</web>
 		<source>http://sourceforge.net/p/navit/code</source>
 		<tracker>http://trac.navit-project.org</tracker>
-		<marketversion>5829</marketversion>
-		<marketvercode>5829</marketvercode>
+		<marketversion>5830</marketversion>
+		<marketvercode>5830</marketvercode>
 		<package>
 			<version>navit 0.5.0-5720</version>
 			<versioncode>5720</versioncode>
@@ -31323,8 +31323,8 @@
 		<tracker>https://dev.guardianproject.info/projects/orbot/issues</tracker>
 		<donate>https://www.torproject.org/donate/donate.html.en</donate>
 		<flattr>5649</flattr>
-		<marketversion>14.0.5.1</marketversion>
-		<marketvercode>114</marketvercode>
+		<marketversion>14.0.5.2</marketversion>
+		<marketvercode>115</marketvercode>
 		<package>
 			<version>14.0.5.1</version>
 			<versioncode>114</versioncode>
@@ -31368,20 +31368,33 @@
 	<application id="org.ethack.orwall">
 		<id>org.ethack.orwall</id>
 		<added>2014-08-05</added>
-		<lastupdated>2014-08-05</lastupdated>
+		<lastupdated>2014-08-06</lastupdated>
 		<name>orWall</name>
 		<summary>Force apps to use TOR</summary>
-		<icon>org.ethack.orwall.16.png</icon>
-		<desc>&lt;p&gt;Force selected applications through Orbot while preventing unchecked applications to have network access.&lt;/p&gt;&lt;p&gt;In short, orWall will add special iptables rules in order to redirect traffic for applications through Tor; it will also add required rules in order to block traffic for other apps. The redirection is based on the application user id. Each android application runs as a dedicated user, and iptables has support for traffic filtering based on the process owner, meaning it's really easy and pretty safe to do this kind of thing on an Android device.&lt;/p&gt;&lt;p&gt;The application works in two stages: first, an init-script will block all incoming and outgoing traffic. This should prevent leaks, knowing Android sends stuff before you can even access the device. Second stage comes once the device is fully booted: orWall itself takes the lead on the firewall, and add required rules in order to allow Orbot traffic, and redirect selected application to Orbot TransPort.&lt;/p&gt;</desc>
+		<icon>org.ethack.orwall.18.png</icon>
+		<desc>&lt;p&gt;Force selected applications through Orbot while preventing unchecked applications to have network access.&lt;/p&gt;&lt;p&gt;In short, orWall will add special iptables rules in order to redirect traffic for applications through Tor; it will also add required rules in order to block traffic for other apps. The redirection is based on the application user id. Each android application runs as a dedicated user, and iptables has support for traffic filtering based on the process owner, meaning it's really easy and pretty safe to do this kind of thing on an Android device.&lt;/p&gt;&lt;p&gt;The application works in two stages: first, an init-script will block all incoming and outgoing traffic. This should prevent leaks, knowing Android sends stuff before you can even access the device. Second stage comes once the device is fully booted: orWall itself takes the lead on the firewall, and add required rules in order to allow Orbot traffic, and redirect selected application to Orbot TransPort.&lt;/p&gt;&lt;p&gt;Limitations: init-script works only on Android 4.4.x&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
 		<category>Internet</category>
-		<web>https://orwall.org/</web>
+		<web>https://orwall.org</web>
 		<source>https://github.com/EthACKdotOrg/orWall</source>
 		<tracker>https://github.com/EthACKdotOrg/orWall/issues</tracker>
-		<marketversion>0.12-beta</marketversion>
-		<marketvercode>16</marketvercode>
+		<marketversion>0.14-beta</marketversion>
+		<marketvercode>18</marketvercode>
 		<requirements>root</requirements>
+		<package>
+			<version>0.14-beta</version>
+			<versioncode>18</versioncode>
+			<apkname>org.ethack.orwall_18.apk</apkname>
+			<srcname>org.ethack.orwall_18_src.tar.gz</srcname>
+			<hash type="sha256">fdc68fb6630ae83b878ef0aa2a41de0fde4e33e9256a64917e16e0ece60442f7</hash>
+			<sig>a9886043bfad5df910757c578c13da63</sig>
+			<size>2191611</size>
+			<sdkver>14</sdkver>
+			<added>2014-08-06</added>
+			<permissions>RECEIVE_BOOT_COMPLETED,ACCESS_SUPERUSER,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET</permissions>
+			<features>android.hardware.wifi,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.12-beta</version>
 			<versioncode>16</versioncode>
@@ -34710,7 +34723,7 @@
 		<license>GPLv3</license>
 		<categories>Internet</categories>
 		<category>Internet</category>
-		<web>http://quasseldroid.iskrembilen.com/</web>
+		<web>http://quasseldroid.iskrembilen.com</web>
 		<source>https://github.com/sandsmark/QuasselDroid</source>
 		<tracker>https://github.com/sandsmark/QuasselDroid/issues</tracker>
 		<marketversion>0.10.1</marketversion>
@@ -36592,8 +36605,8 @@
 		<license>GPLv3</license>
 		<categories>Office</categories>
 		<category>Office</category>
-		<web>https://code.google.com/p/rot13translator/</web>
-		<source>https://code.google.com/p/rot13translator/source/browse/</source>
+		<web>https://code.google.com/p/rot13translator</web>
+		<source>https://code.google.com/p/rot13translator/source/browse</source>
 		<tracker>https://code.google.com/p/rot13translator/issues/list</tracker>
 		<marketversion>1.0.2</marketversion>
 		<marketvercode>3</marketvercode>
@@ -43876,8 +43889,8 @@
 		<license>Apache2</license>
 		<categories>Development</categories>
 		<category>Development</category>
-		<web>http://sahan.me/Travis-Jr/</web>
-		<source>https://github.com/sahan/Travis-Jr/</source>
+		<web>http://sahan.me/Travis-Jr</web>
+		<source>https://github.com/sahan/Travis-Jr</source>
 		<tracker>https://github.com/sahan/Travis-Jr/issues</tracker>
 		<marketversion>0.2.0</marketversion>
 		<marketvercode>2</marketvercode>
@@ -43938,7 +43951,7 @@
 		<license>GPLv2</license>
 		<categories>System</categories>
 		<category>System</category>
-		<web>https://code.google.com/p/moonblink/</web>
+		<web>https://code.google.com/p/moonblink</web>
 		<source>https://gitorious.org/f-droid-mirrors/tricorder</source>
 		<tracker/>
 		<marketversion>5.12</marketversion>
@@ -48964,7 +48977,7 @@
 		<source>https://github.com/qii/weiciyuan</source>
 		<tracker>https://github.com/qii/weiciyuan/issues</tracker>
 		<marketversion>0.5.0beta7</marketversion>
-		<marketvercode>47</marketvercode>
+		<marketvercode>48</marketvercode>
 		<package>
 			<version>0.483</version>
 			<versioncode>25</versioncode>
