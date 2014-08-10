@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1407508446" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1407558877" url="http://f-droid.org/repo" version="12">
 		<description>The official FDroid repository. Applications in this repository are mostly built directory from the source code. Some are official binaries built by the original application developers - these will be replaced by source-built versions over time. </description>
 	</repo>
 	<application id="org.zeroxlab.zeroxbenchmark">
@@ -41,7 +41,7 @@
 		<name>2048</name>
 		<summary>Puzzle game</summary>
 		<icon>com.uberspot.a2048.16.png</icon>
-		<desc>&lt;p&gt;Port of the popular 2048 game by Gabriele Cirulli. It's playable without network connection.&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;Port of the 2048 game by Gabriele Cirulli. It's playable without network connection.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Games</categories>
 		<category>Games</category>
@@ -2893,6 +2893,36 @@
 			<added>2014-07-24</added>
 			<permissions>ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,VIBRATE,INTERNET,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen,android.hardware.microphone</features>
+		</package>
+	</application>
+	<application id="net.haltcondition.anode">
+		<id>net.haltcondition.anode</id>
+		<added>2014-08-09</added>
+		<lastupdated>2014-08-09</lastupdated>
+		<name>Anode</name>
+		<summary>Internode usage widget</summary>
+		<icon>net.haltcondition.anode.7.png</icon>
+		<desc>&lt;p&gt;Widget to help you keep track of your mobile data usage with Internode, an Australian ISP.&lt;/p&gt;</desc>
+		<license>GPLv3</license>
+		<categories>Internet</categories>
+		<category>Internet</category>
+		<web>https://github.com/tarka/Anode</web>
+		<source>https://github.com/tarka/Anode</source>
+		<tracker>https://github.com/tarka/Anode/issues</tracker>
+		<marketversion>0.6</marketversion>
+		<marketvercode>7</marketvercode>
+		<package>
+			<version>0.6</version>
+			<versioncode>7</versioncode>
+			<apkname>net.haltcondition.anode_7.apk</apkname>
+			<srcname>net.haltcondition.anode_7_src.tar.gz</srcname>
+			<hash type="sha256">d2f8002bc74bce5d37b11da7b1299df7f2b8179355de622ec208e136bed99820</hash>
+			<sig>9af67399e947fc1264eb450fa77050b4</sig>
+			<size>64949</size>
+			<sdkver>3</sdkver>
+			<added>2014-08-09</added>
+			<permissions>ACCESS_WIFI_STATE,ACCESS_NETWORK_STATE,INTERNET</permissions>
+			<features>android.hardware.touchscreen,android.hardware.wifi</features>
 		</package>
 	</application>
 	<application id="An.stop">
@@ -5784,7 +5814,7 @@
 		<added>2014-08-02</added>
 		<lastupdated>2014-08-02</lastupdated>
 		<name>BF Interpreter</name>
-		<summary>Interpreter for &quot;Brainfuck&quot; programming language</summary>
+		<summary>Brainfuck language interpreter</summary>
 		<icon>org.segin.bfinterpreter.3.png</icon>
 		<desc>&lt;p&gt;Implementation of the &quot;Brainfuck&quot; programming language.&lt;/p&gt;</desc>
 		<license>Apache2</license>
@@ -9815,10 +9845,10 @@
 	<application id="de.measite.contactmerger">
 		<id>de.measite.contactmerger</id>
 		<added>2014-07-18</added>
-		<lastupdated>2014-07-31</lastupdated>
+		<lastupdated>2014-08-09</lastupdated>
 		<name>Contact Merger</name>
 		<summary>Index and merge contacts with Lucene</summary>
-		<icon>de.measite.contactmerger.9.png</icon>
+		<icon>de.measite.contactmerger.10.png</icon>
 		<desc>&lt;p&gt;Index your contacts with lucene and provide a simple list of mergable contacts. The Service will run whenever the systems battery status is good, the data is old and/or the phone is plugged in.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>Office</categories>
@@ -9828,6 +9858,19 @@
 		<tracker>https://github.com/rtreffer/ContactMerger/issues</tracker>
 		<marketversion>1.2.2</marketversion>
 		<marketvercode>10</marketvercode>
+		<package>
+			<version>1.2.2</version>
+			<versioncode>10</versioncode>
+			<apkname>de.measite.contactmerger_10.apk</apkname>
+			<srcname>de.measite.contactmerger_10_src.tar.gz</srcname>
+			<hash type="sha256">f3042920f4e614c69576db06f3be86632b1391104bc0ae10ee4dab35d43ab79e</hash>
+			<sig>c13741524ff63f0dc361db6b4f89e9fe</sig>
+			<size>2789330</size>
+			<sdkver>16</sdkver>
+			<added>2014-08-09</added>
+			<permissions>READ_CONTACTS,WRITE_CALL_LOG,READ_CALL_LOG,RECEIVE_BOOT_COMPLETED,WRITE_CONTACTS</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.2.0</version>
 			<versioncode>9</versioncode>
@@ -9851,19 +9894,6 @@
 			<size>2786396</size>
 			<sdkver>16</sdkver>
 			<added>2014-07-24</added>
-			<permissions>WRITE_CONTACTS,READ_CONTACTS,WRITE_CALL_LOG,RECEIVE_BOOT_COMPLETED,READ_CALL_LOG</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.1.2</version>
-			<versioncode>7</versioncode>
-			<apkname>de.measite.contactmerger_7.apk</apkname>
-			<srcname>de.measite.contactmerger_7_src.tar.gz</srcname>
-			<hash type="sha256">24677e7ed46251634055db991870dc9e870e908f58ab076c7346a888aef596a7</hash>
-			<sig>c13741524ff63f0dc361db6b4f89e9fe</sig>
-			<size>2786324</size>
-			<sdkver>16</sdkver>
-			<added>2014-07-18</added>
 			<permissions>WRITE_CONTACTS,READ_CONTACTS,WRITE_CALL_LOG,RECEIVE_BOOT_COMPLETED,READ_CALL_LOG</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -11871,19 +11901,31 @@
 	<application id="net.logomancy.diedroid">
 		<id>net.logomancy.diedroid</id>
 		<added>2012-09-08</added>
-		<lastupdated>2013-01-18</lastupdated>
+		<lastupdated>2014-08-09</lastupdated>
 		<name>DieDroid</name>
 		<summary>Dice roller</summary>
-		<icon>net.logomancy.diedroid.9.png</icon>
+		<icon>net.logomancy.diedroid.10.png</icon>
 		<desc>&lt;p&gt;This is an Android application for a dice roller suitable for many different purposes, but was designed as a tool for pen-and-paper RPGs. Includes a general dice roller, a dice pool roller that counts successes, and an ability score roller to roll stats for characters.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Games</categories>
 		<category>Games</category>
-		<web>https://code.google.com/p/diedroid</web>
-		<source>https://code.google.com/p/diedroid/source</source>
-		<tracker>https://code.google.com/p/diedroid/issues</tracker>
-		<marketversion>1.4.0</marketversion>
-		<marketvercode>9</marketvercode>
+		<web>https://github.com/logomancer/diedroid</web>
+		<source>https://github.com/logomancer/diedroid</source>
+		<tracker>https://github.com/logomancer/diedroid/issues</tracker>
+		<marketversion>1.4.1</marketversion>
+		<marketvercode>10</marketvercode>
+		<package>
+			<version>1.4.1</version>
+			<versioncode>10</versioncode>
+			<apkname>net.logomancy.diedroid_10.apk</apkname>
+			<srcname>net.logomancy.diedroid_10_src.tar.gz</srcname>
+			<hash type="sha256">f85fb0338ba748dde88a7f9163f64e938b742615f1032d48ef04e6310ef85943</hash>
+			<sig>a85059a5c583550fd7f1780db054803b</sig>
+			<size>927144</size>
+			<sdkver>7</sdkver>
+			<added>2014-08-09</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.4.0</version>
 			<versioncode>9</versioncode>
@@ -26358,6 +26400,37 @@
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="com.nutomic.zertman">
+		<id>com.nutomic.zertman</id>
+		<added>2014-08-09</added>
+		<lastupdated>2014-08-09</lastupdated>
+		<name>Move Certs!</name>
+		<summary>Resolve Android Certificates Warnings</summary>
+		<icon>com.nutomic.zertman.2.png</icon>
+		<desc>&lt;p&gt;&quot;Network may be monitored&quot;: Tired of this warning after installing a certificate?&lt;/p&gt;&lt;p&gt;With this app, you can disable it in one click.&lt;/p&gt;</desc>
+		<license>GPLv3</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web>https://github.com/Nutomic/movecerts</web>
+		<source>https://github.com/Nutomic/movecerts</source>
+		<tracker>https://github.com/Nutomic/movecerts/issues</tracker>
+		<marketversion>1.0.1</marketversion>
+		<marketvercode>2</marketvercode>
+		<requirements>root</requirements>
+		<package>
+			<version>1.0.1</version>
+			<versioncode>2</versioncode>
+			<apkname>com.nutomic.zertman_2.apk</apkname>
+			<srcname>com.nutomic.zertman_2_src.tar.gz</srcname>
+			<hash type="sha256">9e73020a6426c0b5dab54bb7ccf22a335b6242a4811b9b14de1d373ced12439e</hash>
+			<sig>596fedf8b3c71086bae7b1bd384d5fa7</sig>
+			<size>810922</size>
+			<sdkver>19</sdkver>
+			<added>2014-08-09</added>
+			<permissions>ACCESS_SUPERUSER</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="org.logicallycreative.movingpolygons">
 		<id>org.logicallycreative.movingpolygons</id>
 		<added>2014-01-09</added>
@@ -32190,14 +32263,43 @@
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="gg.mw.passera">
+		<id>gg.mw.passera</id>
+		<added>2014-08-09</added>
+		<lastupdated>2014-08-09</lastupdated>
+		<name>Passera</name>
+		<summary>Generate strong passwords</summary>
+		<icon>gg.mw.passera.1.png</icon>
+		<desc>&lt;p&gt;Simple tool that allows users to have strong unique passwords for each website, without the need to store them either locally or with an online service.&lt;/p&gt;&lt;p&gt;Passera turns any entered text into a strong password up to 64 characters long and copies it to clipboard. Figure out a decent system for yourself that will allow unique passphases for every website, such as combining website name/url with a phrase that you would not forget. To login, fire up Passera and enter the password you chose and your real password will be copied to clipboard.&lt;/p&gt;</desc>
+		<license>GPLv3</license>
+		<categories>Office,Internet,Security</categories>
+		<category>Office</category>
+		<web>https://github.com/mwgg/passera</web>
+		<source>https://github.com/mwgg/passera</source>
+		<tracker>https://github.com/mwgg/passera/issues</tracker>
+		<marketversion>0.1.1</marketversion>
+		<marketvercode>1</marketvercode>
+		<package>
+			<version>0.1.1</version>
+			<versioncode>1</versioncode>
+			<apkname>gg.mw.passera_1.apk</apkname>
+			<srcname>gg.mw.passera_1_src.tar.gz</srcname>
+			<hash type="sha256">085bd49e937d254790baa626c82c0e3e7dce78eb58487d85dfceb99d9f3c50cc</hash>
+			<sig>d6bffbc45b5fb2bf5b4b20a205f0c15d</sig>
+			<size>800920</size>
+			<sdkver>11</sdkver>
+			<added>2014-08-09</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="com.jefftharris.passwdsafe">
 		<id>com.jefftharris.passwdsafe</id>
 		<added>2014-07-29</added>
 		<lastupdated>2014-08-05</lastupdated>
 		<name>PasswdSafe</name>
-		<summary>Popular easy-to-use and secure password manager</summary>
+		<summary>Easy-to-use secure password manager</summary>
 		<icon>com.jefftharris.passwdsafe.40702.png</icon>
-		<desc>&lt;p&gt;PasswdSafe is a port of the popular Password Safe (pwsafe) application to the Android platform. Supports viewing and editing of Password Safe data files. Files are stored by default in the root directory on the SD card. Just copy a .psafe3 or .dat file to the card. Note: The SD card must be unmounted from the PC for the files to be seen.&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;PasswdSafe is a port of the Password Safe (pwsafe) application to the Android platform. Supports viewing and editing of Password Safe data files. Files are stored by default in the root directory on the SD card. Just copy a .psafe3 or .dat file to the card. Note: The SD card must be unmounted from the PC for the files to be seen.&lt;/p&gt;</desc>
 		<license>Artistic2</license>
 		<categories>Office</categories>
 		<category>Office</category>
@@ -39376,6 +39478,36 @@
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="com.dnielfe.manager">
+		<id>com.dnielfe.manager</id>
+		<added>2014-08-09</added>
+		<lastupdated>2014-08-09</lastupdated>
+		<name>Simple Explorer</name>
+		<summary>File manager</summary>
+		<icon>com.dnielfe.manager.53.png</icon>
+		<desc>&lt;p&gt;Simple file explorer inspired by CM FileManager and PureFM.&lt;/p&gt;</desc>
+		<license>GPLv2+</license>
+		<categories>Office</categories>
+		<category>Office</category>
+		<web>http://forum.xda-developers.com/showthread.php?t=2330864</web>
+		<source>https://github.com/DF1E/SimpleExplorer</source>
+		<tracker>https://github.com/DF1E/SimpleExplorer/issues</tracker>
+		<marketversion>2.0.5</marketversion>
+		<marketvercode>53</marketvercode>
+		<package>
+			<version>2.0.5</version>
+			<versioncode>53</versioncode>
+			<apkname>com.dnielfe.manager_53.apk</apkname>
+			<srcname>com.dnielfe.manager_53_src.tar.gz</srcname>
+			<hash type="sha256">3298dbbd5f2b4ea550a8248a7b29e2557e54a22580bb8933913220435eaeca42</hash>
+			<sig>d1f7a960cedbf71623bf0df8af784404</sig>
+			<size>570382</size>
+			<sdkver>16</sdkver>
+			<added>2014-08-09</added>
+			<permissions>ACCESS_SUPERUSER,com.android.launcher.permission.INSTALL_SHORTCUT,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="com.adam.aslfms">
 		<id>com.adam.aslfms</id>
 		<added>2012-09-20</added>
@@ -45553,7 +45685,7 @@
 		<summary>Media player</summary>
 		<icon>org.videolan.vlc.9804.png</icon>
 		<desc>&lt;p&gt;Video and audio player that supports a wide range of formats, for both local and remote playback.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://git.videolan.org/?p=vlc-ports/android.git;a=blob_plain;f=NEWS&quot;&gt;NEWS&lt;/a&gt;&lt;/p&gt;</desc>
-		<license>LGPLv3</license>
+		<license>GPLv3</license>
 		<categories>Multimedia</categories>
 		<category>Multimedia</category>
 		<web>http://www.videolan.org/vlc/download-android.html</web>
