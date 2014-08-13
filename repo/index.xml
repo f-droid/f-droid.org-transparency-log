@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1407763602" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1407843757" url="http://f-droid.org/repo" version="12">
 		<description>The official FDroid repository. Applications in this repository are mostly built directory from the source code. Some are official binaries built by the original application developers - these will be replaced by source-built versions over time. </description>
 	</repo>
 	<application id="org.zeroxlab.zeroxbenchmark">
@@ -359,8 +359,8 @@
 			<size>403091</size>
 			<sdkver>15</sdkver>
 			<added>2014-05-26</added>
-			<permissions>CHANGE_WIFI_STATE,BROADCAST_STICKY,RESTART_PACKAGES,KILL_BACKGROUND_PROCESSES,BIND_ACCESSIBILITY_SERVICE,com.android.launcher.permission.READ_SETTINGS,BLUETOOTH_ADMIN,READ_EXTERNAL_STORAGE,BLUETOOTH,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,READ_CONTACTS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,ACCESS_FINE_LOCATION,MODIFY_AUDIO_SETTINGS,ACCESS_LOCATION_EXTRA_COMMANDS,READ_PHONE_STATE,RECEIVE_SMS,WRITE_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.bluetooth,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.location.network,android.hardware.location,android.hardware.wifi</features>
+			<permissions>BROADCAST_STICKY,CHANGE_WIFI_STATE,ACCESS_LOCATION_EXTRA_COMMANDS,RESTART_PACKAGES,KILL_BACKGROUND_PROCESSES,BIND_ACCESSIBILITY_SERVICE,com.android.launcher.permission.READ_SETTINGS,GET_ACCOUNTS,BLUETOOTH_ADMIN,READ_EXTERNAL_STORAGE,BLUETOOTH,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,RECEIVE_BOOT_COMPLETED,ACCESS_FINE_LOCATION,READ_CONTACTS,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,RECEIVE_SMS,WRITE_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen,android.hardware.location.gps,android.hardware.location.network,android.hardware.bluetooth,android.hardware.location,android.hardware.wifi</features>
 		</package>
 		<package>
 			<version>2.11.10</version>
@@ -372,8 +372,8 @@
 			<size>402943</size>
 			<sdkver>15</sdkver>
 			<added>2014-03-22</added>
-			<permissions>CHANGE_WIFI_STATE,BROADCAST_STICKY,RESTART_PACKAGES,KILL_BACKGROUND_PROCESSES,BIND_ACCESSIBILITY_SERVICE,com.android.launcher.permission.READ_SETTINGS,BLUETOOTH_ADMIN,READ_EXTERNAL_STORAGE,BLUETOOTH,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,READ_CONTACTS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,ACCESS_FINE_LOCATION,MODIFY_AUDIO_SETTINGS,ACCESS_LOCATION_EXTRA_COMMANDS,READ_PHONE_STATE,RECEIVE_SMS,WRITE_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.bluetooth,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.location.network,android.hardware.location,android.hardware.wifi</features>
+			<permissions>BROADCAST_STICKY,CHANGE_WIFI_STATE,ACCESS_LOCATION_EXTRA_COMMANDS,RESTART_PACKAGES,KILL_BACKGROUND_PROCESSES,BIND_ACCESSIBILITY_SERVICE,com.android.launcher.permission.READ_SETTINGS,GET_ACCOUNTS,BLUETOOTH_ADMIN,READ_EXTERNAL_STORAGE,BLUETOOTH,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,RECEIVE_BOOT_COMPLETED,ACCESS_FINE_LOCATION,READ_CONTACTS,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,RECEIVE_SMS,WRITE_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen,android.hardware.location.gps,android.hardware.location.network,android.hardware.bluetooth,android.hardware.location,android.hardware.wifi</features>
 		</package>
 		<package>
 			<version>2.11.8</version>
@@ -385,8 +385,8 @@
 			<size>402474</size>
 			<sdkver>15</sdkver>
 			<added>2014-03-10</added>
-			<permissions>CHANGE_WIFI_STATE,BROADCAST_STICKY,RESTART_PACKAGES,KILL_BACKGROUND_PROCESSES,BIND_ACCESSIBILITY_SERVICE,com.android.launcher.permission.READ_SETTINGS,BLUETOOTH_ADMIN,READ_EXTERNAL_STORAGE,BLUETOOTH,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,READ_CONTACTS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,ACCESS_FINE_LOCATION,MODIFY_AUDIO_SETTINGS,ACCESS_LOCATION_EXTRA_COMMANDS,READ_PHONE_STATE,RECEIVE_SMS,WRITE_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.bluetooth,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.location.network,android.hardware.location,android.hardware.wifi</features>
+			<permissions>BROADCAST_STICKY,CHANGE_WIFI_STATE,ACCESS_LOCATION_EXTRA_COMMANDS,RESTART_PACKAGES,KILL_BACKGROUND_PROCESSES,BIND_ACCESSIBILITY_SERVICE,com.android.launcher.permission.READ_SETTINGS,GET_ACCOUNTS,BLUETOOTH_ADMIN,READ_EXTERNAL_STORAGE,BLUETOOTH,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,RECEIVE_BOOT_COMPLETED,ACCESS_FINE_LOCATION,READ_CONTACTS,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,RECEIVE_SMS,WRITE_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen,android.hardware.location.gps,android.hardware.location.network,android.hardware.bluetooth,android.hardware.location,android.hardware.wifi</features>
 		</package>
 	</application>
 	<application id="com.zoffcc.applications.aagtl">
@@ -415,7 +415,7 @@
 			<size>308893</size>
 			<sdkver>7</sdkver>
 			<added>2012-08-29</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,ACCESS_MOCK_LOCATION,INTERNET,ACCESS_COARSE_LOCATION,ACCESS_LOCATION_EXTRA_COMMANDS,WAKE_LOCK,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>WRITE_EXTERNAL_STORAGE,ACCESS_MOCK_LOCATION,WAKE_LOCK,ACCESS_COARSE_LOCATION,ACCESS_LOCATION_EXTRA_COMMANDS,INTERNET,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.location.network</features>
 		</package>
 	</application>
@@ -1148,7 +1148,7 @@
 			<size>1192926</size>
 			<sdkver>5</sdkver>
 			<added>2011-12-05</added>
-			<permissions>WRITE_SETTINGS,GET_TASKS,READ_EXTERNAL_STORAGE,CALL_PHONE,RESTART_PACKAGES,org.adw.launcher.permission.READ_SETTINGS,PERSISTENT_ACTIVITY,VIBRATE,READ_CALL_LOG,org.adw.launcher.permission.WRITE_SETTINGS,EXPAND_STATUS_BAR,SET_WALLPAPER_HINTS,READ_CONTACTS,BIND_APPWIDGET,SET_WALLPAPER,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>WRITE_SETTINGS,GET_TASKS,EXPAND_STATUS_BAR,CALL_PHONE,READ_EXTERNAL_STORAGE,RESTART_PACKAGES,org.adw.launcher.permission.READ_SETTINGS,PERSISTENT_ACTIVITY,VIBRATE,READ_CALL_LOG,org.adw.launcher.permission.WRITE_SETTINGS,SET_WALLPAPER,SET_WALLPAPER_HINTS,READ_CONTACTS,WRITE_EXTERNAL_STORAGE,BIND_APPWIDGET</permissions>
 			<features>android.hardware.telephony,android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -1420,7 +1420,7 @@
 			<size>332519</size>
 			<sdkver>7</sdkver>
 			<added>2014-06-10</added>
-			<permissions>READ_EXTERNAL_STORAGE,CAMERA,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE,CAMERA,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -1450,7 +1450,7 @@
 			<size>172604</size>
 			<sdkver>4</sdkver>
 			<added>2013-12-13</added>
-			<permissions>VIBRATE,WRITE_SETTINGS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_SETTINGS,VIBRATE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -1549,7 +1549,7 @@
 			<size>590497</size>
 			<sdkver>3</sdkver>
 			<added>2012-03-02</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,ACCESS_COARSE_LOCATION,RECEIVE_BOOT_COMPLETED,INTERNET,ACCESS_GPS,ACCESS_FINE_LOCATION,ACCESS_LOCATION</permissions>
+			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,INTERNET,ACCESS_COARSE_LOCATION,RECEIVE_BOOT_COMPLETED,ACCESS_FINE_LOCATION,ACCESS_GPS,ACCESS_LOCATION</permissions>
 		</package>
 		<package>
 			<version>1.1.4</version>
@@ -1561,7 +1561,7 @@
 			<size>590955</size>
 			<sdkver>3</sdkver>
 			<added>2012-09-28</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,ACCESS_COARSE_LOCATION,RECEIVE_BOOT_COMPLETED,INTERNET,ACCESS_GPS,ACCESS_FINE_LOCATION,ACCESS_LOCATION</permissions>
+			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,INTERNET,ACCESS_COARSE_LOCATION,RECEIVE_BOOT_COMPLETED,ACCESS_FINE_LOCATION,ACCESS_GPS,ACCESS_LOCATION</permissions>
 		</package>
 	</application>
 	<application id="com.orphan.amplayer">
@@ -2671,7 +2671,7 @@
 			<size>752550</size>
 			<sdkver>8</sdkver>
 			<added>2014-07-07</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,INTERNET,VIBRATE,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,WAKE_LOCK,AUTHENTICATE_ACCOUNTS</permissions>
+			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,INTERNET,VIBRATE,READ_EXTERNAL_STORAGE,GET_ACCOUNTS,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -2684,7 +2684,7 @@
 			<size>752285</size>
 			<sdkver>8</sdkver>
 			<added>2014-06-30</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,INTERNET,VIBRATE,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,WAKE_LOCK,AUTHENTICATE_ACCOUNTS</permissions>
+			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,INTERNET,VIBRATE,READ_EXTERNAL_STORAGE,GET_ACCOUNTS,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -2697,7 +2697,7 @@
 			<size>701085</size>
 			<sdkver>8</sdkver>
 			<added>2014-04-22</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,INTERNET,VIBRATE,READ_EXTERNAL_STORAGE,GET_ACCOUNTS,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,WAKE_LOCK,AUTHENTICATE_ACCOUNTS</permissions>
+			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,WAKE_LOCK,VIBRATE,READ_EXTERNAL_STORAGE,MANAGE_ACCOUNTS,GET_ACCOUNTS,READ_SYNC_SETTINGS,INTERNET,AUTHENTICATE_ACCOUNTS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -3111,7 +3111,7 @@
 			<size>29199</size>
 			<sdkver>1</sdkver>
 			<added>2012-09-12</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_CALL_LOG,READ_CONTACTS,READ_PHONE_STATE,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,READ_CALL_LOG,READ_CONTACTS,READ_PHONE_STATE,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -3890,7 +3890,7 @@
 			<size>1642286</size>
 			<sdkver>14</sdkver>
 			<added>2013-05-09</added>
-			<permissions>WRITE_SETTINGS,GET_TASKS,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,INTERNET,BROADCAST_STICKY,WAKE_LOCK,READ_PHONE_STATE,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>WRITE_SETTINGS,GET_TASKS,ACCESS_NETWORK_STATE,BROADCAST_STICKY,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE,INTERNET,WAKE_LOCK,READ_PHONE_STATE,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -3903,7 +3903,7 @@
 			<size>2381582</size>
 			<sdkver>9</sdkver>
 			<added>2013-03-18</added>
-			<permissions>WRITE_SETTINGS,GET_TASKS,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,INTERNET,BROADCAST_STICKY,WAKE_LOCK,READ_PHONE_STATE,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>WRITE_SETTINGS,GET_TASKS,ACCESS_NETWORK_STATE,BROADCAST_STICKY,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE,INTERNET,WAKE_LOCK,READ_PHONE_STATE,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -3964,7 +3964,7 @@
 			<size>127390</size>
 			<sdkver>3</sdkver>
 			<added>2012-09-12</added>
-			<permissions>CHANGE_WIFI_STATE,WRITE_EXTERNAL_STORAGE,CALL_PHONE,KILL_BACKGROUND_PROCESSES,com.android.launcher.permission.READ_SETTINGS,RESTART_PACKAGES,DISABLE_KEYGUARD,ACCESS_WIFI_STATE,RECEIVE_BOOT_COMPLETED,INTERNET,com.htc.launcher.permission.READ_SETTINGS,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>CHANGE_WIFI_STATE,WRITE_EXTERNAL_STORAGE,CALL_PHONE,KILL_BACKGROUND_PROCESSES,com.android.launcher.permission.READ_SETTINGS,WAKE_LOCK,RESTART_PACKAGES,DISABLE_KEYGUARD,ACCESS_WIFI_STATE,RECEIVE_BOOT_COMPLETED,INTERNET,com.htc.launcher.permission.READ_SETTINGS,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.telephony,android.hardware.touchscreen,android.hardware.wifi</features>
 		</package>
 		<package>
@@ -3977,7 +3977,7 @@
 			<size>127023</size>
 			<sdkver>3</sdkver>
 			<added>2012-08-23</added>
-			<permissions>CHANGE_WIFI_STATE,WRITE_EXTERNAL_STORAGE,CALL_PHONE,KILL_BACKGROUND_PROCESSES,com.android.launcher.permission.READ_SETTINGS,RESTART_PACKAGES,DISABLE_KEYGUARD,ACCESS_WIFI_STATE,RECEIVE_BOOT_COMPLETED,INTERNET,com.htc.launcher.permission.READ_SETTINGS,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>CHANGE_WIFI_STATE,WRITE_EXTERNAL_STORAGE,CALL_PHONE,KILL_BACKGROUND_PROCESSES,com.android.launcher.permission.READ_SETTINGS,WAKE_LOCK,RESTART_PACKAGES,DISABLE_KEYGUARD,ACCESS_WIFI_STATE,RECEIVE_BOOT_COMPLETED,INTERNET,com.htc.launcher.permission.READ_SETTINGS,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.telephony,android.hardware.touchscreen,android.hardware.wifi</features>
 		</package>
 	</application>
@@ -4464,7 +4464,7 @@
 			<size>295272</size>
 			<sdkver>8</sdkver>
 			<added>2013-05-14</added>
-			<permissions>WRITE_USER_DICTIONARY,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,WRITE_USER_DICTIONARY</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -4832,6 +4832,38 @@
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="com.ds.avare">
+		<id>com.ds.avare</id>
+		<added>2014-08-12</added>
+		<lastupdated>2014-08-12</lastupdated>
+		<name>Avare</name>
+		<summary>Aviation map</summary>
+		<icon>com.ds.avare.191.png</icon>
+		<desc>&lt;p&gt;Avare (pronounced &quot;AvAir&quot;) is a free moving aviation map. Basic features include online or offline A/FD info, approach plates and GPS moving map on all FAA VFR sectionals, WACs and TACs, plus IFR low charts and airport diagrams. Avare also enables manual browsing of all charts and all other materials even without cell service or GPS. Current FAA weather METARs, TAFs and TFRs are provided too.&lt;/p&gt;&lt;p&gt;Notice: This is not an FAA certified GPS.  AntiFeatures: A Google account is required.&lt;/p&gt;</desc>
+		<license>NetBSD/Apache2</license>
+		<categories>Navigation</categories>
+		<category>Navigation</category>
+		<web>http://apps4av.com/avare-overview</web>
+		<source>https://github.com/apps4av/avare</source>
+		<tracker>https://github.com/apps4av/avare/issues</tracker>
+		<donate>http://mamba.dreamhosters.com/donate.html</donate>
+		<marketversion>5.7.1</marketversion>
+		<marketvercode>191</marketvercode>
+		<antifeatures>NonFreeDep</antifeatures>
+		<package>
+			<version>5.7.1</version>
+			<versioncode>191</versioncode>
+			<apkname>com.ds.avare_191.apk</apkname>
+			<srcname>com.ds.avare_191_src.tar.gz</srcname>
+			<hash type="sha256">fc64026e41ea9602910e30a3c3dbf5ba5cbb1372789e8d693aa05ab25988d928</hash>
+			<sig>7ac870875c761a7b082e51d0feef5a66</sig>
+			<size>621209</size>
+			<sdkver>8</sdkver>
+			<added>2014-08-12</added>
+			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,GET_ACCOUNTS,ACCESS_COARSE_LOCATION,INTERNET,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="apps.babycaretimer">
 		<id>apps.babycaretimer</id>
 		<added>2012-08-23</added>
@@ -4872,7 +4904,7 @@
 			<size>485995</size>
 			<sdkver>8</sdkver>
 			<added>2012-09-18</added>
-			<permissions>INTERNET,WRITE_EXTERNAL_STORAGE,DISABLE_KEYGUARD,VIBRATE,WAKE_LOCK,READ_PHONE_STATE,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>WRITE_EXTERNAL_STORAGE,INTERNET,VIBRATE,DISABLE_KEYGUARD,WAKE_LOCK,READ_PHONE_STATE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -4902,7 +4934,7 @@
 			<size>899902</size>
 			<sdkver>12</sdkver>
 			<added>2014-08-07</added>
-			<permissions>WAKE_LOCK,ACCESS_NETWORK_STATE,BLUETOOTH_ADMIN,BLUETOOTH,INTERNET</permissions>
+			<permissions>ACCESS_NETWORK_STATE,WAKE_LOCK,INTERNET,BLUETOOTH_ADMIN,BLUETOOTH</permissions>
 			<features>android.hardware.touchscreen,android.hardware.usb.host,android.hardware.bluetooth</features>
 		</package>
 		<package>
@@ -4915,7 +4947,7 @@
 			<size>864796</size>
 			<sdkver>12</sdkver>
 			<added>2014-01-14</added>
-			<permissions>WAKE_LOCK,ACCESS_NETWORK_STATE,BLUETOOTH_ADMIN,BLUETOOTH,INTERNET</permissions>
+			<permissions>ACCESS_NETWORK_STATE,WAKE_LOCK,INTERNET,BLUETOOTH_ADMIN,BLUETOOTH</permissions>
 			<features>android.hardware.touchscreen,android.hardware.usb.host,android.hardware.bluetooth</features>
 		</package>
 		<package>
@@ -5462,7 +5494,7 @@
 			<size>329894</size>
 			<sdkver>7</sdkver>
 			<added>2013-12-09</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET,RECEIVE_BOOT_COMPLETED,SET_WALLPAPER,SET_WALLPAPER_HINTS,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,INTERNET,RECEIVE_BOOT_COMPLETED,SET_WALLPAPER_HINTS,SET_WALLPAPER</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -5693,7 +5725,7 @@
 			<size>1011180</size>
 			<sdkver>7</sdkver>
 			<added>2013-12-09</added>
-			<permissions>CHANGE_WIFI_STATE,READ_EXTERNAL_STORAGE,READ_LOGS,ACCESS_COARSE_LOCATION,ACCESS_WIFI_STATE,BATTERY_STATS,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,INTERNET,CHANGE_NETWORK_STATE,READ_PHONE_STATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>CHANGE_WIFI_STATE,READ_LOGS,CHANGE_NETWORK_STATE,READ_EXTERNAL_STORAGE,WAKE_LOCK,ACCESS_COARSE_LOCATION,ACCESS_WIFI_STATE,BATTERY_STATS,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,INTERNET,READ_PHONE_STATE,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.wifi,android.hardware.location.network</features>
 		</package>
 	</application>
@@ -5723,7 +5755,7 @@
 			<size>3121283</size>
 			<sdkver>7</sdkver>
 			<added>2014-02-24</added>
-			<permissions>GET_TASKS,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,DUMP,READ_LOGS,DEVICE_POWER,BLUETOOTH,ACCESS_SUPERUSER,BATTERY_STATS,RECEIVE_BOOT_COMPLETED,INTERNET,READ_PHONE_STATE,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>GET_TASKS,ACCESS_NETWORK_STATE,READ_LOGS,WRITE_EXTERNAL_STORAGE,DUMP,WAKE_LOCK,DEVICE_POWER,BLUETOOTH,ACCESS_SUPERUSER,BATTERY_STATS,RECEIVE_BOOT_COMPLETED,INTERNET,READ_PHONE_STATE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen,android.hardware.bluetooth</features>
 		</package>
 		<package>
@@ -5736,7 +5768,7 @@
 			<size>2235738</size>
 			<sdkver>7</sdkver>
 			<added>2014-01-24</added>
-			<permissions>GET_TASKS,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,DUMP,READ_LOGS,DEVICE_POWER,BLUETOOTH,ACCESS_SUPERUSER,BATTERY_STATS,RECEIVE_BOOT_COMPLETED,INTERNET,READ_PHONE_STATE,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>GET_TASKS,ACCESS_NETWORK_STATE,READ_LOGS,WRITE_EXTERNAL_STORAGE,DUMP,WAKE_LOCK,DEVICE_POWER,BLUETOOTH,ACCESS_SUPERUSER,BATTERY_STATS,RECEIVE_BOOT_COMPLETED,INTERNET,READ_PHONE_STATE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen,android.hardware.bluetooth</features>
 		</package>
 		<package>
@@ -5749,7 +5781,7 @@
 			<size>2153027</size>
 			<sdkver>7</sdkver>
 			<added>2013-06-04</added>
-			<permissions>GET_TASKS,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_LOGS,DEVICE_POWER,BLUETOOTH,BATTERY_STATS,RECEIVE_BOOT_COMPLETED,INTERNET,READ_PHONE_STATE,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>GET_TASKS,ACCESS_NETWORK_STATE,READ_LOGS,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,DEVICE_POWER,BLUETOOTH,BATTERY_STATS,RECEIVE_BOOT_COMPLETED,INTERNET,READ_PHONE_STATE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen,android.hardware.bluetooth</features>
 		</package>
 	</application>
@@ -6062,7 +6094,7 @@
 			<size>3771567</size>
 			<sdkver>10</sdkver>
 			<added>2014-07-05</added>
-			<permissions>NFC,BROADCAST_STICKY,READ_EXTERNAL_STORAGE,WAKE_LOCK,VIBRATE,BLUETOOTH,CAMERA,RECEIVE_BOOT_COMPLETED,INTERNET,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>NFC,READ_EXTERNAL_STORAGE,WAKE_LOCK,VIBRATE,BLUETOOTH,BROADCAST_STICKY,CAMERA,RECEIVE_BOOT_COMPLETED,INTERNET,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 		<package>
 			<version>3.46</version>
@@ -6074,7 +6106,7 @@
 			<size>3628743</size>
 			<sdkver>10</sdkver>
 			<added>2014-05-06</added>
-			<permissions>NFC,BROADCAST_STICKY,READ_EXTERNAL_STORAGE,WAKE_LOCK,VIBRATE,BLUETOOTH,CAMERA,RECEIVE_BOOT_COMPLETED,INTERNET,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>NFC,READ_EXTERNAL_STORAGE,WAKE_LOCK,VIBRATE,BLUETOOTH,BROADCAST_STICKY,CAMERA,RECEIVE_BOOT_COMPLETED,INTERNET,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 		<package>
 			<version>3.39</version>
@@ -6086,7 +6118,7 @@
 			<size>3579597</size>
 			<sdkver>10</sdkver>
 			<added>2014-03-10</added>
-			<permissions>NFC,BROADCAST_STICKY,READ_EXTERNAL_STORAGE,WAKE_LOCK,VIBRATE,BLUETOOTH,CAMERA,RECEIVE_BOOT_COMPLETED,INTERNET,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>NFC,READ_EXTERNAL_STORAGE,WAKE_LOCK,VIBRATE,BLUETOOTH,BROADCAST_STICKY,CAMERA,RECEIVE_BOOT_COMPLETED,INTERNET,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="com.veken0m.bitcoinium">
@@ -7691,7 +7723,7 @@
 			<size>68505</size>
 			<sdkver>14</sdkver>
 			<added>2014-08-10</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,INTERNET</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -7721,7 +7753,7 @@
 			<size>1012421</size>
 			<sdkver>10</sdkver>
 			<added>2014-08-08</added>
-			<permissions>GET_TASKS,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.launcher.permission.INSTALL_SHORTCUT,SEND_SMS,VIBRATE,ACCESS_COARSE_LOCATION,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,READ_CONTACTS,READ_PHONE_STATE,ACCESS_FINE_LOCATION</permissions>
+			<permissions>GET_TASKS,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.launcher.permission.INSTALL_SHORTCUT,WAKE_LOCK,SEND_SMS,VIBRATE,ACCESS_COARSE_LOCATION,RECEIVE_BOOT_COMPLETED,ACCESS_FINE_LOCATION,READ_CONTACTS,READ_PHONE_STATE</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.telephony,android.hardware.location.network</features>
 		</package>
 		<package>
@@ -7734,7 +7766,7 @@
 			<size>1009252</size>
 			<sdkver>10</sdkver>
 			<added>2014-06-24</added>
-			<permissions>GET_TASKS,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.launcher.permission.INSTALL_SHORTCUT,SEND_SMS,VIBRATE,ACCESS_COARSE_LOCATION,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,READ_CONTACTS,READ_PHONE_STATE,ACCESS_FINE_LOCATION</permissions>
+			<permissions>GET_TASKS,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.android.launcher.permission.INSTALL_SHORTCUT,WAKE_LOCK,SEND_SMS,VIBRATE,ACCESS_COARSE_LOCATION,RECEIVE_BOOT_COMPLETED,ACCESS_FINE_LOCATION,READ_CONTACTS,READ_PHONE_STATE</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.telephony,android.hardware.location.network</features>
 		</package>
 	</application>
@@ -8040,7 +8072,7 @@
 			<size>1712436</size>
 			<sdkver>8</sdkver>
 			<added>2013-11-18</added>
-			<permissions>READ_PHONE,WRITE_EXTERNAL_STORAGE,READ_PHONE_STATE,INTERNET,WRITE_CALL_LOG,com.sec.android.provider.logsprovider.permission.WRITE_LOGS,READ_CALL_LOG,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,READ_CONTACTS,READ_SMS,com.sec.android.provider.logsprovider.permission.READ_LOGS,RECEIVE_SMS,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>READ_PHONE,com.sec.android.provider.logsprovider.permission.READ_LOGS,WRITE_EXTERNAL_STORAGE,INTERNET,WRITE_CALL_LOG,com.sec.android.provider.logsprovider.permission.WRITE_LOGS,READ_CALL_LOG,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,READ_CONTACTS,READ_SMS,READ_PHONE_STATE,RECEIVE_SMS,READ_EXTERNAL_STORAGE</permissions>
 		</package>
 		<package>
 			<version>3.8.4</version>
@@ -8052,7 +8084,7 @@
 			<size>1946825</size>
 			<sdkver>7</sdkver>
 			<added>2013-03-26</added>
-			<permissions>READ_PHONE,WRITE_EXTERNAL_STORAGE,READ_PHONE_STATE,INTERNET,WRITE_CALL_LOG,com.sec.android.provider.logsprovider.permission.WRITE_LOGS,READ_CALL_LOG,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,READ_CONTACTS,READ_SMS,com.sec.android.provider.logsprovider.permission.READ_LOGS,RECEIVE_SMS,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>READ_PHONE,com.sec.android.provider.logsprovider.permission.READ_LOGS,WRITE_EXTERNAL_STORAGE,INTERNET,WRITE_CALL_LOG,com.sec.android.provider.logsprovider.permission.WRITE_LOGS,READ_CALL_LOG,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,READ_CONTACTS,READ_SMS,READ_PHONE_STATE,RECEIVE_SMS,READ_EXTERNAL_STORAGE</permissions>
 		</package>
 		<package>
 			<version>3.8.1</version>
@@ -8064,7 +8096,7 @@
 			<size>1901630</size>
 			<sdkver>7</sdkver>
 			<added>2013-02-22</added>
-			<permissions>READ_PHONE,WRITE_EXTERNAL_STORAGE,READ_PHONE_STATE,INTERNET,WRITE_CALL_LOG,com.sec.android.provider.logsprovider.permission.WRITE_LOGS,READ_CALL_LOG,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,READ_CONTACTS,READ_SMS,com.sec.android.provider.logsprovider.permission.READ_LOGS,RECEIVE_SMS,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>READ_PHONE,com.sec.android.provider.logsprovider.permission.READ_LOGS,WRITE_EXTERNAL_STORAGE,INTERNET,WRITE_CALL_LOG,com.sec.android.provider.logsprovider.permission.WRITE_LOGS,READ_CALL_LOG,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,READ_CONTACTS,READ_SMS,READ_PHONE_STATE,RECEIVE_SMS,READ_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="com.wordpress.sarfraznawaz.callerdetails">
@@ -8244,7 +8276,7 @@
 			<size>602375</size>
 			<sdkver>8</sdkver>
 			<added>2014-07-13</added>
-			<permissions>ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,READ_LOGS,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,RECEIVE_BOOT_COMPLETED,INTERNET,READ_PHONE_STATE,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,INTERNET,READ_LOGS,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,READ_PHONE_STATE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.wifi,android.hardware.microphone,android.hardware.location.network</features>
 		</package>
 		<package>
@@ -8257,7 +8289,7 @@
 			<size>603141</size>
 			<sdkver>3</sdkver>
 			<added>2013-08-12</added>
-			<permissions>ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,READ_LOGS,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,RECEIVE_BOOT_COMPLETED,INTERNET,READ_PHONE_STATE,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,INTERNET,READ_LOGS,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,READ_PHONE_STATE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.wifi,android.hardware.microphone,android.hardware.location.network</features>
 		</package>
 		<package>
@@ -8270,7 +8302,7 @@
 			<size>334647</size>
 			<sdkver>3</sdkver>
 			<added>2013-03-04</added>
-			<permissions>ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,READ_LOGS,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,RECEIVE_BOOT_COMPLETED,INTERNET,READ_PHONE_STATE,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,INTERNET,READ_LOGS,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,READ_PHONE_STATE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.wifi,android.hardware.microphone,android.hardware.location.network</features>
 		</package>
 	</application>
@@ -8708,7 +8740,7 @@
 			<size>11215539</size>
 			<sdkver>9</sdkver>
 			<added>2014-01-24</added>
-			<permissions>info.guardianproject.otr.app.im.permission.IM_SERVICE,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,USE_CREDENTIALS,GET_ACCOUNTS,info.guardianproject.otr.app.providers.imps.permission.WRITE_ONLY,CHANGE_WIFI_MULTICAST_STATE,com.google.android.googleapps.permission.GOOGLE_AUTH,ACCESS_WIFI_STATE,VIBRATE,RECEIVE_BOOT_COMPLETED,INTERNET,info.guardianproject.otr.app.providers.imps.permission.READ_ONLY,MANAGE_ACCOUNTS,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,info.guardianproject.otr.app.im.permission.IM_SERVICE,INTERNET,GET_ACCOUNTS,info.guardianproject.otr.app.providers.imps.permission.WRITE_ONLY,CHANGE_WIFI_MULTICAST_STATE,com.google.android.googleapps.permission.GOOGLE_AUTH,ACCESS_WIFI_STATE,VIBRATE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,info.guardianproject.otr.app.providers.imps.permission.READ_ONLY,MANAGE_ACCOUNTS,USE_CREDENTIALS,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>armeabi,x86</nativecode>
 			<features>android.hardware.touchscreen,android.hardware.wifi</features>
 		</package>
@@ -8722,7 +8754,7 @@
 			<size>4061540</size>
 			<sdkver>7</sdkver>
 			<added>2013-06-05</added>
-			<permissions>ACCESS_NETWORK_STATE,info.guardianproject.otr.app.im.permission.IM_SERVICE,USE_CREDENTIALS,GET_ACCOUNTS,info.guardianproject.otr.app.providers.imps.permission.WRITE_ONLY,CHANGE_WIFI_MULTICAST_STATE,ACCESS_WIFI_STATE,VIBRATE,RECEIVE_BOOT_COMPLETED,INTERNET,info.guardianproject.otr.app.providers.imps.permission.READ_ONLY,MANAGE_ACCOUNTS,WAKE_LOCK,com.google.android.googleapps.permission.GOOGLE_AUTH</permissions>
+			<permissions>ACCESS_NETWORK_STATE,info.guardianproject.otr.app.im.permission.IM_SERVICE,USE_CREDENTIALS,INTERNET,GET_ACCOUNTS,info.guardianproject.otr.app.providers.imps.permission.WRITE_ONLY,CHANGE_WIFI_MULTICAST_STATE,ACCESS_WIFI_STATE,VIBRATE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,info.guardianproject.otr.app.providers.imps.permission.READ_ONLY,MANAGE_ACCOUNTS,com.google.android.googleapps.permission.GOOGLE_AUTH</permissions>
 			<features>android.hardware.touchscreen,android.hardware.wifi</features>
 		</package>
 		<package>
@@ -8735,7 +8767,7 @@
 			<size>3352284</size>
 			<sdkver>4</sdkver>
 			<added>2012-12-01</added>
-			<permissions>info.guardianproject.otr.app.im.permission.IM_SERVICE,INTERNET,info.guardianproject.otr.app.providers.imps.permission.WRITE_ONLY,VIBRATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,info.guardianproject.otr.app.providers.imps.permission.READ_ONLY</permissions>
+			<permissions>info.guardianproject.otr.app.im.permission.IM_SERVICE,INTERNET,info.guardianproject.otr.app.providers.imps.permission.WRITE_ONLY,CHANGE_WIFI_MULTICAST_STATE,ACCESS_WIFI_STATE,VIBRATE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,info.guardianproject.otr.app.providers.imps.permission.READ_ONLY</permissions>
 			<features>android.hardware.touchscreen,android.hardware.wifi</features>
 		</package>
 	</application>
@@ -8951,7 +8983,7 @@
 			<size>352444</size>
 			<sdkver>7</sdkver>
 			<added>2012-09-22</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,INTERNET,com.google.android.c2dm.permission.RECEIVE,GET_ACCOUNTS,com.nilhcem.frcndict.permission.C2D_MESSAGE,WAKE_LOCK</permissions>
+			<permissions>WRITE_EXTERNAL_STORAGE,WAKE_LOCK,com.google.android.c2dm.permission.RECEIVE,GET_ACCOUNTS,INTERNET,com.nilhcem.frcndict.permission.C2D_MESSAGE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -9000,8 +9032,8 @@
 		<web>https://code.google.com/p/chromadoze</web>
 		<source>https://code.google.com/p/chromadoze/source</source>
 		<tracker>https://code.google.com/p/chromadoze/issues</tracker>
-		<marketversion>3.3</marketversion>
-		<marketvercode>14</marketvercode>
+		<marketversion>3.4</marketversion>
+		<marketvercode>15</marketvercode>
 		<package>
 			<version>3.3</version>
 			<versioncode>14</versioncode>
@@ -9459,7 +9491,7 @@
 			<size>2058228</size>
 			<sdkver>10</sdkver>
 			<added>2014-06-03</added>
-			<permissions>ACCESS_NETWORK_STATE,NFC,CAMERA,VIBRATE,INTERNET</permissions>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,NFC,VIBRATE,INTERNET</permissions>
 		</package>
 		<package>
 			<version>2.0</version>
@@ -9641,6 +9673,35 @@
 			<sdkver>5</sdkver>
 			<added>2012-09-07</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
+	<application id="org.gringene.colourclock">
+		<id>org.gringene.colourclock</id>
+		<added>2014-08-12</added>
+		<lastupdated>2014-08-12</lastupdated>
+		<name>Colour Clock</name>
+		<summary>Tell the time using colours</summary>
+		<icon>org.gringene.colourclock.3.png</icon>
+		<desc>&lt;p&gt;Tell the time with colours that change as they rotate round the clock face. Blobs at the end of the hour, minute, and second regions change colours over time (red = 12, yellow = 3, green = 6, blue = 9).&lt;/p&gt;&lt;p&gt;This might help younger children to tell the time without having to know what numbers mean (e.g. it's yellow and orange).&lt;/p&gt;&lt;p&gt;A sine-wave second &quot;tick&quot; has also been implemented, as well as fixing the minute hand to integer positions. This makes the clock a bit more interesting, because each hand tells the time in a different way.&lt;/p&gt;&lt;p&gt;Other apps by this developer: &lt;a href=&quot;fdroid.app:org.gringene.concentricclock&quot;&gt;Concentric Clock&lt;/a&gt;&lt;/p&gt;</desc>
+		<license>ISC</license>
+		<categories>Office,Science &amp; Education</categories>
+		<category>Office</category>
+		<web>http://www.gringene.org/pastimes.html</web>
+		<source>https://github.com/gringer/ColourClock</source>
+		<tracker>https://github.com/gringer/ColourClock/issues</tracker>
+		<marketversion>1.1.1</marketversion>
+		<marketvercode>3</marketvercode>
+		<package>
+			<version>1.1.1</version>
+			<versioncode>3</versioncode>
+			<apkname>org.gringene.colourclock_3.apk</apkname>
+			<srcname>org.gringene.colourclock_3_src.tar.gz</srcname>
+			<hash type="sha256">c2f897fa1a5b255c586100a10ba3c1c85927790cb4b7aac8062d5b813c267ffb</hash>
+			<sig>c3d3411fc746a5a4341efe0e93610d2b</sig>
+			<size>46516</size>
+			<sdkver>16</sdkver>
+			<added>2014-08-12</added>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -9845,6 +9906,35 @@
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="org.gringene.concentricclock">
+		<id>org.gringene.concentricclock</id>
+		<added>2014-08-12</added>
+		<lastupdated>2014-08-12</lastupdated>
+		<name>Concentric Clock</name>
+		<summary>Tell the time using concentric arcs</summary>
+		<icon>org.gringene.concentricclock.3.png</icon>
+		<desc>&lt;p&gt;This is a clock that uses spinning and growing concentric arcs to tell the time, and demonstrates in a dynamic way the factors of 60. The minute hand is suggested by the start and end positions of the arcs, while the hour of day is shown by the size of the outer arc.&lt;/p&gt;&lt;p&gt;Other apps by this developer: &lt;a href=&quot;fdroid.app:org.gringene.colourclock&quot;&gt;Colour Clock&lt;/a&gt;&lt;/p&gt;</desc>
+		<license>ISC</license>
+		<categories>Office,Science &amp; Education</categories>
+		<category>Office</category>
+		<web>http://www.gringene.org/pastimes.html</web>
+		<source>https://github.com/gringer/ConcentricClock</source>
+		<tracker>https://github.com/gringer/ConcentricClock/issues</tracker>
+		<marketversion>1.1.1</marketversion>
+		<marketvercode>3</marketvercode>
+		<package>
+			<version>1.1.1</version>
+			<versioncode>3</versioncode>
+			<apkname>org.gringene.concentricclock_3.apk</apkname>
+			<srcname>org.gringene.concentricclock_3_src.tar.gz</srcname>
+			<hash type="sha256">d524dcb1c55c79fb6a6a724c4d7b9b7a8edf1abf1425aa3497e822dc823fadbf</hash>
+			<sig>4b5f9f8c30bf55bd3afe1d49fcb4203b</sig>
+			<size>40357</size>
+			<sdkver>16</sdkver>
+			<added>2014-08-12</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="org.connectbot">
 		<id>org.connectbot</id>
 		<added>2013-05-13</added>
@@ -9914,7 +10004,7 @@
 			<size>2789330</size>
 			<sdkver>16</sdkver>
 			<added>2014-08-09</added>
-			<permissions>WRITE_CONTACTS,READ_CONTACTS,WRITE_CALL_LOG,RECEIVE_BOOT_COMPLETED,READ_CALL_LOG</permissions>
+			<permissions>READ_CONTACTS,WRITE_CALL_LOG,READ_CALL_LOG,RECEIVE_BOOT_COMPLETED,WRITE_CONTACTS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -9927,7 +10017,7 @@
 			<size>2789391</size>
 			<sdkver>16</sdkver>
 			<added>2014-07-31</added>
-			<permissions>WRITE_CONTACTS,READ_CALL_LOG,WRITE_CALL_LOG,RECEIVE_BOOT_COMPLETED,READ_CONTACTS</permissions>
+			<permissions>READ_CONTACTS,WRITE_CALL_LOG,READ_CALL_LOG,RECEIVE_BOOT_COMPLETED,WRITE_CONTACTS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -9940,7 +10030,7 @@
 			<size>2786396</size>
 			<sdkver>16</sdkver>
 			<added>2014-07-24</added>
-			<permissions>WRITE_CONTACTS,READ_CALL_LOG,WRITE_CALL_LOG,RECEIVE_BOOT_COMPLETED,READ_CONTACTS</permissions>
+			<permissions>READ_CONTACTS,WRITE_CALL_LOG,READ_CALL_LOG,RECEIVE_BOOT_COMPLETED,WRITE_CONTACTS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -10172,7 +10262,7 @@
 			<size>3535325</size>
 			<sdkver>3</sdkver>
 			<added>2012-02-01</added>
-			<permissions>READ_EXTERNAL_STORAGE,WAKE_LOCK,com.android.vending.BILLING,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,INTERNET,com.android.vending.BILLING,WRITE_EXTERNAL_STORAGE,WAKE_LOCK</permissions>
 			<nativecode>armeabi,armeabi-v7a</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -10293,7 +10383,7 @@
 			<size>1058996</size>
 			<sdkver>5</sdkver>
 			<added>2013-07-08</added>
-			<permissions>WRITE_CONTACTS,GET_ACCOUNTS,INTERNET,READ_CONTACTS</permissions>
+			<permissions>WRITE_CONTACTS,READ_CONTACTS,GET_ACCOUNTS,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -10306,7 +10396,7 @@
 			<size>1052279</size>
 			<sdkver>5</sdkver>
 			<added>2012-11-13</added>
-			<permissions>WRITE_CONTACTS,GET_ACCOUNTS,INTERNET,READ_CONTACTS</permissions>
+			<permissions>WRITE_CONTACTS,READ_CONTACTS,GET_ACCOUNTS,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -10319,7 +10409,7 @@
 			<size>1031497</size>
 			<sdkver>5</sdkver>
 			<added>2012-10-11</added>
-			<permissions>WRITE_CONTACTS,GET_ACCOUNTS,INTERNET,READ_CONTACTS</permissions>
+			<permissions>WRITE_CONTACTS,READ_CONTACTS,GET_ACCOUNTS,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -10882,7 +10972,7 @@
 			<size>1193080</size>
 			<sdkver>8</sdkver>
 			<added>2013-08-12</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_CALL_LOG,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,INTERNET,READ_CONTACTS,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_CALL_LOG,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,READ_CONTACTS,INTERNET,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.wifi,android.hardware.location.network</features>
 		</package>
 		<package>
@@ -10895,7 +10985,7 @@
 			<size>1041565</size>
 			<sdkver>7</sdkver>
 			<added>2012-08-29</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_CALL_LOG,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,INTERNET,READ_CONTACTS,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_CALL_LOG,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,READ_CONTACTS,INTERNET,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.wifi,android.hardware.location.network</features>
 		</package>
 	</application>
@@ -11091,7 +11181,7 @@
 			<size>661019</size>
 			<sdkver>17</sdkver>
 			<added>2014-01-27</added>
-			<permissions>ACCESS_NETWORK_STATE,READ_CALENDAR,com.google.android.apps.dashclock.permission.READ_EXTENSION_DATA,VIBRATE,READ_CALL_LOG,ACCESS_COARSE_LOCATION,com.google.android.gm.permission.READ_CONTENT_PROVIDER,GET_ACCOUNTS,READ_CONTACTS,READ_SMS,INTERNET,WAKE_LOCK</permissions>
+			<permissions>ACCESS_NETWORK_STATE,READ_CALENDAR,com.google.android.apps.dashclock.permission.READ_EXTENSION_DATA,INTERNET,VIBRATE,READ_CALL_LOG,ACCESS_COARSE_LOCATION,com.google.android.gm.permission.READ_CONTENT_PROVIDER,GET_ACCOUNTS,READ_CONTACTS,READ_SMS,WAKE_LOCK</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -11104,7 +11194,7 @@
 			<size>650321</size>
 			<sdkver>17</sdkver>
 			<added>2013-06-25</added>
-			<permissions>ACCESS_NETWORK_STATE,READ_CALENDAR,com.google.android.apps.dashclock.permission.READ_EXTENSION_DATA,READ_CALL_LOG,ACCESS_COARSE_LOCATION,com.google.android.gm.permission.READ_CONTENT_PROVIDER,GET_ACCOUNTS,READ_CONTACTS,READ_SMS,INTERNET</permissions>
+			<permissions>ACCESS_NETWORK_STATE,READ_CALENDAR,com.google.android.apps.dashclock.permission.READ_EXTENSION_DATA,INTERNET,READ_CALL_LOG,ACCESS_COARSE_LOCATION,com.google.android.gm.permission.READ_CONTENT_PROVIDER,GET_ACCOUNTS,READ_CONTACTS,READ_SMS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -11117,7 +11207,7 @@
 			<size>470480</size>
 			<sdkver>17</sdkver>
 			<added>2013-03-28</added>
-			<permissions>ACCESS_NETWORK_STATE,READ_CALENDAR,com.google.android.apps.dashclock.permission.READ_EXTENSION_DATA,READ_CALL_LOG,ACCESS_COARSE_LOCATION,com.google.android.gm.permission.READ_CONTENT_PROVIDER,GET_ACCOUNTS,READ_CONTACTS,READ_SMS,INTERNET</permissions>
+			<permissions>ACCESS_NETWORK_STATE,READ_CALENDAR,com.google.android.apps.dashclock.permission.READ_EXTENSION_DATA,INTERNET,READ_CALL_LOG,ACCESS_COARSE_LOCATION,com.google.android.gm.permission.READ_CONTENT_PROVIDER,GET_ACCOUNTS,READ_CONTACTS,READ_SMS</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.network</features>
 		</package>
 	</application>
@@ -11583,7 +11673,7 @@
 			<size>1548538</size>
 			<sdkver>8</sdkver>
 			<added>2014-08-04</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,WAKE_LOCK,INTERNET</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WAKE_LOCK,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
 		</package>
 		<package>
 			<version>1.732</version>
@@ -11595,7 +11685,7 @@
 			<size>1638290</size>
 			<sdkver>8</sdkver>
 			<added>2014-01-31</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,WAKE_LOCK,INTERNET</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WAKE_LOCK,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
 		</package>
 		<package>
 			<version>1.72</version>
@@ -11607,7 +11697,7 @@
 			<size>1637770</size>
 			<sdkver>8</sdkver>
 			<added>2013-12-24</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,WAKE_LOCK,INTERNET</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WAKE_LOCK,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
 		</package>
 	</application>
 	<application id="com.wentam.defcol">
@@ -13242,7 +13332,7 @@
 			<size>1710753</size>
 			<sdkver>8</sdkver>
 			<added>2014-01-15</added>
-			<permissions>ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,INTERNET,BLUETOOTH,READ_LOGS,READ_SYNC_SETTINGS,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,INTERNET,BLUETOOTH,READ_LOGS,WAKE_LOCK,READ_SYNC_SETTINGS,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -13255,7 +13345,7 @@
 			<size>1677148</size>
 			<sdkver>8</sdkver>
 			<added>2013-12-27</added>
-			<permissions>ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,INTERNET,BLUETOOTH,READ_LOGS,READ_SYNC_SETTINGS,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,INTERNET,BLUETOOTH,READ_LOGS,WAKE_LOCK,READ_SYNC_SETTINGS,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -13268,7 +13358,7 @@
 			<size>1252796</size>
 			<sdkver>8</sdkver>
 			<added>2013-11-05</added>
-			<permissions>ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,INTERNET,BLUETOOTH,READ_LOGS,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,INTERNET,BLUETOOTH,READ_LOGS,WAKE_LOCK,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -14918,7 +15008,7 @@
 			<sdkver>3</sdkver>
 			<maxsdkver>4</maxsdkver>
 			<added>2013-07-02</added>
-			<permissions>READ_EXTERNAL_STORAGE,READ_PHONE_STATE,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,INTERNET</permissions>
+			<permissions>READ_PHONE_STATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,INTERNET</permissions>
 			<nativecode>armeabi,armeabi-v7a,mips,x86</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -15025,7 +15115,7 @@
 			<size>181552</size>
 			<sdkver>8</sdkver>
 			<added>2013-06-03</added>
-			<permissions>BLUETOOTH,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,BLUETOOTH,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WAKE_LOCK</permissions>
 			<features>android.hardware.touchscreen,android.hardware.bluetooth</features>
 		</package>
 		<package>
@@ -15038,7 +15128,7 @@
 			<size>113727</size>
 			<sdkver>8</sdkver>
 			<added>2013-05-16</added>
-			<permissions>BLUETOOTH,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,BLUETOOTH,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WAKE_LOCK</permissions>
 			<features>android.hardware.touchscreen,android.hardware.bluetooth</features>
 		</package>
 		<package>
@@ -15051,7 +15141,7 @@
 			<size>111639</size>
 			<sdkver>8</sdkver>
 			<added>2013-04-20</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WAKE_LOCK,BLUETOOTH</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,BLUETOOTH,WRITE_EXTERNAL_STORAGE,WAKE_LOCK</permissions>
 			<features>android.hardware.touchscreen,android.hardware.bluetooth</features>
 		</package>
 	</application>
@@ -15707,12 +15797,13 @@
 			<versioncode>8</versioncode>
 			<apkname>fr.xplod.focal_8.apk</apkname>
 			<srcname>fr.xplod.focal_8_src.tar.gz</srcname>
-			<hash type="sha256">9645c63d904e04f691172d0bd13acc4a0736141c7637ee44a628149572ee7364</hash>
+			<hash type="sha256">e5ac0acb202ac501a6b6a09939a0bccb2f06ffafcc870e6d4d083126e2e3b874</hash>
 			<sig>d78b723a07badf46e5296a5b6f9e53f2</sig>
-			<size>13769940</size>
+			<size>13770032</size>
 			<sdkver>16</sdkver>
 			<added>2014-08-10</added>
 			<permissions>CAMERA,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,READ_EXTERNAL_STORAGE</permissions>
+			<nativecode>armeabi-v7a</nativecode>
 			<features>android.hardware.camera.autofocus,android.hardware.touchscreen,android.hardware.microphone,android.hardware.camera</features>
 		</package>
 	</application>
@@ -16255,7 +16346,7 @@
 			<size>5830455</size>
 			<sdkver>8</sdkver>
 			<added>2012-12-22</added>
-			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,INTERNET,CHANGE_WIFI_MULTICAST_STATE,com.android.vending.BILLING,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,VIBRATE,SET_WALLPAPER,DISABLE_KEYGUARD,READ_PHONE_STATE,WAKE_LOCK,RECEIVE_BOOT_COMPLETED,CHANGE_NETWORK_STATE</permissions>
+			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,CHANGE_NETWORK_STATE,READ_EXTERNAL_STORAGE,WAKE_LOCK,CHANGE_WIFI_MULTICAST_STATE,DISABLE_KEYGUARD,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,VIBRATE,SET_WALLPAPER,INTERNET,READ_PHONE_STATE,com.android.vending.BILLING,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen,android.hardware.wifi</features>
 		</package>
 		<package>
@@ -16268,7 +16359,7 @@
 			<size>5263700</size>
 			<sdkver>8</sdkver>
 			<added>2012-12-22</added>
-			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,INTERNET,CHANGE_WIFI_MULTICAST_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,VIBRATE,SET_WALLPAPER,DISABLE_KEYGUARD,READ_PHONE_STATE,WAKE_LOCK,RECEIVE_BOOT_COMPLETED,CHANGE_NETWORK_STATE</permissions>
+			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,CHANGE_NETWORK_STATE,READ_EXTERNAL_STORAGE,WAKE_LOCK,CHANGE_WIFI_MULTICAST_STATE,DISABLE_KEYGUARD,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,VIBRATE,SET_WALLPAPER,INTERNET,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen,android.hardware.wifi</features>
 		</package>
 	</application>
@@ -16416,8 +16507,8 @@
 			<size>654910</size>
 			<sdkver>10</sdkver>
 			<added>2014-06-19</added>
-			<permissions>FLASHLIGHT,WRITE_SETTINGS,CHANGE_WIFI_STATE,READ_EXTERNAL_STORAGE,CALL_PHONE,WRITE_SYNC_SETTINGS,SYSTEM_ALERT_WINDOW,BLUETOOTH_ADMIN,BLUETOOTH,ACCESS_WIFI_STATE,CAMERA,RECEIVE_BOOT_COMPLETED,com.android.browser.permission.READ_HISTORY_BOOKMARKS,READ_SYNC_SETTINGS,READ_CONTACTS,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,CHANGE_NETWORK_STATE</permissions>
-			<features>android.hardware.telephony,android.hardware.touchscreen,android.hardware.wifi,android.hardware.bluetooth,android.hardware.camera</features>
+			<permissions>FLASHLIGHT,WRITE_SETTINGS,CAMERA,CHANGE_WIFI_STATE,READ_EXTERNAL_STORAGE,CALL_PHONE,WRITE_SYNC_SETTINGS,SYSTEM_ALERT_WINDOW,BLUETOOTH_ADMIN,BLUETOOTH,ACCESS_WIFI_STATE,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,com.android.browser.permission.READ_HISTORY_BOOKMARKS,READ_SYNC_SETTINGS,READ_CONTACTS,CHANGE_NETWORK_STATE,WRITE_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.telephony,android.hardware.touchscreen,android.hardware.bluetooth,android.hardware.wifi,android.hardware.camera</features>
 		</package>
 		<package>
 			<version>1.11.5</version>
@@ -17726,7 +17817,7 @@
 			<size>1123394</size>
 			<sdkver>8</sdkver>
 			<added>2012-09-10</added>
-			<permissions>ACCESS_NETWORK_STATE,NFC,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,INTERNET,com.google.android.c2dm.permission.RECEIVE,VIBRATE,com.google.android.apps.iosched.permission.C2D_MESSAGE,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CALENDAR,WRITE_CALENDAR,WAKE_LOCK,com.google.android.providers.gsf.permission.READ_GSERVICES,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>ACCESS_NETWORK_STATE,NFC,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,INTERNET,com.google.android.c2dm.permission.RECEIVE,VIBRATE,READ_CALENDAR,com.google.android.apps.iosched.permission.C2D_MESSAGE,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,com.google.android.providers.gsf.permission.READ_GSERVICES,WRITE_CALENDAR,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="net.sf.crypt.gort">
@@ -17815,7 +17906,7 @@
 			<size>61142</size>
 			<sdkver>3</sdkver>
 			<added>2012-09-07</added>
-			<permissions>WRITE_SETTINGS,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,ACCESS_COARSE_LOCATION,ACCESS_LOCATION_EXTRA_COMMANDS,INTERNET,READ_SETTINGS,READ_PHONE_STATE,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>WRITE_SETTINGS,READ_SETTINGS,READ_EXTERNAL_STORAGE,INTERNET,ACCESS_COARSE_LOCATION,ACCESS_LOCATION_EXTRA_COMMANDS,WAKE_LOCK,ACCESS_FINE_LOCATION,READ_PHONE_STATE,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.location.network</features>
 		</package>
 	</application>
@@ -17906,7 +17997,7 @@
 			<size>8539518</size>
 			<sdkver>14</sdkver>
 			<added>2014-08-10</added>
-			<permissions>FLASHLIGHT,ACCESS_NETWORK_STATE,NFC,it.greenaddress.cordova.permission.C2D_MESSAGE,GET_ACCOUNTS,com.google.android.c2dm.permission.RECEIVE,VIBRATE,CAMERA,WAKE_LOCK,READ_PHONE_STATE,INTERNET</permissions>
+			<permissions>FLASHLIGHT,ACCESS_NETWORK_STATE,NFC,READ_PHONE_STATE,it.greenaddress.cordova.permission.C2D_MESSAGE,GET_ACCOUNTS,com.google.android.c2dm.permission.RECEIVE,VIBRATE,CAMERA,WAKE_LOCK,INTERNET</permissions>
 			<nativecode>armeabi,mips,x86</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -17920,7 +18011,7 @@
 			<size>8483982</size>
 			<sdkver>14</sdkver>
 			<added>2014-08-08</added>
-			<permissions>FLASHLIGHT,ACCESS_NETWORK_STATE,NFC,it.greenaddress.cordova.permission.C2D_MESSAGE,GET_ACCOUNTS,com.google.android.c2dm.permission.RECEIVE,VIBRATE,CAMERA,WAKE_LOCK,READ_PHONE_STATE,INTERNET</permissions>
+			<permissions>FLASHLIGHT,ACCESS_NETWORK_STATE,NFC,READ_PHONE_STATE,it.greenaddress.cordova.permission.C2D_MESSAGE,GET_ACCOUNTS,com.google.android.c2dm.permission.RECEIVE,VIBRATE,CAMERA,WAKE_LOCK,INTERNET</permissions>
 			<nativecode>armeabi,mips,x86</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -17934,7 +18025,7 @@
 			<size>8483394</size>
 			<sdkver>14</sdkver>
 			<added>2014-08-07</added>
-			<permissions>FLASHLIGHT,ACCESS_NETWORK_STATE,NFC,it.greenaddress.cordova.permission.C2D_MESSAGE,GET_ACCOUNTS,com.google.android.c2dm.permission.RECEIVE,VIBRATE,CAMERA,WAKE_LOCK,READ_PHONE_STATE,INTERNET</permissions>
+			<permissions>FLASHLIGHT,ACCESS_NETWORK_STATE,NFC,READ_PHONE_STATE,it.greenaddress.cordova.permission.C2D_MESSAGE,GET_ACCOUNTS,com.google.android.c2dm.permission.RECEIVE,VIBRATE,CAMERA,WAKE_LOCK,INTERNET</permissions>
 			<nativecode>armeabi,mips,x86</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -18009,7 +18100,7 @@
 			<size>320193</size>
 			<sdkver>14</sdkver>
 			<added>2014-03-18</added>
-			<permissions>WRITE_SETTINGS,GET_TASKS,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,CALL_PHONE,WAKE_LOCK,SEND_SMS,ACCESS_SUPERUSER,WRITE_EXTERNAL_STORAGE,ACCESS_COARSE_LOCATION,INTERNET,READ_PHONE_STATE,RECEIVE_SMS,BROADCAST_STICKY</permissions>
+			<permissions>WRITE_SETTINGS,GET_TASKS,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,CALL_PHONE,READ_EXTERNAL_STORAGE,WAKE_LOCK,SEND_SMS,ACCESS_SUPERUSER,ACCESS_COARSE_LOCATION,INTERNET,READ_PHONE_STATE,RECEIVE_SMS,BROADCAST_STICKY</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.telephony,android.hardware.location.network</features>
 		</package>
 		<package>
@@ -18022,7 +18113,7 @@
 			<size>67960</size>
 			<sdkver>14</sdkver>
 			<added>2014-01-15</added>
-			<permissions>ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,CALL_PHONE,SEND_SMS,ACCESS_SUPERUSER,BROADCAST_STICKY,ACCESS_COARSE_LOCATION,INTERNET,READ_PHONE_STATE,RECEIVE_SMS,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,CALL_PHONE,READ_EXTERNAL_STORAGE,SEND_SMS,ACCESS_SUPERUSER,ACCESS_COARSE_LOCATION,INTERNET,READ_PHONE_STATE,RECEIVE_SMS,BROADCAST_STICKY</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.telephony,android.hardware.location.network</features>
 		</package>
 		<package>
@@ -18035,7 +18126,7 @@
 			<size>65935</size>
 			<sdkver>16</sdkver>
 			<added>2013-12-31</added>
-			<permissions>ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,CALL_PHONE,SEND_SMS,ACCESS_SUPERUSER,BROADCAST_STICKY,ACCESS_COARSE_LOCATION,INTERNET,READ_PHONE_STATE,RECEIVE_SMS,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,CALL_PHONE,READ_EXTERNAL_STORAGE,SEND_SMS,ACCESS_SUPERUSER,ACCESS_COARSE_LOCATION,INTERNET,READ_PHONE_STATE,RECEIVE_SMS,BROADCAST_STICKY</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.telephony,android.hardware.location.network</features>
 		</package>
 	</application>
@@ -19933,7 +20024,7 @@
 			<size>2842117</size>
 			<sdkver>14</sdkver>
 			<added>2014-08-06</added>
-			<permissions>WRITE_CONTACTS,INTERNET,RECORD_AUDIO,READ_EXTERNAL_STORAGE,WRITE_SOCIAL_STREAM,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,READ_SOCIAL_STREAM,WRITE_CALL_LOG,READ_CALL_LOG,ACCESS_COARSE_LOCATION,WRITE_EXTERNAL_STORAGE,MANAGE_ACCOUNTS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,READ_PHONE_STATE,AUTHENTICATE_ACCOUNTS</permissions>
+			<permissions>WRITE_CONTACTS,INTERNET,RECORD_AUDIO,READ_EXTERNAL_STORAGE,WRITE_SOCIAL_STREAM,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,READ_SOCIAL_STREAM,WRITE_CALL_LOG,READ_CALL_LOG,WRITE_EXTERNAL_STORAGE,ACCESS_COARSE_LOCATION,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,MANAGE_ACCOUNTS,READ_PHONE_STATE,AUTHENTICATE_ACCOUNTS</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.microphone,android.hardware.location.network</features>
 		</package>
 		<package>
@@ -19946,7 +20037,7 @@
 			<size>2841642</size>
 			<sdkver>14</sdkver>
 			<added>2014-08-02</added>
-			<permissions>WRITE_CONTACTS,INTERNET,RECORD_AUDIO,READ_EXTERNAL_STORAGE,WRITE_SOCIAL_STREAM,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,READ_SOCIAL_STREAM,WRITE_CALL_LOG,READ_CALL_LOG,ACCESS_COARSE_LOCATION,WRITE_EXTERNAL_STORAGE,MANAGE_ACCOUNTS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,READ_PHONE_STATE,AUTHENTICATE_ACCOUNTS</permissions>
+			<permissions>WRITE_CONTACTS,INTERNET,RECORD_AUDIO,READ_EXTERNAL_STORAGE,WRITE_SOCIAL_STREAM,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,READ_SOCIAL_STREAM,WRITE_CALL_LOG,READ_CALL_LOG,WRITE_EXTERNAL_STORAGE,ACCESS_COARSE_LOCATION,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,MANAGE_ACCOUNTS,READ_PHONE_STATE,AUTHENTICATE_ACCOUNTS</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.microphone,android.hardware.location.network</features>
 		</package>
 		<package>
@@ -19959,7 +20050,7 @@
 			<size>2841459</size>
 			<sdkver>14</sdkver>
 			<added>2014-08-01</added>
-			<permissions>WRITE_CONTACTS,INTERNET,RECORD_AUDIO,READ_EXTERNAL_STORAGE,WRITE_SOCIAL_STREAM,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,READ_SOCIAL_STREAM,WRITE_CALL_LOG,READ_CALL_LOG,ACCESS_COARSE_LOCATION,WRITE_EXTERNAL_STORAGE,MANAGE_ACCOUNTS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,READ_PHONE_STATE,AUTHENTICATE_ACCOUNTS</permissions>
+			<permissions>WRITE_CONTACTS,INTERNET,RECORD_AUDIO,READ_EXTERNAL_STORAGE,WRITE_SOCIAL_STREAM,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,READ_SOCIAL_STREAM,WRITE_CALL_LOG,READ_CALL_LOG,WRITE_EXTERNAL_STORAGE,ACCESS_COARSE_LOCATION,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,MANAGE_ACCOUNTS,READ_PHONE_STATE,AUTHENTICATE_ACCOUNTS</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.microphone,android.hardware.location.network</features>
 		</package>
 	</application>
@@ -20237,7 +20328,7 @@
 			<size>3429388</size>
 			<sdkver>4</sdkver>
 			<added>2013-10-23</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,WAKE_LOCK,INTERNET,READ_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,INTERNET,WAKE_LOCK,com.android.launcher.permission.INSTALL_SHORTCUT</permissions>
 			<nativecode>armeabi</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -20318,7 +20409,7 @@
 			<size>87081</size>
 			<sdkver>16</sdkver>
 			<added>2014-05-06</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,WAKE_LOCK,INTERNET</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WAKE_LOCK,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -20331,7 +20422,7 @@
 			<size>84465</size>
 			<sdkver>16</sdkver>
 			<added>2014-04-15</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,WAKE_LOCK,INTERNET</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WAKE_LOCK,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -20344,7 +20435,7 @@
 			<size>84173</size>
 			<sdkver>16</sdkver>
 			<added>2014-04-07</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,WAKE_LOCK,INTERNET</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WAKE_LOCK,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -20374,7 +20465,7 @@
 			<size>777672</size>
 			<sdkver>8</sdkver>
 			<added>2014-03-17</added>
-			<permissions>WRITE_CONTACTS,READ_CALENDAR,WRITE_EXTERNAL_STORAGE,WRITE_SMS,WRITE_SYNC_SETTINGS,SEND_SMS,WRITE_CALL_LOG,READ_CALL_LOG,ACCESS_COARSE_LOCATION,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,READ_SMS,READ_PHONE_STATE,WRITE_CALENDAR,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>WRITE_CONTACTS,READ_CALENDAR,WRITE_EXTERNAL_STORAGE,WRITE_SMS,WRITE_SYNC_SETTINGS,GET_ACCOUNTS,SEND_SMS,WRITE_CALL_LOG,READ_CALL_LOG,ACCESS_COARSE_LOCATION,READ_CONTACTS,READ_SYNC_SETTINGS,ACCESS_FINE_LOCATION,READ_SMS,READ_PHONE_STATE,WRITE_CALENDAR,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.telephony,android.hardware.location.network</features>
 		</package>
 	</application>
@@ -20610,7 +20701,7 @@
 			<size>426386</size>
 			<sdkver>4</sdkver>
 			<added>2012-01-28</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,INTERNET,ACCESS_WIFI_STATE,WAKE_LOCK,READ_PHONE_STATE,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,INTERNET,ACCESS_WIFI_STATE,WAKE_LOCK,READ_PHONE_STATE,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen,android.hardware.wifi</features>
 		</package>
 	</application>
@@ -21733,7 +21824,7 @@
 			<size>339083</size>
 			<sdkver>7</sdkver>
 			<added>2013-08-12</added>
-			<permissions>WRITE_CONTACTS,READ_CALENDAR,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,WAKE_LOCK,WRITE_CALL_LOG,READ_EXTERNAL_STORAGE,READ_CALL_LOG,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,INTERNET,WRITE_CALENDAR,AUTHENTICATE_ACCOUNTS</permissions>
+			<permissions>WRITE_CONTACTS,READ_CALENDAR,WRITE_EXTERNAL_STORAGE,READ_CALL_LOG,WRITE_SYNC_SETTINGS,WAKE_LOCK,WRITE_CALL_LOG,READ_EXTERNAL_STORAGE,GET_ACCOUNTS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,INTERNET,READ_SYNC_SETTINGS,READ_CONTACTS,WRITE_CALENDAR,AUTHENTICATE_ACCOUNTS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -21746,7 +21837,7 @@
 			<size>339778</size>
 			<sdkver>7</sdkver>
 			<added>2013-08-23</added>
-			<permissions>WRITE_CONTACTS,READ_CALENDAR,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,WAKE_LOCK,WRITE_CALL_LOG,READ_EXTERNAL_STORAGE,READ_CALL_LOG,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,INTERNET,WRITE_CALENDAR,AUTHENTICATE_ACCOUNTS</permissions>
+			<permissions>WRITE_CONTACTS,READ_CALENDAR,WRITE_EXTERNAL_STORAGE,READ_CALL_LOG,WRITE_SYNC_SETTINGS,WAKE_LOCK,WRITE_CALL_LOG,READ_EXTERNAL_STORAGE,GET_ACCOUNTS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,INTERNET,READ_SYNC_SETTINGS,READ_CONTACTS,WRITE_CALENDAR,AUTHENTICATE_ACCOUNTS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -21778,7 +21869,7 @@
 			<size>4986132</size>
 			<sdkver>8</sdkver>
 			<added>2014-01-21</added>
-			<permissions>WRITE_CONTACTS,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,CALL_PHONE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,INTERNET,com.google.android.c2dm.permission.RECEIVE,VIBRATE,READ_EXTERNAL_STORAGE,org.kontalk.permission.C2D_MESSAGE,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,MANAGE_ACCOUNTS,READ_PHONE_STATE,WAKE_LOCK,AUTHENTICATE_ACCOUNTS</permissions>
+			<permissions>WRITE_CONTACTS,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,CALL_PHONE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,INTERNET,com.google.android.c2dm.permission.RECEIVE,VIBRATE,READ_EXTERNAL_STORAGE,org.kontalk.permission.C2D_MESSAGE,READ_PHONE_STATE,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,MANAGE_ACCOUNTS,WAKE_LOCK,AUTHENTICATE_ACCOUNTS</permissions>
 		</package>
 		<package>
 			<version>2.2.8</version>
@@ -21790,7 +21881,7 @@
 			<size>4882913</size>
 			<sdkver>8</sdkver>
 			<added>2013-09-29</added>
-			<permissions>WRITE_CONTACTS,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,CALL_PHONE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,INTERNET,com.google.android.c2dm.permission.RECEIVE,VIBRATE,READ_EXTERNAL_STORAGE,org.kontalk.permission.C2D_MESSAGE,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,MANAGE_ACCOUNTS,READ_PHONE_STATE,WAKE_LOCK,AUTHENTICATE_ACCOUNTS</permissions>
+			<permissions>WRITE_CONTACTS,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,CALL_PHONE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,INTERNET,com.google.android.c2dm.permission.RECEIVE,VIBRATE,READ_EXTERNAL_STORAGE,org.kontalk.permission.C2D_MESSAGE,READ_PHONE_STATE,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,MANAGE_ACCOUNTS,WAKE_LOCK,AUTHENTICATE_ACCOUNTS</permissions>
 		</package>
 		<package>
 			<version>2.2.7</version>
@@ -21802,7 +21893,7 @@
 			<size>4780010</size>
 			<sdkver>8</sdkver>
 			<added>2013-06-03</added>
-			<permissions>WRITE_CONTACTS,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,CALL_PHONE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,WAKE_LOCK,com.google.android.c2dm.permission.RECEIVE,VIBRATE,READ_EXTERNAL_STORAGE,GET_ACCOUNTS,org.kontalk.permission.C2D_MESSAGE,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,INTERNET,READ_SYNC_SETTINGS,READ_CONTACTS,MANAGE_ACCOUNTS,READ_PHONE_STATE,RECEIVE_SMS,AUTHENTICATE_ACCOUNTS</permissions>
+			<permissions>WRITE_CONTACTS,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,CALL_PHONE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,GET_ACCOUNTS,com.google.android.c2dm.permission.RECEIVE,VIBRATE,READ_EXTERNAL_STORAGE,org.kontalk.permission.C2D_MESSAGE,READ_PHONE_STATE,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,INTERNET,READ_SYNC_SETTINGS,READ_CONTACTS,MANAGE_ACCOUNTS,WAKE_LOCK,RECEIVE_SMS,AUTHENTICATE_ACCOUNTS</permissions>
 		</package>
 	</application>
 	<application id="org.kwaak3">
@@ -22022,7 +22113,7 @@
 			<size>302259</size>
 			<sdkver>5</sdkver>
 			<added>2012-07-26</added>
-			<permissions>WRITE_SETTINGS,WRITE_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,WRITE_CONTACTS,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,GET_ACCOUNTS,WRITE_CALL_LOG,READ_EXTERNAL_STORAGE,READ_CALL_LOG,READ_SYNC_STATS,INTERNET,WRITE_SECURE_SETTINGS,READ_CONTACTS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
+			<permissions>WRITE_SETTINGS,WRITE_EXTERNAL_STORAGE,WRITE_CONTACTS,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,GET_ACCOUNTS,WRITE_CALL_LOG,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,READ_CALL_LOG,READ_SYNC_STATS,INTERNET,WRITE_SECURE_SETTINGS,READ_CONTACTS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -22593,7 +22684,7 @@
 			<size>10663996</size>
 			<sdkver>8</sdkver>
 			<added>2013-07-28</added>
-			<permissions>WRITE_CONTACTS,org.linphone.permission.C2D_MESSAGE,ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,CALL_PHONE,PROCESS_OUTGOING_CALLS,GET_ACCOUNTS,com.google.android.c2dm.permission.RECEIVE,VIBRATE,BLUETOOTH,READ_EXTERNAL_STORAGE,CAMERA,RECEIVE_BOOT_COMPLETED,READ_LOGS,READ_CONTACTS,MODIFY_AUDIO_SETTINGS,INTERNET,READ_PHONE_STATE,WAKE_LOCK,BROADCAST_STICKY</permissions>
+			<permissions>WRITE_CONTACTS,org.linphone.permission.C2D_MESSAGE,ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,CALL_PHONE,PROCESS_OUTGOING_CALLS,GET_ACCOUNTS,com.google.android.c2dm.permission.RECEIVE,VIBRATE,BLUETOOTH,READ_LOGS,CAMERA,RECEIVE_BOOT_COMPLETED,INTERNET,READ_EXTERNAL_STORAGE,READ_CONTACTS,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,WAKE_LOCK,BROADCAST_STICKY</permissions>
 			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
 			<features>android.hardware.touchscreen,android.hardware.microphone,android.hardware.bluetooth</features>
 		</package>
@@ -23972,7 +24063,7 @@
 			<size>59445</size>
 			<sdkver>10</sdkver>
 			<added>2014-08-02</added>
-			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.USE_OUTGOING_FILETRANSFER_SERVICE,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>org.projectmaxs.permission.USE_OUTGOING_FILETRANSFER_SERVICE,org.projectmaxs.permission.USE_MAIN,READ_EXTERNAL_STORAGE,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
 		<package>
 			<version>0.0.1.17</version>
@@ -23984,7 +24075,7 @@
 			<size>69914</size>
 			<sdkver>10</sdkver>
 			<added>2014-06-12</added>
-			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.USE_OUTGOING_FILETRANSFER_SERVICE,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>org.projectmaxs.permission.USE_OUTGOING_FILETRANSFER_SERVICE,org.projectmaxs.permission.USE_MAIN,READ_EXTERNAL_STORAGE,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
 		<package>
 			<version>0.0.1.16</version>
@@ -23996,7 +24087,7 @@
 			<size>69962</size>
 			<sdkver>10</sdkver>
 			<added>2014-06-06</added>
-			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.USE_OUTGOING_FILETRANSFER_SERVICE,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>org.projectmaxs.permission.USE_OUTGOING_FILETRANSFER_SERVICE,org.projectmaxs.permission.USE_MAIN,READ_EXTERNAL_STORAGE,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
 	</application>
 	<application id="org.projectmaxs.module.filewrite">
@@ -24028,7 +24119,7 @@
 			<size>56425</size>
 			<sdkver>10</sdkver>
 			<added>2014-08-02</added>
-			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,org.projectmaxs.permission.USE_MAIN,WRITE_EXTERNAL_STORAGE,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
 		<package>
 			<version>0.0.1.17</version>
@@ -24040,7 +24131,7 @@
 			<size>66946</size>
 			<sdkver>10</sdkver>
 			<added>2014-06-12</added>
-			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,org.projectmaxs.permission.USE_MAIN,WRITE_EXTERNAL_STORAGE,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
 		<package>
 			<version>0.0.1.16</version>
@@ -24052,7 +24143,7 @@
 			<size>66990</size>
 			<sdkver>10</sdkver>
 			<added>2014-06-06</added>
-			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,org.projectmaxs.permission.USE_MAIN,WRITE_EXTERNAL_STORAGE,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
 	</application>
 	<application id="org.projectmaxs.module.locationfine">
@@ -25573,7 +25664,7 @@
 			<size>2657242</size>
 			<sdkver>15</sdkver>
 			<added>2014-08-11</added>
-			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,AUTHENTICATE_ACCOUNTS,GET_ACCOUNTS,VIBRATE,MANAGE_DOCUMENTS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,INTERNET,READ_SYNC_SETTINGS,MODIFY_AUDIO_SETTINGS,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,INTERNET,VIBRATE,READ_EXTERNAL_STORAGE,MANAGE_DOCUMENTS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,MODIFY_AUDIO_SETTINGS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
 			<features>android.hardware.touchscreen,android.hardware.microphone</features>
 		</package>
 		<package>
@@ -26046,7 +26137,7 @@
 			<size>187712</size>
 			<sdkver>3</sdkver>
 			<added>2013-04-13</added>
-			<permissions>FLASHLIGHT,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,DISABLE_KEYGUARD,ACCESS_COARSE_LOCATION,CAMERA,RECEIVE_BOOT_COMPLETED,INTERNET,ACCESS_FINE_LOCATION,WAKE_LOCK,RECEIVE_SMS,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>FLASHLIGHT,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET,DISABLE_KEYGUARD,ACCESS_COARSE_LOCATION,CAMERA,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,ACCESS_FINE_LOCATION,RECEIVE_SMS,READ_EXTERNAL_STORAGE</permissions>
 		</package>
 		<package>
 			<version>2.62</version>
@@ -26058,7 +26149,7 @@
 			<size>159474</size>
 			<sdkver>3</sdkver>
 			<added>2013-02-11</added>
-			<permissions>FLASHLIGHT,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,DISABLE_KEYGUARD,ACCESS_COARSE_LOCATION,CAMERA,RECEIVE_BOOT_COMPLETED,INTERNET,ACCESS_FINE_LOCATION,WAKE_LOCK,RECEIVE_SMS,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>FLASHLIGHT,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET,DISABLE_KEYGUARD,ACCESS_COARSE_LOCATION,CAMERA,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,ACCESS_FINE_LOCATION,RECEIVE_SMS,READ_EXTERNAL_STORAGE</permissions>
 		</package>
 		<package>
 			<version>2.59</version>
@@ -26070,7 +26161,7 @@
 			<size>157999</size>
 			<sdkver>3</sdkver>
 			<added>2012-12-04</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,DISABLE_KEYGUARD,ACCESS_COARSE_LOCATION,CAMERA,RECEIVE_BOOT_COMPLETED,INTERNET,ACCESS_FINE_LOCATION,WAKE_LOCK,RECEIVE_SMS,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET,DISABLE_KEYGUARD,ACCESS_COARSE_LOCATION,CAMERA,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,ACCESS_FINE_LOCATION,RECEIVE_SMS,READ_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="com.mobiperf">
@@ -26142,7 +26233,7 @@
 			<size>1972040</size>
 			<sdkver>8</sdkver>
 			<added>2013-04-13</added>
-			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,INTERNET,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,READ_LOGS,VIBRATE,READ_EXTERNAL_STORAGE,READ_CALL_LOG,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
+			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,READ_LOGS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,INTERNET,VIBRATE,READ_EXTERNAL_STORAGE,READ_CALL_LOG,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -26155,7 +26246,7 @@
 			<size>1971569</size>
 			<sdkver>8</sdkver>
 			<added>2013-02-21</added>
-			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,INTERNET,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,READ_LOGS,VIBRATE,READ_EXTERNAL_STORAGE,READ_CALL_LOG,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
+			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,READ_LOGS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,INTERNET,VIBRATE,READ_EXTERNAL_STORAGE,READ_CALL_LOG,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -26168,7 +26259,7 @@
 			<size>1970057</size>
 			<sdkver>8</sdkver>
 			<added>2013-02-04</added>
-			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,INTERNET,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,READ_LOGS,VIBRATE,READ_EXTERNAL_STORAGE,READ_CALL_LOG,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
+			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,READ_LOGS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,INTERNET,VIBRATE,READ_EXTERNAL_STORAGE,READ_CALL_LOG,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -26588,7 +26679,7 @@
 			<size>323698</size>
 			<sdkver>8</sdkver>
 			<added>2014-06-05</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,WAKE_LOCK,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,CHANGE_WIFI_STATE,READ_SYNC_STATS,INTERNET,READ_SYNC_SETTINGS,ACCESS_FINE_LOCATION,CHANGE_NETWORK_STATE,READ_PHONE_STATE,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>ACCESS_NETWORK_STATE,CHANGE_NETWORK_STATE,WRITE_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,WAKE_LOCK,READ_EXTERNAL_STORAGE,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,CHANGE_WIFI_STATE,READ_SYNC_STATS,INTERNET,READ_SYNC_SETTINGS,ACCESS_FINE_LOCATION,READ_PHONE_STATE,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.telephony,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.location,android.hardware.location.network,android.hardware.wifi</features>
 		</package>
 		<package>
@@ -26601,7 +26692,7 @@
 			<size>322728</size>
 			<sdkver>8</sdkver>
 			<added>2014-05-28</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,WAKE_LOCK,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,CHANGE_WIFI_STATE,READ_SYNC_STATS,INTERNET,READ_SYNC_SETTINGS,ACCESS_FINE_LOCATION,CHANGE_NETWORK_STATE,READ_PHONE_STATE,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>ACCESS_NETWORK_STATE,CHANGE_NETWORK_STATE,WRITE_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,WAKE_LOCK,READ_EXTERNAL_STORAGE,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,CHANGE_WIFI_STATE,READ_SYNC_STATS,INTERNET,READ_SYNC_SETTINGS,ACCESS_FINE_LOCATION,READ_PHONE_STATE,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.telephony,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.location,android.hardware.location.network,android.hardware.wifi</features>
 		</package>
 	</application>
@@ -26815,7 +26906,7 @@
 			<size>6994418</size>
 			<sdkver>7</sdkver>
 			<added>2014-02-18</added>
-			<permissions>READ_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,INTERNET</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE,WAKE_LOCK,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -26828,7 +26919,7 @@
 			<size>6468361</size>
 			<sdkver>7</sdkver>
 			<added>2013-06-04</added>
-			<permissions>READ_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,INTERNET</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE,WAKE_LOCK,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -26999,7 +27090,7 @@
 			<size>5722685</size>
 			<sdkver>8</sdkver>
 			<added>2014-08-10</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,INTERNET</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
 			<nativecode>mips</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -27013,7 +27104,7 @@
 			<size>5373669</size>
 			<sdkver>8</sdkver>
 			<added>2014-08-10</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,INTERNET</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
 			<nativecode>x86</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -27027,7 +27118,7 @@
 			<size>9980874</size>
 			<sdkver>8</sdkver>
 			<added>2014-08-10</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,INTERNET</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
 			<nativecode>armeabi,armeabi-v7a</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -27238,7 +27329,7 @@
 			<size>1917510</size>
 			<sdkver>17</sdkver>
 			<added>2014-03-03</added>
-			<permissions>READ_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,INTERNET</permissions>
+			<permissions>WRITE_EXTERNAL_STORAGE,WAKE_LOCK,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,INTERNET</permissions>
 			<features>android.hardware.touchscreen,android.software.live_wallpaper</features>
 		</package>
 	</application>
@@ -27499,7 +27590,7 @@
 			<size>51712</size>
 			<sdkver>8</sdkver>
 			<added>2012-09-15</added>
-			<permissions>WRITE_SETTINGS,MODIFY_PHONE_STATE,CALL_PHONE,WAKE_LOCK,RECEIVE_BOOT_COMPLETED,DISABLE_KEYGUARD,READ_PHONE_STATE</permissions>
+			<permissions>WRITE_SETTINGS,MODIFY_PHONE_STATE,WAKE_LOCK,CALL_PHONE,RECEIVE_BOOT_COMPLETED,DISABLE_KEYGUARD,READ_PHONE_STATE</permissions>
 			<features>android.hardware.telephony,android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -27599,7 +27690,7 @@
 			<size>1210669</size>
 			<sdkver>4</sdkver>
 			<added>2013-10-10</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_LOGS,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,DISABLE_KEYGUARD,READ_CONTACTS,INTERNET,WAKE_LOCK,RECEIVE_SMS,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>INTERNET,READ_LOGS,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,ACCESS_WIFI_STATE,ACCESS_NETWORK_STATE,CHANGE_WIFI_STATE,DISABLE_KEYGUARD,READ_CONTACTS,READ_PHONE_STATE,RECEIVE_SMS,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.telephony,android.hardware.touchscreen,android.hardware.wifi</features>
 		</package>
 		<package>
@@ -27612,7 +27703,7 @@
 			<size>1078768</size>
 			<sdkver>4</sdkver>
 			<added>2013-03-14</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_CALL_LOG,READ_LOGS,ACCESS_WIFI_STATE,DISABLE_KEYGUARD,READ_PHONE_STATE,READ_CONTACTS,INTERNET,WAKE_LOCK,RECEIVE_SMS,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>INTERNET,READ_LOGS,WRITE_EXTERNAL_STORAGE,READ_CALL_LOG,WAKE_LOCK,ACCESS_WIFI_STATE,ACCESS_NETWORK_STATE,DISABLE_KEYGUARD,READ_CONTACTS,READ_PHONE_STATE,RECEIVE_SMS,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.telephony,android.hardware.touchscreen,android.hardware.wifi</features>
 		</package>
 		<package>
@@ -27625,7 +27716,7 @@
 			<size>941540</size>
 			<sdkver>4</sdkver>
 			<added>2012-01-06</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_CALL_LOG,INTERNET,ACCESS_WIFI_STATE,DISABLE_KEYGUARD,READ_CONTACTS,READ_PHONE_STATE,WAKE_LOCK,RECEIVE_SMS,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>INTERNET,WRITE_EXTERNAL_STORAGE,READ_CALL_LOG,WAKE_LOCK,ACCESS_WIFI_STATE,ACCESS_NETWORK_STATE,DISABLE_KEYGUARD,READ_CONTACTS,READ_PHONE_STATE,RECEIVE_SMS,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.telephony,android.hardware.touchscreen,android.hardware.wifi</features>
 		</package>
 	</application>
@@ -27655,7 +27746,7 @@
 			<size>638782</size>
 			<sdkver>8</sdkver>
 			<added>2014-02-16</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,ACCESS_WIFI_STATE,INTERNET,CHANGE_NETWORK_STATE</permissions>
+			<permissions>ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,ACCESS_WIFI_STATE,INTERNET,CHANGE_NETWORK_STATE,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen,android.hardware.wifi</features>
 		</package>
 		<package>
@@ -27668,7 +27759,7 @@
 			<size>637794</size>
 			<sdkver>8</sdkver>
 			<added>2014-01-07</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,ACCESS_WIFI_STATE,INTERNET,CHANGE_NETWORK_STATE</permissions>
+			<permissions>ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,ACCESS_WIFI_STATE,INTERNET,CHANGE_NETWORK_STATE,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen,android.hardware.wifi</features>
 		</package>
 		<package>
@@ -27681,7 +27772,7 @@
 			<size>557772</size>
 			<sdkver>8</sdkver>
 			<added>2013-02-12</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,ACCESS_WIFI_STATE,INTERNET,CHANGE_NETWORK_STATE</permissions>
+			<permissions>ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,ACCESS_WIFI_STATE,INTERNET,CHANGE_NETWORK_STATE,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen,android.hardware.wifi</features>
 		</package>
 	</application>
@@ -27961,8 +28052,8 @@
 		<web>http://www.navit-project.org</web>
 		<source>http://sourceforge.net/p/navit/code</source>
 		<tracker>http://trac.navit-project.org</tracker>
-		<marketversion>5854</marketversion>
-		<marketvercode>5854</marketvercode>
+		<marketversion>5867</marketversion>
+		<marketvercode>5867</marketvercode>
 		<package>
 			<version>navit 0.5.0-5830</version>
 			<versioncode>5830</versioncode>
@@ -30126,7 +30217,7 @@
 			<size>979328</size>
 			<sdkver>4</sdkver>
 			<added>2014-05-20</added>
-			<permissions>org.openintents.safe.ACCESS_SERVICE,READ_EXTERNAL_STORAGE,org.openintents.safe.ACCESS_INTENTS,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,org.openintents.safe.ACCESS_INTENTS,org.openintents.safe.ACCESS_SERVICE</permissions>
 		</package>
 	</application>
 	<application id="edu.nyu.cs.omnidroid.app">
@@ -30185,7 +30276,7 @@
 			<size>933432</size>
 			<sdkver>4</sdkver>
 			<added>2013-10-29</added>
-			<permissions>com.android.launcher.permission.INSTALL_SHORTCUT,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WAKE_LOCK</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,WRITE_EXTERNAL_STORAGE,WAKE_LOCK</permissions>
 			<nativecode>armeabi</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -30792,7 +30883,7 @@
 			<size>3667443</size>
 			<sdkver>9</sdkver>
 			<added>2014-05-09</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,NFC,READ_EXTERNAL_STORAGE,INTERNET,GET_ACCOUNTS</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,GET_ACCOUNTS,NFC,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
 		</package>
 		<package>
 			<version>2.6.1</version>
@@ -30804,7 +30895,7 @@
 			<size>3315791</size>
 			<sdkver>9</sdkver>
 			<added>2014-04-23</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,NFC,READ_EXTERNAL_STORAGE,INTERNET,GET_ACCOUNTS</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,GET_ACCOUNTS,NFC,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
 		</package>
 		<package>
 			<version>2.6</version>
@@ -30816,7 +30907,7 @@
 			<size>3314746</size>
 			<sdkver>9</sdkver>
 			<added>2014-04-20</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,NFC,READ_EXTERNAL_STORAGE,INTERNET,GET_ACCOUNTS</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,GET_ACCOUNTS,NFC,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
 		</package>
 	</application>
 	<application id="de.jdsoft.law">
@@ -31208,7 +31299,7 @@
 			<size>341607</size>
 			<sdkver>3</sdkver>
 			<added>2013-01-10</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,VIBRATE,ACCESS_SUPERUSER,INTERNET,BROADCAST_STICKY</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,VIBRATE,ACCESS_SUPERUSER,INTERNET,WRITE_EXTERNAL_STORAGE,BROADCAST_STICKY</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -31472,10 +31563,10 @@
 	<application id="org.torproject.android">
 		<id>org.torproject.android</id>
 		<added>2012-12-14</added>
-		<lastupdated>2014-08-08</lastupdated>
+		<lastupdated>2014-08-12</lastupdated>
 		<name>Orbot</name>
 		<summary>Tor (anonymity) client</summary>
-		<icon>org.torproject.android.116.png</icon>
+		<icon>org.torproject.android.118.png</icon>
 		<desc>&lt;p&gt;Tor is both software and an open network that helps you defend against network surveillance that threatens personal freedom and privacy, confidential business activities and relationships.&lt;/p&gt;&lt;p&gt;Orbot allows access to Tor by accessing a local SOCKS or HTTP proxy. On a rooted device, the proxying can be completely transparent i.e. the app that accesses the network need not be aware of the proxy's existence; you can choose which apps go via the proxy in the settings.&lt;/p&gt;&lt;p&gt;If you don't have root access, there are some apps that are designed to work closely with tor or allow proxied connections: &lt;a href=&quot;fdroid.app:info.guardianproject.otr.app.im&quot;&gt;ChatSecure&lt;/a&gt;, &lt;a href=&quot;fdroid.app:info.guardianproject.browser&quot;&gt;Orweb&lt;/a&gt; and &lt;a href=&quot;fdroid.app:org.mariotaku.twidere&quot;&gt;Twidere&lt;/a&gt;. There is also a proxy configurator addon for &lt;a href=&quot;fdroid.app:org.mozilla.firefox&quot;&gt;Firefox&lt;/a&gt; called &lt;a href=&quot;https://github.com/guardianproject/ProxyMob/downloads&quot;&gt;ProxyMob&lt;/a&gt; (not yet available from the Mozilla addon site).&lt;/p&gt;&lt;p&gt;Requires root: No, but you will need to use apps that allow proxies if root is not granted.&lt;/p&gt;</desc>
 		<license>NewBSD</license>
 		<categories>Security,Internet</categories>
@@ -31485,8 +31576,21 @@
 		<tracker>https://dev.guardianproject.info/projects/orbot/issues</tracker>
 		<donate>https://www.torproject.org/donate/donate.html.en</donate>
 		<flattr>5649</flattr>
-		<marketversion>14.0.5.3</marketversion>
-		<marketvercode>116</marketvercode>
+		<marketversion>14.0.6</marketversion>
+		<marketvercode>118</marketvercode>
+		<package>
+			<version>14.0.6</version>
+			<versioncode>118</versioncode>
+			<apkname>org.torproject.android_118.apk</apkname>
+			<srcname>org.torproject.android_118_src.tar.gz</srcname>
+			<hash type="sha256">9ba34ab6a9d0dfae8d2e0a1f959d12f4537659e2b49c90d127475862e9aa2f7b</hash>
+			<sig>712fc2bc32764a0345e72e6c71483028</sig>
+			<size>5526490</size>
+			<sdkver>9</sdkver>
+			<added>2014-08-12</added>
+			<permissions>org.torproject.android.MANAGE_TOR,ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,RECEIVE_BOOT_COMPLETED,INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>14.0.5.3</version>
 			<versioncode>116</versioncode>
@@ -31513,26 +31617,13 @@
 			<permissions>org.torproject.android.MANAGE_TOR,ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,RECEIVE_BOOT_COMPLETED,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
-		<package>
-			<version>14.0.5.1</version>
-			<versioncode>114</versioncode>
-			<apkname>org.torproject.android_114.apk</apkname>
-			<srcname>org.torproject.android_114_src.tar.gz</srcname>
-			<hash type="sha256">888d6e8c8db2f7a219def7dbcbbf3c968f928bb57145b2bfe2c6df0a6905456a</hash>
-			<sig>712fc2bc32764a0345e72e6c71483028</sig>
-			<size>5522030</size>
-			<sdkver>9</sdkver>
-			<added>2014-08-03</added>
-			<permissions>org.torproject.android.MANAGE_TOR,ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,RECEIVE_BOOT_COMPLETED,INTERNET</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
 	</application>
 	<application id="org.ethack.orwall">
 		<id>org.ethack.orwall</id>
 		<added>2014-08-05</added>
 		<lastupdated>2014-08-11</lastupdated>
 		<name>orWall</name>
-		<summary>Force apps to use TOR</summary>
+		<summary>Force apps to use Tor</summary>
 		<icon>org.ethack.orwall.19.png</icon>
 		<desc>&lt;p&gt;Force selected applications through Orbot while preventing unchecked applications to have network access.&lt;/p&gt;&lt;p&gt;In short, orWall will add special iptables rules in order to redirect traffic for applications through Tor; it will also add required rules in order to block traffic for other apps. The redirection is based on the application user id. Each android application runs as a dedicated user, and iptables has support for traffic filtering based on the process owner, meaning it's really easy and pretty safe to do this kind of thing on an Android device.&lt;/p&gt;&lt;p&gt;The application works in two stages: first, an init-script will block all incoming and outgoing traffic. This should prevent leaks, knowing Android sends stuff before you can even access the device. Second stage comes once the device is fully booted: orWall itself takes the lead on the firewall, and add required rules in order to allow Orbot traffic, and redirect selected application to Orbot TransPort.&lt;/p&gt;&lt;p&gt;Limitations: init-script works only on Android 4.4.x&lt;/p&gt;</desc>
 		<license>GPLv3</license>
@@ -31554,7 +31645,7 @@
 			<size>2192416</size>
 			<sdkver>14</sdkver>
 			<added>2014-08-11</added>
-			<permissions>ACCESS_WIFI_STATE,ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,RECEIVE_BOOT_COMPLETED,INTERNET</permissions>
+			<permissions>ACCESS_WIFI_STATE,ACCESS_NETWORK_STATE,INTERNET,RECEIVE_BOOT_COMPLETED,ACCESS_SUPERUSER</permissions>
 			<features>android.hardware.touchscreen,android.hardware.wifi</features>
 		</package>
 		<package>
@@ -32016,7 +32107,7 @@
 			<size>2150725</size>
 			<sdkver>8</sdkver>
 			<added>2014-08-01</added>
-			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,BROADCAST_STICKY,READ_SYNC_STATS,READ_PHONE_STATE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,GET_ACCOUNTS,READ_EXTERNAL_STORAGE,MANAGE_ACCOUNTS,RECEIVE_BOOT_COMPLETED,INTERNET,READ_SYNC_SETTINGS,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,AUTHENTICATE_ACCOUNTS</permissions>
+			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,BROADCAST_STICKY,READ_PHONE_STATE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,GET_ACCOUNTS,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,INTERNET,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,WAKE_LOCK,AUTHENTICATE_ACCOUNTS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -32029,7 +32120,7 @@
 			<size>2093733</size>
 			<sdkver>8</sdkver>
 			<added>2014-06-04</added>
-			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,BROADCAST_STICKY,READ_SYNC_STATS,READ_PHONE_STATE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,GET_ACCOUNTS,READ_EXTERNAL_STORAGE,MANAGE_ACCOUNTS,RECEIVE_BOOT_COMPLETED,INTERNET,READ_SYNC_SETTINGS,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,AUTHENTICATE_ACCOUNTS</permissions>
+			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,BROADCAST_STICKY,READ_PHONE_STATE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,GET_ACCOUNTS,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,INTERNET,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,WAKE_LOCK,AUTHENTICATE_ACCOUNTS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -32042,7 +32133,7 @@
 			<size>2093690</size>
 			<sdkver>8</sdkver>
 			<added>2014-05-31</added>
-			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,BROADCAST_STICKY,READ_SYNC_STATS,READ_PHONE_STATE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,GET_ACCOUNTS,READ_EXTERNAL_STORAGE,MANAGE_ACCOUNTS,RECEIVE_BOOT_COMPLETED,INTERNET,READ_SYNC_SETTINGS,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,AUTHENTICATE_ACCOUNTS</permissions>
+			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,BROADCAST_STICKY,READ_PHONE_STATE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,GET_ACCOUNTS,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,INTERNET,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,WAKE_LOCK,AUTHENTICATE_ACCOUNTS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -33731,7 +33822,7 @@
 			<size>1611411</size>
 			<sdkver>9</sdkver>
 			<added>2014-08-07</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,INTERNET,READ_EXTERNAL_STORAGE,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS</permissions>
+			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,USE_CREDENTIALS,INTERNET,WRITE_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS</permissions>
 			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -33745,7 +33836,7 @@
 			<size>1589994</size>
 			<sdkver>9</sdkver>
 			<added>2014-07-20</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,INTERNET,READ_EXTERNAL_STORAGE,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS</permissions>
+			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,USE_CREDENTIALS,INTERNET,WRITE_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS</permissions>
 			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -33759,7 +33850,7 @@
 			<size>874193</size>
 			<sdkver>9</sdkver>
 			<added>2014-02-06</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,INTERNET,READ_EXTERNAL_STORAGE,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS</permissions>
+			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,USE_CREDENTIALS,INTERNET,WRITE_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -34296,7 +34387,7 @@
 			<size>1552366</size>
 			<sdkver>7</sdkver>
 			<added>2014-08-02</added>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_LOGS,VIBRATE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,READ_PHONE_STATE</permissions>
+			<permissions>INTERNET,READ_LOGS,VIBRATE,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,READ_PHONE_STATE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -34353,7 +34444,7 @@
 			<size>479976</size>
 			<sdkver>11</sdkver>
 			<added>2014-01-07</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,READ_PHONE_STATE,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,INTERNET</permissions>
+			<permissions>READ_PHONE_STATE,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -36050,7 +36141,7 @@
 			<size>670145</size>
 			<sdkver>7</sdkver>
 			<added>2014-04-13</added>
-			<permissions>VIBRATE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,INTERNET</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,VIBRATE,RECEIVE_BOOT_COMPLETED,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -36193,7 +36284,7 @@
 			<size>157412</size>
 			<sdkver>3</sdkver>
 			<added>2011-01-31</added>
-			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_CALL_LOG,WAKE_LOCK,RECEIVE_MMS,BLUETOOTH_ADMIN,BLUETOOTH,ACCESS_WIFI_STATE,BATTERY_STATS,CHANGE_WIFI_STATE,RECEIVE_BOOT_COMPLETED,READ_LOGS,READ_CONTACTS,INTERNET,READ_PHONE_STATE,RECEIVE_SMS,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,READ_LOGS,WRITE_EXTERNAL_STORAGE,READ_CALL_LOG,WAKE_LOCK,RECEIVE_MMS,BLUETOOTH_ADMIN,BLUETOOTH,ACCESS_WIFI_STATE,BATTERY_STATS,CHANGE_WIFI_STATE,RECEIVE_BOOT_COMPLETED,INTERNET,READ_CONTACTS,READ_PHONE_STATE,RECEIVE_SMS,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.telephony,android.hardware.touchscreen,android.hardware.wifi</features>
 		</package>
 	</application>
@@ -36254,7 +36345,7 @@
 			<size>256771</size>
 			<sdkver>0</sdkver>
 			<added>2012-01-08</added>
-			<permissions>READ_EXTERNAL_STORAGE,READ_PHONE_STATE,WRITE_EXTERNAL_STORAGE,BLUETOOTH,INTERNET</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,INTERNET,READ_PHONE_STATE,BLUETOOTH</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -38273,7 +38364,7 @@
 			<size>70653</size>
 			<sdkver>4</sdkver>
 			<added>2013-02-22</added>
-			<permissions>com.android.vending.BILLING,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -38286,7 +38377,7 @@
 			<size>69932</size>
 			<sdkver>4</sdkver>
 			<added>2012-10-10</added>
-			<permissions>com.android.vending.BILLING,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -38299,7 +38390,7 @@
 			<size>69877</size>
 			<sdkver>4</sdkver>
 			<added>2012-08-23</added>
-			<permissions>com.android.vending.BILLING,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -38429,8 +38520,8 @@
 			<size>1278858</size>
 			<sdkver>15</sdkver>
 			<added>2014-02-18</added>
-			<permissions>ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,BLUETOOTH_ADMIN,BLUETOOTH,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,CHANGE_WIFI_STATE,ACCESS_LOCATION_EXTRA_COMMANDS,INTERNET,ACCESS_FINE_LOCATION,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.bluetooth,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.location.network,android.hardware.location,android.hardware.wifi</features>
+			<permissions>ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,READ_EXTERNAL_STORAGE,BLUETOOTH_ADMIN,BLUETOOTH,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,CHANGE_WIFI_STATE,ACCESS_LOCATION_EXTRA_COMMANDS,INTERNET,ACCESS_FINE_LOCATION,READ_PHONE_STATE,WRITE_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen,android.hardware.location.gps,android.hardware.location.network,android.hardware.bluetooth,android.hardware.location,android.hardware.wifi</features>
 		</package>
 		<package>
 			<version>1.1.11</version>
@@ -38442,8 +38533,8 @@
 			<size>1284573</size>
 			<sdkver>8</sdkver>
 			<added>2013-10-17</added>
-			<permissions>ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,BLUETOOTH_ADMIN,BLUETOOTH,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,CHANGE_WIFI_STATE,ACCESS_LOCATION_EXTRA_COMMANDS,INTERNET,ACCESS_FINE_LOCATION,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.bluetooth,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.location.network,android.hardware.location,android.hardware.wifi</features>
+			<permissions>ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,READ_EXTERNAL_STORAGE,BLUETOOTH_ADMIN,BLUETOOTH,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,CHANGE_WIFI_STATE,ACCESS_LOCATION_EXTRA_COMMANDS,INTERNET,ACCESS_FINE_LOCATION,READ_PHONE_STATE,WRITE_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen,android.hardware.location.gps,android.hardware.location.network,android.hardware.bluetooth,android.hardware.location,android.hardware.wifi</features>
 		</package>
 		<package>
 			<version>1.1.8</version>
@@ -38455,8 +38546,8 @@
 			<size>1283512</size>
 			<sdkver>8</sdkver>
 			<added>2013-08-13</added>
-			<permissions>ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,BLUETOOTH_ADMIN,BLUETOOTH,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,CHANGE_WIFI_STATE,ACCESS_LOCATION_EXTRA_COMMANDS,INTERNET,ACCESS_FINE_LOCATION,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.bluetooth,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.location.network,android.hardware.location,android.hardware.wifi</features>
+			<permissions>ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,READ_EXTERNAL_STORAGE,BLUETOOTH_ADMIN,BLUETOOTH,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,CHANGE_WIFI_STATE,ACCESS_LOCATION_EXTRA_COMMANDS,INTERNET,ACCESS_FINE_LOCATION,READ_PHONE_STATE,WRITE_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen,android.hardware.location.gps,android.hardware.location.network,android.hardware.bluetooth,android.hardware.location,android.hardware.wifi</features>
 		</package>
 	</application>
 	<application id="com.monead.games.android.sequence">
@@ -38593,8 +38684,8 @@
 		<source>http://sourceforge.net/p/servestream/code</source>
 		<tracker>http://sourceforge.net/tracker/?group_id=361303</tracker>
 		<donate>http://sourceforge.net/p/servestream/donate</donate>
-		<marketversion>0.6.8</marketversion>
-		<marketvercode>98</marketvercode>
+		<marketversion>0.7.0</marketversion>
+		<marketvercode>105</marketvercode>
 		<package>
 			<version>0.6.8</version>
 			<versioncode>98</versioncode>
@@ -38751,7 +38842,7 @@
 			<size>24730</size>
 			<sdkver>3</sdkver>
 			<added>2011-02-03</added>
-			<permissions>ACCESS_FINE_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_NETWORK_STATE,WAKE_LOCK,INTERNET</permissions>
+			<permissions>ACCESS_FINE_LOCATION,ACCESS_COARSE_LOCATION,WAKE_LOCK,ACCESS_NETWORK_STATE,INTERNET</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.location.network</features>
 		</package>
 	</application>
@@ -39367,7 +39458,7 @@
 			<size>2138178</size>
 			<sdkver>15</sdkver>
 			<added>2014-08-05</added>
-			<permissions>WRITE_SETTINGS,READ_EXTERNAL_STORAGE,INTERNET,VIBRATE,com.android.alarm.permission.SET_ALARM,RECEIVE_BOOT_COMPLETED,DISABLE_KEYGUARD,READ_PHONE_STATE,WAKE_LOCK</permissions>
+			<permissions>WRITE_SETTINGS,INTERNET,READ_EXTERNAL_STORAGE,WAKE_LOCK,VIBRATE,com.android.alarm.permission.SET_ALARM,RECEIVE_BOOT_COMPLETED,DISABLE_KEYGUARD,READ_PHONE_STATE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -39380,7 +39471,7 @@
 			<size>2138183</size>
 			<sdkver>15</sdkver>
 			<added>2014-07-11</added>
-			<permissions>WRITE_SETTINGS,READ_EXTERNAL_STORAGE,INTERNET,VIBRATE,com.android.alarm.permission.SET_ALARM,RECEIVE_BOOT_COMPLETED,DISABLE_KEYGUARD,READ_PHONE_STATE,WAKE_LOCK</permissions>
+			<permissions>WRITE_SETTINGS,INTERNET,READ_EXTERNAL_STORAGE,WAKE_LOCK,VIBRATE,com.android.alarm.permission.SET_ALARM,RECEIVE_BOOT_COMPLETED,DISABLE_KEYGUARD,READ_PHONE_STATE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -39393,7 +39484,7 @@
 			<size>2132057</size>
 			<sdkver>15</sdkver>
 			<added>2014-07-11</added>
-			<permissions>WRITE_SETTINGS,READ_EXTERNAL_STORAGE,INTERNET,VIBRATE,com.android.alarm.permission.SET_ALARM,RECEIVE_BOOT_COMPLETED,DISABLE_KEYGUARD,READ_PHONE_STATE,WAKE_LOCK</permissions>
+			<permissions>WRITE_SETTINGS,INTERNET,READ_EXTERNAL_STORAGE,WAKE_LOCK,VIBRATE,com.android.alarm.permission.SET_ALARM,RECEIVE_BOOT_COMPLETED,DISABLE_KEYGUARD,READ_PHONE_STATE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -39668,7 +39759,7 @@
 			<size>570382</size>
 			<sdkver>16</sdkver>
 			<added>2014-08-09</added>
-			<permissions>READ_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,WRITE_EXTERNAL_STORAGE,ACCESS_SUPERUSER</permissions>
+			<permissions>ACCESS_SUPERUSER,com.android.launcher.permission.INSTALL_SHORTCUT,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -40375,7 +40466,7 @@
 			<size>915379</size>
 			<sdkver>4</sdkver>
 			<added>2013-04-29</added>
-			<permissions>WRITE_CONTACTS,ACCESS_NETWORK_STATE,READ_CALENDAR,WRITE_EXTERNAL_STORAGE,WRITE_SMS,ACCESS_WIFI_STATE,USE_CREDENTIALS,INTERNET,WRITE_CALL_LOG,WRITE_CALENDAR,READ_CALL_LOG,RECEIVE_SMS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_CONTACTS,READ_SMS,READ_PHONE_STATE,BACKUP,WAKE_LOCK,com.android.vending.BILLING,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>WRITE_CONTACTS,ACCESS_NETWORK_STATE,READ_CALENDAR,WRITE_EXTERNAL_STORAGE,WRITE_SMS,ACCESS_WIFI_STATE,BACKUP,WAKE_LOCK,GET_ACCOUNTS,WRITE_CALL_LOG,READ_CALL_LOG,USE_CREDENTIALS,RECEIVE_BOOT_COMPLETED,INTERNET,READ_CONTACTS,READ_SMS,READ_PHONE_STATE,WRITE_CALENDAR,com.android.vending.BILLING,RECEIVE_SMS,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.telephony,android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -41293,7 +41384,7 @@
 			<size>2087210</size>
 			<sdkver>15</sdkver>
 			<added>2013-11-13</added>
-			<permissions>MANAGE_ACCOUNTS,READ_CALENDAR,USE_CREDENTIALS,com.google.android.googleapps.permission.GOOGLE_AUTH.mail,VIBRATE,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,INTERNET,WRITE_CALENDAR,WAKE_LOCK</permissions>
+			<permissions>com.google.android.googleapps.permission.GOOGLE_AUTH.mail,READ_CALENDAR,USE_CREDENTIALS,GET_ACCOUNTS,VIBRATE,RECEIVE_BOOT_COMPLETED,INTERNET,READ_SYNC_SETTINGS,READ_CONTACTS,MANAGE_ACCOUNTS,WRITE_CALENDAR,WAKE_LOCK</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -41954,7 +42045,7 @@
 			<size>1521283</size>
 			<sdkver>8</sdkver>
 			<added>2013-04-24</added>
-			<permissions>com.google.android.marvin.feedback.permission.TALKBACK,SYSTEM_ALERT_WINDOW,READ_PHONE_STATE,VIBRATE,WAKE_LOCK</permissions>
+			<permissions>com.google.android.marvin.feedback.permission.TALKBACK,READ_PHONE_STATE,SYSTEM_ALERT_WINDOW,VIBRATE,WAKE_LOCK</permissions>
 		</package>
 		<package>
 			<version>3.1.1_r68</version>
@@ -42143,7 +42234,7 @@
 			<size>3567607</size>
 			<sdkver>7</sdkver>
 			<added>2014-07-05</added>
-			<permissions>RECORD_AUDIO,ACCESS_NETWORK_STATE,READ_CALENDAR,WRITE_EXTERNAL_STORAGE,org.tasks.READ,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE,USE_CREDENTIALS,GET_ACCOUNTS,VIBRATE,READ_CALL_LOG,MANAGE_ACCOUNTS,RECEIVE_BOOT_COMPLETED,INTERNET,READ_CONTACTS,READ_PHONE_STATE,WRITE_CALENDAR,org.tasks.permission.READ_TASKS,org.tasks.WRITE,com.google.android.googleapps.permission.GOOGLE_AUTH</permissions>
+			<permissions>RECORD_AUDIO,READ_PHONE_STATE,READ_CALENDAR,WRITE_EXTERNAL_STORAGE,org.tasks.READ,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE,USE_CREDENTIALS,GET_ACCOUNTS,VIBRATE,READ_CALL_LOG,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,INTERNET,READ_CONTACTS,MANAGE_ACCOUNTS,WRITE_CALENDAR,org.tasks.permission.READ_TASKS,org.tasks.WRITE,com.google.android.googleapps.permission.GOOGLE_AUTH</permissions>
 			<features>android.hardware.microphone</features>
 		</package>
 		<package>
@@ -42156,7 +42247,7 @@
 			<size>3559422</size>
 			<sdkver>7</sdkver>
 			<added>2014-06-29</added>
-			<permissions>RECORD_AUDIO,ACCESS_NETWORK_STATE,READ_CALENDAR,WRITE_EXTERNAL_STORAGE,org.tasks.READ,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE,USE_CREDENTIALS,GET_ACCOUNTS,VIBRATE,READ_CALL_LOG,MANAGE_ACCOUNTS,RECEIVE_BOOT_COMPLETED,INTERNET,READ_CONTACTS,READ_PHONE_STATE,WRITE_CALENDAR,org.tasks.permission.READ_TASKS,org.tasks.WRITE,com.google.android.googleapps.permission.GOOGLE_AUTH</permissions>
+			<permissions>RECORD_AUDIO,READ_PHONE_STATE,READ_CALENDAR,WRITE_EXTERNAL_STORAGE,org.tasks.READ,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE,USE_CREDENTIALS,GET_ACCOUNTS,VIBRATE,READ_CALL_LOG,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,INTERNET,READ_CONTACTS,MANAGE_ACCOUNTS,WRITE_CALENDAR,org.tasks.permission.READ_TASKS,org.tasks.WRITE,com.google.android.googleapps.permission.GOOGLE_AUTH</permissions>
 			<features>android.hardware.microphone</features>
 		</package>
 		<package>
@@ -42169,7 +42260,7 @@
 			<size>3552407</size>
 			<sdkver>7</sdkver>
 			<added>2014-06-21</added>
-			<permissions>RECORD_AUDIO,ACCESS_NETWORK_STATE,READ_CALENDAR,WRITE_EXTERNAL_STORAGE,org.tasks.READ,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE,USE_CREDENTIALS,GET_ACCOUNTS,VIBRATE,READ_CALL_LOG,MANAGE_ACCOUNTS,RECEIVE_BOOT_COMPLETED,INTERNET,READ_CONTACTS,READ_PHONE_STATE,WRITE_CALENDAR,org.tasks.permission.READ_TASKS,org.tasks.WRITE,com.google.android.googleapps.permission.GOOGLE_AUTH</permissions>
+			<permissions>RECORD_AUDIO,READ_PHONE_STATE,READ_CALENDAR,WRITE_EXTERNAL_STORAGE,org.tasks.READ,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE,USE_CREDENTIALS,GET_ACCOUNTS,VIBRATE,READ_CALL_LOG,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,INTERNET,READ_CONTACTS,MANAGE_ACCOUNTS,WRITE_CALENDAR,org.tasks.permission.READ_TASKS,org.tasks.WRITE,com.google.android.googleapps.permission.GOOGLE_AUTH</permissions>
 			<features>android.hardware.microphone</features>
 		</package>
 	</application>
@@ -42285,7 +42376,7 @@
 			<size>254383</size>
 			<sdkver>8</sdkver>
 			<added>2012-11-13</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,fr.xgouchet.texteditor.permission.TED_INTERNAL,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>fr.xgouchet.texteditor.permission.TED_INTERNAL,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -42298,7 +42389,7 @@
 			<size>251829</size>
 			<sdkver>8</sdkver>
 			<added>2012-11-08</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,fr.xgouchet.texteditor.permission.TED_INTERNAL,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>fr.xgouchet.texteditor.permission.TED_INTERNAL,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -42342,7 +42433,7 @@
 			<size>8355028</size>
 			<sdkver>8</sdkver>
 			<added>2014-07-29</added>
-			<permissions>WRITE_CONTACTS,ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,READ_PHONE_STATE,WRITE_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,INTERNET,SYSTEM_ALERT_WINDOW,VIBRATE,ACCESS_WIFI_STATE,CAMERA,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,READ_PROFILE,MANAGE_ACCOUNTS,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>WRITE_CONTACTS,ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,READ_PHONE_STATE,WRITE_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,INTERNET,SYSTEM_ALERT_WINDOW,VIBRATE,ACCESS_WIFI_STATE,CAMERA,GET_ACCOUNTS,WAKE_LOCK,READ_SYNC_SETTINGS,READ_CONTACTS,READ_PROFILE,MANAGE_ACCOUNTS,RECEIVE_BOOT_COMPLETED,READ_EXTERNAL_STORAGE</permissions>
 			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -42356,7 +42447,7 @@
 			<size>8351187</size>
 			<sdkver>8</sdkver>
 			<added>2014-06-19</added>
-			<permissions>WRITE_CONTACTS,ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,READ_PHONE_STATE,WRITE_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,INTERNET,SYSTEM_ALERT_WINDOW,VIBRATE,ACCESS_WIFI_STATE,CAMERA,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,READ_PROFILE,MANAGE_ACCOUNTS,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>WRITE_CONTACTS,ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,READ_PHONE_STATE,WRITE_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,INTERNET,SYSTEM_ALERT_WINDOW,VIBRATE,ACCESS_WIFI_STATE,CAMERA,GET_ACCOUNTS,WAKE_LOCK,READ_SYNC_SETTINGS,READ_CONTACTS,READ_PROFILE,MANAGE_ACCOUNTS,RECEIVE_BOOT_COMPLETED,READ_EXTERNAL_STORAGE</permissions>
 			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -42370,7 +42461,7 @@
 			<size>9116083</size>
 			<sdkver>8</sdkver>
 			<added>2014-04-12</added>
-			<permissions>WRITE_CONTACTS,ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,READ_PHONE_STATE,WRITE_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,INTERNET,SYSTEM_ALERT_WINDOW,VIBRATE,ACCESS_WIFI_STATE,CAMERA,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,READ_PROFILE,MANAGE_ACCOUNTS,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>WRITE_CONTACTS,ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,READ_PHONE_STATE,WRITE_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,INTERNET,SYSTEM_ALERT_WINDOW,VIBRATE,ACCESS_WIFI_STATE,CAMERA,GET_ACCOUNTS,WAKE_LOCK,READ_SYNC_SETTINGS,READ_CONTACTS,READ_PROFILE,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE</permissions>
 			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -42511,7 +42602,7 @@
 			<size>3759269</size>
 			<sdkver>10</sdkver>
 			<added>2014-07-05</added>
-			<permissions>NFC,BROADCAST_STICKY,READ_EXTERNAL_STORAGE,WAKE_LOCK,VIBRATE,BLUETOOTH,CAMERA,RECEIVE_BOOT_COMPLETED,INTERNET,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>NFC,READ_EXTERNAL_STORAGE,WAKE_LOCK,VIBRATE,BLUETOOTH,BROADCAST_STICKY,CAMERA,RECEIVE_BOOT_COMPLETED,INTERNET,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 		<package>
 			<version>3.46-test</version>
@@ -42523,7 +42614,7 @@
 			<size>3616272</size>
 			<sdkver>10</sdkver>
 			<added>2014-05-06</added>
-			<permissions>NFC,BROADCAST_STICKY,READ_EXTERNAL_STORAGE,WAKE_LOCK,VIBRATE,BLUETOOTH,CAMERA,RECEIVE_BOOT_COMPLETED,INTERNET,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>NFC,READ_EXTERNAL_STORAGE,WAKE_LOCK,VIBRATE,BLUETOOTH,BROADCAST_STICKY,CAMERA,RECEIVE_BOOT_COMPLETED,INTERNET,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 		<package>
 			<version>3.39-test</version>
@@ -42535,7 +42626,7 @@
 			<size>3567134</size>
 			<sdkver>10</sdkver>
 			<added>2014-03-11</added>
-			<permissions>NFC,BROADCAST_STICKY,READ_EXTERNAL_STORAGE,WAKE_LOCK,VIBRATE,BLUETOOTH,CAMERA,RECEIVE_BOOT_COMPLETED,INTERNET,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>NFC,READ_EXTERNAL_STORAGE,WAKE_LOCK,VIBRATE,BLUETOOTH,BROADCAST_STICKY,CAMERA,RECEIVE_BOOT_COMPLETED,INTERNET,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="org.paulmach.textedit">
@@ -42832,7 +42923,7 @@
 			<size>4383641</size>
 			<sdkver>8</sdkver>
 			<added>2013-06-25</added>
-			<permissions>READ_MEDIA_STORAGE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_MEDIA_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,READ_MEDIA_STORAGE,INTERNET,WRITE_EXTERNAL_STORAGE,WRITE_MEDIA_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -43305,7 +43396,7 @@
 			<size>267954</size>
 			<sdkver>4</sdkver>
 			<added>2014-03-28</added>
-			<permissions>VIBRATE,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,VIBRATE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -43427,7 +43518,7 @@
 			<size>1094513</size>
 			<sdkver>4</sdkver>
 			<added>2014-01-16</added>
-			<permissions>com.android.launcher.permission.INSTALL_SHORTCUT,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.UNINSTALL_SHORTCUT,READ_EXTERNAL_STORAGE,INTERNET</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -43440,7 +43531,7 @@
 			<size>722205</size>
 			<sdkver>4</sdkver>
 			<added>2012-10-24</added>
-			<permissions>com.android.launcher.permission.INSTALL_SHORTCUT,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.UNINSTALL_SHORTCUT,READ_EXTERNAL_STORAGE,INTERNET</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -43453,7 +43544,7 @@
 			<size>545978</size>
 			<sdkver>4</sdkver>
 			<added>2012-09-09</added>
-			<permissions>com.android.launcher.permission.INSTALL_SHORTCUT,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.UNINSTALL_SHORTCUT,READ_EXTERNAL_STORAGE,INTERNET</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -43599,7 +43690,7 @@
 			<size>363165</size>
 			<sdkver>3</sdkver>
 			<added>2014-07-20</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,READ_PHONE_STATE,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,INTERNET</permissions>
+			<permissions>READ_PHONE_STATE,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -43612,7 +43703,7 @@
 			<size>313790</size>
 			<sdkver>3</sdkver>
 			<added>2012-08-29</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,READ_PHONE_STATE,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,INTERNET</permissions>
+			<permissions>READ_PHONE_STATE,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -43931,7 +44022,7 @@
 			<size>1703263</size>
 			<sdkver>7</sdkver>
 			<added>2013-09-20</added>
-			<permissions>VIBRATE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,INTERNET</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,VIBRATE,RECEIVE_BOOT_COMPLETED,INTERNET</permissions>
 		</package>
 		<package>
 			<version>1.1.13</version>
@@ -43943,7 +44034,7 @@
 			<size>1697426</size>
 			<sdkver>7</sdkver>
 			<added>2013-03-27</added>
-			<permissions>VIBRATE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,INTERNET</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,VIBRATE,RECEIVE_BOOT_COMPLETED,INTERNET</permissions>
 		</package>
 		<package>
 			<version>1.1.8</version>
@@ -43955,7 +44046,7 @@
 			<size>1254570</size>
 			<sdkver>4</sdkver>
 			<added>2012-10-22</added>
-			<permissions>VIBRATE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,INTERNET</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,VIBRATE,RECEIVE_BOOT_COMPLETED,INTERNET</permissions>
 		</package>
 	</application>
 	<application id="org.transdroid.search">
@@ -44154,7 +44245,7 @@
 			<size>527770</size>
 			<sdkver>14</sdkver>
 			<added>2014-07-20</added>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET,VIBRATE,GET_ACCOUNTS</permissions>
+			<permissions>INTERNET,ACCESS_NETWORK_STATE,VIBRATE,GET_ACCOUNTS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -44335,7 +44426,7 @@
 			<size>339602</size>
 			<sdkver>11</sdkver>
 			<added>2014-08-10</added>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,RECEIVE_BOOT_COMPLETED,INTERNET</permissions>
+			<permissions>ACCESS_SUPERUSER,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -44348,7 +44439,7 @@
 			<size>339487</size>
 			<sdkver>11</sdkver>
 			<added>2014-08-08</added>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,RECEIVE_BOOT_COMPLETED,INTERNET</permissions>
+			<permissions>ACCESS_SUPERUSER,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -44809,7 +44900,7 @@
 			<size>7056412</size>
 			<sdkver>3</sdkver>
 			<added>2012-11-07</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,READ_PHONE_STATE,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,INTERNET</permissions>
+			<permissions>READ_PHONE_STATE,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,INTERNET</permissions>
 			<nativecode>armeabi</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -44885,7 +44976,7 @@
 			<size>3651159</size>
 			<sdkver>14</sdkver>
 			<added>2014-04-02</added>
-			<permissions>ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,org.mariotaku.twidere.permission.UPLOAD_MEDIA,VIBRATE,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,org.mariotaku.twidere.permission.SHORTEN_STATUS,INTERNET,org.mariotaku.twidere.permission.SYNC_TIMELINE,ACCESS_FINE_LOCATION,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>org.mariotaku.twidere.permission.SYNC_TIMELINE,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,org.mariotaku.twidere.permission.UPLOAD_MEDIA,VIBRATE,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,org.mariotaku.twidere.permission.SHORTEN_STATUS,INTERNET,ACCESS_FINE_LOCATION,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.wifi</features>
 		</package>
 		<package>
@@ -45188,7 +45279,7 @@
 			<size>1482572</size>
 			<sdkver>7</sdkver>
 			<added>2013-05-10</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,GET_ACCOUNTS,READ_EXTERNAL_STORAGE,ACCESS_WIFI_STATE,RECEIVE_BOOT_COMPLETED,INTERNET,MANAGE_ACCOUNTS,WAKE_LOCK,AUTHENTICATE_ACCOUNTS</permissions>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,WAKE_LOCK,READ_EXTERNAL_STORAGE,ACCESS_WIFI_STATE,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
 			<features>android.hardware.wifi</features>
 		</package>
 	</application>
@@ -45705,7 +45796,7 @@
 			<size>2720137</size>
 			<sdkver>7</sdkver>
 			<added>2014-08-11</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,ACCESS_COARSE_LOCATION,INTERNET,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
+			<permissions>ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,ACCESS_COARSE_LOCATION,INTERNET,ACCESS_FINE_LOCATION,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -47134,10 +47225,10 @@
 	<application id="ru.glesik.wifireminders">
 		<id>ru.glesik.wifireminders</id>
 		<added>2014-06-15</added>
-		<lastupdated>2014-07-25</lastupdated>
+		<lastupdated>2014-08-12</lastupdated>
 		<name>Wi-Fi Reminders</name>
 		<summary>Wi-Fi based reminders</summary>
-		<icon>ru.glesik.wifireminders.121.png</icon>
+		<icon>ru.glesik.wifireminders.122.png</icon>
 		<desc>&lt;p&gt;Shows custom notifications when specified wireless networks are in range. You can set arbitrary reminders for any stored wireless network. As soon as your device is active (e. g. the screen is on) and the network is visible, the reminder will be displayed as standard notification with sound, vibration and blinking indicator.&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Office</categories>
@@ -47147,8 +47238,21 @@
 		<tracker>https://github.com/glesik/wifireminders/issues</tracker>
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=8RNEWF8QHQHTN</donate>
 		<bitcoin>15bSZLRTF3nH9uLrsqW2xm5UMdcd3eqF1e</bitcoin>
-		<marketversion>1.2.1</marketversion>
-		<marketvercode>121</marketvercode>
+		<marketversion>1.2.2</marketversion>
+		<marketvercode>122</marketvercode>
+		<package>
+			<version>1.2.2</version>
+			<versioncode>122</versioncode>
+			<apkname>ru.glesik.wifireminders_122.apk</apkname>
+			<srcname>ru.glesik.wifireminders_122_src.tar.gz</srcname>
+			<hash type="sha256">f8aea78c3d258a9cdf93a0e6ca4b268d9756ea558511621d0b985539f8171e58</hash>
+			<sig>5095cfb63de1e7c9e9a44f51762cfbb5</sig>
+			<size>220178</size>
+			<sdkver>8</sdkver>
+			<added>2014-08-12</added>
+			<permissions>ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,RECEIVE_BOOT_COMPLETED,VIBRATE</permissions>
+			<features>android.hardware.touchscreen,android.hardware.wifi</features>
+		</package>
 		<package>
 			<version>1.2.1</version>
 			<versioncode>121</versioncode>
@@ -47172,19 +47276,6 @@
 			<size>217090</size>
 			<sdkver>8</sdkver>
 			<added>2014-07-17</added>
-			<permissions>ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,RECEIVE_BOOT_COMPLETED,VIBRATE</permissions>
-			<features>android.hardware.touchscreen,android.hardware.wifi</features>
-		</package>
-		<package>
-			<version>1.1.1</version>
-			<versioncode>111</versioncode>
-			<apkname>ru.glesik.wifireminders_111.apk</apkname>
-			<srcname>ru.glesik.wifireminders_111_src.tar.gz</srcname>
-			<hash type="sha256">88c045799d01e834ca2b04546eaef0d07933d9fe9d196e7a6a14fa55903ead16</hash>
-			<sig>5095cfb63de1e7c9e9a44f51762cfbb5</sig>
-			<size>216745</size>
-			<sdkver>8</sdkver>
-			<added>2014-06-27</added>
 			<permissions>ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,RECEIVE_BOOT_COMPLETED,VIBRATE</permissions>
 			<features>android.hardware.touchscreen,android.hardware.wifi</features>
 		</package>
@@ -47477,7 +47568,7 @@
 			<size>94053</size>
 			<sdkver>3</sdkver>
 			<added>2013-07-02</added>
-			<permissions>READ_PHONE_STATE,WAKE_LOCK,INTERNET</permissions>
+			<permissions>WAKE_LOCK,READ_PHONE_STATE,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -47490,7 +47581,7 @@
 			<size>93993</size>
 			<sdkver>3</sdkver>
 			<added>2013-05-31</added>
-			<permissions>READ_PHONE_STATE,WAKE_LOCK,INTERNET</permissions>
+			<permissions>WAKE_LOCK,READ_PHONE_STATE,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -47503,7 +47594,7 @@
 			<size>87298</size>
 			<sdkver>3</sdkver>
 			<added>2011-09-02</added>
-			<permissions>READ_PHONE_STATE,WAKE_LOCK,INTERNET</permissions>
+			<permissions>WAKE_LOCK,READ_PHONE_STATE,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -47533,7 +47624,7 @@
 			<size>1540862</size>
 			<sdkver>7</sdkver>
 			<added>2014-08-08</added>
-			<permissions>WRITE_SETTINGS,CHANGE_WIFI_STATE,READ_EXTERNAL_STORAGE,ACCESS_MOCK_LOCATION,WAKE_LOCK,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,ACCESS_NETWORK_STATE,INTERNET,ACCESS_FINE_LOCATION,CHANGE_NETWORK_STATE,READ_PHONE_STATE,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>WRITE_SETTINGS,CHANGE_WIFI_STATE,CHANGE_NETWORK_STATE,ACCESS_MOCK_LOCATION,READ_EXTERNAL_STORAGE,WAKE_LOCK,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,ACCESS_NETWORK_STATE,INTERNET,ACCESS_FINE_LOCATION,READ_PHONE_STATE,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -47546,7 +47637,7 @@
 			<size>1522219</size>
 			<sdkver>7</sdkver>
 			<added>2014-07-05</added>
-			<permissions>WRITE_SETTINGS,CHANGE_WIFI_STATE,READ_EXTERNAL_STORAGE,ACCESS_MOCK_LOCATION,WAKE_LOCK,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,ACCESS_NETWORK_STATE,INTERNET,ACCESS_FINE_LOCATION,CHANGE_NETWORK_STATE,READ_PHONE_STATE,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>WRITE_SETTINGS,CHANGE_WIFI_STATE,CHANGE_NETWORK_STATE,ACCESS_MOCK_LOCATION,READ_EXTERNAL_STORAGE,WAKE_LOCK,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,ACCESS_NETWORK_STATE,INTERNET,ACCESS_FINE_LOCATION,READ_PHONE_STATE,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -47559,7 +47650,7 @@
 			<size>1521447</size>
 			<sdkver>7</sdkver>
 			<added>2014-06-30</added>
-			<permissions>WRITE_SETTINGS,CHANGE_WIFI_STATE,READ_EXTERNAL_STORAGE,ACCESS_MOCK_LOCATION,WAKE_LOCK,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,ACCESS_NETWORK_STATE,INTERNET,ACCESS_FINE_LOCATION,CHANGE_NETWORK_STATE,READ_PHONE_STATE,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>WRITE_SETTINGS,CHANGE_WIFI_STATE,CHANGE_NETWORK_STATE,ACCESS_MOCK_LOCATION,READ_EXTERNAL_STORAGE,WAKE_LOCK,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,ACCESS_NETWORK_STATE,INTERNET,ACCESS_FINE_LOCATION,READ_PHONE_STATE,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -47662,7 +47753,7 @@
 			<size>1967055</size>
 			<sdkver>9</sdkver>
 			<added>2013-10-24</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,INTERNET,READ_EXTERNAL_STORAGE,READ_SYNC_STATS,GET_ACCOUNTS,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,INTERNET,WRITE_EXTERNAL_STORAGE,READ_SYNC_STATS,GET_ACCOUNTS,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -47675,7 +47766,7 @@
 			<size>1867373</size>
 			<sdkver>9</sdkver>
 			<added>2013-08-29</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,INTERNET,READ_EXTERNAL_STORAGE,READ_SYNC_STATS,GET_ACCOUNTS,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,INTERNET,WRITE_EXTERNAL_STORAGE,READ_SYNC_STATS,GET_ACCOUNTS,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -47688,7 +47779,7 @@
 			<size>1509358</size>
 			<sdkver>9</sdkver>
 			<added>2013-04-28</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,INTERNET,READ_EXTERNAL_STORAGE,READ_SYNC_STATS,GET_ACCOUNTS,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,INTERNET,WRITE_EXTERNAL_STORAGE,READ_SYNC_STATS,GET_ACCOUNTS,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -47805,7 +47896,7 @@
 			<size>879316</size>
 			<sdkver>10</sdkver>
 			<added>2014-07-30</added>
-			<permissions>ACCESS_WIFI_STATE,ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>ACCESS_WIFI_STATE,INTERNET,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen,android.hardware.wifi</features>
 		</package>
 		<package>
@@ -47818,7 +47909,7 @@
 			<size>866284</size>
 			<sdkver>10</sdkver>
 			<added>2014-07-01</added>
-			<permissions>ACCESS_WIFI_STATE,ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>ACCESS_WIFI_STATE,INTERNET,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen,android.hardware.wifi</features>
 		</package>
 		<package>
@@ -47831,7 +47922,7 @@
 			<size>866066</size>
 			<sdkver>10</sdkver>
 			<added>2014-06-29</added>
-			<permissions>ACCESS_WIFI_STATE,ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<permissions>ACCESS_WIFI_STATE,INTERNET,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen,android.hardware.wifi</features>
 		</package>
 	</application>
@@ -48996,8 +49087,8 @@
 		<web>https://github.com/Yubico/yubioath-android</web>
 		<source>https://github.com/Yubico/yubioath-android</source>
 		<tracker>https://github.com/Yubico/yubioath-android/issues</tracker>
-		<marketversion>0.1.8</marketversion>
-		<marketvercode>19</marketvercode>
+		<marketversion>0.1.9</marketversion>
+		<marketvercode>20</marketvercode>
 		<package>
 			<version>0.1.8</version>
 			<versioncode>19</versioncode>
@@ -49194,7 +49285,7 @@
 			<size>566934</size>
 			<sdkver>7</sdkver>
 			<added>2012-05-16</added>
-			<permissions>READ_EXTERNAL_STORAGE,com.android.browser.permission.READ_HISTORY_BOOKMARKS,com.android.browser.permission.WRITE_HISTORY_BOOKMARKS,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,com.android.browser.permission.WRITE_HISTORY_BOOKMARKS,com.android.browser.permission.READ_HISTORY_BOOKMARKS,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -49207,7 +49298,7 @@
 			<size>516580</size>
 			<sdkver>7</sdkver>
 			<added>2012-01-08</added>
-			<permissions>READ_EXTERNAL_STORAGE,com.android.browser.permission.READ_HISTORY_BOOKMARKS,com.android.browser.permission.WRITE_HISTORY_BOOKMARKS,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,com.android.browser.permission.WRITE_HISTORY_BOOKMARKS,com.android.browser.permission.READ_HISTORY_BOOKMARKS,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 		<package>
@@ -49220,7 +49311,7 @@
 			<size>481958</size>
 			<sdkver>7</sdkver>
 			<added>2011-12-12</added>
-			<permissions>READ_EXTERNAL_STORAGE,com.android.browser.permission.READ_HISTORY_BOOKMARKS,com.android.browser.permission.WRITE_HISTORY_BOOKMARKS,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
+			<permissions>READ_EXTERNAL_STORAGE,com.android.browser.permission.WRITE_HISTORY_BOOKMARKS,com.android.browser.permission.READ_HISTORY_BOOKMARKS,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
