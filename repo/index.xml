@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1408768199" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1408858188" url="http://f-droid.org/repo" version="12">
 		<description>The official FDroid repository. Applications in this repository are mostly built directory from the source code. Some are official binaries built by the original application developers - these will be replaced by source-built versions over time. </description>
 	</repo>
 	<application id="org.zeroxlab.zeroxbenchmark">
@@ -2690,19 +2690,32 @@
 	<application id="org.andstatus.app">
 		<id>org.andstatus.app</id>
 		<added>2012-08-23</added>
-		<lastupdated>2014-08-18</lastupdated>
+		<lastupdated>2014-08-24</lastupdated>
 		<name>AndStatus</name>
-		<summary>Light-weight Microblogger</summary>
-		<icon>org.andstatus.app.105.png</icon>
-		<desc>&lt;p&gt;Andstatus is a lightweight microblogging client, supporting Twitter, statusnet and pump.io (including identi.ca). It allows you to read messages, send status updates and create favorites, even when you are offline.&lt;/p&gt;&lt;p&gt;It features multiple User accounts in all supported Microblogging systems and allows you to work offline, including reading and sending messages while you are offline&lt;/p&gt;&lt;p&gt;Messages can be stored on the local storage indefinitely. The search option combines both locally stored data and global data (requested from online servers).&lt;/p&gt;</desc>
+		<summary>Low traffic social networking client</summary>
+		<icon>org.andstatus.app.106.png</icon>
+		<desc>&lt;p&gt;A low traffic social networking client with tree-like threaded conversations.&lt;/p&gt;&lt;p&gt;It supports multiple protocols, including &lt;a href=&quot;http://gnu.io/&quot;&gt;GNU social&lt;/a&gt; (StatusNet), &lt;a href=&quot;http://www.twitter.com/&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;http://pump.io&quot;&gt;Pump.io&lt;/a&gt;. It combines your accounts from all networks into one timeline and allows you reading and posting even while you are offline.&lt;/p&gt;&lt;p&gt;Differentiating features of AndStatus:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Many accounts in different social networking systems. You may have several accounts in each, write/reply as any &quot;You&quot; and share between accounts and systems.&lt;/li&gt;&lt;li&gt; You don't need to be online even to post your updates: not sent posts are kept (in the &quot;retry queue&quot;) even after reboot.&lt;/li&gt;&lt;li&gt; Convenient tree-like &quot;conversation view&quot;.&lt;/li&gt;&lt;li&gt; &quot;Global search&quot; allows searching public messages in all registered systems with one query.&lt;/li&gt;&lt;li&gt; Tweets/messages/user avatars are being synced in a background, when your device has a good connection.&lt;/li&gt;&lt;li&gt; Cached data may be stored for years or for several days only -- it's your choice.&lt;/li&gt;&lt;li&gt; Easily backup and restore accounts and data between your devices.&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>Apache2</license>
 		<categories>Internet</categories>
 		<category>Internet</category>
 		<web>http://andstatus.org</web>
 		<source>https://github.com/andstatus/andstatus</source>
 		<tracker>https://github.com/andstatus/andstatus/issues</tracker>
-		<marketversion>10.0</marketversion>
-		<marketvercode>105</marketvercode>
+		<marketversion>10.1</marketversion>
+		<marketvercode>106</marketvercode>
+		<package>
+			<version>10.1</version>
+			<versioncode>106</versioncode>
+			<apkname>org.andstatus.app_106.apk</apkname>
+			<srcname>org.andstatus.app_106_src.tar.gz</srcname>
+			<hash type="sha256">eb5246ef44c4c80f957ccca3702650c6f7dc7c4422ba8072a50d7458745c1635</hash>
+			<sig>1e9b8966d100f104e8c07690e17ef134</sig>
+			<size>781171</size>
+			<sdkver>8</sdkver>
+			<added>2014-08-24</added>
+			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,INTERNET,VIBRATE,READ_EXTERNAL_STORAGE,GET_ACCOUNTS,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>10.0</version>
 			<versioncode>105</versioncode>
@@ -2726,19 +2739,6 @@
 			<size>752550</size>
 			<sdkver>8</sdkver>
 			<added>2014-07-07</added>
-			<permissions>ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,GET_ACCOUNTS,VIBRATE,RECEIVE_BOOT_COMPLETED,INTERNET,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>9.0</version>
-			<versioncode>103</versioncode>
-			<apkname>org.andstatus.app_103.apk</apkname>
-			<srcname>org.andstatus.app_103_src.tar.gz</srcname>
-			<hash type="sha256">ff7cf20177956d28a1990455e610f438a62f7a48608dd5ddce952ec1e5eafb09</hash>
-			<sig>1e9b8966d100f104e8c07690e17ef134</sig>
-			<size>752285</size>
-			<sdkver>8</sdkver>
-			<added>2014-06-30</added>
 			<permissions>ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,GET_ACCOUNTS,VIBRATE,RECEIVE_BOOT_COMPLETED,INTERNET,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -4058,9 +4058,9 @@
 		<added>2014-03-22</added>
 		<lastupdated>2014-04-05</lastupdated>
 		<name>AppleWifiNlpBackend</name>
-		<summary>UnifiedNlp backend to resolve WiFi locations</summary>
+		<summary>UnifiedNlp location provider (Apple WiFi)</summary>
 		<icon>org.microg.nlp.backend.apple.1010.png</icon>
-		<desc>&lt;p&gt;&lt;a href=&quot;https://github.com/microg/android_packages_apps_UnifiedNlp&quot;&gt;UnifiedNlp&lt;/a&gt; Backend that uses Apple's service to resolve WiFi locations. Location calculation is done onboard and wifi locations are cached to minimize data usage.&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;&lt;a href=&quot;https://github.com/microg/android_packages_apps_UnifiedNlp&quot;&gt;UnifiedNlp&lt;/a&gt; backend that uses Apple's service to resolve WiFi locations.&lt;/p&gt;&lt;p&gt;Location calculation is done onboard and wifi locations are cached to minimize data usage.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>Navigation</categories>
 		<category>Navigation</category>
@@ -6813,10 +6813,10 @@
 		<name>BluezIME HID Enabler</name>
 		<summary>Addon for Bluez-ime</summary>
 		<icon>com.hexad.bluezime.hidenabler.1.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;Allow bluetooth HID devices like keyboards, mice and joypads to connect to your phone/tablet.&lt;/p&gt;</desc>
 		<license>LGPL</license>
-		<categories>Games</categories>
-		<category>Games</category>
+		<categories>System,Games</categories>
+		<category>System</category>
 		<web>https://code.google.com/p/android-bluez-ime</web>
 		<source>https://code.google.com/p/android-bluez-ime/source</source>
 		<tracker>https://code.google.com/p/android-bluez-ime/issues</tracker>
@@ -8204,9 +8204,9 @@
 		<license>GPLv3</license>
 		<categories>Office</categories>
 		<category>Office</category>
-		<web>https://code.google.com/p/call-recorder-for-android/</web>
-		<source>https://code.google.com/p/call-recorder-for-android/source/browse/</source>
-		<tracker>https://code.google.com/p/call-recorder-for-android/issues/list</tracker>
+		<web>https://code.google.com/p/call-recorder-for-android</web>
+		<source>https://code.google.com/p/call-recorder-for-android/source</source>
+		<tracker>https://code.google.com/p/call-recorder-for-android/issues</tracker>
 		<marketversion>2.0.3</marketversion>
 		<marketvercode>24</marketvercode>
 		<package>
@@ -9778,7 +9778,7 @@
 		<name>Coloring for Kids</name>
 		<summary>Colouring game for kids</summary>
 		<icon>org.androidsoft.coloring.1.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;Lets your child simply paint with its fingers. He just have to choose a template, pickup colors on the palette and draw with a little tap. The drawings can be saved on the device and shared by mail or using social networks.&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Children</categories>
 		<category>Children</category>
@@ -10992,9 +10992,9 @@
 		<name>Current Wallpaper</name>
 		<summary>Display wallpapers as standalone</summary>
 		<icon>com.elsewhat.android.currentwallpaper.2.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;Show the current wallpaper in fullscreen without conflicting elements from the launcher or app icons.&lt;/p&gt;</desc>
 		<license>Apache2</license>
-		<categories>Wallpaper</categories>
+		<categories>Wallpaper,Multimedia</categories>
 		<category>Wallpaper</category>
 		<web/>
 		<source>https://github.com/elsewhat/com.elsewhat.android.currentwallpaper</source>
@@ -11402,7 +11402,7 @@
 		<name>DashClock: Civilization V Quotes</name>
 		<summary>Random quotes on lock screen</summary>
 		<icon>net.logomancy.dashquotes.civ5.1.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;Display random quote from the game Civilization V on the lock screen.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Wallpaper</categories>
 		<category>Wallpaper</category>
@@ -16148,6 +16148,37 @@
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.location.network</features>
 		</package>
 	</application>
+	<application id="it.andreascarpino.forvodroid">
+		<id>it.andreascarpino.forvodroid</id>
+		<added>2014-08-24</added>
+		<lastupdated>2014-08-24</lastupdated>
+		<name>ForvoDroid</name>
+		<summary>Check pronunciations</summary>
+		<icon>it.andreascarpino.forvodroid.1.png</icon>
+		<desc>&lt;p&gt;Check for the pronunciation of any word, in any language available on &lt;a href=&quot;http://forvo.com/&quot;&gt;Forvo&lt;/a&gt;, by tapping on it after a quickly search.&lt;/p&gt;&lt;p&gt;AntiFeature: You need a free-of-charge Forvo API Key to use this app, please visit &lt;a href=&quot;http://api.forvo.com/&quot;&gt;Forvo's API page&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Warning: This app may crash on some HTC and Acer devices.&lt;/p&gt;</desc>
+		<license>MIT</license>
+		<categories>Internet,Office</categories>
+		<category>Internet</category>
+		<web>https://github.com/ilpianista/forvodroid</web>
+		<source>https://github.com/ilpianista/forvodroid</source>
+		<tracker>https://github.com/ilpianista/forvodroid/issues</tracker>
+		<marketversion>1.0</marketversion>
+		<marketvercode>1</marketvercode>
+		<antifeatures>NonFreeNet,NonFreeDep</antifeatures>
+		<package>
+			<version>1.0</version>
+			<versioncode>1</versioncode>
+			<apkname>it.andreascarpino.forvodroid_1.apk</apkname>
+			<srcname>it.andreascarpino.forvodroid_1_src.tar.gz</srcname>
+			<hash type="sha256">0dc08960eb73bf1a728d3eb04b0375d9cf6f913adbfa2afd2a61f7852c5ce77f</hash>
+			<sig>4d880ff075d514114d6d6f7651b5659c</sig>
+			<size>501110</size>
+			<sdkver>8</sdkver>
+			<added>2014-08-24</added>
+			<permissions>INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="be.digitalia.fosdem">
 		<id>be.digitalia.fosdem</id>
 		<added>2014-01-27</added>
@@ -18961,7 +18992,7 @@
 		<name>Heart Observe</name>
 		<summary>Track pulse and blood pressure</summary>
 		<icon>ca.ddaly.android.heart.3.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;Quickly and easily enter your blood pressure and other related information whenever you take a new reading from an in-home monitor, a pharmacy machine or your doctor's office. You can view the graph to immediately compare your new reading with past ones.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
 		<category>Office</category>
@@ -19823,7 +19854,7 @@
 		<name>Hydrate</name>
 		<summary>Set targets for water intake</summary>
 		<icon>com.frankcalise.h2droid.10.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;Keep up with your daily water intake goals.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>Science &amp; Education</categories>
 		<category>Science &amp; Education</category>
@@ -25644,7 +25675,7 @@
 		<added>2014-07-11</added>
 		<lastupdated>2014-07-22</lastupdated>
 		<name>MineSweeper</name>
-		<summary>Clear minefield without detonating a mine.</summary>
+		<summary>Clear minefield without detonating a mine</summary>
 		<icon>it.reyboz.minesweeper.154.png</icon>
 		<desc>&lt;p&gt;Simple one-tap strategy game where you have a virtual minefield and you must liberate it. If you play tapping randomly in the field probably your penguin will become a good petard, otherwise you and your cute penguin are probably destined to survive.&lt;/p&gt;&lt;p&gt;Tips:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; When you see any number pay much attention: There are exactly &quot;n&quot; bombs around that number!&lt;/li&gt;&lt;li&gt; Hold-tap to place flags.&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3+</license>
@@ -25903,8 +25934,8 @@
 		<tracker>https://mirakel.atlassian.net/issues/</tracker>
 		<donate>http://mirakel.azapps.de/help_us.html#donate</donate>
 		<flattr>2188714</flattr>
-		<marketversion>2.6.2</marketversion>
-		<marketvercode>63</marketvercode>
+		<marketversion>2.7</marketversion>
+		<marketvercode>67</marketvercode>
 		<package>
 			<version>2.7-beta1</version>
 			<versioncode>64</versioncode>
@@ -25960,58 +25991,32 @@
 	</application>
 	<application id="de.azapps.mirakel.dashclock">
 		<id>de.azapps.mirakel.dashclock</id>
-		<added>2013-11-08</added>
-		<lastupdated>2014-02-20</lastupdated>
+		<added>2014-08-24</added>
+		<lastupdated>2014-08-24</lastupdated>
 		<name>Mirakel-Dashclock</name>
 		<summary>Dashclock extension for Mirakel</summary>
-		<icon>de.azapps.mirakel.dashclock.9.png</icon>
+		<icon>de.azapps.mirakel.dashclock.11.png</icon>
 		<desc>&lt;p&gt;Extension for &lt;a href=&quot;fdroid:appnet.nurik.roman.dashclock&quot;&gt;DashClock Widget&lt;/a&gt; that integrates with &lt;a href=&quot;fdroid:appde.azapps.mirakelandroid&quot;&gt;Mirakel&lt;/a&gt;.&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Office</categories>
 		<category>Office</category>
 		<web>http://mirakel.azapps.de</web>
-		<source>https://github.com/azapps/mirakel-dashclock</source>
-		<tracker>https://github.com/azapps/mirakel-dashclock/issues</tracker>
+		<source>https://github.com/MirakelX/mirakel-android</source>
+		<tracker>https://mirakel.atlassian.net/issues/</tracker>
 		<donate>http://mirakel.azapps.de/help_us.html#donate</donate>
 		<flattr>2188714</flattr>
-		<marketversion>1.5</marketversion>
-		<marketvercode>9</marketvercode>
+		<marketversion>2.0</marketversion>
+		<marketvercode>11</marketvercode>
 		<package>
-			<version>1.5</version>
-			<versioncode>9</versioncode>
-			<apkname>de.azapps.mirakel.dashclock_9.apk</apkname>
-			<srcname>de.azapps.mirakel.dashclock_9_src.tar.gz</srcname>
-			<hash type="sha256">7e762d0cf95571f8ed6d102e43ac77d299392208abca8792578f9bfa324c5b62</hash>
+			<version>2.0</version>
+			<versioncode>11</versioncode>
+			<apkname>de.azapps.mirakel.dashclock_11.apk</apkname>
+			<srcname>de.azapps.mirakel.dashclock_11_src.tar.gz</srcname>
+			<hash type="sha256">7c959306c067bd1968098b864f24753297c348e25e06a46a2f3506afdf83b54c</hash>
 			<sig>d561d8e1700911c81cfe0f119f5c7fe2</sig>
-			<size>667104</size>
+			<size>2899483</size>
 			<sdkver>17</sdkver>
-			<added>2014-02-20</added>
-			<permissions>de.azapps.mirakel.provider.READ_DATA</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.4</version>
-			<versioncode>8</versioncode>
-			<apkname>de.azapps.mirakel.dashclock_8.apk</apkname>
-			<srcname>de.azapps.mirakel.dashclock_8_src.tar.gz</srcname>
-			<hash type="sha256">f4df31c549296ef66c9e6033983893e972b31d834be7340583b751e833d7540e</hash>
-			<sig>d561d8e1700911c81cfe0f119f5c7fe2</sig>
-			<size>666668</size>
-			<sdkver>17</sdkver>
-			<added>2014-02-14</added>
-			<permissions>de.azapps.mirakel.provider.READ_DATA</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.3</version>
-			<versioncode>7</versioncode>
-			<apkname>de.azapps.mirakel.dashclock_7.apk</apkname>
-			<srcname>de.azapps.mirakel.dashclock_7_src.tar.gz</srcname>
-			<hash type="sha256">e72dc1668bb65b19face5db65c8ba168bd720ec4c4f52bdc3d75c173de34127f</hash>
-			<sig>d561d8e1700911c81cfe0f119f5c7fe2</sig>
-			<size>666505</size>
-			<sdkver>17</sdkver>
-			<added>2013-12-31</added>
+			<added>2014-08-24</added>
 			<permissions>de.azapps.mirakel.provider.READ_DATA</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -26836,9 +26841,9 @@
 		<added>2014-08-09</added>
 		<lastupdated>2014-08-09</lastupdated>
 		<name>Move Certs!</name>
-		<summary>Resolve Android Certificates Warnings</summary>
+		<summary>Resolve certificates warnings</summary>
 		<icon>com.nutomic.zertman.2.png</icon>
-		<desc>&lt;p&gt;&quot;Network may be monitored&quot;: Tired of this warning after installing a certificate?&lt;/p&gt;&lt;p&gt;With this app, you can disable it in one click.&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;Disable the &quot;Network may be monitored&quot; warnings that show up after installing a certificate in one click.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
 		<category>System</category>
@@ -26869,7 +26874,7 @@
 		<name>Moving Polygons</name>
 		<summary>Bouncing lines live wallpaper</summary>
 		<icon>org.logicallycreative.movingpolygons.4.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;Simple live wallpaper with a series of lines that have points bouncing off of the screen.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Wallpaper</categories>
 		<category>Wallpaper</category>
@@ -27292,7 +27297,7 @@
 		<name>MultiPing</name>
 		<summary>Ping multiple websites at once</summary>
 		<icon>kr.softgear.multiping.11.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;Ping up to 12 hostnames or IP addresses at once to check for connectivity. If ICMP is blocked, it tries to connect to default HTTP port 80 and the TCP echo port. A delay can be set, too.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>Internet</categories>
 		<category>Internet</category>
@@ -28264,7 +28269,7 @@
 		<added>2014-08-22</added>
 		<lastupdated>2014-08-22</lastupdated>
 		<name>NASA APOD for Muzei</name>
-		<summary>NASA Astronomy Picture of the Day for Muzei.</summary>
+		<summary>NASA Astronomy Picture of the Day for Muzei</summary>
 		<desc>&lt;p&gt;Show NASA's Astronomy Picture of the Day in &lt;a href=&quot;fdroid:appnet.nurik.roman.muzei&quot;&gt;Muzei&lt;/a&gt;.&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Multimedia,Wallpaper</categories>
@@ -28940,7 +28945,7 @@
 		<name>NFC Drivers License Reader</name>
 		<summary>Read Japanese driving licenses</summary>
 		<icon>jp.softstudio.DriversLicenseReader.5.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;Scan Japanese driving licenses with the NFC reader on your device and read more info on them.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Office</categories>
 		<category>Office</category>
@@ -30985,7 +30990,7 @@
 		<name>Open WiFi Cleaner</name>
 		<summary>Forget open access points</summary>
 		<icon>com.dje.openwifinetworkremover.26.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;Removes open WiFi networks from the saved networks list after disconnecting. Features&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Notification reminders on connection/disconnection&lt;/li&gt;&lt;li&gt; Whitelist of open networks to keep&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
 		<category>Internet</category>
@@ -32177,7 +32182,7 @@
 		<name>OSChina</name>
 		<summary>Chinese-language FOSS news</summary>
 		<icon>net.oschina.app.18.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;News about free, libre and open-source software in Chinese.&lt;/p&gt;</desc>
 		<license>GPL</license>
 		<categories>Reading</categories>
 		<category>Reading</category>
@@ -33749,10 +33754,10 @@
 	<application id="com.ruesga.android.wallpapers.photophase">
 		<id>com.ruesga.android.wallpapers.photophase</id>
 		<added>2013-12-09</added>
-		<lastupdated>2014-08-07</lastupdated>
+		<lastupdated>2014-08-24</lastupdated>
 		<name>PhotoPhase</name>
 		<summary>Tiled images wallpaper</summary>
-		<icon>com.ruesga.android.wallpapers.photophase.1009.png</icon>
+		<icon>com.ruesga.android.wallpapers.photophase.1010.png</icon>
 		<desc>&lt;p&gt;Live wallpaper that takes a selection of images and tiles a few of them, applying transitions and effects.&lt;/p&gt;&lt;p&gt;There is an OpenGL issue with one type of chipset in v1.0.6 that can cause the system to crash and the only fix is to uninstall the app. Note that Android has a 'safe mode' that disables all user-installed apps at start time, allowing you to uninstall troublesome apps.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>Wallpaper</categories>
@@ -33760,8 +33765,21 @@
 		<web>http://forum.xda-developers.com/showthread.php?p=46387352</web>
 		<source>https://github.com/jruesga/PhotoPhase</source>
 		<tracker>https://github.com/jruesga/PhotoPhase/issues</tracker>
-		<marketversion>1.0.7</marketversion>
-		<marketvercode>1009</marketvercode>
+		<marketversion>1.0.8</marketversion>
+		<marketvercode>1010</marketvercode>
+		<package>
+			<version>1.0.8</version>
+			<versioncode>1010</versioncode>
+			<apkname>com.ruesga.android.wallpapers.photophase_1010.apk</apkname>
+			<srcname>com.ruesga.android.wallpapers.photophase_1010_src.tar.gz</srcname>
+			<hash type="sha256">ad70018d39766c36d0070ec99d81af9ac837b8ab7a2935b695a5cee484b0e037</hash>
+			<sig>4f6b049b0c7e4ba510c766008357743c</sig>
+			<size>773935</size>
+			<sdkver>15</sdkver>
+			<added>2014-08-24</added>
+			<permissions>GET_TASKS,READ_EXTERNAL_STORAGE,VIBRATE</permissions>
+			<features>android.hardware.touchscreen,android.software.live_wallpaper</features>
+		</package>
 		<package>
 			<version>1.0.7</version>
 			<versioncode>1009</versioncode>
@@ -34036,10 +34054,10 @@
 	<application id="com.morlunk.mumbleclient">
 		<id>com.morlunk.mumbleclient</id>
 		<added>2014-01-29</added>
-		<lastupdated>2014-08-22</lastupdated>
+		<lastupdated>2014-08-24</lastupdated>
 		<name>Plumble</name>
 		<summary>Voice chat for Mumble servers</summary>
-		<icon>com.morlunk.mumbleclient.69.png</icon>
+		<icon>com.morlunk.mumbleclient.70.png</icon>
 		<desc>&lt;ul&gt;&lt;li&gt; Opus, CELT, and Speex codec support&lt;/li&gt;&lt;li&gt; Certificates&lt;/li&gt;&lt;li&gt; Voice activity&lt;/li&gt;&lt;li&gt; Bluetooth&lt;/li&gt;&lt;li&gt; Public servers&lt;/li&gt;&lt;li&gt; Comments&lt;/li&gt;&lt;li&gt; Administration&lt;/li&gt;&lt;li&gt; Overlay&lt;/li&gt;&lt;li&gt; Theming&lt;/li&gt;&lt;li&gt; Notifications&lt;/li&gt;&lt;li&gt; Orbot integration&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
@@ -34049,8 +34067,22 @@
 		<tracker>https://www.github.com/Morlunk/Plumble/issues</tracker>
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HZU3JS7MMDGBY</donate>
 		<flattr>1706423</flattr>
-		<marketversion>3.1.4</marketversion>
-		<marketvercode>69</marketvercode>
+		<marketversion>3.1.5</marketversion>
+		<marketvercode>70</marketvercode>
+		<package>
+			<version>3.1.5</version>
+			<versioncode>70</versioncode>
+			<apkname>com.morlunk.mumbleclient_70.apk</apkname>
+			<srcname>com.morlunk.mumbleclient_70_src.tar.gz</srcname>
+			<hash type="sha256">1a4d597ff788974b08823b30914d859511a5712a10973c982f2b21fc90bba14e</hash>
+			<sig>39a379d5d9d78045bb07e08ba9bfd6b8</sig>
+			<size>5984842</size>
+			<sdkver>9</sdkver>
+			<added>2014-08-24</added>
+			<permissions>RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,INTERNET,SYSTEM_ALERT_WINDOW,VIBRATE,BLUETOOTH,BROADCAST_STICKY,WAKE_LOCK,MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE</permissions>
+			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
+			<features>android.hardware.touchscreen,android.hardware.bluetooth</features>
+		</package>
 		<package>
 			<version>3.1.4</version>
 			<versioncode>69</versioncode>
@@ -34075,20 +34107,6 @@
 			<size>5915920</size>
 			<sdkver>9</sdkver>
 			<added>2014-08-17</added>
-			<permissions>RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WAKE_LOCK,SYSTEM_ALERT_WINDOW,VIBRATE,BLUETOOTH,INTERNET,MODIFY_AUDIO_SETTINGS,BROADCAST_STICKY</permissions>
-			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
-			<features>android.hardware.touchscreen,android.hardware.bluetooth</features>
-		</package>
-		<package>
-			<version>3.1.2</version>
-			<versioncode>67</versioncode>
-			<apkname>com.morlunk.mumbleclient_67.apk</apkname>
-			<srcname>com.morlunk.mumbleclient_67_src.tar.gz</srcname>
-			<hash type="sha256">8face1bdfc20434e54564f7c0ac5019bde2c121dab741c07c1fedbce55ed0c7a</hash>
-			<sig>39a379d5d9d78045bb07e08ba9bfd6b8</sig>
-			<size>5865317</size>
-			<sdkver>9</sdkver>
-			<added>2014-07-19</added>
 			<permissions>RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WAKE_LOCK,SYSTEM_ALERT_WINDOW,VIBRATE,BLUETOOTH,INTERNET,MODIFY_AUDIO_SETTINGS,BROADCAST_STICKY</permissions>
 			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
 			<features>android.hardware.touchscreen,android.hardware.bluetooth</features>
@@ -34516,9 +34534,9 @@
 		<added>2014-04-15</added>
 		<lastupdated>2014-04-15</lastupdated>
 		<name>Port Knocker</name>
-		<summary>Port Knocker Android Client</summary>
+		<summary>Port Knocker Client</summary>
 		<icon>com.xargsgrep.portknocker.4.png</icon>
-		<desc>&lt;p&gt;A basic port knocker client for Android. Also includes a widget and the ability to choose an application to launch after knocking.&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;A basic port knocker client. Also includes a widget and the ability to choose an application to launch after knocking.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>Security</categories>
 		<category>Security</category>
@@ -34776,10 +34794,10 @@
 	<application id="damo.three.ie">
 		<id>damo.three.ie</id>
 		<added>2013-08-16</added>
-		<lastupdated>2014-08-02</lastupdated>
+		<lastupdated>2014-08-24</lastupdated>
 		<name>Prepay Credit</name>
 		<summary>Info for Irish cell network</summary>
-		<icon>damo.three.ie.14.png</icon>
+		<icon>damo.three.ie.15.png</icon>
 		<desc>&lt;p&gt;For prepay (3pay) customers of 3 Ireland: fetches and displays your My3 3pay usage information.&lt;/p&gt;&lt;p&gt;It can work when you are on 3's GSM network and also when on Wi-Fi.&lt;/p&gt;&lt;p&gt;The app requires your My3 login credentials; the app shows how to set up an account and provides a way for obtaining your SIM serial  (ICCID) which is required to register.&lt;/p&gt;&lt;p&gt;Neither the app nor its author is affiliated with Hutchison 3G Ireland.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
@@ -34789,6 +34807,19 @@
 		<tracker>https://github.com/DamienOReilly/PrepayCredit/issues</tracker>
 		<marketversion>0.13</marketversion>
 		<marketvercode>15</marketvercode>
+		<package>
+			<version>0.13</version>
+			<versioncode>15</versioncode>
+			<apkname>damo.three.ie_15.apk</apkname>
+			<srcname>damo.three.ie_15_src.tar.gz</srcname>
+			<hash type="sha256">2659911291baaf539e41aa21e88cb55e5fd337d868b524779d9e2e68e3ab8fb9</hash>
+			<sig>15419ceb1c8ca736dec9af5c8ddc9d50</sig>
+			<size>1552592</size>
+			<sdkver>7</sdkver>
+			<added>2014-08-24</added>
+			<permissions>INTERNET,READ_LOGS,VIBRATE,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,READ_PHONE_STATE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.12</version>
 			<versioncode>14</versioncode>
@@ -34813,19 +34844,6 @@
 			<sdkver>7</sdkver>
 			<added>2013-09-03</added>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,VIBRATE,RECEIVE_BOOT_COMPLETED,READ_LOGS,READ_PHONE_STATE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.8</version>
-			<versioncode>8</versioncode>
-			<apkname>damo.three.ie_8.apk</apkname>
-			<srcname>damo.three.ie_8_src.tar.gz</srcname>
-			<hash type="sha256">4e0dd2ae92229d417e4c617f7ff315a4bc14678348a7718a7355a12ceec0946f</hash>
-			<sig>15419ceb1c8ca736dec9af5c8ddc9d50</sig>
-			<size>1312011</size>
-			<sdkver>7</sdkver>
-			<added>2013-08-16</added>
-			<permissions>READ_PHONE_STATE,ACCESS_NETWORK_STATE,INTERNET,READ_LOGS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -34983,7 +35001,7 @@
 		<name>Product Open Data</name>
 		<summary>Get product info from barcodes</summary>
 		<icon>org.okfn.pod.13.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;The barcode on most products is an unique identifier. The &lt;a href=&quot;http://www.product-open-data.com/&quot;&gt;Product Open Data&lt;/a&gt; project tries to collect and link information to those barcodes, like nutrition facts or who actually owns the vendor. You can either browse and filter the database or look up specific codes.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Office</categories>
 		<category>Office</category>
@@ -36096,7 +36114,7 @@
 		<name>Random App</name>
 		<summary>Launch a random app</summary>
 		<icon>be.norio.randomapp.1.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;Launch a randomly chosen app on your device.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
 		<category>System</category>
@@ -37935,10 +37953,10 @@
 	<application id="org.chorem.android.saymytexts">
 		<id>org.chorem.android.saymytexts</id>
 		<added>2014-06-13</added>
-		<lastupdated>2014-06-23</lastupdated>
+		<lastupdated>2014-08-24</lastupdated>
 		<name>Say My Texts</name>
 		<summary>Read out received text messages</summary>
-		<icon>org.chorem.android.saymytexts.6.png</icon>
+		<icon>org.chorem.android.saymytexts.7.png</icon>
 		<desc>&lt;p&gt;Reads out loud the SMS you receive while a headset is plugged or a bluetooth handfree is connected. &lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Phone &amp; SMS</categories>
@@ -37948,6 +37966,19 @@
 		<tracker>http://forge.chorem.org/projects/say-my-texts/issues</tracker>
 		<marketversion>2.1.1</marketversion>
 		<marketvercode>7</marketvercode>
+		<package>
+			<version>2.1.1</version>
+			<versioncode>7</versioncode>
+			<apkname>org.chorem.android.saymytexts_7.apk</apkname>
+			<srcname>org.chorem.android.saymytexts_7_src.tar.gz</srcname>
+			<hash type="sha256">2c4dfa8ec2170fe46fa3c51199f481d6a642c220e5fbdff46bbe10183b3b4a22</hash>
+			<sig>ce23d9cf673dd9120641edbb3cf2cec7</sig>
+			<size>143229</size>
+			<sdkver>15</sdkver>
+			<added>2014-08-24</added>
+			<permissions>RECORD_AUDIO,CALL_PHONE,SEND_SMS,BLUETOOTH,READ_CONTACTS,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,RECEIVE_SMS</permissions>
+			<features>android.hardware.telephony,android.hardware.touchscreen,android.hardware.microphone,android.hardware.bluetooth</features>
+		</package>
 		<package>
 			<version>2.1</version>
 			<versioncode>6</versioncode>
@@ -37971,19 +38002,6 @@
 			<size>845753</size>
 			<sdkver>15</sdkver>
 			<added>2014-06-18</added>
-			<permissions>RECORD_AUDIO,CALL_PHONE,SEND_SMS,BLUETOOTH,READ_CONTACTS,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,RECEIVE_SMS</permissions>
-			<features>android.hardware.telephony,android.hardware.touchscreen,android.hardware.microphone,android.hardware.bluetooth</features>
-		</package>
-		<package>
-			<version>2.0.1</version>
-			<versioncode>4</versioncode>
-			<apkname>org.chorem.android.saymytexts_4.apk</apkname>
-			<srcname>org.chorem.android.saymytexts_4_src.tar.gz</srcname>
-			<hash type="sha256">28f6d5b448e0ba0023c0dc90df2cafc725a9a191a8f7e49f8320004bdc7c8732</hash>
-			<sig>ce23d9cf673dd9120641edbb3cf2cec7</sig>
-			<size>844105</size>
-			<sdkver>15</sdkver>
-			<added>2014-06-13</added>
 			<permissions>RECORD_AUDIO,CALL_PHONE,SEND_SMS,BLUETOOTH,READ_CONTACTS,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,RECEIVE_SMS</permissions>
 			<features>android.hardware.telephony,android.hardware.touchscreen,android.hardware.microphone,android.hardware.bluetooth</features>
 		</package>
@@ -40074,8 +40092,8 @@
 		<web>https://github.com/chibibi/simpleDeadlines</web>
 		<source>https://github.com/chibibi/simpleDeadlines</source>
 		<tracker>https://github.com/chibibi/simpleDeadlines/issues</tracker>
-		<marketversion>3.1.2</marketversion>
-		<marketvercode>15</marketvercode>
+		<marketversion>3.2.0</marketversion>
+		<marketvercode>16</marketvercode>
 		<package>
 			<version>3.1.2</version>
 			<versioncode>15</versioncode>
@@ -42432,10 +42450,10 @@
 	<application id="com.nutomic.syncthingandroid">
 		<id>com.nutomic.syncthingandroid</id>
 		<added>2014-08-22</added>
-		<lastupdated>2014-08-22</lastupdated>
+		<lastupdated>2014-08-24</lastupdated>
 		<name>Syncthing</name>
 		<summary>File synchronization</summary>
-		<icon>com.nutomic.syncthingandroid.22.png</icon>
+		<icon>com.nutomic.syncthingandroid.23.png</icon>
 		<desc>&lt;p&gt;This is the first attempt at an Android port of syncthing. Please understand that this is not stable yet, and read the first start dialog carefully.&lt;/p&gt;&lt;p&gt;Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized. Your data is your data alone and you deserve to choose where it is stored, if it is shared with some third party and how it's transmitted over the Internet.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Internet</categories>
@@ -42443,8 +42461,22 @@
 		<web>https://github.com/Nutomic/syncthing-android</web>
 		<source>https://github.com/Nutomic/syncthing-android</source>
 		<tracker>https://github.com/Nutomic/syncthing-android/issues</tracker>
-		<marketversion>0.4.8</marketversion>
-		<marketvercode>22</marketvercode>
+		<marketversion>0.4.9</marketversion>
+		<marketvercode>23</marketvercode>
+		<package>
+			<version>0.4.9</version>
+			<versioncode>23</versioncode>
+			<apkname>com.nutomic.syncthingandroid_23.apk</apkname>
+			<srcname>com.nutomic.syncthingandroid_23_src.tar.gz</srcname>
+			<hash type="sha256">cb5387631952df15292e8ae07d16d24b0c58905cad08860f1be5ff90103b1500</hash>
+			<sig>85bca5eec5edb5637e482007f1c69217</sig>
+			<size>9523685</size>
+			<sdkver>8</sdkver>
+			<added>2014-08-24</added>
+			<permissions>READ_EXTERNAL_STORAGE,SYSTEM_ALERT_WINDOW,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
+			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.4.8</version>
 			<versioncode>22</versioncode>
@@ -42497,7 +42529,7 @@
 		<name>TAG Notepad</name>
 		<summary>Tag-based notebook</summary>
 		<icon>com.kyakujin.android.tagnotepad.3.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;Take notes and assign tags to them, making them easier to find, group and use.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>Office</categories>
 		<category>Office</category>
@@ -45393,11 +45425,11 @@
 		<name>Turbo Editor</name>
 		<summary>Simple text editor</summary>
 		<icon>com.vmihalachi.turboeditor.7.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;Simple, yet powerful editor for text files.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
 		<category>Office</category>
-		<web/>
+		<web>https://vmihalachi.github.io/turbo-editor/</web>
 		<source>https://github.com/vmihalachi/turbo-editor</source>
 		<tracker>https://github.com/vmihalachi/turbo-editor/issues</tracker>
 		<donate>https://github.com/vmihalachi/turbo-editor</donate>
@@ -47180,7 +47212,7 @@
 		<name>Wave Lines</name>
 		<summary>Wavy wallpaper</summary>
 		<icon>de.markusfisch.android.wavelines.3.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;A simple, unobstrusive live wallpaper showing slowly moving wave lines. You can choose a color theme, build your own, change if the lines should grow and shrink or if they should have a uniform width. The lines may swing in harmony or each line independently. You may set the number of lines, the number of waves in a line and the maximum amplitude.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Wallpaper</categories>
 		<category>Wallpaper</category>
@@ -47558,7 +47590,7 @@
 		<name>WebSMS Connector: smspilot.ru</name>
 		<summary>WebSMS addon</summary>
 		<icon>de.ub0r.android.websms.connector.smspilotru.3140000.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;WebSMSDroid let's you send SMS even if you have a WiFi only device via the web. This build uses &lt;a href=&quot;http://smspilot.ru&quot;&gt;SMSPilot.ru&lt;/a&gt; as backend.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Phone &amp; SMS</categories>
 		<category>Phone &amp; SMS</category>
@@ -49461,7 +49493,7 @@
 		<name>Yahtzee</name>
 		<summary>Yahtzee/Kniffle game</summary>
 		<icon>com.tum.yahtzee.1.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;Play the dice game &lt;a href=&quot;https://en.wikipedia.org/wiki/Yahtzee&quot;&gt;Yahtzee&lt;/a&gt; on your phone.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Games</categories>
 		<category>Games</category>
