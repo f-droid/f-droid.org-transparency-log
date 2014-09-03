@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1409582813" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1409634528" url="http://f-droid.org/repo" version="12">
 		<description>The official FDroid repository. Applications in this repository are mostly built directory from the source code. Some are official binaries built by the original application developers - these will be replaced by source-built versions over time. </description>
 	</repo>
 	<application id="org.zeroxlab.zeroxbenchmark">
@@ -23948,8 +23948,8 @@
 		<web/>
 		<source>https://github.com/aminb/mathtools</source>
 		<tracker>https://github.com/aminb/mathtools/issues</tracker>
-		<marketversion>0.1</marketversion>
-		<marketvercode>1</marketvercode>
+		<marketversion>0.2</marketversion>
+		<marketvercode>2</marketvercode>
 		<package>
 			<version>0.1</version>
 			<versioncode>1</versioncode>
@@ -25206,7 +25206,7 @@
 		<name>MAXS Transport XMPP</name>
 		<summary>XMPP Transport for MAXS</summary>
 		<icon>org.projectmaxs.transport.xmpp.22.png</icon>
-		<desc>&lt;p&gt;This is the XMPP Transport for MAXS, which does not instally any lauchner. You need &quot;MAXS Main&quot; and preferable some MAXS Modules to make use of it!&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;This is the XMPP Transport for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and preferably some MAXS Modules to make use of it!&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
 		<category>System</category>
@@ -28414,10 +28414,10 @@
 	<application id="org.navitproject.navit">
 		<id>org.navitproject.navit</id>
 		<added>2013-10-16</added>
-		<lastupdated>2014-08-08</lastupdated>
+		<lastupdated>2014-09-02</lastupdated>
 		<name>Navit</name>
 		<summary>Car navigation system</summary>
-		<icon>org.navitproject.navit.5830.png</icon>
+		<icon>org.navitproject.navit.5889.png</icon>
 		<desc>&lt;p&gt;Its modular design is capable of using vector maps of various formats for routing and rendering of the displayed map. It's even possible to use multiple maps at a time.&lt;/p&gt;&lt;p&gt;The routing engine not only calculates an optimal route to your destination, but also generates directions and even speaks to you.&lt;/p&gt;&lt;p&gt;Navit currently speaks 27 languages. You can help translating via the web-based &lt;a href=&quot;http://translations.launchpad.net/navit/trunk/+pots/navit&quot;&gt;translation page&lt;/a&gt;.&lt;/p&gt;</desc>
 		<license>GPLv2</license>
 		<categories>Navigation</categories>
@@ -28427,6 +28427,20 @@
 		<tracker>http://trac.navit-project.org</tracker>
 		<marketversion>5889</marketversion>
 		<marketvercode>5889</marketvercode>
+		<package>
+			<version>navit 0.5.0-5889</version>
+			<versioncode>5889</versioncode>
+			<apkname>org.navitproject.navit_5889.apk</apkname>
+			<srcname>org.navitproject.navit_5889_src.tar.gz</srcname>
+			<hash type="sha256">3ccd83e46fff47b3948969c523f3e8a166e5345a8bcb29a1a0627b8a2f3d8a83</hash>
+			<sig>91ba6e08580034d3eb0605aa7aa5959a</sig>
+			<size>4800370</size>
+			<sdkver>3</sdkver>
+			<added>2014-09-02</added>
+			<permissions>READ_EXTERNAL_STORAGE,WAKE_LOCK,ACCESS_COARSE_LOCATION,INTERNET,ACCESS_FINE_LOCATION,WRITE_EXTERNAL_STORAGE</permissions>
+			<nativecode>armeabi</nativecode>
+			<features>android.hardware.location,android.hardware.location.gps</features>
+		</package>
 		<package>
 			<version>navit 0.5.0-5830</version>
 			<versioncode>5830</versioncode>
@@ -28451,20 +28465,6 @@
 			<size>4711881</size>
 			<sdkver>3</sdkver>
 			<added>2014-08-07</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,WAKE_LOCK,ACCESS_COARSE_LOCATION,INTERNET,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
-			<nativecode>armeabi</nativecode>
-			<features>android.hardware.location,android.hardware.location.gps</features>
-		</package>
-		<package>
-			<version>navit 0.5.0-5720</version>
-			<versioncode>5720</versioncode>
-			<apkname>org.navitproject.navit_5720.apk</apkname>
-			<srcname>org.navitproject.navit_5720_src.tar.gz</srcname>
-			<hash type="sha256">277b91a804c51eaaa8c6fdbeba18b56fd80cf40e75f6a5973c4ddea55724509d</hash>
-			<sig>91ba6e08580034d3eb0605aa7aa5959a</sig>
-			<size>5523703</size>
-			<sdkver>3</sdkver>
-			<added>2013-11-27</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,WAKE_LOCK,ACCESS_COARSE_LOCATION,INTERNET,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
 			<nativecode>armeabi</nativecode>
 			<features>android.hardware.location,android.hardware.location.gps</features>
@@ -42665,10 +42665,10 @@
 	<application id="com.nutomic.syncthingandroid">
 		<id>com.nutomic.syncthingandroid</id>
 		<added>2014-08-22</added>
-		<lastupdated>2014-08-31</lastupdated>
+		<lastupdated>2014-09-02</lastupdated>
 		<name>Syncthing</name>
 		<summary>File synchronization</summary>
-		<icon>com.nutomic.syncthingandroid.26.png</icon>
+		<icon>com.nutomic.syncthingandroid.27.png</icon>
 		<desc>&lt;p&gt;This is the first attempt at an Android port of syncthing. Please understand that this is not stable yet, and read the first start dialog carefully.&lt;/p&gt;&lt;p&gt;Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized. Your data is your data alone and you deserve to choose where it is stored, if it is shared with some third party and how it's transmitted over the Internet.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Internet</categories>
@@ -42677,8 +42677,22 @@
 		<source>https://github.com/Nutomic/syncthing-android</source>
 		<tracker>https://github.com/Nutomic/syncthing-android/issues</tracker>
 		<donate>https://tip4commit.com/github/Nutomic/syncthing-android</donate>
-		<marketversion>0.4.12</marketversion>
-		<marketvercode>26</marketvercode>
+		<marketversion>0.4.13</marketversion>
+		<marketvercode>27</marketvercode>
+		<package>
+			<version>0.4.13</version>
+			<versioncode>27</versioncode>
+			<apkname>com.nutomic.syncthingandroid_27.apk</apkname>
+			<srcname>com.nutomic.syncthingandroid_27_src.tar.gz</srcname>
+			<hash type="sha256">fb783b55a6ef5e93138df97e9d880f5dc2f860d5b34c7b617f7c85627d0a4ff7</hash>
+			<sig>85bca5eec5edb5637e482007f1c69217</sig>
+			<size>9603259</size>
+			<sdkver>8</sdkver>
+			<added>2014-09-02</added>
+			<permissions>READ_EXTERNAL_STORAGE,SYSTEM_ALERT_WINDOW,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
+			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.4.12</version>
 			<versioncode>26</versioncode>
@@ -42704,20 +42718,6 @@
 			<sdkver>8</sdkver>
 			<added>2014-08-28</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,SYSTEM_ALERT_WINDOW,READ_EXTERNAL_STORAGE,INTERNET</permissions>
-			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.5.0-beta2</version>
-			<versioncode>24</versioncode>
-			<apkname>com.nutomic.syncthingandroid_24.apk</apkname>
-			<srcname>com.nutomic.syncthingandroid_24_src.tar.gz</srcname>
-			<hash type="sha256">b8d081bb7d486129d5cfe648da181dea566da26d1311fad66aa6b1ee5c916a55</hash>
-			<sig>85bca5eec5edb5637e482007f1c69217</sig>
-			<size>9537682</size>
-			<sdkver>8</sdkver>
-			<added>2014-08-31</added>
-			<permissions>ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,SYSTEM_ALERT_WINDOW,RECEIVE_BOOT_COMPLETED,INTERNET,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -44971,10 +44971,10 @@
 	<application id="fr.ybo.transportsrennes">
 		<id>fr.ybo.transportsrennes</id>
 		<added>2013-06-26</added>
-		<lastupdated>2014-07-08</lastupdated>
+		<lastupdated>2014-09-02</lastupdated>
 		<name>Transports Rennes</name>
 		<summary>Transport info for France</summary>
-		<icon>fr.ybo.transportsrennes.364.png</icon>
+		<icon>fr.ybo.transportsrennes.365.png</icon>
 		<desc>&lt;p&gt;Transports Rennes provides quick access to information about public transportation of the city of Rennes, France and its sprawl. Information comes from the open data initiative by Keolis Rennes, the company running Rennes’ public transportation system.&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Bus and metro schedule (widget available for even faster access)&lt;/li&gt;&lt;li&gt; Bus/metro itinerary computation&lt;/li&gt;&lt;li&gt; Nearby bus stops and “LE vélo STAR” bikesharing stations&lt;/li&gt;&lt;li&gt; Number of available bikes in “LE vélo STAR” stations&lt;/li&gt;&lt;li&gt; Favorite bus stops, metro and bikesharing stations management&lt;/li&gt;&lt;li&gt; Available parking space in park-and-ride facilities&lt;/li&gt;&lt;li&gt; Disruption of service alerts and Twitter stream (@starbusmetro)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Google Maps are disabled in these builds. You can see the location of a situation with a cartographic app such as &lt;a href=&quot;fdroid.app:com.robert.maps&quot;&gt;RMaps&lt;/a&gt; or &lt;a href=&quot;fdroid.app:net.osmand.plus&quot;&gt;OsmAnd~&lt;/a&gt; though. Proprietary libraries have been removed.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Navigation</categories>
@@ -44984,6 +44984,19 @@
 		<tracker>https://github.com/ybonnel/TransportsRennes/issues</tracker>
 		<marketversion>3.6.5</marketversion>
 		<marketvercode>365</marketvercode>
+		<package>
+			<version>3.6.5</version>
+			<versioncode>365</versioncode>
+			<apkname>fr.ybo.transportsrennes_365.apk</apkname>
+			<srcname>fr.ybo.transportsrennes_365_src.tar.gz</srcname>
+			<hash type="sha256">d2d1e5becdba078ea4eaa0d8e3c783e8ff16daa7e5115360a564323a924193d9</hash>
+			<sig>752c0d93a12870e3b92f2391b64a743c</sig>
+			<size>5486781</size>
+			<sdkver>4</sdkver>
+			<added>2014-09-02</added>
+			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,VIBRATE,RECEIVE_BOOT_COMPLETED,INTERNET,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps</features>
+		</package>
 		<package>
 			<version>3.6.4</version>
 			<versioncode>364</versioncode>
@@ -45007,19 +45020,6 @@
 			<size>5055163</size>
 			<sdkver>4</sdkver>
 			<added>2014-06-20</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,VIBRATE,RECEIVE_BOOT_COMPLETED,INTERNET,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps</features>
-		</package>
-		<package>
-			<version>3.6.2</version>
-			<versioncode>362</versioncode>
-			<apkname>fr.ybo.transportsrennes_362.apk</apkname>
-			<srcname>fr.ybo.transportsrennes_362_src.tar.gz</srcname>
-			<hash type="sha256">3b23a68984da295d598a0a810f72a77cb32832c14d990ab88af930f80eac2479</hash>
-			<sig>752c0d93a12870e3b92f2391b64a743c</sig>
-			<size>5495707</size>
-			<sdkver>4</sdkver>
-			<added>2014-05-12</added>
 			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,VIBRATE,RECEIVE_BOOT_COMPLETED,INTERNET,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps</features>
 		</package>
@@ -45872,10 +45872,10 @@
 	<application id="com.reddyetwo.hashmypass.app">
 		<id>com.reddyetwo.hashmypass.app</id>
 		<added>2014-09-01</added>
-		<lastupdated>2014-09-01</lastupdated>
+		<lastupdated>2014-09-02</lastupdated>
 		<name>Twik</name>
 		<summary>Manage and generate secure passwords</summary>
-		<icon>com.reddyetwo.hashmypass.app.6.png</icon>
+		<icon>com.reddyetwo.hashmypass.app.8.png</icon>
 		<desc>&lt;p&gt;Use a combination of a master key/password, a private key, and the website name/url to generate a unique, strong password. Since passwords are generated each time, even if one of them is compromised the rest would be safe. Twik also integrates with any web browser, so that you can generate a password quickly by sharing a website with Twik from the browser.&lt;/p&gt;&lt;p&gt;It is compatible with Password Hasher Plus, a Chrome extension by Eric Woodruff that follows the same principles for generating strong passwords. You can use the same private and master keys to generate the same passwords on your desktop browser.&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Several profiles, each with its own private key&lt;/li&gt;&lt;li&gt; Favicons to easily identify websites&lt;/li&gt;&lt;li&gt; Identicons to check that you typed your master key correctly at a glance&lt;/li&gt;&lt;li&gt; Share any website from a web browser to generate a password for it&lt;/li&gt;&lt;li&gt; Customize password generation for each website (password length and characters)&lt;/li&gt;&lt;li&gt; Automatically copy generated passwords to the clipboard&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Security,Internet</categories>
@@ -45883,8 +45883,21 @@
 		<web>https://github.com/gustavomondron/twik/blob/HEAD/README.md</web>
 		<source>https://github.com/gustavomondron/twik</source>
 		<tracker>https://github.com/gustavomondron/twik/issues</tracker>
-		<marketversion>1.2.1</marketversion>
-		<marketvercode>6</marketvercode>
+		<marketversion>1.2.3</marketversion>
+		<marketvercode>8</marketvercode>
+		<package>
+			<version>1.2.3</version>
+			<versioncode>8</versioncode>
+			<apkname>com.reddyetwo.hashmypass.app_8.apk</apkname>
+			<srcname>com.reddyetwo.hashmypass.app_8_src.tar.gz</srcname>
+			<hash type="sha256">a946ff74be7fa186f670731deeb14ce54a5a2d0cedb10b5f8fa6dfb40fe8a344</hash>
+			<sig>1423c70ef958b6184559bccec0a557ce</sig>
+			<size>719405</size>
+			<sdkver>15</sdkver>
+			<added>2014-09-02</added>
+			<permissions>INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.2.1</version>
 			<versioncode>6</versioncode>
@@ -47665,10 +47678,10 @@
 	<application id="de.geeksfactory.opacclient">
 		<id>de.geeksfactory.opacclient</id>
 		<added>2013-09-20</added>
-		<lastupdated>2014-08-20</lastupdated>
+		<lastupdated>2014-09-02</lastupdated>
 		<name>Web Opac</name>
 		<summary>German public libraries</summary>
-		<icon>de.geeksfactory.opacclient.86.png</icon>
+		<icon>de.geeksfactory.opacclient.87.png</icon>
 		<desc>&lt;p&gt;Client for some German, Austrian and Swiss public libraries that offer online catalogues.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Reading</categories>
@@ -47676,8 +47689,21 @@
 		<web>http://opacapp.de</web>
 		<source>https://github.com/raphaelm/opacclient</source>
 		<tracker>https://github.com/raphaelm/opacclient/issues</tracker>
-		<marketversion>3.1.0</marketversion>
-		<marketvercode>86</marketvercode>
+		<marketversion>3.1.1</marketversion>
+		<marketvercode>87</marketvercode>
+		<package>
+			<version>3.1.1</version>
+			<versioncode>87</versioncode>
+			<apkname>de.geeksfactory.opacclient_87.apk</apkname>
+			<srcname>de.geeksfactory.opacclient_87_src.tar.gz</srcname>
+			<hash type="sha256">4e890258fa3414836788d55f018f57a8bf8dc814ae9e96ac659a5cb707ba743e</hash>
+			<sig>61b964e1a0403870ded3276877c11a18</sig>
+			<size>4605500</size>
+			<sdkver>8</sdkver>
+			<added>2014-09-02</added>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_NETWORK_STATE,NFC,RECEIVE_BOOT_COMPLETED,INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>3.1.0</version>
 			<versioncode>86</versioncode>
@@ -47701,19 +47727,6 @@
 			<size>4502488</size>
 			<sdkver>8</sdkver>
 			<added>2014-08-08</added>
-			<permissions>ACCESS_COARSE_LOCATION,ACCESS_NETWORK_STATE,NFC,RECEIVE_BOOT_COMPLETED,INTERNET</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>3.0.8</version>
-			<versioncode>82</versioncode>
-			<apkname>de.geeksfactory.opacclient_82.apk</apkname>
-			<srcname>de.geeksfactory.opacclient_82_src.tar.gz</srcname>
-			<hash type="sha256">873a0ecac7405b3539e2170d921c639287d4914d648c20548d88bfb81c2ca863</hash>
-			<sig>61b964e1a0403870ded3276877c11a18</sig>
-			<size>4493620</size>
-			<sdkver>8</sdkver>
-			<added>2014-06-28</added>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_NETWORK_STATE,NFC,RECEIVE_BOOT_COMPLETED,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -48966,10 +48979,10 @@
 	<application id="com.developfreedom.wordpowermadeeasy">
 		<id>com.developfreedom.wordpowermadeeasy</id>
 		<added>2014-08-29</added>
-		<lastupdated>2014-08-31</lastupdated>
+		<lastupdated>2014-09-02</lastupdated>
 		<name>Word Power Made Easy</name>
 		<summary>Build your vocabualary</summary>
-		<icon>com.developfreedom.wordpowermadeeasy.11.png</icon>
+		<icon>com.developfreedom.wordpowermadeeasy.12.png</icon>
 		<desc>&lt;p&gt;Vocabulary building with hundreds of word meanings chosen carefully from various SAT, GRE and GMAT course materials.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Reading</categories>
@@ -48977,8 +48990,20 @@
 		<web>http://developfreedom.com</web>
 		<source>https://github.com/shubhamchaudhary/wordpowermadeeasy</source>
 		<tracker>https://github.com/shubhamchaudhary/wordpowermadeeasy/issues</tracker>
-		<marketversion>0.1.1</marketversion>
-		<marketvercode>11</marketvercode>
+		<marketversion>0.1.2</marketversion>
+		<marketvercode>12</marketvercode>
+		<package>
+			<version>0.1.2</version>
+			<versioncode>12</versioncode>
+			<apkname>com.developfreedom.wordpowermadeeasy_12.apk</apkname>
+			<srcname>com.developfreedom.wordpowermadeeasy_12_src.tar.gz</srcname>
+			<hash type="sha256">6f05cbb9afad84987389247070385c6cae13960e4181230ef7a3981bba6f0348</hash>
+			<sig>1bf32bb8361bc13edf0c04a0fcf26fff</sig>
+			<size>146642</size>
+			<sdkver>14</sdkver>
+			<added>2014-09-02</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.1.1</version>
 			<versioncode>11</versioncode>
