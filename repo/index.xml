@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1414010985" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1414084416" url="http://f-droid.org/repo" version="12">
 		<description>The official FDroid repository. Applications in this repository are mostly built directory from the source code. Some are official binaries built by the original application developers - these will be replaced by source-built versions over time. </description>
 	</repo>
 	<application id="de.j4velin.systemappmover">
@@ -8035,6 +8035,37 @@
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.location.network</features>
 		</package>
 	</application>
+	<application id="com.afollestad.cabinet">
+		<id>com.afollestad.cabinet</id>
+		<added>2014-10-23</added>
+		<lastupdated>2014-10-23</lastupdated>
+		<name>Cabinet Beta</name>
+		<summary>File manager</summary>
+		<icon>com.afollestad.cabinet.71.png</icon>
+		<desc>&lt;p&gt;Minimal file manager designed for Android 4.1 and above. However, updates might be slow or might not come at all, since the author has no longer the time to maintain it. Pullrequests are welcome.&lt;/p&gt;</desc>
+		<license>MIT</license>
+		<categories>Office</categories>
+		<category>Office</category>
+		<web>https://github.com/afollestad/cabinet/blob/HEAD/README.md</web>
+		<source>https://github.com/afollestad/cabinet</source>
+		<tracker>https://github.com/afollestad/cabinet/issues</tracker>
+		<marketversion>1.8.1</marketversion>
+		<marketvercode>71</marketvercode>
+		<antifeatures>NonFreeDep</antifeatures>
+		<package>
+			<version>1.8.1</version>
+			<versioncode>71</versioncode>
+			<apkname>com.afollestad.cabinet_71.apk</apkname>
+			<srcname>com.afollestad.cabinet_71_src.tar.gz</srcname>
+			<hash type="sha256">18e61257292ddf083a113c02c829fb6c662d80661908b18d799f2bfc7177bd93</hash>
+			<sig>3692054ff9af118adbbb9243e7ba4e98</sig>
+			<size>2009914</size>
+			<sdkver>16</sdkver>
+			<added>2014-10-23</added>
+			<permissions>READ_EXTERNAL_STORAGE,ACCESS_SUPERUSER,com.android.vending.BILLING,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="info.guardianproject.cacert">
 		<id>info.guardianproject.cacert</id>
 		<added>2011-10-03</added>
@@ -10496,10 +10527,10 @@
 	<application id="org.connectbot">
 		<id>org.connectbot</id>
 		<added>2013-05-13</added>
-		<lastupdated>2014-10-20</lastupdated>
+		<lastupdated>2014-10-23</lastupdated>
 		<name>ConnectBot</name>
 		<summary>SSH and local shell client</summary>
-		<icon>org.connectbot.370.png</icon>
+		<icon>org.connectbot.371.png</icon>
 		<desc>&lt;p&gt;An SSH and telnet client, and terminal emulator for local shell. Supports multiple sessions, including running them concurrently.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;fdroid.app:org.pocketworkstation.pckeyboard&quot;&gt;Hacker's Keyboard&lt;/a&gt;, &lt;a href=&quot;fdroid.app:com.anysoftkeyboard.languagepack.SSH&quot;&gt;AnySoftKeyboard: SSH&lt;/a&gt; and the Android PC-keyboard-layout in Android 4.1 are well suited to terminal work.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>Internet</categories>
@@ -10509,6 +10540,19 @@
 		<tracker>https://github.com/connectbot/connectbot/issues</tracker>
 		<marketversion>1.8.1</marketversion>
 		<marketvercode>371</marketvercode>
+		<package>
+			<version>1.8.1</version>
+			<versioncode>371</versioncode>
+			<apkname>org.connectbot_371.apk</apkname>
+			<srcname>org.connectbot_371_src.tar.gz</srcname>
+			<hash type="sha256">811848a48f40df9374a946e4745e5a4f92fe11adee680762475a3bc3c6549cf7</hash>
+			<sig>c26b8c452561e601dbbb44dab6d57f37</sig>
+			<size>846565</size>
+			<sdkver>4</sdkver>
+			<added>2014-10-23</added>
+			<permissions>ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,INTERNET,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
+			<nativecode>armeabi,x86</nativecode>
+		</package>
 		<package>
 			<version>1.8.0</version>
 			<versioncode>370</versioncode>
@@ -10532,19 +10576,6 @@
 			<size>859087</size>
 			<sdkver>4</sdkver>
 			<added>2014-08-10</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET,VIBRATE,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
-			<nativecode>armeabi,x86</nativecode>
-		</package>
-		<package>
-			<version>22-46-35-snapshot</version>
-			<versioncode>365</versioncode>
-			<apkname>org.connectbot_365.apk</apkname>
-			<srcname>org.connectbot_365_src.tar.gz</srcname>
-			<hash type="sha256">47f50bdfe617e87c95afd6bf5b55b1fd255de4a7658182a817bcfce2eb2ce193</hash>
-			<sig>c26b8c452561e601dbbb44dab6d57f37</sig>
-			<size>827456</size>
-			<sdkver>4</sdkver>
-			<added>2013-05-13</added>
 			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET,VIBRATE,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
 			<nativecode>armeabi,x86</nativecode>
 		</package>
@@ -12340,6 +12371,35 @@
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
+	<application id="com.ecuamobi.deckwallet">
+		<id>com.ecuamobi.deckwallet</id>
+		<added>2014-10-23</added>
+		<lastupdated>2014-10-23</lastupdated>
+		<name>Deck Wallet</name>
+		<summary>Store your Bitcoins in a deck of cards.</summary>
+		<icon>com.ecuamobi.deckwallet.100.png</icon>
+		<desc>&lt;p&gt;Allows you to generate up to 52 bitcoin addresses by entering the order of a deck of cards plus an optional password.&lt;/p&gt;</desc>
+		<license>MIT</license>
+		<categories>Office</categories>
+		<category>Office</category>
+		<web>http://x.co/deckhelp</web>
+		<source>https://github.com/ecuamobi/deck-wallet</source>
+		<tracker>https://github.com/ecuamobi/deck-wallet/issues</tracker>
+		<marketversion>1.0</marketversion>
+		<marketvercode>100</marketvercode>
+		<package>
+			<version>1.0</version>
+			<versioncode>100</versioncode>
+			<apkname>com.ecuamobi.deckwallet_100.apk</apkname>
+			<srcname>com.ecuamobi.deckwallet_100_src.tar.gz</srcname>
+			<hash type="sha256">b7557fa0c41a87e779a6e14fab550bee3aaa23a36d534ce6e6ae14d5958629ae</hash>
+			<sig>8a63c6ff8386355ee5e9e4c6781f7b54</sig>
+			<size>900768</size>
+			<sdkver>9</sdkver>
+			<added>2014-10-23</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="com.wentam.defcol">
 		<id>com.wentam.defcol</id>
 		<added>2013-12-15</added>
@@ -13262,6 +13322,35 @@
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="com.endeepak.dotsnsquares">
+		<id>com.endeepak.dotsnsquares</id>
+		<added>2014-10-23</added>
+		<lastupdated>2014-10-23</lastupdated>
+		<name>Dots &amp; Squares</name>
+		<summary>Casual game for two players</summary>
+		<icon>com.endeepak.dotsnsquares.5.png</icon>
+		<desc>&lt;p&gt;Two players take turn to connect the dots. Complete a square to score a point and play again.&lt;/p&gt;</desc>
+		<license>MIT</license>
+		<categories>Games</categories>
+		<category>Games</category>
+		<web>https://github.com/endeepak/dotsnsquares/blob/master/Readme.md</web>
+		<source>https://github.com/endeepak/dotsnsquares</source>
+		<tracker>https://github.com/endeepak/dotsnsquares/issues</tracker>
+		<marketversion>1.1</marketversion>
+		<marketvercode>5</marketvercode>
+		<package>
+			<version>1.1</version>
+			<versioncode>5</versioncode>
+			<apkname>com.endeepak.dotsnsquares_5.apk</apkname>
+			<srcname>com.endeepak.dotsnsquares_5_src.tar.gz</srcname>
+			<hash type="sha256">f2eabd9910deeebbc18da8093826813942b3100fed7cf62244abfaf0c1fcc6d5</hash>
+			<sig>560ce75245ab6373caf93d426b4526f0</sig>
+			<size>76455</size>
+			<sdkver>15</sdkver>
+			<added>2014-10-23</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="de.stefan_oltmann.kaesekaestchen">
 		<id>de.stefan_oltmann.kaesekaestchen</id>
 		<added>2012-09-26</added>
@@ -13492,6 +13581,36 @@
 			<sdkver>4</sdkver>
 			<maxsdkver>6</maxsdkver>
 			<added>2011-03-02</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
+	<application id="com.rastating.droidbeard">
+		<id>com.rastating.droidbeard</id>
+		<added>2014-10-23</added>
+		<lastupdated>2014-10-23</lastupdated>
+		<name>DroidBeard</name>
+		<summary>Manage SickBeard installations</summary>
+		<icon>com.rastating.droidbeard.1200.png</icon>
+		<desc>&lt;p&gt;Managing your &lt;a href=&quot;http://sickbeard.com/&quot;&gt;SickBeard&lt;/a&gt; installation either at home or remotely.&lt;/p&gt;</desc>
+		<license>GPLv3</license>
+		<categories>Office</categories>
+		<category>Office</category>
+		<web>http://www.droidbeard.com/</web>
+		<source>https://github.com/rastating/DroidBeard</source>
+		<tracker>https://github.com/rastating/DroidBeard/issues</tracker>
+		<marketversion>1.1.3</marketversion>
+		<marketvercode>1130</marketvercode>
+		<package>
+			<version>1.2</version>
+			<versioncode>1200</versioncode>
+			<apkname>com.rastating.droidbeard_1200.apk</apkname>
+			<srcname>com.rastating.droidbeard_1200_src.tar.gz</srcname>
+			<hash type="sha256">b9a43737acae43622885f8fc9b39610456caeed9c1ce14c5e2c4963c95737569</hash>
+			<sig>781130dc46eb2047531b051f57e2740c</sig>
+			<size>549006</size>
+			<sdkver>15</sdkver>
+			<added>2014-10-23</added>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -14374,10 +14493,10 @@
 	<application id="de.audioattack.openlink">
 		<id>de.audioattack.openlink</id>
 		<added>2014-02-22</added>
-		<lastupdated>2014-05-25</lastupdated>
+		<lastupdated>2014-10-23</lastupdated>
 		<name>Easy Open Link</name>
 		<summary>Open URLs via select and share</summary>
-		<icon>de.audioattack.openlink.6.png</icon>
+		<icon>de.audioattack.openlink.7.png</icon>
 		<desc>&lt;p&gt;Easy Open Link makes it easy to open links from text documents via the share function of many apps. No more cumbersome copy and paste. Easy Open Link also allows you to open several links at the same time.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Roughly select the URL(s). It does not matter if the selection also contains additional text or white spaces.&lt;/li&gt;&lt;li&gt; Press the &quot;share&quot; symbol.&lt;/li&gt;&lt;li&gt; Select &quot;open link&quot;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;The share function has become a common feature in more recent versions of Android. This app requires Android 2.2 or newer, but is most useful with Android 4.0 or later.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://gitorious.org/openlink/openlink/raw/changelog.txt&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -14387,6 +14506,18 @@
 		<tracker>http://bugtracker.audioattack.de</tracker>
 		<marketversion>1.3</marketversion>
 		<marketvercode>7</marketvercode>
+		<package>
+			<version>1.3</version>
+			<versioncode>7</versioncode>
+			<apkname>de.audioattack.openlink_7.apk</apkname>
+			<srcname>de.audioattack.openlink_7_src.tar.gz</srcname>
+			<hash type="sha256">d0f91e23c5d90a25f08b9a3ac0be815dcd1386db8803adb71899b047031c2951</hash>
+			<sig>5520b815ac4e1b9369996eab13cdcecb</sig>
+			<size>35101</size>
+			<sdkver>8</sdkver>
+			<added>2014-10-23</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.2.1</version>
 			<versioncode>6</versioncode>
@@ -14409,18 +14540,6 @@
 			<size>34293</size>
 			<sdkver>8</sdkver>
 			<added>2014-04-29</added>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.1</version>
-			<versioncode>4</versioncode>
-			<apkname>de.audioattack.openlink_4.apk</apkname>
-			<srcname>de.audioattack.openlink_4_src.tar.gz</srcname>
-			<hash type="sha256">e4bbea87613d5b33da7c8a06989e9594a70bd4ee3adb535db9550068c57eba84</hash>
-			<sig>5520b815ac4e1b9369996eab13cdcecb</sig>
-			<size>28645</size>
-			<sdkver>8</sdkver>
-			<added>2014-04-01</added>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -14705,10 +14824,10 @@
 	<application id="org.epstudios.epmobile">
 		<id>org.epstudios.epmobile</id>
 		<added>2012-08-23</added>
-		<lastupdated>2014-08-03</lastupdated>
+		<lastupdated>2014-10-23</lastupdated>
 		<name>EP Mobile</name>
 		<summary>Medical tools</summary>
-		<icon>org.epstudios.epmobile.36.png</icon>
+		<icon>org.epstudios.epmobile.38.png</icon>
 		<desc>&lt;p&gt;EP Mobile is an application that provides a set of tools for electrophysiologists and other health care workers who deal with cardiac arrhythmias. The program includes EP calculators, drug dose calculators, risk scores, diagnostic tools, ECG figures, and more.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mannd/epmobile/tree/master/doc/changes&quot;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Science &amp; Education</categories>
@@ -14719,6 +14838,30 @@
 		<marketversion>2.6</marketversion>
 		<marketvercode>38</marketvercode>
 		<package>
+			<version>2.6</version>
+			<versioncode>38</versioncode>
+			<apkname>org.epstudios.epmobile_38.apk</apkname>
+			<srcname>org.epstudios.epmobile_38_src.tar.gz</srcname>
+			<hash type="sha256">35389682e550e8696a6e7d9f0ea110322e1cb41154430ea4e54111370de33759</hash>
+			<sig>1de57ef7702cafe69869bb00ce72738d</sig>
+			<size>954279</size>
+			<sdkver>7</sdkver>
+			<added>2014-10-23</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
+		<package>
+			<version>2.5.1</version>
+			<versioncode>37</versioncode>
+			<apkname>org.epstudios.epmobile_37.apk</apkname>
+			<srcname>org.epstudios.epmobile_37_src.tar.gz</srcname>
+			<hash type="sha256">142c5dda9c8436ce7b891b89145331897f5ad9c99dfc47f5d7b3dac2d0af372e</hash>
+			<sig>1de57ef7702cafe69869bb00ce72738d</sig>
+			<size>947324</size>
+			<sdkver>7</sdkver>
+			<added>2014-10-23</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
+		<package>
 			<version>2.5</version>
 			<versioncode>36</versioncode>
 			<apkname>org.epstudios.epmobile_36.apk</apkname>
@@ -14728,30 +14871,6 @@
 			<size>921688</size>
 			<sdkver>7</sdkver>
 			<added>2014-08-03</added>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>2.4</version>
-			<versioncode>35</versioncode>
-			<apkname>org.epstudios.epmobile_35.apk</apkname>
-			<srcname>org.epstudios.epmobile_35_src.tar.gz</srcname>
-			<hash type="sha256">55d9e8f24c69cc855d1898b7f9fff08c46ff16f65a51e698e34f9d690a0a9d12</hash>
-			<sig>1de57ef7702cafe69869bb00ce72738d</sig>
-			<size>919968</size>
-			<sdkver>7</sdkver>
-			<added>2014-06-14</added>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>2.3.3</version>
-			<versioncode>34</versioncode>
-			<apkname>org.epstudios.epmobile_34.apk</apkname>
-			<srcname>org.epstudios.epmobile_34_src.tar.gz</srcname>
-			<hash type="sha256">807c6b3e395ea8715110140a8fa1ac86095a6bbf200a58464871615b401d3922</hash>
-			<sig>1de57ef7702cafe69869bb00ce72738d</sig>
-			<size>909165</size>
-			<sdkver>7</sdkver>
-			<added>2014-04-12</added>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -15982,6 +16101,36 @@
 			<added>2013-04-20</added>
 			<permissions>WAKE_LOCK,WRITE_EXTERNAL_STORAGE,BLUETOOTH,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen,android.hardware.bluetooth</features>
+		</package>
+	</application>
+	<application id="free.yhc.feeder">
+		<id>free.yhc.feeder</id>
+		<added>2014-10-23</added>
+		<lastupdated>2014-10-23</lastupdated>
+		<name>FeedHive</name>
+		<summary>Feed aggregator</summary>
+		<icon>free.yhc.feeder.57.png</icon>
+		<desc>&lt;p&gt;Korean language RSS reader/feed aggregator.&lt;/p&gt;</desc>
+		<license>FreeBSD</license>
+		<categories>Reading,Internet</categories>
+		<category>Reading</category>
+		<web/>
+		<source>https://github.com/yhcting/feedhive/</source>
+		<tracker>https://github.com/yhcting/feedhive//issues</tracker>
+		<marketversion>2.5.5</marketversion>
+		<marketvercode>57</marketvercode>
+		<package>
+			<version>2.5.5</version>
+			<versioncode>57</versioncode>
+			<apkname>free.yhc.feeder_57.apk</apkname>
+			<srcname>free.yhc.feeder_57_src.tar.gz</srcname>
+			<hash type="sha256">c31139a78f52a3f49d3e6236473c37afab153b1472207f4f6cb453b0f725c955</hash>
+			<sig>42af4bbe78b7f529aa872634336ab37f</sig>
+			<size>570240</size>
+			<sdkver>15</sdkver>
+			<added>2014-10-23</added>
+			<permissions>READ_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
 	<application id="net.micode.fileexplorer">
@@ -18921,10 +19070,10 @@
 	<application id="org.ligi.gobandroid_hd">
 		<id>org.ligi.gobandroid_hd</id>
 		<added>2014-09-10</added>
-		<lastupdated>2014-10-17</lastupdated>
+		<lastupdated>2014-10-23</lastupdated>
 		<name>Gobandroid</name>
 		<summary>Ancient Go game</summary>
-		<icon>org.ligi.gobandroid_hd.193.png</icon>
+		<icon>org.ligi.gobandroid_hd.194.png</icon>
 		<desc>&lt;p&gt;Gobandroid is virtual goban (GO-Board) on your mobile to study and play the ancient game of Go (weiqi in Chinese, igo in Japanese, baduk in Korean).&lt;/p&gt;&lt;p&gt;Go originated in China more than 2,000 years ago. The game is noted for being rich in strategy despite its relatively simple rules. It has been claimed that Go is the most complex game in the world due to its vast number of variations in individual games. More info on &lt;a href=&quot;http://en.wikipedia.org/wiki/Go_(game)&quot;&gt;Wikipedia&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Solve Tsumegos (Go Problems are called Tsumego)&lt;/li&gt;&lt;li&gt; Review Games (SGF Format reader)&lt;/li&gt;&lt;li&gt; Record Games (or use the phone/tablet as a board - incl SGF writer)&lt;/li&gt;&lt;li&gt; TV-Mode (automatic replay of games - mainly for GoogleTV)&lt;/li&gt;&lt;li&gt; Play against GnuGo (extra install needed)&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Games</categories>
@@ -18934,6 +19083,18 @@
 		<tracker>https://github.com/ligi/gobandroid/issues</tracker>
 		<marketversion>1.9.4</marketversion>
 		<marketvercode>194</marketvercode>
+		<package>
+			<version>1.9.4</version>
+			<versioncode>194</versioncode>
+			<apkname>org.ligi.gobandroid_hd_194.apk</apkname>
+			<srcname>org.ligi.gobandroid_hd_194_src.tar.gz</srcname>
+			<hash type="sha256">a8a32415356b742047ae07969099e89271dc7772392e9604e6cbef036e5eaf90</hash>
+			<sig>82ec0033f800ee2a6352b7855ced91b6</sig>
+			<size>2366359</size>
+			<sdkver>9</sdkver>
+			<added>2014-10-23</added>
+			<permissions>READ_EXTERNAL_STORAGE,INTERNET,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WAKE_LOCK</permissions>
+		</package>
 		<package>
 			<version>1.9.3</version>
 			<versioncode>193</versioncode>
@@ -18957,18 +19118,6 @@
 			<sdkver>9</sdkver>
 			<added>2014-10-16</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,WAKE_LOCK,INTERNET</permissions>
-		</package>
-		<package>
-			<version>1.9.0</version>
-			<versioncode>190</versioncode>
-			<apkname>org.ligi.gobandroid_hd_190.apk</apkname>
-			<srcname>org.ligi.gobandroid_hd_190_src.tar.gz</srcname>
-			<hash type="sha256">3fe8a359a00ebc7382168839cba15c9cb23c6ea5a001eabb60eae36798a2fcf2</hash>
-			<sig>82ec0033f800ee2a6352b7855ced91b6</sig>
-			<size>2211040</size>
-			<sdkver>9</sdkver>
-			<added>2014-09-22</added>
-			<permissions>org.ligi.gobandroid_hd.permission.C2D_MESSAGE,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,com.google.android.c2dm.permission.RECEIVE,INTERNET,READ_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="com.googlecode.gogodroid">
@@ -19260,10 +19409,10 @@
 	<application id="it.greenaddress.cordova">
 		<id>it.greenaddress.cordova</id>
 		<added>2014-07-03</added>
-		<lastupdated>2014-10-12</lastupdated>
+		<lastupdated>2014-10-23</lastupdated>
 		<name>GreenAddress.It</name>
 		<summary>GreenAddress client</summary>
-		<icon>it.greenaddress.cordova.63.png</icon>
+		<icon>it.greenaddress.cordova.66.png</icon>
 		<desc>&lt;p&gt;Wallet that uses multisig to improve security (adding 2 factor for instance or limits) and Hierarchical Deterministic addresses (see &lt;a href=&quot;https://en.bitcoin.it/wiki/BIP_0032&quot;&gt;BIP32&lt;/a&gt;).&lt;/p&gt;&lt;p&gt;It offers the advantages of a web wallet:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Ubiquitously available&lt;/li&gt;&lt;li&gt; Social/email/sms integration&lt;/li&gt;&lt;li&gt; Two factor authentication&lt;/li&gt;&lt;li&gt; Transactions limits/restrictions&lt;/li&gt;&lt;li&gt; Greenaddress instant transaction&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;and the advantages of a local software wallet like Electrum:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Mnemonic seed backup once and forget&lt;/li&gt;&lt;li&gt; Your private keys are never on the server, not even encrypted&lt;/li&gt;&lt;li&gt; No long wait to synchronize the full client with the Bitcoin blockchain&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;See &lt;a href=&quot;https://greenaddress.it&quot;&gt;their website&lt;/a&gt; and &lt;a href=&quot;https://greenaddress.it/faq&quot;&gt;their FAQ&lt;/a&gt; for more information.&lt;/p&gt;&lt;p&gt;Supports NFC for login and QR code scanning for login and transactions.&lt;/p&gt;</desc>
 		<license>LGPLv2.1</license>
 		<categories>Internet</categories>
@@ -19271,8 +19420,36 @@
 		<web>https://greenaddress.it</web>
 		<source>https://github.com/greenaddress/WalletCordova</source>
 		<tracker>https://github.com/greenaddress/WalletCordova/issues</tracker>
-		<marketversion>0.0.64</marketversion>
-		<marketvercode>64</marketvercode>
+		<marketversion>0.0.66</marketversion>
+		<marketvercode>66</marketvercode>
+		<package>
+			<version>0.0.66</version>
+			<versioncode>66</versioncode>
+			<apkname>it.greenaddress.cordova_66.apk</apkname>
+			<srcname>it.greenaddress.cordova_66_src.tar.gz</srcname>
+			<hash type="sha256">4d63ac6a655d8624e747d63b5db13e42684ad9a477bf16e93c9da3b470d03c1b</hash>
+			<sig>075a316ba48b906938a3d5b5227c7eb8</sig>
+			<size>8744068</size>
+			<sdkver>14</sdkver>
+			<added>2014-10-23</added>
+			<permissions>FLASHLIGHT,ACCESS_NETWORK_STATE,NFC,READ_PHONE_STATE,it.greenaddress.cordova.permission.C2D_MESSAGE,GET_ACCOUNTS,com.google.android.c2dm.permission.RECEIVE,VIBRATE,CAMERA,WAKE_LOCK,INTERNET</permissions>
+			<nativecode>armeabi,mips,x86</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
+		<package>
+			<version>0.0.64</version>
+			<versioncode>64</versioncode>
+			<apkname>it.greenaddress.cordova_64.apk</apkname>
+			<srcname>it.greenaddress.cordova_64_src.tar.gz</srcname>
+			<hash type="sha256">973bc1117a6436f7f2cee902b19d0b4e70d3023245012baa9c9dea0f59dea5ae</hash>
+			<sig>075a316ba48b906938a3d5b5227c7eb8</sig>
+			<size>8741458</size>
+			<sdkver>14</sdkver>
+			<added>2014-10-23</added>
+			<permissions>FLASHLIGHT,ACCESS_NETWORK_STATE,NFC,READ_PHONE_STATE,it.greenaddress.cordova.permission.C2D_MESSAGE,GET_ACCOUNTS,com.google.android.c2dm.permission.RECEIVE,VIBRATE,CAMERA,WAKE_LOCK,INTERNET</permissions>
+			<nativecode>armeabi,mips,x86</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.0.63</version>
 			<versioncode>63</versioncode>
@@ -19284,34 +19461,6 @@
 			<sdkver>14</sdkver>
 			<added>2014-10-12</added>
 			<permissions>FLASHLIGHT,ACCESS_NETWORK_STATE,NFC,it.greenaddress.cordova.permission.C2D_MESSAGE,GET_ACCOUNTS,com.google.android.c2dm.permission.RECEIVE,VIBRATE,CAMERA,WAKE_LOCK,READ_PHONE_STATE,INTERNET</permissions>
-			<nativecode>armeabi,mips,x86</nativecode>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.0.61</version>
-			<versioncode>61</versioncode>
-			<apkname>it.greenaddress.cordova_61.apk</apkname>
-			<srcname>it.greenaddress.cordova_61_src.tar.gz</srcname>
-			<hash type="sha256">6003bde6e6973dff7224213fcb362253ca30446ddeb5abb3439dc2d9a73c2652</hash>
-			<sig>075a316ba48b906938a3d5b5227c7eb8</sig>
-			<size>8710807</size>
-			<sdkver>14</sdkver>
-			<added>2014-09-16</added>
-			<permissions>FLASHLIGHT,ACCESS_NETWORK_STATE,NFC,it.greenaddress.cordova.permission.C2D_MESSAGE,GET_ACCOUNTS,com.google.android.c2dm.permission.RECEIVE,VIBRATE,CAMERA,WAKE_LOCK,READ_PHONE_STATE,INTERNET</permissions>
-			<nativecode>armeabi,mips,x86</nativecode>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.0.60</version>
-			<versioncode>60</versioncode>
-			<apkname>it.greenaddress.cordova_60.apk</apkname>
-			<srcname>it.greenaddress.cordova_60_src.tar.gz</srcname>
-			<hash type="sha256">2b911e2731c3c45a7a474802a680db95ecd2b40760009d918f7722b9d6b97569</hash>
-			<sig>075a316ba48b906938a3d5b5227c7eb8</sig>
-			<size>8707019</size>
-			<sdkver>14</sdkver>
-			<added>2014-09-13</added>
-			<permissions>FLASHLIGHT,ACCESS_NETWORK_STATE,NFC,it.greenaddress.cordova.permission.C2D_MESSAGE,WAKE_LOCK,com.google.android.c2dm.permission.RECEIVE,VIBRATE,CAMERA,GET_ACCOUNTS,READ_PHONE_STATE,INTERNET</permissions>
 			<nativecode>armeabi,mips,x86</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -20902,10 +21051,10 @@
 	<application id="de.nico.ha_manager">
 		<id>de.nico.ha_manager</id>
 		<added>2014-09-29</added>
-		<lastupdated>2014-10-20</lastupdated>
+		<lastupdated>2014-10-23</lastupdated>
 		<name>HW-Manager</name>
 		<summary>Manage your homework</summary>
-		<icon>de.nico.ha_manager.12.png</icon>
+		<icon>de.nico.ha_manager.13.png</icon>
 		<desc>&lt;p&gt;Make your schoolday easier by keeping the overview over your homework. The target of the project is to keep it easy to manage your homework and do not be bloated like some other apps.&lt;/p&gt;</desc>
 		<license>GPLv2+</license>
 		<categories>Science &amp; Education,Office</categories>
@@ -20915,6 +21064,18 @@
 		<tracker>https://github.com/AltNico/ha-manager/issues</tracker>
 		<marketversion>0.7</marketversion>
 		<marketvercode>13</marketvercode>
+		<package>
+			<version>0.7</version>
+			<versioncode>13</versioncode>
+			<apkname>de.nico.ha_manager_13.apk</apkname>
+			<srcname>de.nico.ha_manager_13_src.tar.gz</srcname>
+			<hash type="sha256">f7b06df9b62ff093aa94961f366a55be39f61f35831b829a676dc185999b91dc</hash>
+			<sig>8e3f57f5bbc7c2ffb20287437bd7bee7</sig>
+			<size>257216</size>
+			<sdkver>4</sdkver>
+			<added>2014-10-23</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.65</version>
 			<versioncode>12</versioncode>
@@ -20937,18 +21098,6 @@
 			<size>254138</size>
 			<sdkver>4</sdkver>
 			<added>2014-10-10</added>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.62</version>
-			<versioncode>9</versioncode>
-			<apkname>de.nico.ha_manager_9.apk</apkname>
-			<srcname>de.nico.ha_manager_9_src.tar.gz</srcname>
-			<hash type="sha256">ed6a032921b328e238711df981c64f61a2689d69815d9121ac6c0983c713c7d2</hash>
-			<sig>8e3f57f5bbc7c2ffb20287437bd7bee7</sig>
-			<size>250636</size>
-			<sdkver>4</sdkver>
-			<added>2014-09-30</added>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -23318,6 +23467,36 @@
 			<permissions>WRITE_CONTACTS,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,CALL_PHONE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,AUTHENTICATE_ACCOUNTS,GET_ACCOUNTS,com.google.android.c2dm.permission.RECEIVE,VIBRATE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,INTERNET,org.kontalk.permission.C2D_MESSAGE,READ_CONTACTS,MANAGE_ACCOUNTS,READ_PHONE_STATE,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
+	<application id="com.kure.musicplayer">
+		<id>com.kure.musicplayer</id>
+		<added>2014-10-23</added>
+		<lastupdated>2014-10-23</lastupdated>
+		<name>kure Music Player</name>
+		<summary>Music player</summary>
+		<icon>com.kure.musicplayer.2.png</icon>
+		<desc>&lt;p&gt;Customizable music player featuring:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; browsable by artist, album, genre and year or show them all at once&lt;/li&gt;&lt;li&gt; shuffle and repeat modes&lt;/li&gt;&lt;li&gt; playlist support, allowing you to create your own on-the-fly&lt;/li&gt;&lt;li&gt; 9 different color themes&lt;/li&gt;&lt;li&gt; status bar notification, with playback controls&lt;/li&gt;&lt;li&gt; lock screen widget - control your songs while the device is locked&lt;/li&gt;&lt;li&gt; automatically detects when you insert/remove the headset&lt;/li&gt;&lt;/ul&gt;</desc>
+		<license>GPLv3</license>
+		<categories>Multimedia</categories>
+		<category>Multimedia</category>
+		<web>https://github.com/alexdantas/kure-music-player/blob/HEAD/README.md</web>
+		<source>https://github.com/alexdantas/kure-music-player</source>
+		<tracker>https://github.com/alexdantas/kure-music-player/issues</tracker>
+		<marketversion>0.9.3</marketversion>
+		<marketvercode>2</marketvercode>
+		<package>
+			<version>0.9.3</version>
+			<versioncode>2</versioncode>
+			<apkname>com.kure.musicplayer_2.apk</apkname>
+			<srcname>com.kure.musicplayer_2_src.tar.gz</srcname>
+			<hash type="sha256">0f12b760d123d5c2719e362d11ba0be79a04da9624292e1d50baede68d55f46c</hash>
+			<sig>55e37fb05467aab4c66a7aa25a533411</sig>
+			<size>468835</size>
+			<sdkver>16</sdkver>
+			<added>2014-10-23</added>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,WAKE_LOCK</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="org.kwaak3">
 		<id>org.kwaak3</id>
 		<added>2013-06-27</added>
@@ -23954,10 +24133,10 @@
 	<application id="info.guardianproject.lildebi">
 		<id>info.guardianproject.lildebi</id>
 		<added>2012-09-07</added>
-		<lastupdated>2014-10-13</lastupdated>
+		<lastupdated>2014-10-23</lastupdated>
 		<name>Lil' Debi</name>
 		<summary>Run Debian on your phone</summary>
-		<icon>info.guardianproject.lildebi.5100.png</icon>
+		<icon>info.guardianproject.lildebi.5200.png</icon>
 		<desc>&lt;p&gt;Lil' Debi builds up a whole Debian chroot on your phone entirely using debootstrap. You choose the release, mirror, and size of the disk image, and away it goes. It could take up to an hour on a slow device.&lt;/p&gt;&lt;p&gt;Then it has a simple chroot manager that fscks your disk, mounts/unmounts things, starts/stops sshd if you have it installed, etc. You can also then use ‘apt-get’ to install any package that is released for ARM processors. This includes things like a complete real shell, Tor, TraceRouteTCP, iwconfig/ipconfig, and other security and crypto tools. Works well with &lt;a href=&quot;fdroid.app:jackpal.androidterm&quot;&gt;Terminal Emulator&lt;/a&gt;—just run `/debian/shell` to get a Debian shell.&lt;/p&gt;&lt;p&gt;The aim of Lil’ Debi is to provide a transparent and tightly integrated Debian install on your Android device. It mounts all of your Android partitions in Debian space, so you see a fusion of both systems. It's even possible to have Lil’ Debi launch the normal Debian init start-up scripts when it starts, so that all you need to do is apt-get install and any servers you install will just work.&lt;/p&gt;&lt;p&gt;Lil' Debi works with as few modifications to the Android system as possible. Currently, it only adds a /bin symlink, and a /debian mount directory. It does not touch /system at all.&lt;/p&gt;&lt;p&gt;Requires root: Yes, because it needs to run debootstrap, create dirs in /, mount/umount, etc.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Development</categories>
@@ -23969,6 +24148,18 @@
 		<marketversion>0.5.2</marketversion>
 		<marketvercode>5200</marketvercode>
 		<requirements>root</requirements>
+		<package>
+			<version>0.5.2</version>
+			<versioncode>5200</versioncode>
+			<apkname>info.guardianproject.lildebi_5200.apk</apkname>
+			<srcname>info.guardianproject.lildebi_5200_src.tar.gz</srcname>
+			<hash type="sha256">2f57f18e11c0f8fb2e61a73240e75b61af49d151a5a63a5bf9cdfdb11997c719</hash>
+			<sig>c3a72e87c827821d67d2afebdb5c5986</sig>
+			<size>1865620</size>
+			<sdkver>8</sdkver>
+			<added>2014-10-23</added>
+			<permissions>ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,jackpal.androidterm.permission.RUN_SCRIPT,WAKE_LOCK,ACCESS_SUPERUSER,RECEIVE_BOOT_COMPLETED,INTERNET,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>0.5.1</version>
 			<versioncode>5100</versioncode>
@@ -23991,18 +24182,6 @@
 			<size>1568726</size>
 			<sdkver>8</sdkver>
 			<added>2014-09-24</added>
-			<permissions>ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,jackpal.androidterm.permission.RUN_SCRIPT,INTERNET,ACCESS_SUPERUSER,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
-		</package>
-		<package>
-			<version>0.4.7</version>
-			<versioncode>12</versioncode>
-			<apkname>info.guardianproject.lildebi_12.apk</apkname>
-			<srcname>info.guardianproject.lildebi_12_src.tar.gz</srcname>
-			<hash type="sha256">ae7afa59c7fd7d54dc7d6d74ad46fa8ec0124d4bff88327a9f5486c68959389d</hash>
-			<sig>c3a72e87c827821d67d2afebdb5c5986</sig>
-			<size>1232295</size>
-			<sdkver>8</sdkver>
-			<added>2014-06-10</added>
 			<permissions>ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,jackpal.androidterm.permission.RUN_SCRIPT,INTERNET,ACCESS_SUPERUSER,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
@@ -24281,6 +24460,36 @@
 			<sdkver>8</sdkver>
 			<added>2014-04-10</added>
 			<permissions>INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
+	<application id="com.mattallen.loaned">
+		<id>com.mattallen.loaned</id>
+		<added>2014-10-23</added>
+		<lastupdated>2014-10-23</lastupdated>
+		<name>Loaned</name>
+		<summary>Keep track of loaned items</summary>
+		<icon>com.mattallen.loaned.3.png</icon>
+		<desc>&lt;p&gt;A friendly and simple way of remembering where all your things are. When you loan your things out to people, you're helping them, but its not always easy remembering who has what (and for how long).&lt;/p&gt;</desc>
+		<license>Apache2</license>
+		<categories>Office</categories>
+		<category>Office</category>
+		<web/>
+		<source>https://github.com/matt-allen/loaned-android</source>
+		<tracker>https://github.com/matt-allen/loaned-android/issues</tracker>
+		<marketversion>debug</marketversion>
+		<marketvercode>3</marketvercode>
+		<package>
+			<version>1.0.2</version>
+			<versioncode>3</versioncode>
+			<apkname>com.mattallen.loaned_3.apk</apkname>
+			<srcname>com.mattallen.loaned_3_src.tar.gz</srcname>
+			<hash type="sha256">c2ed79a625ac0e8ca6ef9a915e747de63b53857d2f7939366123debe8c5f38b7</hash>
+			<sig>4c6cf44343baa6c2f4ac5d0490e08e7e</sig>
+			<size>1064106</size>
+			<sdkver>14</sdkver>
+			<added>2014-10-23</added>
+			<permissions>READ_CONTACTS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -26739,6 +26948,36 @@
 			<features>android.hardware.touchscreen,android.hardware.microphone</features>
 		</package>
 	</application>
+	<application id="com.easytarget.micopi">
+		<id>com.easytarget.micopi</id>
+		<added>2014-10-23</added>
+		<lastupdated>2014-10-23</lastupdated>
+		<name>Micopi</name>
+		<summary>Create unique contact pictures</summary>
+		<icon>com.easytarget.micopi.9.png</icon>
+		<desc>&lt;p&gt;Allows you to assign an image to every person in your telephone's contact list. So if you do not happen to have a (decent) photo of them, you can use the app to simply generate one. Micopi does not use a random number generator to create these images. It exclusively uses contact data such as the name, the telephone number or the e-mail address and turns these into geometric figures and colours. This way, all of your contacts have their unique image. This app has been thoroughly tested but we recommend making a backup of your most precious contact pictures, just in case.&lt;/p&gt;</desc>
+		<license>Apache2</license>
+		<categories>Office</categories>
+		<category>Office</category>
+		<web>https://easytargetmixel.github.io/micopi_android/</web>
+		<source>https://github.com/easytargetmixel/micopi_android</source>
+		<tracker>https://github.com/easytargetmixel/micopi_android/issues</tracker>
+		<marketversion>2.0</marketversion>
+		<marketvercode>9</marketvercode>
+		<package>
+			<version>2.0</version>
+			<versioncode>9</versioncode>
+			<apkname>com.easytarget.micopi_9.apk</apkname>
+			<srcname>com.easytarget.micopi_9_src.tar.gz</srcname>
+			<hash type="sha256">877915d90a1ca02bf16be838b4d8c93483d8f41ed5532ea18703fc6352b24dd5</hash>
+			<sig>0774f848740bd68a269b306cf6ed974b</sig>
+			<size>607895</size>
+			<sdkver>6</sdkver>
+			<added>2014-10-23</added>
+			<permissions>READ_EXTERNAL_STORAGE,READ_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_CONTACTS</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="com.midisheetmusic">
 		<id>com.midisheetmusic</id>
 		<added>2012-11-05</added>
@@ -27199,6 +27438,36 @@
 			<sdkver>7</sdkver>
 			<added>2013-12-09</added>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_PHONE_STATE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
+	<application id="com.mattgmg.miracastwidget">
+		<id>com.mattgmg.miracastwidget</id>
+		<added>2014-10-23</added>
+		<lastupdated>2014-10-23</lastupdated>
+		<name>Miracast Shortcut</name>
+		<summary>Miracast widget</summary>
+		<icon>com.mattgmg.miracastwidget.4.png</icon>
+		<desc>&lt;p&gt;Includes both, a simple activity that simply opens the settings menu to choose a display/cast your screen and a widget that can open that settings screen with one click and list the device you are streaming to if Miracast is currently enabled.&lt;/p&gt;</desc>
+		<license>Apache2</license>
+		<categories>Office</categories>
+		<category>Office</category>
+		<web>https://github.com/mattgmg1990/miracast-widget/blob/HEAD/README.md</web>
+		<source>https://github.com/mattgmg1990/miracast-widget</source>
+		<tracker>https://github.com/mattgmg1990/miracast-widget/issues</tracker>
+		<marketversion>1.3</marketversion>
+		<marketvercode>4</marketvercode>
+		<package>
+			<version>1.3</version>
+			<versioncode>4</versioncode>
+			<apkname>com.mattgmg.miracastwidget_4.apk</apkname>
+			<srcname>com.mattgmg.miracastwidget_4_src.tar.gz</srcname>
+			<hash type="sha256">d7923d0108fe6684d8863d0f55e000a5f8f955827b0ed53b24613a7185fd67ae</hash>
+			<sig>2c08d992a35f2691f97f1caf3c34b905</sig>
+			<size>285509</size>
+			<sdkver>18</sdkver>
+			<added>2014-10-23</added>
+			<permissions>com.android.setting.permission.ALLSHARE_CAST_SERVICE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -28067,6 +28336,36 @@
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="com.dgmltn.morphclock.app">
+		<id>com.dgmltn.morphclock.app</id>
+		<added>2014-10-23</added>
+		<lastupdated>2014-10-23</lastupdated>
+		<name>MorphClock</name>
+		<summary>Bedside clock</summary>
+		<icon>com.dgmltn.morphclock.app.2.png</icon>
+		<desc>&lt;p&gt;A simple and beautiful bedside clock.&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; One time morphs into the next as time ticks by.&lt;/li&gt;&lt;li&gt; Background changes to match the sun's position where you live.&lt;/li&gt;&lt;li&gt; Large, easy-to-read time, appropriate to any device.&lt;/li&gt;&lt;li&gt; Subtile animations don't distract from work or sleep.&lt;/li&gt;&lt;/ul&gt;</desc>
+		<license>Apache2</license>
+		<categories>Office</categories>
+		<category>Office</category>
+		<web>https://github.com/dgmltn/android-MorphClock/blob/HEAD/README.md</web>
+		<source>https://github.com/dgmltn/android-MorphClock</source>
+		<tracker>https://github.com/dgmltn/android-MorphClock/issues</tracker>
+		<marketversion>1.0.1</marketversion>
+		<marketvercode>2</marketvercode>
+		<package>
+			<version>1.0.1</version>
+			<versioncode>2</versioncode>
+			<apkname>com.dgmltn.morphclock.app_2.apk</apkname>
+			<srcname>com.dgmltn.morphclock.app_2_src.tar.gz</srcname>
+			<hash type="sha256">27a6f83c0168ae6d1d1d5ef7dc8fc526bb376eafe5b12b318db8fefd4fb1b93b</hash>
+			<sig>f8caa4c6b24afe0ed41b0984acda22de</sig>
+			<size>371687</size>
+			<sdkver>17</sdkver>
+			<added>2014-10-23</added>
+			<permissions>ACCESS_COARSE_LOCATION</permissions>
+			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.network</features>
+		</package>
+	</application>
 	<application id="org.mosspaper">
 		<id>org.mosspaper</id>
 		<added>2013-06-24</added>
@@ -28196,10 +28495,10 @@
 	<application id="com.nutomic.zertman">
 		<id>com.nutomic.zertman</id>
 		<added>2014-08-09</added>
-		<lastupdated>2014-08-09</lastupdated>
+		<lastupdated>2014-10-23</lastupdated>
 		<name>Move Certs!</name>
 		<summary>Resolve certificates warnings</summary>
-		<icon>com.nutomic.zertman.2.png</icon>
+		<icon>com.nutomic.zertman.3.png</icon>
 		<desc>&lt;p&gt;Disable the &quot;Network may be monitored&quot; warnings that show up after installing a certificate in one click.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -28211,6 +28510,19 @@
 		<marketversion>1.0.2</marketversion>
 		<marketvercode>3</marketvercode>
 		<requirements>root</requirements>
+		<package>
+			<version>1.0.2</version>
+			<versioncode>3</versioncode>
+			<apkname>com.nutomic.zertman_3.apk</apkname>
+			<srcname>com.nutomic.zertman_3_src.tar.gz</srcname>
+			<hash type="sha256">9f92c9595c4f567b2d84ee32b3a7e743f3a3ae8fb96dd19b5be3e7b6c74ff27e</hash>
+			<sig>596fedf8b3c71086bae7b1bd384d5fa7</sig>
+			<size>931648</size>
+			<sdkver>19</sdkver>
+			<added>2014-10-23</added>
+			<permissions>ACCESS_SUPERUSER</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.0.1</version>
 			<versioncode>2</versioncode>
@@ -34695,10 +35007,10 @@
 	<application id="com.zeapo.pwdstore">
 		<id>com.zeapo.pwdstore</id>
 		<added>2014-09-19</added>
-		<lastupdated>2014-10-03</lastupdated>
+		<lastupdated>2014-10-23</lastupdated>
 		<name>Password Store</name>
 		<summary>Manage your passwords</summary>
-		<icon>com.zeapo.pwdstore.15.png</icon>
+		<icon>com.zeapo.pwdstore.20.png</icon>
 		<desc>&lt;p&gt;Simple password manager that is compatible with &lt;a href=&quot;http://www.passwordstore.org/&quot;&gt;pass&lt;/a&gt;: Passwords are stored in simple text files which are encrypted with OpenPGP.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office,Internet</categories>
@@ -34708,6 +35020,19 @@
 		<tracker>https://github.com/zeapo/Android-Password-Store/issues</tracker>
 		<marketversion>1.2-a1</marketversion>
 		<marketvercode>20</marketvercode>
+		<package>
+			<version>1.2-a1</version>
+			<versioncode>20</versioncode>
+			<apkname>com.zeapo.pwdstore_20.apk</apkname>
+			<srcname>com.zeapo.pwdstore_20_src.tar.gz</srcname>
+			<hash type="sha256">1d266a8b485e3da8596724fc20bfce7feff35abce9910805c91e91756e79cc92</hash>
+			<sig>50bd7d263f9c376b69c8500c79bcc2a7</sig>
+			<size>2014444</size>
+			<sdkver>15</sdkver>
+			<added>2014-10-23</added>
+			<permissions>INTERNET,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.1-b8</version>
 			<versioncode>15</versioncode>
@@ -34731,19 +35056,6 @@
 			<size>1717607</size>
 			<sdkver>15</sdkver>
 			<added>2014-10-01</added>
-			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.1-b6</version>
-			<versioncode>13</versioncode>
-			<apkname>com.zeapo.pwdstore_13.apk</apkname>
-			<srcname>com.zeapo.pwdstore_13_src.tar.gz</srcname>
-			<hash type="sha256">866da8021e31eb82601aa5a945f9d366a984f005411e4a2130c47c9fec3add5e</hash>
-			<sig>50bd7d263f9c376b69c8500c79bcc2a7</sig>
-			<size>1717075</size>
-			<sdkver>15</sdkver>
-			<added>2014-09-24</added>
 			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -37090,8 +37402,8 @@
 		<web>http://chris.boyle.name/projects/android-puzzles</web>
 		<source>https://github.com/chrisboyle/sgtpuzzles</source>
 		<tracker>https://github.com/chrisboyle/sgtpuzzles/issues</tracker>
-		<marketversion>10282.3</marketversion>
-		<marketvercode>81</marketvercode>
+		<marketversion>10286.2</marketversion>
+		<marketvercode>85</marketvercode>
 		<package>
 			<version>9561.1</version>
 			<versioncode>72</versioncode>
@@ -37615,10 +37927,10 @@
 	<application id="net.vreeken.quickmsg">
 		<id>net.vreeken.quickmsg</id>
 		<added>2014-03-24</added>
-		<lastupdated>2014-06-03</lastupdated>
+		<lastupdated>2014-10-23</lastupdated>
 		<name>QuickMSG</name>
 		<summary>Send encypted instant messages via email</summary>
-		<icon>net.vreeken.quickmsg.9.png</icon>
+		<icon>net.vreeken.quickmsg.10.png</icon>
 		<desc>&lt;p&gt;Encrypted instant messenger that uses existing mail infrastructure and encrypts messages with PGP.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
@@ -37626,8 +37938,21 @@
 		<web>http://quickmsg.vreeken.net</web>
 		<source/>
 		<tracker/>
-		<marketversion>20140530</marketversion>
-		<marketvercode>9</marketvercode>
+		<marketversion>20141022</marketversion>
+		<marketvercode>10</marketvercode>
+		<package>
+			<version>20141022</version>
+			<versioncode>10</versioncode>
+			<apkname>net.vreeken.quickmsg_10.apk</apkname>
+			<srcname>net.vreeken.quickmsg_10_src.tar.gz</srcname>
+			<hash type="sha256">7ed9289012d92b82929ebf9ecb43a1c88445ce31e063d39ce459e420727f38bb</hash>
+			<sig>08abdcdc01567093e547e19668c79687</sig>
+			<size>1729713</size>
+			<sdkver>8</sdkver>
+			<added>2014-10-23</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,VIBRATE,INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>20140530</version>
 			<versioncode>9</versioncode>
@@ -37651,19 +37976,6 @@
 			<size>1723487</size>
 			<sdkver>8</sdkver>
 			<added>2014-04-22</added>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET,WRITE_EXTERNAL_STORAGE,VIBRATE,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>QuickMSG-20140408</version>
-			<versioncode>7</versioncode>
-			<apkname>net.vreeken.quickmsg_7.apk</apkname>
-			<srcname>net.vreeken.quickmsg_7_src.tar.gz</srcname>
-			<hash type="sha256">85330128dd5df3d73b42ed2a8da97a39560daedf9d4a25fca03b1c31ce1dca5c</hash>
-			<sig>08abdcdc01567093e547e19668c79687</sig>
-			<size>1722371</size>
-			<sdkver>8</sdkver>
-			<added>2014-04-09</added>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,WRITE_EXTERNAL_STORAGE,VIBRATE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -38856,6 +39168,36 @@
 			<nativecode>armeabi,armeabi-v7a,mips,x86</nativecode>
 		</package>
 	</application>
+	<application id="com.fastebro.androidrgbtool">
+		<id>com.fastebro.androidrgbtool</id>
+		<added>2014-10-23</added>
+		<lastupdated>2014-10-23</lastupdated>
+		<name>RGB Tool</name>
+		<summary>Get RGB and HEX values of a color</summary>
+		<icon>com.fastebro.androidrgbtool.5.png</icon>
+		<desc>&lt;p&gt;Simple and fast tool to get RGB channel and HEX values about a color.&lt;/p&gt;</desc>
+		<license>Apache2</license>
+		<categories>Multimedia</categories>
+		<category>Multimedia</category>
+		<web/>
+		<source>https://github.com/fasteque/rgb-tool</source>
+		<tracker>https://github.com/fasteque/rgb-tool/issues</tracker>
+		<marketversion>1.2.0</marketversion>
+		<marketvercode>5</marketvercode>
+		<package>
+			<version>1.2.0</version>
+			<versioncode>5</versioncode>
+			<apkname>com.fastebro.androidrgbtool_5.apk</apkname>
+			<srcname>com.fastebro.androidrgbtool_5_src.tar.gz</srcname>
+			<hash type="sha256">bf04f32df81d7bf1cdd1c227d930a628d376919445f698cfa3ce9ec05dd5ad53</hash>
+			<sig>870cb033fd2debc9f94ac4bfc410be41</sig>
+			<size>342939</size>
+			<sdkver>16</sdkver>
+			<added>2014-10-23</added>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="buet.rafi.dictionary">
 		<id>buet.rafi.dictionary</id>
 		<added>2013-12-11</added>
@@ -39227,6 +39569,36 @@
 			<sdkver>7</sdkver>
 			<added>2014-07-04</added>
 			<permissions>VIBRATE,INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
+	<application id="com.brapeba.roaminginfo">
+		<id>com.brapeba.roaminginfo</id>
+		<added>2014-10-23</added>
+		<lastupdated>2014-10-23</lastupdated>
+		<name>Roaming Info</name>
+		<summary>Notify about SIM operator changes</summary>
+		<icon>com.brapeba.roaminginfo.12.png</icon>
+		<desc>&lt;p&gt;Displays a notification with current operator's name and in case of roaming it also shows the original SIM's operator name.&lt;/p&gt;&lt;p&gt;If you swipe (dismiss) the notification, a new one will be displayed when a change in the conexion occurs. To remove the service from memory and avoid further notifications, just tap the notification.&lt;/p&gt;</desc>
+		<license>PublicDomain</license>
+		<categories>Phone &amp; SMS</categories>
+		<category>Phone &amp; SMS</category>
+		<web>https://github.com/jbardera/RoamingInfo/blob/HEAD/README.md</web>
+		<source>https://github.com/jbardera/RoamingInfo</source>
+		<tracker>https://github.com/jbardera/RoamingInfo/issues</tracker>
+		<marketversion>1.7</marketversion>
+		<marketvercode>12</marketvercode>
+		<package>
+			<version>1.7</version>
+			<versioncode>12</versioncode>
+			<apkname>com.brapeba.roaminginfo_12.apk</apkname>
+			<srcname>com.brapeba.roaminginfo_12_src.tar.gz</srcname>
+			<hash type="sha256">8264ee8465203d1e4553b105f8975f2609fe3681c25637c87ef37b44e2138ead</hash>
+			<sig>af151b3f3a1868e38747ad2349bc266c</sig>
+			<size>2539720</size>
+			<sdkver>7</sdkver>
+			<added>2014-10-23</added>
+			<permissions>READ_PHONE_STATE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -39641,6 +40013,35 @@
 			<size>204621</size>
 			<sdkver>4</sdkver>
 			<added>2013-06-22</added>
+		</package>
+	</application>
+	<application id="edu.cmu.cylab.starslinger.demo">
+		<id>edu.cmu.cylab.starslinger.demo</id>
+		<added>2014-10-23</added>
+		<lastupdated>2014-10-23</lastupdated>
+		<name>SafeSlinger Exchange for Security Developers</name>
+		<summary>Developer demo for public key exchanges</summary>
+		<icon>edu.cmu.cylab.starslinger.demo.17301504.png</icon>
+		<desc>&lt;p&gt;Developer demo focusing on the public key exchange. The goal is to make exchanging public keys as simple as possible without sacrificing security. It's based on a research paper from CMU. The developers encourage others to use the exchange library in other projects.&lt;/p&gt;</desc>
+		<license>MIT</license>
+		<categories>Internet</categories>
+		<category>Internet</category>
+		<web>https://github.com/SafeSlingerProject/SafeSlinger-Android/blob/HEAD/README.md</web>
+		<source>https://github.com/SafeSlingerProject/SafeSlinger-Android</source>
+		<tracker>https://github.com/SafeSlingerProject/SafeSlinger-Android/issues</tracker>
+		<marketversion/>
+		<marketvercode>0</marketvercode>
+		<package>
+			<version>1.8.0</version>
+			<versioncode>17301504</versioncode>
+			<apkname>edu.cmu.cylab.starslinger.demo_17301504.apk</apkname>
+			<srcname>edu.cmu.cylab.starslinger.demo_17301504_src.tar.gz</srcname>
+			<hash type="sha256">382ebbb05deecfb1604cd6bdefa9d2a86574480f0c18060f1088cc09909888a6</hash>
+			<sig>fe36780d076eedc802441f95203c45ea</sig>
+			<size>1266465</size>
+			<sdkver>8</sdkver>
+			<added>2014-10-23</added>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET</permissions>
 		</package>
 	</application>
 	<application id="org.sagemath.droid">
@@ -42168,10 +42569,10 @@
 	<application id="com.casimirlab.simpleDeadlines">
 		<id>com.casimirlab.simpleDeadlines</id>
 		<added>2013-03-22</added>
-		<lastupdated>2014-08-25</lastupdated>
+		<lastupdated>2014-10-23</lastupdated>
 		<name>Simple Deadlines</name>
 		<summary>Deadline/task manager</summary>
-		<icon>com.casimirlab.simpleDeadlines.16.png</icon>
+		<icon>com.casimirlab.simpleDeadlines.17.png</icon>
 		<desc>&lt;p&gt;A simple and easily readable deadline manager. A daily notification allows you to organise your day. It is aimed towards simplicity and is very lightweight.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -42181,6 +42582,19 @@
 		<tracker>https://github.com/chibibi/simpleDeadlines/issues</tracker>
 		<marketversion>3.2.1</marketversion>
 		<marketvercode>17</marketvercode>
+		<package>
+			<version>3.2.1</version>
+			<versioncode>17</versioncode>
+			<apkname>com.casimirlab.simpleDeadlines_17.apk</apkname>
+			<srcname>com.casimirlab.simpleDeadlines_17_src.tar.gz</srcname>
+			<hash type="sha256">dd42451fe9b01cf2f81be842bc0105331c9d4ed03c73fe888c40e36ffa8ba6a6</hash>
+			<sig>78865891211f460f2a61e91f15a1e396</sig>
+			<size>481635</size>
+			<sdkver>14</sdkver>
+			<added>2014-10-23</added>
+			<permissions>READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>3.2.0</version>
 			<versioncode>16</versioncode>
@@ -42205,19 +42619,6 @@
 			<sdkver>14</sdkver>
 			<added>2014-02-05</added>
 			<permissions>READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>3.1.1</version>
-			<versioncode>14</versioncode>
-			<apkname>com.casimirlab.simpleDeadlines_14.apk</apkname>
-			<srcname>com.casimirlab.simpleDeadlines_14_src.tar.gz</srcname>
-			<hash type="sha256">317383f6875a0067b8cc1c7eab1a1dd32a593e47e6c81648fe126808c16ffbf0</hash>
-			<sig>78865891211f460f2a61e91f15a1e396</sig>
-			<size>347808</size>
-			<sdkver>14</sdkver>
-			<added>2013-09-03</added>
-			<permissions>RECEIVE_BOOT_COMPLETED</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -44176,6 +44577,35 @@
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="com.tjm.stripepaper">
+		<id>com.tjm.stripepaper</id>
+		<added>2014-10-23</added>
+		<lastupdated>2014-10-23</lastupdated>
+		<name>Stripepaper</name>
+		<summary>Parallaxing live wallpaper</summary>
+		<icon>com.tjm.stripepaper.2.png</icon>
+		<desc>&lt;p&gt;Get lost in these beautiful colored stripes. The stripes will slowly move over time to give you a unique experience when you look at your device. Select a theme and configure the settings to your likings and enjoy.&lt;/p&gt;</desc>
+		<license>MIT</license>
+		<categories>Multimedia,Wallpaper</categories>
+		<category>Multimedia</category>
+		<web/>
+		<source>https://github.com/tjmolinski/stripepaper</source>
+		<tracker>https://github.com/tjmolinski/stripepaper/issues</tracker>
+		<marketversion>2.0</marketversion>
+		<marketvercode>2</marketvercode>
+		<package>
+			<version>2.0</version>
+			<versioncode>2</versioncode>
+			<apkname>com.tjm.stripepaper_2.apk</apkname>
+			<srcname>com.tjm.stripepaper_2_src.tar.gz</srcname>
+			<hash type="sha256">6944fbeedca07890b74e685f0f3de40a918981af19c940e606e4d9399a35d2df</hash>
+			<sig>402735a164a0508a7c01a6cf7da473c0</sig>
+			<size>23308</size>
+			<sdkver>15</sdkver>
+			<added>2014-10-23</added>
+			<features>android.hardware.touchscreen,android.software.live_wallpaper</features>
+		</package>
+	</application>
 	<application id="com.gokhanmoral.stweaks.app">
 		<id>com.gokhanmoral.stweaks.app</id>
 		<added>2013-08-28</added>
@@ -44663,10 +45093,10 @@
 	<application id="com.nutomic.syncthingandroid">
 		<id>com.nutomic.syncthingandroid</id>
 		<added>2014-08-22</added>
-		<lastupdated>2014-10-15</lastupdated>
+		<lastupdated>2014-10-23</lastupdated>
 		<name>Syncthing</name>
 		<summary>File synchronization</summary>
-		<icon>com.nutomic.syncthingandroid.41.png</icon>
+		<icon>com.nutomic.syncthingandroid.42.png</icon>
 		<desc>&lt;p&gt;This is the first attempt at an Android port of syncthing. Please understand that this is not stable yet, and read the first start dialog carefully.&lt;/p&gt;&lt;p&gt;Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized. Your data is your data alone and you deserve to choose where it is stored, if it is shared with some third party and how it's transmitted over the Internet.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Internet</categories>
@@ -44677,6 +45107,20 @@
 		<donate>https://tip4commit.com/github/Nutomic/syncthing-android</donate>
 		<marketversion>0.5.5</marketversion>
 		<marketvercode>42</marketvercode>
+		<package>
+			<version>0.5.5</version>
+			<versioncode>42</versioncode>
+			<apkname>com.nutomic.syncthingandroid_42.apk</apkname>
+			<srcname>com.nutomic.syncthingandroid_42_src.tar.gz</srcname>
+			<hash type="sha256">a966c010cfa9a84a73c43245fca1603e06438495ae5e85cbae6d61d6d30cb3c4</hash>
+			<sig>85bca5eec5edb5637e482007f1c69217</sig>
+			<size>9896238</size>
+			<sdkver>8</sdkver>
+			<added>2014-10-23</added>
+			<permissions>READ_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,INTERNET</permissions>
+			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.5.4</version>
 			<versioncode>41</versioncode>
@@ -44701,20 +45145,6 @@
 			<size>9628073</size>
 			<sdkver>8</sdkver>
 			<added>2014-10-13</added>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE</permissions>
-			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.5.1</version>
-			<versioncode>38</versioncode>
-			<apkname>com.nutomic.syncthingandroid_38.apk</apkname>
-			<srcname>com.nutomic.syncthingandroid_38_src.tar.gz</srcname>
-			<hash type="sha256">b7b1e8fbc4fa335e7295a43285ed92ad6d8a1b70b4f90276ccdc3ba47169f75f</hash>
-			<sig>85bca5eec5edb5637e482007f1c69217</sig>
-			<size>9618193</size>
-			<sdkver>8</sdkver>
-			<added>2014-10-09</added>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
 			<features>android.hardware.touchscreen</features>
@@ -44777,6 +45207,35 @@
 			<sdkver>8</sdkver>
 			<added>2013-12-15</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
+	<application id="fr.magistry.taigime">
+		<id>fr.magistry.taigime</id>
+		<added>2014-10-23</added>
+		<lastupdated>2014-10-23</lastupdated>
+		<name>TaigIME</name>
+		<summary>Taiwanese Input method</summary>
+		<icon>fr.magistry.taigime.11.png</icon>
+		<desc>&lt;p&gt;Keyboard/Input method for Taiwanese.&lt;/p&gt;</desc>
+		<license>GPLv3</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web/>
+		<source>https://github.com/a-tsioh/TaigIME-android/</source>
+		<tracker>https://github.com/a-tsioh/TaigIME-android//issues</tracker>
+		<marketversion>0.8.1</marketversion>
+		<marketvercode>11</marketvercode>
+		<package>
+			<version>0.8.1</version>
+			<versioncode>11</versioncode>
+			<apkname>fr.magistry.taigime_11.apk</apkname>
+			<srcname>fr.magistry.taigime_11_src.tar.gz</srcname>
+			<hash type="sha256">97e679b4bcde9c01116a9880997949cfe1b58a9a6395acfebe102d8c5eea4988</hash>
+			<sig>974df7360b85f5bad7db0d75ab35c179</sig>
+			<size>3334155</size>
+			<sdkver>8</sdkver>
+			<added>2014-10-23</added>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -45412,10 +45871,10 @@
 	<application id="de.schildbach.wallet_test">
 		<id>de.schildbach.wallet_test</id>
 		<added>2012-04-07</added>
-		<lastupdated>2014-10-19</lastupdated>
+		<lastupdated>2014-10-23</lastupdated>
 		<name>Testnet3</name>
 		<summary>Testing version of Bitcoin</summary>
-		<icon>de.schildbach.wallet_test.195.png</icon>
+		<icon>de.schildbach.wallet_test.196.png</icon>
 		<desc>&lt;p&gt;A bitcoin wallet, allowing you to store, send and receive bitcoins on your device, both via QR codes and NFC. When run for the first time, it can happen that the app shows only a white display for some seconds.&lt;/p&gt;&lt;p&gt;This is a test version of &lt;a href=&quot;fdroid.app:de.schildbach.wallet&quot;&gt;Bitcoin&lt;/a&gt; that uses the test Bitcoin network, not the real one.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://code.google.com/p/bitcoin-wallet/source/browse/wallet/CHANGES&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -45426,6 +45885,18 @@
 		<bitcoin>1HkX6X8EakdsgAysL93oKrWiXGPbFiG1xV</bitcoin>
 		<marketversion>4.06-test</marketversion>
 		<marketvercode>196</marketvercode>
+		<package>
+			<version>4.06-test</version>
+			<versioncode>196</versioncode>
+			<apkname>de.schildbach.wallet_test_196.apk</apkname>
+			<srcname>de.schildbach.wallet_test_196_src.tar.gz</srcname>
+			<hash type="sha256">49a2c32df3ff5c211b3d4843cce30bfa0e5b907e0dd666cfd684577dda7bc592</hash>
+			<sig>e02308f5a8441a390a03b31ff9f45511</sig>
+			<size>4222214</size>
+			<sdkver>15</sdkver>
+			<added>2014-10-23</added>
+			<permissions>NFC,READ_EXTERNAL_STORAGE,WAKE_LOCK,VIBRATE,BLUETOOTH,CAMERA,RECEIVE_BOOT_COMPLETED,INTERNET,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>4.05-test</version>
 			<versioncode>195</versioncode>
@@ -45449,18 +45920,6 @@
 			<sdkver>15</sdkver>
 			<added>2014-10-16</added>
 			<permissions>NFC,READ_EXTERNAL_STORAGE,WAKE_LOCK,VIBRATE,BLUETOOTH,CAMERA,RECEIVE_BOOT_COMPLETED,INTERNET,WRITE_EXTERNAL_STORAGE</permissions>
-		</package>
-		<package>
-			<version>4.03-test</version>
-			<versioncode>193</versioncode>
-			<apkname>de.schildbach.wallet_test_193.apk</apkname>
-			<srcname>de.schildbach.wallet_test_193_src.tar.gz</srcname>
-			<hash type="sha256">02ff99a0be1df78f3d8d10881a730cfece8de069a07ce1eb4d91c1c9eeb8694f</hash>
-			<sig>e02308f5a8441a390a03b31ff9f45511</sig>
-			<size>4215696</size>
-			<sdkver>15</sdkver>
-			<added>2014-10-15</added>
-			<permissions>NFC,READ_EXTERNAL_STORAGE,INTERNET,VIBRATE,BLUETOOTH,CAMERA,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="org.paulmach.textedit">
