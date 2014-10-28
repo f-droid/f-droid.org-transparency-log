@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1414300390" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1414426070" url="http://f-droid.org/repo" version="12">
 		<description>The official FDroid repository. Applications in this repository are mostly built directory from the source code. Some are official binaries built by the original application developers - these will be replaced by source-built versions over time. </description>
 	</repo>
 	<application id="de.j4velin.systemappmover">
@@ -2834,10 +2834,10 @@
 	<application id="org.andstatus.app">
 		<id>org.andstatus.app</id>
 		<added>2012-08-23</added>
-		<lastupdated>2014-10-11</lastupdated>
+		<lastupdated>2014-10-27</lastupdated>
 		<name>AndStatus</name>
 		<summary>Low traffic social networking client</summary>
-		<icon>org.andstatus.app.112.png</icon>
+		<icon>org.andstatus.app.114.png</icon>
 		<desc>&lt;p&gt;A low traffic social networking client with tree-like threaded conversations.&lt;/p&gt;&lt;p&gt;It supports multiple protocols, including &lt;a href=&quot;http://gnu.io/&quot;&gt;GNU social&lt;/a&gt;/StatusNet (e.g. &lt;a href=&quot;http://quitter.se/&quot;&gt;Quitter&lt;/a&gt;, &lt;a href=&quot;https://loadaverage.org/&quot;&gt;LoadAverage&lt;/a&gt;, &lt;a href=&quot;https://status.vinilox.eu/&quot;&gt;Vinilox&lt;/a&gt; etc.), &lt;a href=&quot;http://www.twitter.com/&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;http://pump.io&quot;&gt;Pump.io&lt;/a&gt;. It combines your accounts from all networks into one timeline and allows you reading and posting even while you are offline.&lt;/p&gt;&lt;p&gt;Differentiating features of AndStatus:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Many accounts in different social networking systems. You may have several accounts in each, write/reply as any &quot;You&quot; and share between accounts and systems.&lt;/li&gt;&lt;li&gt; You don't need to be online even to post your updates: not sent posts are kept (in the &quot;retry queue&quot;) even after reboot.&lt;/li&gt;&lt;li&gt; Convenient tree-like &quot;conversation view&quot;.&lt;/li&gt;&lt;li&gt; &quot;Global search&quot; allows searching public messages in all registered systems with one query.&lt;/li&gt;&lt;li&gt; Tweets/messages/user avatars are being synced in a background, when your device has a good connection.&lt;/li&gt;&lt;li&gt; Cached data may be stored for years or for several days only -- it's your choice.&lt;/li&gt;&lt;li&gt; Easily backup and restore accounts and data between your devices.&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>Apache2</license>
 		<categories>Internet</categories>
@@ -2845,8 +2845,34 @@
 		<web>http://andstatus.org</web>
 		<source>https://github.com/andstatus/andstatus</source>
 		<tracker>https://github.com/andstatus/andstatus/issues</tracker>
-		<marketversion>13.0</marketversion>
-		<marketvercode>113</marketvercode>
+		<marketversion>13.1</marketversion>
+		<marketvercode>114</marketvercode>
+		<package>
+			<version>13.1</version>
+			<versioncode>114</versioncode>
+			<apkname>org.andstatus.app_114.apk</apkname>
+			<srcname>org.andstatus.app_114_src.tar.gz</srcname>
+			<hash type="sha256">e9301707bb3ba997501704dfbe84996e763c746d1a5eab0fda2b59d3c44bed96</hash>
+			<sig>1e9b8966d100f104e8c07690e17ef134</sig>
+			<size>1114823</size>
+			<sdkver>16</sdkver>
+			<added>2014-10-27</added>
+			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,INTERNET,VIBRATE,READ_EXTERNAL_STORAGE,GET_ACCOUNTS,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+		<package>
+			<version>13.0</version>
+			<versioncode>113</versioncode>
+			<apkname>org.andstatus.app_113.apk</apkname>
+			<srcname>org.andstatus.app_113_src.tar.gz</srcname>
+			<hash type="sha256">15b73c67342f75465dbfa9281d1a037e7bbdb9a224efc975835ab3ce88e7cdc0</hash>
+			<sig>1e9b8966d100f104e8c07690e17ef134</sig>
+			<size>1114164</size>
+			<sdkver>16</sdkver>
+			<added>2014-10-27</added>
+			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,INTERNET,VIBRATE,READ_EXTERNAL_STORAGE,GET_ACCOUNTS,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>12.1</version>
 			<versioncode>112</versioncode>
@@ -2858,32 +2884,6 @@
 			<sdkver>8</sdkver>
 			<added>2014-10-11</added>
 			<permissions>ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,GET_ACCOUNTS,VIBRATE,RECEIVE_BOOT_COMPLETED,INTERNET,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>12.0</version>
-			<versioncode>111</versioncode>
-			<apkname>org.andstatus.app_111.apk</apkname>
-			<srcname>org.andstatus.app_111_src.tar.gz</srcname>
-			<hash type="sha256">21eeac4145e13226091d65d23d792359605cded265a472d18b9fadf7e5429670</hash>
-			<sig>1e9b8966d100f104e8c07690e17ef134</sig>
-			<size>912681</size>
-			<sdkver>8</sdkver>
-			<added>2014-09-29</added>
-			<permissions>ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,GET_ACCOUNTS,VIBRATE,RECEIVE_BOOT_COMPLETED,INTERNET,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>11.2</version>
-			<versioncode>110</versioncode>
-			<apkname>org.andstatus.app_110.apk</apkname>
-			<srcname>org.andstatus.app_110_src.tar.gz</srcname>
-			<hash type="sha256">60b206dd1108836f67833f8bb164163fecf18ff4c1ac1997d7eaee41cf642f3e</hash>
-			<sig>1e9b8966d100f104e8c07690e17ef134</sig>
-			<size>902504</size>
-			<sdkver>8</sdkver>
-			<added>2014-09-20</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,GET_ACCOUNTS,VIBRATE,RECEIVE_BOOT_COMPLETED,INTERNET,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -5093,10 +5093,10 @@
 	<application id="com.ds.avare">
 		<id>com.ds.avare</id>
 		<added>2014-08-12</added>
-		<lastupdated>2014-10-20</lastupdated>
+		<lastupdated>2014-10-27</lastupdated>
 		<name>Avare</name>
 		<summary>Aviation map</summary>
-		<icon>com.ds.avare.203.png</icon>
+		<icon>com.ds.avare.204.png</icon>
 		<desc>&lt;p&gt;Avare (pronounced &quot;AvAir&quot;) is a free moving aviation map. Basic features include online or offline A/FD info, approach plates and GPS moving map on all FAA VFR sectionals, WACs and TACs, plus IFR low charts and airport diagrams. Avare also enables manual browsing of all charts and all other materials even without cell service or GPS. Current FAA weather METARs, TAFs and TFRs are provided too.&lt;/p&gt;&lt;p&gt;Notice: This is not an FAA certified GPS. AntiFeatures: A Google account is required.&lt;/p&gt;</desc>
 		<license>NetBSD/Apache2</license>
 		<categories>Navigation</categories>
@@ -5108,6 +5108,19 @@
 		<marketversion>5.8.4</marketversion>
 		<marketvercode>204</marketvercode>
 		<antifeatures>NonFreeDep</antifeatures>
+		<package>
+			<version>5.8.4</version>
+			<versioncode>204</versioncode>
+			<apkname>com.ds.avare_204.apk</apkname>
+			<srcname>com.ds.avare_204_src.tar.gz</srcname>
+			<hash type="sha256">7072b2ad7ab24dd1859e68de8311be2a50c51f5c697e4ecda2ce647113c6dc27</hash>
+			<sig>7ac870875c761a7b082e51d0feef5a66</sig>
+			<size>614825</size>
+			<sdkver>8</sdkver>
+			<added>2014-10-27</added>
+			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,GET_ACCOUNTS,ACCESS_COARSE_LOCATION,INTERNET,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>5.8.3</version>
 			<versioncode>203</versioncode>
@@ -5131,19 +5144,6 @@
 			<size>609042</size>
 			<sdkver>8</sdkver>
 			<added>2014-10-12</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,GET_ACCOUNTS,ACCESS_COARSE_LOCATION,INTERNET,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>5.8.0</version>
-			<versioncode>200</versioncode>
-			<apkname>com.ds.avare_200.apk</apkname>
-			<srcname>com.ds.avare_200_src.tar.gz</srcname>
-			<hash type="sha256">926976357a294a36c8fecec041dab2a755ef0534c5acd344106c5f7eeed485bd</hash>
-			<sig>7ac870875c761a7b082e51d0feef5a66</sig>
-			<size>600300</size>
-			<sdkver>8</sdkver>
-			<added>2014-10-07</added>
 			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,GET_ACCOUNTS,ACCESS_COARSE_LOCATION,INTERNET,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -6427,8 +6427,8 @@
 		<source>https://github.com/schildbach/bitcoin-wallet</source>
 		<tracker>https://github.com/schildbach/bitcoin-wallet/issues</tracker>
 		<bitcoin>1HkX6X8EakdsgAysL93oKrWiXGPbFiG1xV</bitcoin>
-		<marketversion>4.05</marketversion>
-		<marketvercode>195</marketvercode>
+		<marketversion>4.07</marketversion>
+		<marketvercode>197</marketvercode>
 		<package>
 			<version>4.05</version>
 			<versioncode>195</versioncode>
@@ -8051,10 +8051,10 @@
 	<application id="com.afollestad.cabinet">
 		<id>com.afollestad.cabinet</id>
 		<added>2014-10-23</added>
-		<lastupdated>2014-10-23</lastupdated>
+		<lastupdated>2014-10-27</lastupdated>
 		<name>Cabinet Beta</name>
 		<summary>File manager</summary>
-		<icon>com.afollestad.cabinet.71.png</icon>
+		<icon>com.afollestad.cabinet.74.png</icon>
 		<desc>&lt;p&gt;Minimal file manager designed for Android 4.1 and above. However, updates might be slow or might not come at all, since the author has no longer the time to maintain it. Pullrequests are welcome.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Office</categories>
@@ -8065,6 +8065,19 @@
 		<marketversion>1.8.2</marketversion>
 		<marketvercode>74</marketvercode>
 		<antifeatures>NonFreeDep</antifeatures>
+		<package>
+			<version>1.8.2</version>
+			<versioncode>74</versioncode>
+			<apkname>com.afollestad.cabinet_74.apk</apkname>
+			<srcname>com.afollestad.cabinet_74_src.tar.gz</srcname>
+			<hash type="sha256">9000e8a61fc16e952a906dd63af685e3f64b456dfbca45028987ec82740d6c13</hash>
+			<sig>3692054ff9af118adbbb9243e7ba4e98</sig>
+			<size>1845563</size>
+			<sdkver>16</sdkver>
+			<added>2014-10-27</added>
+			<permissions>READ_EXTERNAL_STORAGE,ACCESS_SUPERUSER,com.android.vending.BILLING,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.8.1</version>
 			<versioncode>71</versioncode>
@@ -9122,6 +9135,36 @@
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="com.jforce.chapelhillnextbus">
+		<id>com.jforce.chapelhillnextbus</id>
+		<added>2014-10-27</added>
+		<lastupdated>2014-10-27</lastupdated>
+		<name>Chapel Hill Transit</name>
+		<summary>Get information on Chapel Hill (NC) Transit</summary>
+		<icon>com.jforce.chapelhillnextbus.2.png</icon>
+		<desc>&lt;p&gt;Simple transit app for commuters in Chapel Hill, NC. Features include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; LIVE NextBus predictions for the bus lines&lt;/li&gt;&lt;li&gt; One-click access to your favorite predictions&lt;/li&gt;&lt;/ul&gt;</desc>
+		<license>MIT</license>
+		<categories>Navigation</categories>
+		<category>Navigation</category>
+		<web>http://forsyth.im/</web>
+		<source>https://github.com/jforce-dev/Chapel-Hill-Transit-Android</source>
+		<tracker>https://github.com/jforce-dev/Chapel-Hill-Transit-Android/issues</tracker>
+		<marketversion>1.2</marketversion>
+		<marketvercode>3</marketvercode>
+		<package>
+			<version>1.1</version>
+			<versioncode>2</versioncode>
+			<apkname>com.jforce.chapelhillnextbus_2.apk</apkname>
+			<srcname>com.jforce.chapelhillnextbus_2_src.tar.gz</srcname>
+			<hash type="sha256">7d4c1f856ac20bc2c595986f5a3322b9f90d1726697d9389fd516902d2bf4757</hash>
+			<sig>76825ffdb714817a42072e1b9929d504</sig>
+			<size>924642</size>
+			<sdkver>14</sdkver>
+			<added>2014-10-27</added>
+			<permissions>INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="org.atai.TessUI">
 		<id>org.atai.TessUI</id>
 		<added>2014-05-26</added>
@@ -9530,6 +9573,36 @@
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="com.xda.theme.cyanogenmod">
+		<id>com.xda.theme.cyanogenmod</id>
+		<added>2014-10-27</added>
+		<lastupdated>2014-10-27</lastupdated>
+		<name>ChocoUI (XDA colors)</name>
+		<summary>Chocolate/XDA theme for Cyanogenmod</summary>
+		<icon>com.xda.theme.cyanogenmod.4.png</icon>
+		<desc>&lt;p&gt;Chocolate styled theme for Cyanogenmod. It's based on the former &lt;a href=&quot;http://forum.xda-developers.com/&quot;&gt;XDA&lt;/a&gt; colors.&lt;/p&gt;</desc>
+		<license>Apache2</license>
+		<categories>Multimedia,System</categories>
+		<category>Multimedia</category>
+		<web>https://github.com/enricocid/ChocoUI---XDA-Colors/blob/HEAD/README.md</web>
+		<source>https://github.com/enricocid/ChocoUI---XDA-Colors</source>
+		<tracker>https://github.com/enricocid/ChocoUI---XDA-Colors/issues</tracker>
+		<marketversion>4</marketversion>
+		<marketvercode>4</marketvercode>
+		<package>
+			<version>4</version>
+			<versioncode>4</versioncode>
+			<apkname>com.xda.theme.cyanogenmod_4.apk</apkname>
+			<srcname>com.xda.theme.cyanogenmod_4_src.tar.gz</srcname>
+			<hash type="sha256">982bc06b69850a8dd5b24a6ed295f51efb8b1b246c8cc14c3677cf0d7c20ba72</hash>
+			<sig>ecd61f002da442b3eedaf7d9db5c3fa9</sig>
+			<size>4544342</size>
+			<sdkver>19</sdkver>
+			<added>2014-10-27</added>
+			<permissions>SET_WALLPAPER</permissions>
+			<features>org.cyanogenmod.theme,android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="com.nolanlawson.chordreader">
 		<id>com.nolanlawson.chordreader</id>
 		<added>2012-09-07</added>
@@ -9866,10 +9939,10 @@
 	<application id="org.floens.chan">
 		<id>org.floens.chan</id>
 		<added>2014-06-03</added>
-		<lastupdated>2014-08-22</lastupdated>
+		<lastupdated>2014-10-27</lastupdated>
 		<name>Clover</name>
 		<summary>4chan image board browser</summary>
-		<icon>org.floens.chan.36.png</icon>
+		<icon>org.floens.chan.40.png</icon>
 		<desc>&lt;p&gt;Clover is a browser for the popular &lt;a href=&quot;https://4chan.org/&quot;&gt;4chan&lt;/a&gt; image board&lt;/p&gt;&lt;p&gt;Features include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Customizable boards - you can add more boards in the settings&lt;/li&gt;&lt;li&gt; View images fast and save them&lt;/li&gt;&lt;li&gt; Pin threads for easy access&lt;/li&gt;&lt;li&gt; Watch threads to be notified of new posts and replies to you&lt;/li&gt;&lt;li&gt; 4chan pass support&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
@@ -9879,8 +9952,22 @@
 		<tracker>https://github.com/Floens/Clover/issues</tracker>
 		<donate>https://floens.github.io/Clover/#donate</donate>
 		<bitcoin>1N7VtcNh8L8u4tF9CJ38GjnPbmxM4Vixi6</bitcoin>
-		<marketversion>v1.2.1</marketversion>
-		<marketvercode>39</marketvercode>
+		<marketversion>v1.2.2</marketversion>
+		<marketvercode>40</marketvercode>
+		<package>
+			<version>v1.2.2</version>
+			<versioncode>40</versioncode>
+			<apkname>org.floens.chan_40.apk</apkname>
+			<srcname>org.floens.chan_40_src.tar.gz</srcname>
+			<hash type="sha256">e7b857aee8cbae20dd5860d642bf56c678056e197f232669addda1952ae78bb1</hash>
+			<sig>e2a3403ec4446f9bd9e6be5aaebbcd25</sig>
+			<size>820975</size>
+			<sdkver>14</sdkver>
+			<added>2014-10-27</added>
+			<permissions>READ_EXTERNAL_STORAGE,NFC,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>v1.2.0</version>
 			<versioncode>36</versioncode>
@@ -9905,19 +9992,6 @@
 			<size>611111</size>
 			<sdkver>14</sdkver>
 			<added>2014-07-24</added>
-			<permissions>INTERNET,NFC,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>v1.1.2</version>
-			<versioncode>28</versioncode>
-			<apkname>org.floens.chan_28.apk</apkname>
-			<srcname>org.floens.chan_28_src.tar.gz</srcname>
-			<hash type="sha256">ffdd171212a6ace5d01621c7aa5ef74528a3e71dfa69851e222bc9f08eb18968</hash>
-			<sig>e2a3403ec4446f9bd9e6be5aaebbcd25</sig>
-			<size>586771</size>
-			<sdkver>14</sdkver>
-			<added>2014-06-20</added>
 			<permissions>INTERNET,NFC,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -10311,10 +10385,10 @@
 	<application id="net.kervala.comicsreader">
 		<id>net.kervala.comicsreader</id>
 		<added>2013-02-07</added>
-		<lastupdated>2014-09-26</lastupdated>
+		<lastupdated>2014-10-27</lastupdated>
 		<name>Comics Reader</name>
 		<summary>Comic and image viewer</summary>
-		<icon>net.kervala.comicsreader.23.png</icon>
+		<icon>net.kervala.comicsreader.25.png</icon>
 		<desc>&lt;p&gt;&lt;b&gt;N.B&lt;/b&gt; No cbr (rar archive) support in F-Droid build.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Can be used to open cbz, cbt; jpeg, png and gif from any file manager.&lt;/li&gt;&lt;li&gt; Comics browser with thumbnails.&lt;/li&gt;&lt;li&gt; Bookmarks manager to download albums from remote sites.&lt;/li&gt;&lt;li&gt; Fast pages switcher with pages previews.&lt;/li&gt;&lt;li&gt; Double pages mode.&lt;/li&gt;&lt;li&gt; Fling gesture to change page with smooth animation.&lt;/li&gt;&lt;li&gt; Fullscreen for devices with physical buttons.&lt;/li&gt;&lt;li&gt; Use lower quality images (resolution is decreased) if any out of memory exception occurs.&lt;/li&gt;&lt;li&gt; Available in English, French &amp;amp; Turkish languages (any translators are welcome to contribute ^^)&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Reading</categories>
@@ -10324,6 +10398,18 @@
 		<tracker>https://code.google.com/p/android-comicsreader/issues</tracker>
 		<marketversion>2.0</marketversion>
 		<marketvercode>25</marketvercode>
+		<package>
+			<version>2.0b</version>
+			<versioncode>25</versioncode>
+			<apkname>net.kervala.comicsreader_25.apk</apkname>
+			<srcname>net.kervala.comicsreader_25_src.tar.gz</srcname>
+			<hash type="sha256">0f2fcaa6801ebebfe473eabce6fec18aa9e7bbf9c202a10c420ce600df27c633</hash>
+			<sig>6f142bc124fb4dfabebe07f4e5433688</sig>
+			<size>314175</size>
+			<sdkver>4</sdkver>
+			<added>2014-10-27</added>
+			<permissions>READ_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
+		</package>
 		<package>
 			<version>2.0</version>
 			<versioncode>23</versioncode>
@@ -10349,19 +10435,6 @@
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
-		<package>
-			<version>1.1.624</version>
-			<versioncode>17</versioncode>
-			<apkname>net.kervala.comicsreader_17.apk</apkname>
-			<srcname>net.kervala.comicsreader_17_src.tar.gz</srcname>
-			<hash type="sha256">a9cb1e2a2367d8816631413d503e52a1e974df7b7e5a1dfd09cc574e8a6df2a9</hash>
-			<sig>6f142bc124fb4dfabebe07f4e5433688</sig>
-			<size>234333</size>
-			<sdkver>4</sdkver>
-			<added>2013-07-31</added>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
 	</application>
 	<application id="com.sgr_b2.compass">
 		<id>com.sgr_b2.compass</id>
@@ -10377,8 +10450,8 @@
 		<web/>
 		<source>https://bitbucket.org/alekseyt/compass</source>
 		<tracker>https://bitbucket.org/alekseyt/compass/issues</tracker>
-		<marketversion>1.4.3</marketversion>
-		<marketvercode>10403</marketvercode>
+		<marketversion>1.4.5</marketversion>
+		<marketvercode>10405</marketvercode>
 		<package>
 			<version>1.4.3</version>
 			<versioncode>10403</versioncode>
@@ -13423,6 +13496,35 @@
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="com.mattallen.dpixel">
+		<id>com.mattallen.dpixel</id>
+		<added>2014-10-27</added>
+		<lastupdated>2014-10-27</lastupdated>
+		<name>DPixel</name>
+		<summary>Convert density-independant/normal pixels</summary>
+		<icon>com.mattallen.dpixel.1.png</icon>
+		<desc>&lt;p&gt;Simple conversion of density-independant pixels to standard pixels.&lt;/p&gt;</desc>
+		<license>Apache2</license>
+		<categories>System,Multimedia</categories>
+		<category>System</category>
+		<web/>
+		<source>https://github.com/matt-allen/dpixel</source>
+		<tracker>https://github.com/matt-allen/dpixel/issues</tracker>
+		<marketversion>1.0</marketversion>
+		<marketvercode>1</marketvercode>
+		<package>
+			<version>1.0</version>
+			<versioncode>1</versioncode>
+			<apkname>com.mattallen.dpixel_1.apk</apkname>
+			<srcname>com.mattallen.dpixel_1_src.tar.gz</srcname>
+			<hash type="sha256">168ae9ca8c5e230b183976d04822814205da8c57398fd0124d345b68a4f7a24b</hash>
+			<sig>00b7a1d475ef0accba2e2a7fdf64a061</sig>
+			<size>363202</size>
+			<sdkver>16</sdkver>
+			<added>2014-10-27</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="fr.xtof54.dragonGoApp">
 		<id>fr.xtof54.dragonGoApp</id>
 		<added>2014-04-12</added>
@@ -14174,6 +14276,36 @@
 			<sdkver>8</sdkver>
 			<added>2013-11-05</added>
 			<permissions>ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,INTERNET,BLUETOOTH,READ_LOGS,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
+	<application id="it.mobimentum.dualsimwidget">
+		<id>it.mobimentum.dualsimwidget</id>
+		<added>2014-10-27</added>
+		<lastupdated>2014-10-27</lastupdated>
+		<name>DualSim Reminder</name>
+		<summary>Tools for dual SIM devices from Samsung</summary>
+		<icon>it.mobimentum.dualsimwidget.1.png</icon>
+		<desc>&lt;p&gt;Intended for dual SIM Samsung phones: it won't (probably) work on different brands and will be useless on single SIM phones. The two features of the app are:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Set an alarm that reminds you to enable/disable SIM at scheduled times, e.g. for working times.&lt;/li&gt;&lt;li&gt; Add a homescreen widget that lets you open Dual SIM settings directly.&lt;/li&gt;&lt;/ul&gt;</desc>
+		<license>GPLv2</license>
+		<categories>Phone &amp; SMS</categories>
+		<category>Phone &amp; SMS</category>
+		<web>https://github.com/mobimentum/dualsimreminder/blob/HEAD/README.md</web>
+		<source>https://github.com/mobimentum/dualsimreminder</source>
+		<tracker>https://github.com/mobimentum/dualsimreminder/issues</tracker>
+		<marketversion>1.0</marketversion>
+		<marketvercode>1</marketvercode>
+		<package>
+			<version>1.0</version>
+			<versioncode>1</versioncode>
+			<apkname>it.mobimentum.dualsimwidget_1.apk</apkname>
+			<srcname>it.mobimentum.dualsimwidget_1_src.tar.gz</srcname>
+			<hash type="sha256">b93672e18cd0dcce766ec6ed007bee851c3885d31809885c0c7c8ed14b2bbf4f</hash>
+			<sig>321290b642b5fc47a8102387acb5d855</sig>
+			<size>23650</size>
+			<sdkver>17</sdkver>
+			<added>2014-10-27</added>
+			<permissions>RECEIVE_BOOT_COMPLETED</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -18366,10 +18498,10 @@
 	<application id="com.github.ruleant.getback_gps">
 		<id>com.github.ruleant.getback_gps</id>
 		<added>2013-12-10</added>
-		<lastupdated>2014-07-11</lastupdated>
+		<lastupdated>2014-10-27</lastupdated>
 		<name>GetBack GPS</name>
 		<summary>Navigation tool</summary>
-		<icon>com.github.ruleant.getback_gps.30.png</icon>
+		<icon>com.github.ruleant.getback_gps.40.png</icon>
 		<desc>&lt;p&gt;Find your way back to a previously visited location using GPS coordinates.&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; determine location based on GPS signal, WiFi or cell phone network:&lt;/li&gt;&lt;li&gt; use best/most accurate location provider&lt;/li&gt;&lt;li&gt; get location updates automatically (based on a time interval or change of location) or&lt;/li&gt;&lt;li&gt; get location on demand (by manually refreshing)&lt;/li&gt;&lt;li&gt; save a location&lt;/li&gt;&lt;li&gt; 'get back' mode: indicator pointing to a stored location (showing distance and direction)&lt;/li&gt;&lt;li&gt; indicate current speed and current bearing&lt;/li&gt;&lt;li&gt; use built-in sensors to get more accurate and quicker updated bearing&lt;/li&gt;&lt;li&gt; compass rose indicating North&lt;/li&gt;&lt;li&gt; detect travel direction and adjust relative direction to destination accordingly&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Available languages:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Chinese (Traditional)&lt;/li&gt;&lt;li&gt; Czech&lt;/li&gt;&lt;li&gt; Danish&lt;/li&gt;&lt;li&gt; Dutch&lt;/li&gt;&lt;li&gt; English&lt;/li&gt;&lt;li&gt; French&lt;/li&gt;&lt;li&gt; German&lt;/li&gt;&lt;li&gt; Romanian&lt;/li&gt;&lt;li&gt; Portuguese (Brazil)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Is your language missing? You can &lt;a href=&quot;http://ruleant.github.io/getback_gps/#translation&quot;&gt;help translating&lt;/a&gt;.&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Navigation</categories>
@@ -18377,8 +18509,21 @@
 		<web>http://ruleant.github.io/getback_gps</web>
 		<source>https://github.com/ruleant/getback_gps</source>
 		<tracker>https://github.com/ruleant/getback_gps/issues</tracker>
-		<marketversion>0.3</marketversion>
-		<marketvercode>30</marketvercode>
+		<marketversion>0.4</marketversion>
+		<marketvercode>40</marketvercode>
+		<package>
+			<version>0.4</version>
+			<versioncode>40</versioncode>
+			<apkname>com.github.ruleant.getback_gps_40.apk</apkname>
+			<srcname>com.github.ruleant.getback_gps_40_src.tar.gz</srcname>
+			<hash type="sha256">a19e7490d9441eb32d1b5cf9195d031ed56909df1c70acefa4c8c1da81385579</hash>
+			<sig>03b1cf2e84684020803693da0343877d</sig>
+			<size>237557</size>
+			<sdkver>8</sdkver>
+			<added>2014-10-27</added>
+			<permissions>ACCESS_FINE_LOCATION</permissions>
+			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.location.network</features>
+		</package>
 		<package>
 			<version>0.3</version>
 			<versioncode>30</versioncode>
@@ -18400,19 +18545,6 @@
 			<hash type="sha256">569b2370921e731a3f06cc528075f4fe0fefaf7d509abff01096191bbf178085</hash>
 			<sig>03b1cf2e84684020803693da0343877d</sig>
 			<size>121347</size>
-			<sdkver>8</sdkver>
-			<added>2013-12-10</added>
-			<permissions>ACCESS_FINE_LOCATION,INTERNET</permissions>
-			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps</features>
-		</package>
-		<package>
-			<version>0.1</version>
-			<versioncode>11</versioncode>
-			<apkname>com.github.ruleant.getback_gps_11.apk</apkname>
-			<srcname>com.github.ruleant.getback_gps_11_src.tar.gz</srcname>
-			<hash type="sha256">83baf2762ef422f49d3f22f119319b3f69debe3d759133af5dc10ffebf896a18</hash>
-			<sig>03b1cf2e84684020803693da0343877d</sig>
-			<size>125615</size>
 			<sdkver>8</sdkver>
 			<added>2013-12-10</added>
 			<permissions>ACCESS_FINE_LOCATION,INTERNET</permissions>
@@ -21528,10 +21660,10 @@
 	<application id="com.cradle.iitc_mobile">
 		<id>com.cradle.iitc_mobile</id>
 		<added>2013-05-03</added>
-		<lastupdated>2014-10-08</lastupdated>
+		<lastupdated>2014-10-27</lastupdated>
 		<name>IITC Mobile</name>
 		<summary>Map addon for the Ingress game</summary>
-		<icon>com.cradle.iitc_mobile.80.png</icon>
+		<icon>com.cradle.iitc_mobile.81.png</icon>
 		<desc>&lt;p&gt;Ingress map browser with IITC embedded. Ingress Intel Total Conversion (IITC) is a browser addon for the Ingress augmented reality game. IITC Mobile brings this browser addon to the mobile world.&lt;/p&gt;&lt;p&gt;Anti-feature: Network Services. The game itself is neither free-as-in-freedom nor open-source.&lt;/p&gt;</desc>
 		<license>ISC</license>
 		<categories>Games</categories>
@@ -21543,6 +21675,19 @@
 		<marketversion>0.11.8</marketversion>
 		<marketvercode>81</marketvercode>
 		<antifeatures>NonFreeNet</antifeatures>
+		<package>
+			<version>0.11.8</version>
+			<versioncode>81</versioncode>
+			<apkname>com.cradle.iitc_mobile_81.apk</apkname>
+			<srcname>com.cradle.iitc_mobile_81_src.tar.gz</srcname>
+			<hash type="sha256">4eea821ee9590b061070c18d3579f21fbe1b6e1de483916e720ca62c86249ed5</hash>
+			<sig>ac0ea7155041191b78c5214e5c711dda</sig>
+			<size>1108984</size>
+			<sdkver>14</sdkver>
+			<added>2014-10-27</added>
+			<permissions>ACCESS_NETWORK_STATE,NFC,READ_EXTERNAL_STORAGE,INTERNET,ACCESS_FINE_LOCATION,WRITE_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps</features>
+		</package>
 		<package>
 			<version>0.11.7</version>
 			<versioncode>80</versioncode>
@@ -21567,19 +21712,6 @@
 			<sdkver>14</sdkver>
 			<added>2014-09-21</added>
 			<permissions>ACCESS_NETWORK_STATE,NFC,READ_EXTERNAL_STORAGE,INTERNET,ACCESS_FINE_LOCATION,WRITE_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps</features>
-		</package>
-		<package>
-			<version>0.11.5</version>
-			<versioncode>78</versioncode>
-			<apkname>com.cradle.iitc_mobile_78.apk</apkname>
-			<srcname>com.cradle.iitc_mobile_78_src.tar.gz</srcname>
-			<hash type="sha256">b29c791243ef2b387e929d054c680864144e20c9f749d700bd2d68e8dccce1f2</hash>
-			<sig>ac0ea7155041191b78c5214e5c711dda</sig>
-			<size>1092386</size>
-			<sdkver>14</sdkver>
-			<added>2014-08-16</added>
-			<permissions>ACCESS_NETWORK_STATE,NFC,WRITE_EXTERNAL_STORAGE,INTERNET,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps</features>
 		</package>
 	</application>
@@ -22323,10 +22455,10 @@
 	<application id="julianwi.javainstaller">
 		<id>julianwi.javainstaller</id>
 		<added>2014-04-08</added>
-		<lastupdated>2014-08-07</lastupdated>
+		<lastupdated>2014-10-27</lastupdated>
 		<name>Java installer</name>
 		<summary>Install a full Java runtime</summary>
-		<icon>julianwi.javainstaller.4.png</icon>
+		<icon>julianwi.javainstaller.5.png</icon>
 		<desc>&lt;p&gt;Install a full Java runtime on the phone. The app downloads the required files from a HTTP server unpacks them and copies them to the right directory.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -22336,6 +22468,19 @@
 		<tracker>https://github.com/julianwi/javainstaller/issues</tracker>
 		<marketversion>0.4</marketversion>
 		<marketvercode>5</marketvercode>
+		<package>
+			<version>0.4</version>
+			<versioncode>5</versioncode>
+			<apkname>julianwi.javainstaller_5.apk</apkname>
+			<srcname>julianwi.javainstaller_5_src.tar.gz</srcname>
+			<hash type="sha256">eef89045b8ff9bb382adea2d7934a2541ecd7e6dbf08edaedd84aac4877950e7</hash>
+			<sig>fe8540391551c08827fd632035490f65</sig>
+			<size>259740</size>
+			<sdkver>1</sdkver>
+			<added>2014-10-27</added>
+			<permissions>jackpal.androidterm.permission.RUN_SCRIPT,ACCESS_SUPERUSER,jackpal.androidterm.permission.APPEND_TO_PATH,READ_EXTERNAL_STORAGE,INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.3.1</version>
 			<versioncode>4</versioncode>
@@ -22360,20 +22505,6 @@
 			<sdkver>1</sdkver>
 			<added>2014-06-19</added>
 			<permissions>jackpal.androidterm.permission.RUN_SCRIPT,INTERNET,jackpal.androidterm.permission.APPEND_TO_PATH,READ_EXTERNAL_STORAGE</permissions>
-			<nativecode>armeabi,x86</nativecode>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.2</version>
-			<versioncode>2</versioncode>
-			<apkname>julianwi.javainstaller_2.apk</apkname>
-			<srcname>julianwi.javainstaller_2_src.tar.gz</srcname>
-			<hash type="sha256">448684cd343d5467d7b7f65f75291ac740572103bff1f3dff2ecf1c7ff29e541</hash>
-			<sig>fe8540391551c08827fd632035490f65</sig>
-			<size>260479</size>
-			<sdkver>1</sdkver>
-			<added>2014-04-15</added>
-			<permissions>jackpal.androidterm.permission.RUN_SCRIPT,READ_EXTERNAL_STORAGE,INTERNET</permissions>
 			<nativecode>armeabi,x86</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -22417,6 +22548,36 @@
 			<sdkver>7</sdkver>
 			<added>2013-02-25</added>
 			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
+	<application id="com.jelly.theme.revenge">
+		<id>com.jelly.theme.revenge</id>
+		<added>2014-10-27</added>
+		<lastupdated>2014-10-27</lastupdated>
+		<name>JellyRevenge</name>
+		<summary>Dark/Holo based theme for Cyanogenmod</summary>
+		<icon>com.jelly.theme.revenge.11.png</icon>
+		<desc>&lt;p&gt;Simple, dark theme with Holo accent compatible with Cyanogenmod 11 theme engine.&lt;/p&gt;</desc>
+		<license>Apache2</license>
+		<categories>Multimedia,System</categories>
+		<category>Multimedia</category>
+		<web>https://github.com/enricocid/JellyRevenge-CM11-theme/blob/HEAD/README.md</web>
+		<source>https://github.com/enricocid/JellyRevenge-CM11-theme</source>
+		<tracker>https://github.com/enricocid/JellyRevenge-CM11-theme/issues</tracker>
+		<marketversion>11</marketversion>
+		<marketvercode>11</marketvercode>
+		<package>
+			<version>11</version>
+			<versioncode>11</versioncode>
+			<apkname>com.jelly.theme.revenge_11.apk</apkname>
+			<srcname>com.jelly.theme.revenge_11_src.tar.gz</srcname>
+			<hash type="sha256">084cdcf8a1de2782d1c5095a30e4b711aead44a561d8f566ea8fa2615b348334</hash>
+			<sig>5476dac208ffa6f31788a2bae08723cf</sig>
+			<size>3233681</size>
+			<sdkver>19</sdkver>
+			<added>2014-10-27</added>
+			<permissions>SET_WALLPAPER</permissions>
+			<features>org.cyanogenmod.theme,android.hardware.touchscreen</features>
 		</package>
 	</application>
 	<application id="com.jlyr">
@@ -24697,6 +24858,36 @@
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="com.alexkang.loopboard">
+		<id>com.alexkang.loopboard</id>
+		<added>2014-10-27</added>
+		<lastupdated>2014-10-27</lastupdated>
+		<name>LoopBoard</name>
+		<summary>Record, play and loop sounds</summary>
+		<icon>com.alexkang.loopboard.5.png</icon>
+		<desc>&lt;p&gt;Dynamic sound board. Record sound clips and play them back or loop them.&lt;/p&gt;&lt;p&gt;Currently, the application can record sounds through the microphone (or use sounds from internal storage!) and play them back through a newly created button. Each button has the option to re-record and loop playback.&lt;/p&gt;</desc>
+		<license>Apache2</license>
+		<categories>Multimedia</categories>
+		<category>Multimedia</category>
+		<web/>
+		<source>https://github.com/AlexKang/loopboard</source>
+		<tracker>https://github.com/AlexKang/loopboard/issues</tracker>
+		<marketversion>1.4</marketversion>
+		<marketvercode>5</marketvercode>
+		<package>
+			<version>1.4</version>
+			<versioncode>5</versioncode>
+			<apkname>com.alexkang.loopboard_5.apk</apkname>
+			<srcname>com.alexkang.loopboard_5_src.tar.gz</srcname>
+			<hash type="sha256">5f5b917ac20a363b2a2db0dabe25928765df54362604d5b3a6fb858410a6e772</hash>
+			<sig>2731d36fc841f9db54e3afd97bccbe65</sig>
+			<size>771757</size>
+			<sdkver>14</sdkver>
+			<added>2014-10-27</added>
+			<permissions>RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen,android.hardware.microphone</features>
+		</package>
+	</application>
 	<application id="com.powerpoint45.lucidbrowser">
 		<id>com.powerpoint45.lucidbrowser</id>
 		<added>2014-07-13</added>
@@ -26964,10 +27155,10 @@
 	<application id="com.easytarget.micopi">
 		<id>com.easytarget.micopi</id>
 		<added>2014-10-23</added>
-		<lastupdated>2014-10-23</lastupdated>
+		<lastupdated>2014-10-27</lastupdated>
 		<name>Micopi</name>
 		<summary>Create unique contact pictures</summary>
-		<icon>com.easytarget.micopi.9.png</icon>
+		<icon>com.easytarget.micopi.10.png</icon>
 		<desc>&lt;p&gt;Allows you to assign an image to every person in your telephone's contact list. So if you do not happen to have a (decent) photo of them, you can use the app to simply generate one. Micopi does not use a random number generator to create these images. It exclusively uses contact data such as the name, the telephone number or the e-mail address and turns these into geometric figures and colours. This way, all of your contacts have their unique image. This app has been thoroughly tested but we recommend making a backup of your most precious contact pictures, just in case.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>Office</categories>
@@ -26977,6 +27168,19 @@
 		<tracker>https://github.com/easytargetmixel/micopi_android/issues</tracker>
 		<marketversion>2.5</marketversion>
 		<marketvercode>10</marketvercode>
+		<package>
+			<version>2.5</version>
+			<versioncode>10</versioncode>
+			<apkname>com.easytarget.micopi_10.apk</apkname>
+			<srcname>com.easytarget.micopi_10_src.tar.gz</srcname>
+			<hash type="sha256">c09570b7d4c5fb2ee19fba1253279081710fb4276a32672ccce2d78f3ccd91df</hash>
+			<sig>0774f848740bd68a269b306cf6ed974b</sig>
+			<size>1521590</size>
+			<sdkver>7</sdkver>
+			<added>2014-10-27</added>
+			<permissions>READ_EXTERNAL_STORAGE,READ_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_CONTACTS</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>2.0</version>
 			<versioncode>9</versioncode>
@@ -28166,6 +28370,35 @@
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="com.daviancorp.android.monsterhunter3udatabase">
+		<id>com.daviancorp.android.monsterhunter3udatabase</id>
+		<added>2014-10-27</added>
+		<lastupdated>2014-10-27</lastupdated>
+		<name>Monster Hunter 3U Database</name>
+		<summary>Reference for Monster Hunter 3 game</summary>
+		<icon>com.daviancorp.android.monsterhunter3udatabase.5.png</icon>
+		<desc>&lt;p&gt;Reference database for the MonsterHunter3 video game, featuring items, monsters, skills and more information!&lt;/p&gt;</desc>
+		<license>MIT</license>
+		<categories>Games,Office</categories>
+		<category>Games</category>
+		<web>https://github.com/dbooga/MonsterHunter3UDatabase/blob/HEAD/README.md</web>
+		<source>https://github.com/dbooga/MonsterHunter3UDatabase</source>
+		<tracker>https://github.com/dbooga/MonsterHunter3UDatabase/issues</tracker>
+		<marketversion>1.04</marketversion>
+		<marketvercode>5</marketvercode>
+		<package>
+			<version>1.04</version>
+			<versioncode>5</versioncode>
+			<apkname>com.daviancorp.android.monsterhunter3udatabase_5.apk</apkname>
+			<srcname>com.daviancorp.android.monsterhunter3udatabase_5_src.tar.gz</srcname>
+			<hash type="sha256">423c69962bca9984b3270adb8a35e5ddbd41ebffd579d5cc2825471ffa5c627b</hash>
+			<sig>2e608e225b8a67778a62abb4605758a1</sig>
+			<size>13038667</size>
+			<sdkver>14</sdkver>
+			<added>2014-10-27</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="com.tobiaskuban.android.monthcalendarwidgetfoss">
 		<id>com.tobiaskuban.android.monthcalendarwidgetfoss</id>
 		<added>2014-03-27</added>
@@ -28818,6 +29051,35 @@
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="com.samsandberg.mtafarebuster">
+		<id>com.samsandberg.mtafarebuster</id>
+		<added>2014-10-27</added>
+		<lastupdated>2014-10-27</lastupdated>
+		<name>MTA Fare Buster</name>
+		<summary>Calculate NYC MTA metrocard prices</summary>
+		<icon>com.samsandberg.mtafarebuster.1.png</icon>
+		<desc>&lt;p&gt;Calculate needed amount for your travels using NYC MTA: No more leaving change on your Metrocard! Based on research by &lt;a href=&quot;http://iquantny.tumblr.com/post/96700509489/how-memorizing-19-05-can-help-you-outsmart-the-mta&quot;&gt;I Quant NY&lt;/a&gt;.&lt;/p&gt;</desc>
+		<license>MIT</license>
+		<categories>Navigation</categories>
+		<category>Navigation</category>
+		<web>https://github.com/loisaidasam/mta-fare-buster-android/blob/HEAD/README.md</web>
+		<source>https://github.com/loisaidasam/mta-fare-buster-android</source>
+		<tracker>https://github.com/loisaidasam/mta-fare-buster-android/issues</tracker>
+		<marketversion>1.0</marketversion>
+		<marketvercode>1</marketvercode>
+		<package>
+			<version>1.0</version>
+			<versioncode>1</versioncode>
+			<apkname>com.samsandberg.mtafarebuster_1.apk</apkname>
+			<srcname>com.samsandberg.mtafarebuster_1_src.tar.gz</srcname>
+			<hash type="sha256">44e7927d602278a7cd06c990783a496e93d556b9e4c15c5707cb0c5a5145b6d2</hash>
+			<sig>891b075ed3bc349b542088fb50266003</sig>
+			<size>700359</size>
+			<sdkver>8</sdkver>
+			<added>2014-10-27</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="com.gelakinetic.mtgfam">
 		<id>com.gelakinetic.mtgfam</id>
 		<added>2012-08-29</added>
@@ -29404,10 +29666,10 @@
 	<application id="org.totschnig.myexpenses">
 		<id>org.totschnig.myexpenses</id>
 		<added>2012-10-31</added>
-		<lastupdated>2014-10-22</lastupdated>
+		<lastupdated>2014-10-27</lastupdated>
 		<name>My Expenses</name>
 		<summary>Manage finances</summary>
-		<icon>org.totschnig.myexpenses.179.png</icon>
+		<icon>org.totschnig.myexpenses.180.png</icon>
 		<desc>&lt;p&gt;MyExpenses is designed to keep track of expenses, and to export these expenses as QIF files into a finance program (e.g.: Grisbi, GnuCash).&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Up to five accounts with transfers (unlimited in Contrib version)&lt;/li&gt;&lt;li&gt; Define plans (3) for future and recurrent transactions (unlimited in Contrib version)&lt;/li&gt;&lt;li&gt; Group transactions per day, week, month, year and display sums per group&lt;/li&gt;&lt;li&gt; Two levels of categories (import from Grisbi XML and QIF), display distribution of transactions in Contrib version&lt;/li&gt;&lt;li&gt; Split transactions (Contrib version)&lt;/li&gt;&lt;li&gt; Calculator&lt;/li&gt;&lt;li&gt; Export to QIF and CSV (MS Excel), can be automatically shared (via email, FTP, Dropbox, ...) and done in batch in Contrib version&lt;/li&gt;&lt;li&gt; Import QIF data&lt;/li&gt;&lt;li&gt; Password protection, recoverable with security question in Contrib version&lt;/li&gt;&lt;li&gt; Integrated Help&lt;/li&gt;&lt;li&gt; Create transactions from templates&lt;/li&gt;&lt;li&gt; Data backup and restore&lt;/li&gt;&lt;li&gt; Aggregate financial situation (Contrib version)&lt;/li&gt;&lt;li&gt; Two themes: light and dark&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -29420,6 +29682,19 @@
 		<flattr>1028216</flattr>
 		<marketversion>2.3.7</marketversion>
 		<marketvercode>180</marketvercode>
+		<package>
+			<version>2.3.7</version>
+			<versioncode>180</versioncode>
+			<apkname>org.totschnig.myexpenses_180.apk</apkname>
+			<srcname>org.totschnig.myexpenses_180_src.tar.gz</srcname>
+			<hash type="sha256">54b519fc08da555b13b99e6da947571a33feeb97c79b491c387224be99d79c05</hash>
+			<sig>e1ca5bcb8d0a515a6d35500974fbc3a8</sig>
+			<size>3360610</size>
+			<sdkver>8</sdkver>
+			<added>2014-10-27</added>
+			<permissions>READ_CALENDAR,READ_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,RECEIVE_BOOT_COMPLETED,WRITE_CALENDAR,WRITE_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>2.3.6</version>
 			<versioncode>179</versioncode>
@@ -29443,19 +29718,6 @@
 			<size>3343716</size>
 			<sdkver>8</sdkver>
 			<added>2014-10-16</added>
-			<permissions>READ_CALENDAR,READ_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,RECEIVE_BOOT_COMPLETED,WRITE_CALENDAR,WRITE_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>2.3.4.2</version>
-			<versioncode>175</versioncode>
-			<apkname>org.totschnig.myexpenses_175.apk</apkname>
-			<srcname>org.totschnig.myexpenses_175_src.tar.gz</srcname>
-			<hash type="sha256">e67e4a87f7fc4c5882fb1578d80e4a1bca6488eee6e6b3f5a7bd43cc02cefd22</hash>
-			<sig>e1ca5bcb8d0a515a6d35500974fbc3a8</sig>
-			<size>3334506</size>
-			<sdkver>8</sdkver>
-			<added>2014-10-04</added>
 			<permissions>READ_CALENDAR,READ_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,RECEIVE_BOOT_COMPLETED,WRITE_CALENDAR,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -30076,8 +30338,8 @@
 		<web>http://www.navit-project.org</web>
 		<source>http://sourceforge.net/p/navit/code</source>
 		<tracker>http://trac.navit-project.org</tracker>
-		<marketversion>5914</marketversion>
-		<marketvercode>5914</marketvercode>
+		<marketversion>5915</marketversion>
+		<marketvercode>5915</marketvercode>
 		<package>
 			<version>navit 0.5.0-5889</version>
 			<versioncode>5889</versioncode>
@@ -30741,10 +31003,10 @@
 	<application id="pl.net.szafraniec.NFCKey">
 		<id>pl.net.szafraniec.NFCKey</id>
 		<added>2014-01-20</added>
-		<lastupdated>2014-10-16</lastupdated>
+		<lastupdated>2014-10-27</lastupdated>
 		<name>NFC Key</name>
 		<summary>Unlock KeePass database with NFC</summary>
-		<icon>pl.net.szafraniec.NFCKey.23.png</icon>
+		<icon>pl.net.szafraniec.NFCKey.24.png</icon>
 		<desc>&lt;p&gt;Unlock KeePass database with any NFC tags such as:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Mifare Ultralight&lt;/li&gt;&lt;li&gt; Mifare Classic&lt;/li&gt;&lt;li&gt; NTAG203&lt;/li&gt;&lt;li&gt; Sony SmartTag (few types are R/W)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Supports:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Keepass2Android online&lt;/li&gt;&lt;li&gt; Keepass2Android offline&lt;/li&gt;&lt;li&gt; KeePassDroid&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Security: NFC tag stores only random numbers, and the password is encrypted with those numbers (AES-128 algorithm), stored in protected Android device memory. An attacker would have to scan(copy) your NFC tag and either steal and root your Android device to get your password. If you suspect that your NFC tag has been read, you can use NFC Key again to re-write it with new random values, rendering the previous information useless.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://raw.github.com/mateusz-szafraniec/NFC-Key/master/CHANGELOG.txt&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>System</categories>
@@ -30756,6 +31018,19 @@
 		<bitcoin>17E32x5ygXkqf5EWJkryZuarUDUFrb8UqQ</bitcoin>
 		<marketversion>1.41</marketversion>
 		<marketvercode>24</marketvercode>
+		<package>
+			<version>1.41</version>
+			<versioncode>24</versioncode>
+			<apkname>pl.net.szafraniec.NFCKey_24.apk</apkname>
+			<srcname>pl.net.szafraniec.NFCKey_24_src.tar.gz</srcname>
+			<hash type="sha256">8f8bbf70697f7d90973e93a2bb558985fcd700aa2820eebf82ba4b26a09a9fd7</hash>
+			<sig>a8f0365336018bc3a6482e41b4643093</sig>
+			<size>284068</size>
+			<sdkver>16</sdkver>
+			<added>2014-10-27</added>
+			<permissions>NFC,VIBRATE</permissions>
+			<features>android.hardware.nfc,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.40</version>
 			<versioncode>23</versioncode>
@@ -30779,19 +31054,6 @@
 			<size>279317</size>
 			<sdkver>16</sdkver>
 			<added>2014-06-04</added>
-			<permissions>NFC,VIBRATE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.36</version>
-			<versioncode>19</versioncode>
-			<apkname>pl.net.szafraniec.NFCKey_19.apk</apkname>
-			<srcname>pl.net.szafraniec.NFCKey_19_src.tar.gz</srcname>
-			<hash type="sha256">2ce6979cfaffa4ac5da2e3f30710e8bbc97f23093c0c8295ab0b76b3cb149ec9</hash>
-			<sig>a8f0365336018bc3a6482e41b4643093</sig>
-			<size>435523</size>
-			<sdkver>16</sdkver>
-			<added>2014-02-28</added>
 			<permissions>NFC,VIBRATE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -32812,11 +33074,11 @@
 	<application id="com.dje.openwifinetworkremover">
 		<id>com.dje.openwifinetworkremover</id>
 		<added>2013-12-15</added>
-		<lastupdated>2014-05-15</lastupdated>
+		<lastupdated>2014-10-27</lastupdated>
 		<name>Open WiFi Cleaner</name>
 		<summary>Forget open access points</summary>
-		<icon>com.dje.openwifinetworkremover.26.png</icon>
-		<desc>&lt;p&gt;Removes open WiFi networks from the saved networks list after disconnecting. Features&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Notification reminders on connection/disconnection&lt;/li&gt;&lt;li&gt; Whitelist of open networks to keep&lt;/li&gt;&lt;/ul&gt;</desc>
+		<icon>com.dje.openwifinetworkremover.27.png</icon>
+		<desc>&lt;p&gt;Removes open WiFi networks from the saved networks list after disconnecting. Features&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Notification reminders on connection/disconnection&lt;/li&gt;&lt;li&gt; Whitelist of open networks to keep&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/duncanje/android-open-wifi-network-remover/blob/master/CHANGELOG.md&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
 		<category>Internet</category>
@@ -32825,6 +33087,19 @@
 		<tracker>https://github.com/duncanje/android-open-wifi-network-remover/issues</tracker>
 		<marketversion>0.1.6.4</marketversion>
 		<marketvercode>27</marketvercode>
+		<package>
+			<version>0.1.6.4</version>
+			<versioncode>27</versioncode>
+			<apkname>com.dje.openwifinetworkremover_27.apk</apkname>
+			<srcname>com.dje.openwifinetworkremover_27_src.tar.gz</srcname>
+			<hash type="sha256">ae8081217e52ec94639b49b13614a8ea2ce70ecdf00eeefa9fad341837845e9d</hash>
+			<sig>2b353fbb087d0f8fb460e3fac44a1d24</sig>
+			<size>634387</size>
+			<sdkver>8</sdkver>
+			<added>2014-10-27</added>
+			<permissions>ACCESS_WIFI_STATE,ACCESS_NETWORK_STATE,CHANGE_WIFI_STATE,WAKE_LOCK</permissions>
+			<features>android.hardware.touchscreen,android.hardware.wifi</features>
+		</package>
 		<package>
 			<version>0.1.6.3</version>
 			<versioncode>26</versioncode>
@@ -32848,19 +33123,6 @@
 			<size>625726</size>
 			<sdkver>8</sdkver>
 			<added>2014-02-19</added>
-			<permissions>ACCESS_WIFI_STATE,ACCESS_NETWORK_STATE,CHANGE_WIFI_STATE,WAKE_LOCK</permissions>
-			<features>android.hardware.touchscreen,android.hardware.wifi</features>
-		</package>
-		<package>
-			<version>0.1.5.1</version>
-			<versioncode>16</versioncode>
-			<apkname>com.dje.openwifinetworkremover_16.apk</apkname>
-			<srcname>com.dje.openwifinetworkremover_16_src.tar.gz</srcname>
-			<hash type="sha256">0b34daf9a5285d12fc68fa785d69678a86096c49f8394075482fc55eadeba5d4</hash>
-			<sig>2b353fbb087d0f8fb460e3fac44a1d24</sig>
-			<size>618610</size>
-			<sdkver>8</sdkver>
-			<added>2013-12-30</added>
 			<permissions>ACCESS_WIFI_STATE,ACCESS_NETWORK_STATE,CHANGE_WIFI_STATE,WAKE_LOCK</permissions>
 			<features>android.hardware.touchscreen,android.hardware.wifi</features>
 		</package>
@@ -33071,10 +33333,10 @@
 	<application id="org.sufficientlysecure.keychain">
 		<id>org.sufficientlysecure.keychain</id>
 		<added>2013-09-11</added>
-		<lastupdated>2014-10-04</lastupdated>
+		<lastupdated>2014-10-27</lastupdated>
 		<name>OpenKeychain</name>
 		<summary>Encrypt files and communications with OpenPGP.</summary>
-		<icon>org.sufficientlysecure.keychain.30100.png</icon>
+		<icon>org.sufficientlysecure.keychain.31000.png</icon>
 		<desc>&lt;p&gt;OpenKeychain helps you communicate more privately and securely. It uses high-quality modern encryption to ensure that your messages can be read only by the people you send them to, others can send you messages that only you can read, and these messages can be digitally signed so the people getting them are sure who sent them. OpenKeychain is based on the well established OpenPGP standard making encryption compatible across your devices and operating systems.&lt;/p&gt;&lt;p&gt;Modern encryption is based on digital &quot;keys&quot;. OpenKeychain stores and manages your keys, and those of the people you communicate with, on your Android. It also helps you find others' keys online, and interchange keys by touching devices. But its most frequent use is in using those keys to encrypt and decrypt messages.&lt;/p&gt;&lt;p&gt;OpenKeychain integrates with&lt;/p&gt;&lt;ul&gt;&lt;li&gt; K-9 Mail&lt;/li&gt;&lt;li&gt; Conversations&lt;/li&gt;&lt;li&gt; and many more...&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;OpenKeychain is designed to be trustworthy. It’s Free Software with no secrets; anyone can examine and validate every bit of it.&lt;/p&gt;&lt;p&gt;Permissions:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Full network access: To query keyservers&lt;/li&gt;&lt;li&gt; Near Field Communication: To exchange keys via NFC; Yubikey NEO support&lt;/li&gt;&lt;li&gt; Storage: To import/export keys from sd card&lt;/li&gt;&lt;li&gt; Identity/Contact: To pre-fill name, email, and search queries; integration with Android's contacts&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/open-keychain/open-keychain/blob/HEAD/CHANGELOG&quot;&gt;CHANGELOG&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Internet</categories>
@@ -33082,8 +33344,20 @@
 		<web>http://openkeychain.org</web>
 		<source>https://github.com/open-keychain/open-keychain</source>
 		<tracker>https://github.com/open-keychain/open-keychain/issues</tracker>
-		<marketversion>3.0.1</marketversion>
-		<marketvercode>30100</marketvercode>
+		<marketversion>3.1</marketversion>
+		<marketvercode>31000</marketvercode>
+		<package>
+			<version>3.1</version>
+			<versioncode>31000</versioncode>
+			<apkname>org.sufficientlysecure.keychain_31000.apk</apkname>
+			<srcname>org.sufficientlysecure.keychain_31000_src.tar.gz</srcname>
+			<hash type="sha256">4dfb04e4233bfde36914902404adc233a2fa2c2d9ca1eaf5883eea19025fcd17</hash>
+			<sig>19c18c4bdc8adbcd2df4bbcd2c24fb1d</sig>
+			<size>5110742</size>
+			<sdkver>9</sdkver>
+			<added>2014-10-27</added>
+			<permissions>WRITE_CONTACTS,NFC,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,INTERNET,READ_EXTERNAL_STORAGE,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,org.sufficientlysecure.keychain.WRITE_TEMPORARY_STORAGE,MANAGE_ACCOUNTS,READ_PROFILE,AUTHENTICATE_ACCOUNTS</permissions>
+		</package>
 		<package>
 			<version>3.0.1</version>
 			<versioncode>30100</versioncode>
@@ -33107,18 +33381,6 @@
 			<sdkver>9</sdkver>
 			<added>2014-10-03</added>
 			<permissions>WRITE_CONTACTS,NFC,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,GET_ACCOUNTS,INTERNET,READ_SYNC_SETTINGS,READ_CONTACTS,org.sufficientlysecure.keychain.WRITE_TEMPORARY_STORAGE,MANAGE_ACCOUNTS,READ_PROFILE,READ_EXTERNAL_STORAGE</permissions>
-		</package>
-		<package>
-			<version>2.9.2</version>
-			<versioncode>29200</versioncode>
-			<apkname>org.sufficientlysecure.keychain_29200.apk</apkname>
-			<srcname>org.sufficientlysecure.keychain_29200_src.tar.gz</srcname>
-			<hash type="sha256">a12b6ec119ac5990df1b1fcccbcf9c86b27e030fb00ce9e9269bd2b6901b4708</hash>
-			<sig>19c18c4bdc8adbcd2df4bbcd2c24fb1d</sig>
-			<size>4789525</size>
-			<sdkver>9</sdkver>
-			<added>2014-09-29</added>
-			<permissions>WRITE_CONTACTS,ACCESS_NETWORK_STATE,NFC,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,GET_ACCOUNTS,INTERNET,READ_SYNC_SETTINGS,READ_CONTACTS,org.sufficientlysecure.keychain.WRITE_TEMPORARY_STORAGE,MANAGE_ACCOUNTS,READ_PROFILE,READ_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="de.jdsoft.law">
@@ -34385,10 +34647,10 @@
 	<application id="com.owncloud.android">
 		<id>com.owncloud.android</id>
 		<added>2012-08-02</added>
-		<lastupdated>2014-10-20</lastupdated>
+		<lastupdated>2014-10-27</lastupdated>
 		<name>ownCloud</name>
 		<summary>Synchronization client</summary>
-		<icon>com.owncloud.android.10600000.png</icon>
+		<icon>com.owncloud.android.10600100.png</icon>
 		<desc>&lt;p&gt;ownCloud is a free software package you can install on a server to manage files, contacts, calendars, music, pictures and much more. This is the official Android app which enables you to view and upload files.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
@@ -34399,6 +34661,19 @@
 		<donate>https://www.bountysource.com/teams/owncloud</donate>
 		<marketversion>1.6.1</marketversion>
 		<marketvercode>10600100</marketvercode>
+		<package>
+			<version>1.6.1</version>
+			<versioncode>10600100</versioncode>
+			<apkname>com.owncloud.android_10600100.apk</apkname>
+			<srcname>com.owncloud.android_10600100_src.tar.gz</srcname>
+			<hash type="sha256">ac5bf1ec8778042bacc0a0c256e2ce4492966f77a86c5e09bc5fba8ce70278ff</hash>
+			<sig>7a2b73a14604b9707f378c6ecdc2f3af</sig>
+			<size>2311891</size>
+			<sdkver>8</sdkver>
+			<added>2014-10-27</added>
+			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,BROADCAST_STICKY,READ_PHONE_STATE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,GET_ACCOUNTS,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,INTERNET,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,WAKE_LOCK,AUTHENTICATE_ACCOUNTS</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.6.0</version>
 			<versioncode>10600000</versioncode>
@@ -34422,19 +34697,6 @@
 			<size>2150725</size>
 			<sdkver>8</sdkver>
 			<added>2014-08-01</added>
-			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,BROADCAST_STICKY,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,AUTHENTICATE_ACCOUNTS,INTERNET,WRITE_EXTERNAL_STORAGE,MANAGE_ACCOUNTS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_PHONE_STATE,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.5.7</version>
-			<versioncode>105007</versioncode>
-			<apkname>com.owncloud.android_105007.apk</apkname>
-			<srcname>com.owncloud.android_105007_src.tar.gz</srcname>
-			<hash type="sha256">dcafdffb95a596bc0362a3824111b0364a29e148c399d7fa562bd3ddcbefca21</hash>
-			<sig>7a2b73a14604b9707f378c6ecdc2f3af</sig>
-			<size>2093733</size>
-			<sdkver>8</sdkver>
-			<added>2014-06-04</added>
 			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,BROADCAST_STICKY,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,AUTHENTICATE_ACCOUNTS,INTERNET,WRITE_EXTERNAL_STORAGE,MANAGE_ACCOUNTS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_PHONE_STATE,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -36183,10 +36445,10 @@
 	<application id="com.morlunk.mumbleclient">
 		<id>com.morlunk.mumbleclient</id>
 		<added>2014-01-29</added>
-		<lastupdated>2014-08-24</lastupdated>
+		<lastupdated>2014-10-27</lastupdated>
 		<name>Plumble</name>
 		<summary>Voice chat for Mumble servers</summary>
-		<icon>com.morlunk.mumbleclient.70.png</icon>
+		<icon>com.morlunk.mumbleclient.71.png</icon>
 		<desc>&lt;ul&gt;&lt;li&gt; Opus, CELT, and Speex codec support&lt;/li&gt;&lt;li&gt; Certificates&lt;/li&gt;&lt;li&gt; Voice activity&lt;/li&gt;&lt;li&gt; Bluetooth&lt;/li&gt;&lt;li&gt; Public servers&lt;/li&gt;&lt;li&gt; Comments&lt;/li&gt;&lt;li&gt; Administration&lt;/li&gt;&lt;li&gt; Overlay&lt;/li&gt;&lt;li&gt; Theming&lt;/li&gt;&lt;li&gt; Notifications&lt;/li&gt;&lt;li&gt; Orbot integration&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
@@ -36196,8 +36458,22 @@
 		<tracker>https://www.github.com/Morlunk/Plumble/issues</tracker>
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HZU3JS7MMDGBY</donate>
 		<flattr>1706423</flattr>
-		<marketversion>3.2.0</marketversion>
-		<marketvercode>71</marketvercode>
+		<marketversion>3.1.5</marketversion>
+		<marketvercode>70</marketvercode>
+		<package>
+			<version>3.2.0</version>
+			<versioncode>71</versioncode>
+			<apkname>com.morlunk.mumbleclient_71.apk</apkname>
+			<srcname>com.morlunk.mumbleclient_71_src.tar.gz</srcname>
+			<hash type="sha256">f9aa3720c4ec6be9b4c63ff134446e1d6420f9df7b18627d8367576d7803324f</hash>
+			<sig>39a379d5d9d78045bb07e08ba9bfd6b8</sig>
+			<size>5535905</size>
+			<sdkver>9</sdkver>
+			<added>2014-10-27</added>
+			<permissions>RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,INTERNET,SYSTEM_ALERT_WINDOW,VIBRATE,BLUETOOTH,BROADCAST_STICKY,WAKE_LOCK,MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE</permissions>
+			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
+			<features>android.hardware.touchscreen,android.hardware.bluetooth</features>
+		</package>
 		<package>
 			<version>3.1.5</version>
 			<versioncode>70</versioncode>
@@ -36226,29 +36502,15 @@
 			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
 			<features>android.hardware.touchscreen,android.hardware.bluetooth</features>
 		</package>
-		<package>
-			<version>3.1.3</version>
-			<versioncode>68</versioncode>
-			<apkname>com.morlunk.mumbleclient_68.apk</apkname>
-			<srcname>com.morlunk.mumbleclient_68_src.tar.gz</srcname>
-			<hash type="sha256">908839710eda587e75d6dbfd6d8670df0007675fa2114feeb982995e6cf3f14a</hash>
-			<sig>39a379d5d9d78045bb07e08ba9bfd6b8</sig>
-			<size>5915920</size>
-			<sdkver>9</sdkver>
-			<added>2014-08-17</added>
-			<permissions>RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WAKE_LOCK,SYSTEM_ALERT_WINDOW,VIBRATE,BLUETOOTH,INTERNET,MODIFY_AUDIO_SETTINGS,BROADCAST_STICKY</permissions>
-			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
-			<features>android.hardware.touchscreen,android.hardware.bluetooth</features>
-		</package>
 	</application>
 	<application id="eu.lavarde.pmtd">
 		<id>eu.lavarde.pmtd</id>
 		<added>2013-01-02</added>
-		<lastupdated>2014-10-20</lastupdated>
+		<lastupdated>2014-10-27</lastupdated>
 		<name>PlusMinusTimesDivide</name>
 		<summary>Train children in arithmetic</summary>
-		<icon>eu.lavarde.pmtd.2014101910.png</icon>
-		<desc>&lt;p&gt;A program to train children's mathematical skills in the four calculation methods: addition, subtraction, multiplication and division. The preferences allow to adapt the app's difficulty to any pupil's level, from basic primary (elementary) school to secondary and beyond.&lt;/p&gt;&lt;p&gt;The program gives hints when the given answer is wrong (send upstream your tips if you have some more). The preferences dialog (from the Menu button) allows adaptation to most levels of difficulty required by children in different ages: maximum of operands or result, integer or decimal (with up to four decimal places) operations, with or without carry over, multiplication and addition tables training, number of authorized tries, and some few others...&lt;/p&gt;&lt;p&gt;There is a timer but it is shut-off by default, as to not stress sensible children. Finally, the language of the app can be set differently (English, French, German) from the system default.&lt;/p&gt;</desc>
+		<icon>eu.lavarde.pmtd.2014102508.png</icon>
+		<desc>&lt;p&gt;A program to train children's mathematical skills in the four calculation methods: addition, subtraction, multiplication and division.&lt;/p&gt;&lt;p&gt;The preferences allow to adapt the difficulty to any pupil's level, from basic primary (elementary) school to secondary and beyond. Possible changes include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; maximum of operands or result,&lt;/li&gt;&lt;li&gt; integer or decimal (with up to four decimal places) operations,&lt;/li&gt;&lt;li&gt; with or without carry over,&lt;/li&gt;&lt;li&gt; multiplication and addition tables training,&lt;/li&gt;&lt;li&gt; number of authorized tries,&lt;/li&gt;&lt;li&gt; and some few others...&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;The program also gives hints when the given answer is wrong (send your tips to the author, if you have some more!). For advanced users, there is a timer -- but it is shut-off by default, as to not stress sensible children.&lt;/p&gt;&lt;p&gt;Finally, the language of the app can be set differently (English, French, German, Italian, Spanish) from the system default.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pmtd.googlecode.com/git/doc/CHANGELOG&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Science &amp; Education,Children</categories>
 		<category>Science &amp; Education</category>
@@ -36257,6 +36519,18 @@
 		<tracker>https://code.google.com/p/pmtd/issues</tracker>
 		<marketversion>2014.10.25.08</marketversion>
 		<marketvercode>2014102508</marketvercode>
+		<package>
+			<version>2014.10.25.08</version>
+			<versioncode>2014102508</versioncode>
+			<apkname>eu.lavarde.pmtd_2014102508.apk</apkname>
+			<srcname>eu.lavarde.pmtd_2014102508_src.tar.gz</srcname>
+			<hash type="sha256">c13f227b2b88c3a4e420855dfeef9843a040b194866dc928094f38123e2b2d09</hash>
+			<sig>ad5a3a00e0d15a0aa8448ea6b4cd587c</sig>
+			<size>1204071</size>
+			<sdkver>7</sdkver>
+			<added>2014-10-27</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>2014.10.19.10</version>
 			<versioncode>2014101910</versioncode>
@@ -36279,18 +36553,6 @@
 			<size>1170020</size>
 			<sdkver>7</sdkver>
 			<added>2014-05-10</added>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>2014.03.01.17</version>
-			<versioncode>2014030117</versioncode>
-			<apkname>eu.lavarde.pmtd_2014030117.apk</apkname>
-			<srcname>eu.lavarde.pmtd_2014030117_src.tar.gz</srcname>
-			<hash type="sha256">ddd787c276cfd443efba35ec54341d32c403488a2023ba78e936fceeefc9c361</hash>
-			<sig>ad5a3a00e0d15a0aa8448ea6b4cd587c</sig>
-			<size>1136081</size>
-			<sdkver>7</sdkver>
-			<added>2014-03-07</added>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -37416,8 +37678,8 @@
 		<web>http://chris.boyle.name/projects/android-puzzles</web>
 		<source>https://github.com/chrisboyle/sgtpuzzles</source>
 		<tracker>https://github.com/chrisboyle/sgtpuzzles/issues</tracker>
-		<marketversion>10286.3</marketversion>
-		<marketvercode>86</marketvercode>
+		<marketversion>10286.5</marketversion>
+		<marketvercode>89</marketvercode>
 		<package>
 			<version>9561.1</version>
 			<versioncode>72</versioncode>
@@ -39621,10 +39883,10 @@
 	<application id="com.brapeba.roaminginfo">
 		<id>com.brapeba.roaminginfo</id>
 		<added>2014-10-23</added>
-		<lastupdated>2014-10-23</lastupdated>
+		<lastupdated>2014-10-27</lastupdated>
 		<name>Roaming Info</name>
 		<summary>Notify about SIM operator changes</summary>
-		<icon>com.brapeba.roaminginfo.12.png</icon>
+		<icon>com.brapeba.roaminginfo.13.png</icon>
 		<desc>&lt;p&gt;Displays a notification with current operator's name and in case of roaming it also shows the original SIM's operator name.&lt;/p&gt;&lt;p&gt;If you swipe (dismiss) the notification, a new one will be displayed when a change in the conexion occurs. To remove the service from memory and avoid further notifications, just tap the notification.&lt;/p&gt;</desc>
 		<license>PublicDomain</license>
 		<categories>Phone &amp; SMS</categories>
@@ -39634,6 +39896,19 @@
 		<tracker>https://github.com/jbardera/RoamingInfo/issues</tracker>
 		<marketversion>1.8</marketversion>
 		<marketvercode>13</marketvercode>
+		<package>
+			<version>1.8</version>
+			<versioncode>13</versioncode>
+			<apkname>com.brapeba.roaminginfo_13.apk</apkname>
+			<srcname>com.brapeba.roaminginfo_13_src.tar.gz</srcname>
+			<hash type="sha256">86244e702187079227a4d5f245c5d0d6efcf911ddf5f160d9c4abb5a5bc368da</hash>
+			<sig>af151b3f3a1868e38747ad2349bc266c</sig>
+			<size>2710351</size>
+			<sdkver>7</sdkver>
+			<added>2014-10-27</added>
+			<permissions>READ_PHONE_STATE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.7</version>
 			<versioncode>12</versioncode>
@@ -41905,6 +42180,35 @@
 			<features>android.hardware.telephony,android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="in.indiandragon.shellshock.shellshockvulnerabilityscan">
+		<id>in.indiandragon.shellshock.shellshockvulnerabilityscan</id>
+		<added>2014-10-27</added>
+		<lastupdated>2014-10-27</lastupdated>
+		<name>Shellshock Vulnerability Scan</name>
+		<summary>Scan for Shellshock vulnerability</summary>
+		<icon>in.indiandragon.shellshock.shellshockvulnerabilityscan.3.png</icon>
+		<desc>&lt;p&gt;Scan for bash vulnerability CVE-2014-6271 also known as Shellshock.&lt;/p&gt;</desc>
+		<license>GPLv2</license>
+		<categories>System,Security</categories>
+		<category>System</category>
+		<web/>
+		<source>https://github.com/indiandragon/Shellshock-Vulnerability-Scan</source>
+		<tracker>https://github.com/indiandragon/Shellshock-Vulnerability-Scan/issues</tracker>
+		<marketversion>3.0</marketversion>
+		<marketvercode>3</marketvercode>
+		<package>
+			<version>3.0</version>
+			<versioncode>3</versioncode>
+			<apkname>in.indiandragon.shellshock.shellshockvulnerabilityscan_3.apk</apkname>
+			<srcname>in.indiandragon.shellshock.shellshockvulnerabilityscan_3_src.tar.gz</srcname>
+			<hash type="sha256">ae15e639fd888b78e074f18c2683990a238670361a51586bc889b008aa916c97</hash>
+			<sig>ed26c2cff662c859e40f0404d3da1cf3</sig>
+			<size>953215</size>
+			<sdkver>8</sdkver>
+			<added>2014-10-27</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="com.boombuler.games.shift">
 		<id>com.boombuler.games.shift</id>
 		<added>2012-09-15</added>
@@ -43674,8 +43978,8 @@
 		<source>https://github.com/ushahidi/SMSSync</source>
 		<tracker>https://github.com/ushahidi/SMSSync/issues</tracker>
 		<donate>http://ushahidi.com/get-involved</donate>
-		<marketversion>2.6.1</marketversion>
-		<marketvercode>22</marketvercode>
+		<marketversion>2.7</marketversion>
+		<marketvercode>23</marketvercode>
 		<package>
 			<version>2.6.1</version>
 			<versioncode>22</versioncode>
@@ -44539,10 +44843,10 @@
 	<application id="com.kodarkooperativet.notificationstopwatch">
 		<id>com.kodarkooperativet.notificationstopwatch</id>
 		<added>2014-10-20</added>
-		<lastupdated>2014-10-20</lastupdated>
+		<lastupdated>2014-10-27</lastupdated>
 		<name>Stopwatch</name>
 		<summary>Stopwatch build into the notification bar</summary>
-		<icon>com.kodarkooperativet.notificationstopwatch.5.png</icon>
+		<icon>com.kodarkooperativet.notificationstopwatch.6.png</icon>
 		<desc>&lt;p&gt;A simple stopwatch that can be completely controlled from the notification bar. Very lightweight and no permissions. Uses Singleton design betweeen activity and service.&lt;/p&gt;</desc>
 		<license>Artistic2</license>
 		<categories>Office</categories>
@@ -44552,6 +44856,18 @@
 		<tracker>https://github.com/KodarKooperativet/NotificationStopwatch/issues</tracker>
 		<marketversion>1.4</marketversion>
 		<marketvercode>6</marketvercode>
+		<package>
+			<version>1.4</version>
+			<versioncode>6</versioncode>
+			<apkname>com.kodarkooperativet.notificationstopwatch_6.apk</apkname>
+			<srcname>com.kodarkooperativet.notificationstopwatch_6_src.tar.gz</srcname>
+			<hash type="sha256">6484242a221c593049eedaa18a19220dcd4bf932b8a7ea3751837d13935b7b64</hash>
+			<sig>446e51d57a85f90a283906582efffdbe</sig>
+			<size>70262</size>
+			<sdkver>11</sdkver>
+			<added>2014-10-27</added>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.3</version>
 			<versioncode>5</versioncode>
@@ -45139,10 +45455,10 @@
 	<application id="com.nutomic.syncthingandroid">
 		<id>com.nutomic.syncthingandroid</id>
 		<added>2014-08-22</added>
-		<lastupdated>2014-10-23</lastupdated>
+		<lastupdated>2014-10-27</lastupdated>
 		<name>Syncthing</name>
 		<summary>File synchronization</summary>
-		<icon>com.nutomic.syncthingandroid.42.png</icon>
+		<icon>com.nutomic.syncthingandroid.43.png</icon>
 		<desc>&lt;p&gt;This is the first attempt at an Android port of syncthing. Please understand that this is not stable yet, and read the first start dialog carefully.&lt;/p&gt;&lt;p&gt;Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized. Your data is your data alone and you deserve to choose where it is stored, if it is shared with some third party and how it's transmitted over the Internet.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Internet</categories>
@@ -45153,6 +45469,20 @@
 		<donate>https://tip4commit.com/github/Nutomic/syncthing-android</donate>
 		<marketversion>0.5.6</marketversion>
 		<marketvercode>43</marketvercode>
+		<package>
+			<version>0.5.6</version>
+			<versioncode>43</versioncode>
+			<apkname>com.nutomic.syncthingandroid_43.apk</apkname>
+			<srcname>com.nutomic.syncthingandroid_43_src.tar.gz</srcname>
+			<hash type="sha256">6f61ecd0244014b32f382868c1cea212f66fd411a8fbfc28fa16fc2655d08958</hash>
+			<sig>85bca5eec5edb5637e482007f1c69217</sig>
+			<size>9932458</size>
+			<sdkver>8</sdkver>
+			<added>2014-10-27</added>
+			<permissions>READ_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,INTERNET</permissions>
+			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.5.5</version>
 			<versioncode>42</versioncode>
@@ -45178,20 +45508,6 @@
 			<sdkver>8</sdkver>
 			<added>2014-10-15</added>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE</permissions>
-			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.5.2</version>
-			<versioncode>39</versioncode>
-			<apkname>com.nutomic.syncthingandroid_39.apk</apkname>
-			<srcname>com.nutomic.syncthingandroid_39_src.tar.gz</srcname>
-			<hash type="sha256">fb6c62a8f592ba9e4c626ac079086b4b517111006dd33811f06d88b1df32e269</hash>
-			<sig>85bca5eec5edb5637e482007f1c69217</sig>
-			<size>9628073</size>
-			<sdkver>8</sdkver>
-			<added>2014-10-13</added>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET,WRITE_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,READ_EXTERNAL_STORAGE</permissions>
 			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -45929,8 +46245,8 @@
 		<source>https://github.com/schildbach/bitcoin-wallet</source>
 		<tracker>https://github.com/schildbach/bitcoin-wallet/issues</tracker>
 		<bitcoin>1HkX6X8EakdsgAysL93oKrWiXGPbFiG1xV</bitcoin>
-		<marketversion>4.06-test</marketversion>
-		<marketvercode>196</marketvercode>
+		<marketversion>4.07-test</marketversion>
+		<marketvercode>197</marketvercode>
 		<package>
 			<version>4.06-test</version>
 			<versioncode>196</versioncode>
@@ -47249,10 +47565,10 @@
 	<application id="com.aselalee.trainschedule">
 		<id>com.aselalee.trainschedule</id>
 		<added>2012-10-30</added>
-		<lastupdated>2014-05-11</lastupdated>
+		<lastupdated>2014-10-27</lastupdated>
 		<name>Train Schedule</name>
 		<summary>Sri Lanka train schedules</summary>
-		<icon>com.aselalee.trainschedule.118.png</icon>
+		<icon>com.aselalee.trainschedule.119.png</icon>
 		<desc>&lt;p&gt;A simple app to retrieve the Sri Lanka Railway train schedule by reading the &lt;a href=&quot;http://www.icta.lk&quot;&gt;Information and Communication Technology Agency of Sri Lanka&lt;/a&gt;'s (ICTA) &lt;a href=&quot;http://mobile.icta.lk/services/railwayservice&quot;&gt;JSON API&lt;/a&gt;. The aim of this application is to retrieve the schedule as quickly as possible with minimum user interactions.&lt;/p&gt;&lt;p&gt;A non-free analytics library was removed.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Navigation</categories>
@@ -47262,6 +47578,19 @@
 		<tracker/>
 		<marketversion>1.19</marketversion>
 		<marketvercode>119</marketvercode>
+		<package>
+			<version>1.19</version>
+			<versioncode>119</versioncode>
+			<apkname>com.aselalee.trainschedule_119.apk</apkname>
+			<srcname>com.aselalee.trainschedule_119_src.tar.gz</srcname>
+			<hash type="sha256">a72f193868d4247e7965c2b4fd06e9aa98ccd0750d830987d9b7ba58dc917076</hash>
+			<sig>2d9ff4276cbdb2d9d60f484a537ac465</sig>
+			<size>162659</size>
+			<sdkver>7</sdkver>
+			<added>2014-10-27</added>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.18</version>
 			<versioncode>118</versioncode>
@@ -47285,19 +47614,6 @@
 			<size>152433</size>
 			<sdkver>7</sdkver>
 			<added>2013-05-09</added>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.15</version>
-			<versioncode>115</versioncode>
-			<apkname>com.aselalee.trainschedule_115.apk</apkname>
-			<srcname>com.aselalee.trainschedule_115_src.tar.gz</srcname>
-			<hash type="sha256">14ab046ae89948e2b4ba067cc06d57d9fe0d7602da000fe715e29baf819dbf75</hash>
-			<sig>2d9ff4276cbdb2d9d60f484a537ac465</sig>
-			<size>152747</size>
-			<sdkver>7</sdkver>
-			<added>2012-10-30</added>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -47841,10 +48157,10 @@
 	<application id="org.segin.ttleditor">
 		<id>org.segin.ttleditor</id>
 		<added>2014-08-08</added>
-		<lastupdated>2014-08-10</lastupdated>
+		<lastupdated>2014-10-27</lastupdated>
 		<name>TTL Editor</name>
 		<summary>Change TTL of networking packets</summary>
-		<icon>org.segin.ttleditor.11.png</icon>
+		<icon>org.segin.ttleditor.13.png</icon>
 		<desc>&lt;p&gt;Simple graphical frontend for iptables to change the TTL (time-to-live) of packets sent over a given network interface.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>System</categories>
@@ -47852,9 +48168,22 @@
 		<web/>
 		<source>https://github.com/segin/TTLEditor</source>
 		<tracker>https://github.com/segin/TTLEditor/issues</tracker>
-		<marketversion>1.0.8.2</marketversion>
-		<marketvercode>12</marketvercode>
+		<marketversion>1.0.9</marketversion>
+		<marketvercode>13</marketvercode>
 		<requirements>root</requirements>
+		<package>
+			<version>1.0.9</version>
+			<versioncode>13</versioncode>
+			<apkname>org.segin.ttleditor_13.apk</apkname>
+			<srcname>org.segin.ttleditor_13_src.tar.gz</srcname>
+			<hash type="sha256">7e20a0c83d3d5c7cbc00264afb9550644cb1cc431bd41bddd8290e2efc27e4f6</hash>
+			<sig>2f8df46e243c98ff011fbfa43c688cc6</sig>
+			<size>345584</size>
+			<sdkver>11</sdkver>
+			<added>2014-10-27</added>
+			<permissions>ACCESS_SUPERUSER,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.0.8.1</version>
 			<versioncode>11</versioncode>
@@ -47898,8 +48227,8 @@
 		<tracker>https://code.google.com/p/ttrss-reader-fork/issues</tracker>
 		<donate>https://code.google.com/p/ttrss-reader-fork/wiki/Donations</donate>
 		<flattr>382465</flattr>
-		<marketversion>1.76</marketversion>
-		<marketvercode>1760</marketvercode>
+		<marketversion>1.77</marketversion>
+		<marketvercode>1770</marketvercode>
 		<package>
 			<version>1.76</version>
 			<versioncode>1760</versioncode>
@@ -49126,10 +49455,10 @@
 	<application id="ch.blinkenlights.android.vanilla">
 		<id>ch.blinkenlights.android.vanilla</id>
 		<added>2012-10-03</added>
-		<lastupdated>2014-10-15</lastupdated>
+		<lastupdated>2014-10-27</lastupdated>
 		<name>Vanilla Music</name>
 		<summary>Music player</summary>
-		<icon>ch.blinkenlights.android.vanilla.929.png</icon>
+		<icon>ch.blinkenlights.android.vanilla.940.png</icon>
 		<desc>&lt;p&gt;Music player with a simple interface similar to the stock music player. Supports browsing by folder, queueing, shake-to-skip and more. Supports the same audio formats as the stock music player since the system media APIs are used.&lt;/p&gt;&lt;p&gt;This is a fork of &lt;a href=&quot;fdroid.app:org.kreed.vanilla&quot;&gt;Vanilla Music (old)&lt;/a&gt; which is no longer being developed by its author. We keep that in the repo as it supports Android versions below 4.0.3.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Multimedia</categories>
@@ -49139,6 +49468,19 @@
 		<tracker>https://github.com/adrian-bl/vanilla/issues</tracker>
 		<marketversion>0.9.40</marketversion>
 		<marketvercode>940</marketvercode>
+		<package>
+			<version>0.9.40</version>
+			<versioncode>940</versioncode>
+			<apkname>ch.blinkenlights.android.vanilla_940.apk</apkname>
+			<srcname>ch.blinkenlights.android.vanilla_940_src.tar.gz</srcname>
+			<hash type="sha256">2a146f30a9fc267dfa34fc7f3a6cb5e742bad73cce2349cc1ad9b2bfc862af01</hash>
+			<sig>818c88824c17e0c6ba05f1955f725ac5</sig>
+			<size>658032</size>
+			<sdkver>15</sdkver>
+			<added>2014-10-27</added>
+			<permissions>READ_EXTERNAL_STORAGE,MODIFY_AUDIO_SETTINGS,WRITE_EXTERNAL_STORAGE,WAKE_LOCK</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.9.29</version>
 			<versioncode>929</versioncode>
@@ -49163,19 +49505,6 @@
 			<sdkver>15</sdkver>
 			<added>2014-10-08</added>
 			<permissions>READ_EXTERNAL_STORAGE,MODIFY_AUDIO_SETTINGS,WRITE_EXTERNAL_STORAGE,WAKE_LOCK</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.9.26</version>
-			<versioncode>926</versioncode>
-			<apkname>ch.blinkenlights.android.vanilla_926.apk</apkname>
-			<srcname>ch.blinkenlights.android.vanilla_926_src.tar.gz</srcname>
-			<hash type="sha256">892df2731f8b9b8250d73c5bc3aa3d7e06d197ff8d2466f76e9f49cfe4ac7dde</hash>
-			<sig>818c88824c17e0c6ba05f1955f725ac5</sig>
-			<size>580873</size>
-			<sdkver>15</sdkver>
-			<added>2014-08-30</added>
-			<permissions>MODIFY_AUDIO_SETTINGS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -51887,6 +52216,36 @@
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="com.selbie.wrek">
+		<id>com.selbie.wrek</id>
+		<added>2014-10-27</added>
+		<lastupdated>2014-10-27</lastupdated>
+		<name>WREK Online</name>
+		<summary>Listen to WREK Atlanta 91.1 FM</summary>
+		<icon>com.selbie.wrek.9.png</icon>
+		<desc>&lt;p&gt;Listen to WREK Atlanta 91.1 FM, the entirely student managed, operated, and engineered radio station of Georgia Tech. The app supports background playback of both the live streams in addition to acrhived recordings from the past week of specialty shows.&lt;/p&gt;</desc>
+		<license>Apache2</license>
+		<categories>Multimedia,Internet</categories>
+		<category>Multimedia</category>
+		<web>https://www.wrek.org/</web>
+		<source>https://github.com/jselbie/wrekonline</source>
+		<tracker>https://github.com/jselbie/wrekonline/issues</tracker>
+		<marketversion>1.09</marketversion>
+		<marketvercode>9</marketvercode>
+		<package>
+			<version>1.09</version>
+			<versioncode>9</versioncode>
+			<apkname>com.selbie.wrek_9.apk</apkname>
+			<srcname>com.selbie.wrek_9_src.tar.gz</srcname>
+			<hash type="sha256">20a6c01d55ef842c35d525cdd03b12d2a87429d6dd4ae3607613d10110744da2</hash>
+			<sig>d534307a60cc31576fbb6d398652f8c7</sig>
+			<size>215513</size>
+			<sdkver>14</sdkver>
+			<added>2014-10-27</added>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="org.nick.wwwjdic">
 		<id>org.nick.wwwjdic</id>
 		<added>2013-01-23</added>
@@ -52012,8 +52371,8 @@
 		<web>http://www.xabber.com</web>
 		<source>https://github.com/redsolution/xabber-android</source>
 		<tracker>https://github.com/redsolution/xabber-android/issues</tracker>
-		<marketversion>0.9.30b</marketversion>
-		<marketvercode>81</marketvercode>
+		<marketversion>0.9.30c</marketversion>
+		<marketvercode>82</marketvercode>
 		<package>
 			<version>0.9.30b</version>
 			<versioncode>81</versioncode>
