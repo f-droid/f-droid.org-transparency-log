@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1416895226" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1416982236" url="http://f-droid.org/repo" version="12">
 		<description>The official FDroid repository. Applications in this repository are mostly built directory from the source code. Some are official binaries built by the original application developers - these will be replaced by source-built versions over time. </description>
 	</repo>
 	<application id="de.j4velin.systemappmover">
@@ -21667,11 +21667,11 @@
 	</application>
 	<application id="com.github.ooz.heymeditation">
 		<id>com.github.ooz.heymeditation</id>
-		<added>2014-11-25</added>
-		<lastupdated>2014-11-25</lastupdated>
+		<added>2014-11-26</added>
+		<lastupdated>2014-11-26</lastupdated>
 		<name>Hey! Meditation</name>
 		<summary>Helps with meditation sessions</summary>
-		<icon>com.github.ooz.heymeditation.1.png</icon>
+		<icon>com.github.ooz.heymeditation.2.png</icon>
 		<desc>&lt;p&gt;Simple guide for short meditation sessions.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ooz/HeyMeditation/blob/HEAD/CHANGES.txt&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Office</categories>
@@ -21683,14 +21683,14 @@
 		<marketvercode>2</marketvercode>
 		<package>
 			<version>1.0.1</version>
-			<versioncode>1</versioncode>
-			<apkname>com.github.ooz.heymeditation_1.apk</apkname>
-			<srcname>com.github.ooz.heymeditation_1_src.tar.gz</srcname>
-			<hash type="sha256">e45d5bca073dc01b9e180b2547258ea8d240e29b3fc9c8bcffdbc11602a21fb7</hash>
+			<versioncode>2</versioncode>
+			<apkname>com.github.ooz.heymeditation_2.apk</apkname>
+			<srcname>com.github.ooz.heymeditation_2_src.tar.gz</srcname>
+			<hash type="sha256">8d5ced449167fb489661dc9f1126077233c4a9b0c205a1a3db03d49da2675503</hash>
 			<sig>c6b025370dba9df4bea9aaa3696cc8f0</sig>
-			<size>723406</size>
+			<size>723402</size>
 			<sdkver>8</sdkver>
-			<added>2014-11-25</added>
+			<added>2014-11-26</added>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -26270,8 +26270,8 @@
 		<web>https://github.com/Adonai/Man-Man/blob/HEAD/README.md</web>
 		<source>https://github.com/Adonai/Man-Man</source>
 		<tracker>https://github.com/Adonai/Man-Man/issues</tracker>
-		<marketversion>1.0.2 Beta</marketversion>
-		<marketvercode>102</marketvercode>
+		<marketversion>1.2.0</marketversion>
+		<marketvercode>120</marketvercode>
 		<antifeatures>NonFreeDep</antifeatures>
 		<package>
 			<version>1.0.2 Beta</version>
@@ -29008,10 +29008,10 @@
 	<application id="de.azapps.mirakelandroid">
 		<id>de.azapps.mirakelandroid</id>
 		<added>2013-07-25</added>
-		<lastupdated>2014-11-19</lastupdated>
+		<lastupdated>2014-11-26</lastupdated>
 		<name>Mirakel</name>
 		<summary>Decentralized TODO list</summary>
-		<icon>de.azapps.mirakelandroid.71.png</icon>
+		<icon>de.azapps.mirakelandroid.72.png</icon>
 		<desc>&lt;p&gt;Mirakel is a simple but powerful tool for managing your TODO-lists. You can sync your lists with your own server! Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Manage your tasks in lists&lt;/li&gt;&lt;li&gt; Simple, but powerful User Interface&lt;/li&gt;&lt;li&gt; Tablet-UI&lt;/li&gt;&lt;li&gt; Nice little widget&lt;/li&gt;&lt;li&gt; Sort your tasks in different ways&lt;/li&gt;&lt;li&gt; Fully configurable&lt;/li&gt;&lt;li&gt; Notifications &amp;amp; Reminders&lt;/li&gt;&lt;li&gt; Easy Backup and Import&lt;/li&gt;&lt;li&gt; Import your tasks from Astrid&lt;/li&gt;&lt;li&gt; Sync with Taskwarrior&lt;/li&gt;&lt;li&gt; Sync with CalDAV&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;http://mirakel.azapps.de/changelog.html&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Office</categories>
@@ -29021,8 +29021,21 @@
 		<tracker>https://mirakel.atlassian.net/issues/</tracker>
 		<donate>http://mirakel.azapps.de/help_us.html#donate</donate>
 		<flattr>2188714</flattr>
-		<marketversion>2.8</marketversion>
-		<marketvercode>71</marketvercode>
+		<marketversion>2.8.1</marketversion>
+		<marketvercode>72</marketvercode>
+		<package>
+			<version>2.8.1</version>
+			<versioncode>72</versioncode>
+			<apkname>de.azapps.mirakelandroid_72.apk</apkname>
+			<srcname>de.azapps.mirakelandroid_72_src.tar.gz</srcname>
+			<hash type="sha256">152aea8bc70b1a31d0e4ff2f17f9926540df51f792ed7cba7acc86d14c514f7e</hash>
+			<sig>aa1fe1e8dce675b03e29685629dd370c</sig>
+			<size>3042846</size>
+			<sdkver>14</sdkver>
+			<added>2014-11-26</added>
+			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,INTERNET,VIBRATE,READ_EXTERNAL_STORAGE,MANAGE_DOCUMENTS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,MODIFY_AUDIO_SETTINGS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
+			<features>android.hardware.touchscreen,android.hardware.microphone</features>
+		</package>
 		<package>
 			<version>2.8</version>
 			<versioncode>71</versioncode>
@@ -29085,19 +29098,6 @@
 			<size>2536211</size>
 			<sdkver>8</sdkver>
 			<added>2014-07-07</added>
-			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,INTERNET,VIBRATE,READ_EXTERNAL_STORAGE,MANAGE_DOCUMENTS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,MODIFY_AUDIO_SETTINGS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
-			<features>android.hardware.touchscreen,android.hardware.microphone</features>
-		</package>
-		<package>
-			<version>2.5</version>
-			<versioncode>56</versioncode>
-			<apkname>de.azapps.mirakelandroid_56.apk</apkname>
-			<srcname>de.azapps.mirakelandroid_56_src.tar.gz</srcname>
-			<hash type="sha256">3187d3e74c37996531f374fdce54718bc69938c4d30987a483b4d1623cb1057e</hash>
-			<sig>aa1fe1e8dce675b03e29685629dd370c</sig>
-			<size>2394909</size>
-			<sdkver>8</sdkver>
-			<added>2014-05-12</added>
 			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,INTERNET,VIBRATE,READ_EXTERNAL_STORAGE,MANAGE_DOCUMENTS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,MODIFY_AUDIO_SETTINGS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
 			<features>android.hardware.touchscreen,android.hardware.microphone</features>
 		</package>
@@ -30202,10 +30202,10 @@
 	<application id="org.mozilla.mozstumbler">
 		<id>org.mozilla.mozstumbler</id>
 		<added>2014-01-11</added>
-		<lastupdated>2014-11-09</lastupdated>
+		<lastupdated>2014-11-26</lastupdated>
 		<name>Mozilla Stumbler</name>
 		<summary>Data gathering for Mozilla Location Service</summary>
-		<icon>org.mozilla.mozstumbler.1030000.png</icon>
+		<icon>org.mozilla.mozstumbler.1050000.png</icon>
 		<desc>&lt;p&gt;Android Stumbler for Mozilla Location Service. This allows you to contribute a mapping from Cell towers and WiFi access points to a GPS location. This will be used for location services when no GPS is available, similar to OpenWLANMap.&lt;/p&gt;</desc>
 		<license>MPL2</license>
 		<categories>Navigation</categories>
@@ -30213,8 +30213,21 @@
 		<web>https://location.services.mozilla.com</web>
 		<source>https://github.com/mozilla/MozStumbler</source>
 		<tracker>https://github.com/mozilla/MozStumbler/issues</tracker>
-		<marketversion>1.3.0</marketversion>
-		<marketvercode>1030000</marketvercode>
+		<marketversion>1.5.0</marketversion>
+		<marketvercode>1050000</marketvercode>
+		<package>
+			<version>1.5.0</version>
+			<versioncode>1050000</versioncode>
+			<apkname>org.mozilla.mozstumbler_1050000.apk</apkname>
+			<srcname>org.mozilla.mozstumbler_1050000_src.tar.gz</srcname>
+			<hash type="sha256">42fa68b5def8596fe0093536fbf60240a05e872897abb688d74686f5502b48ab</hash>
+			<sig>05f1c66331ef205c145e019ec26130e2</sig>
+			<size>1316549</size>
+			<sdkver>10</sdkver>
+			<added>2014-11-26</added>
+			<permissions>ACCESS_NETWORK_STATE,CHANGE_NETWORK_STATE,READ_EXTERNAL_STORAGE,WAKE_LOCK,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,CHANGE_WIFI_STATE,INTERNET,ACCESS_FINE_LOCATION,WRITE_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.wifi,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.location.network,android.hardware.location,android.hardware.sensor.accelerometer</features>
+		</package>
 		<package>
 			<version>1.3.0</version>
 			<versioncode>1030000</versioncode>
@@ -30240,19 +30253,6 @@
 			<added>2014-11-02</added>
 			<permissions>ACCESS_NETWORK_STATE,CHANGE_NETWORK_STATE,READ_EXTERNAL_STORAGE,WAKE_LOCK,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,CHANGE_WIFI_STATE,INTERNET,ACCESS_FINE_LOCATION,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.wifi,android.hardware.location.network</features>
-		</package>
-		<package>
-			<version>0.30.0</version>
-			<versioncode>43</versioncode>
-			<apkname>org.mozilla.mozstumbler_43.apk</apkname>
-			<srcname>org.mozilla.mozstumbler_43_src.tar.gz</srcname>
-			<hash type="sha256">d3e4af2f3fb140bcc86e20e7ff044fd00d36932298a5d9d336ad6e972affa41d</hash>
-			<sig>05f1c66331ef205c145e019ec26130e2</sig>
-			<size>342506</size>
-			<sdkver>8</sdkver>
-			<added>2014-09-17</added>
-			<permissions>ACCESS_NETWORK_STATE,CHANGE_NETWORK_STATE,READ_EXTERNAL_STORAGE,WAKE_LOCK,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,CHANGE_WIFI_STATE,INTERNET,ACCESS_FINE_LOCATION,WRITE_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.telephony,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.location,android.hardware.location.network,android.hardware.wifi</features>
 		</package>
 	</application>
 	<application id="com.uraroji.garage.android.mp3recvoice">
@@ -31725,8 +31725,8 @@
 		<web>http://www.navit-project.org</web>
 		<source>http://sourceforge.net/p/navit/code</source>
 		<tracker>http://trac.navit-project.org</tracker>
-		<marketversion>5970</marketversion>
-		<marketvercode>5970</marketvercode>
+		<marketversion>5972</marketversion>
+		<marketvercode>5972</marketvercode>
 		<package>
 			<version>navit 0.5.0-5889</version>
 			<versioncode>5889</versioncode>
@@ -33089,10 +33089,10 @@
 	<application id="ru.ttyh.neko259.notey">
 		<id>ru.ttyh.neko259.notey</id>
 		<added>2013-07-11</added>
-		<lastupdated>2014-11-22</lastupdated>
+		<lastupdated>2014-11-26</lastupdated>
 		<name>Notey</name>
 		<summary>Location-aware notes</summary>
-		<icon>ru.ttyh.neko259.notey.5.png</icon>
+		<icon>ru.ttyh.neko259.notey.6.png</icon>
 		<desc>&lt;p&gt;Store plain-text or formatted notes, send them via e-mail and see on the OSM map where they were edited.&lt;/p&gt;</desc>
 		<license>NewBSD</license>
 		<categories>Office</categories>
@@ -33104,6 +33104,19 @@
 		<bitcoin>1Lh7a1tx7EREENawQyHhiKoCRF6u6TzVrD</bitcoin>
 		<marketversion>1.3.1</marketversion>
 		<marketvercode>6</marketvercode>
+		<package>
+			<version>1.3.1</version>
+			<versioncode>6</versioncode>
+			<apkname>ru.ttyh.neko259.notey_6.apk</apkname>
+			<srcname>ru.ttyh.neko259.notey_6_src.tar.gz</srcname>
+			<hash type="sha256">42acb0dd5e7d9ee2cbd7b110cc4b726e0ec27020fc667bacd0addf87a2c9fd0b</hash>
+			<sig>f041c562c3c05b38cba084342a10094a</sig>
+			<size>1458402</size>
+			<sdkver>8</sdkver>
+			<added>2014-11-26</added>
+			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,INTERNET,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.wifi,android.hardware.location.network</features>
+		</package>
 		<package>
 			<version>1.3</version>
 			<versioncode>5</versioncode>
@@ -54610,8 +54623,8 @@
 		<web>http://android.wordpress.org</web>
 		<source>https://github.com/wordpress-mobile/WordPress-Android</source>
 		<tracker>http://android.trac.wordpress.org</tracker>
-		<marketversion>3.3.1</marketversion>
-		<marketvercode>147</marketvercode>
+		<marketversion>3.4</marketversion>
+		<marketvercode>150</marketvercode>
 		<package>
 			<version>2.7.1</version>
 			<versioncode>103</versioncode>
