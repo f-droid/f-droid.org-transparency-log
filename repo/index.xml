@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1420625751" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1420699887" url="http://f-droid.org/repo" version="12">
 		<description>The official FDroid repository. Applications in this repository are mostly built directory from the source code. Some are official binaries built by the original application developers - these will be replaced by source-built versions over time. </description>
 	</repo>
 	<application id="de.j4velin.systemappmover">
@@ -151,10 +151,10 @@
 	<application id="com.traffar.a24game">
 		<id>com.traffar.a24game</id>
 		<added>2014-06-15</added>
-		<lastupdated>2014-07-04</lastupdated>
+		<lastupdated>2015-01-08</lastupdated>
 		<name>24game</name>
 		<summary>Simple arithmetic game</summary>
-		<icon>com.traffar.a24game.3.png</icon>
+		<icon>com.traffar.a24game.4.png</icon>
 		<desc>&lt;p&gt;Test Your arithmetic skills. Your goal is to connect four numbers with arithmetic operators ('+,-,*,/') to get 24 as a result. There are quite many combinations to try and a solution is not always obvious.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Games</categories>
@@ -164,6 +164,20 @@
 		<tracker>https://bitbucket.org/przemekr/24-game/issues</tracker>
 		<marketversion>0.4</marketversion>
 		<marketvercode>4</marketvercode>
+		<package>
+			<version>0.4</version>
+			<versioncode>4</versioncode>
+			<apkname>com.traffar.a24game_4.apk</apkname>
+			<srcname>com.traffar.a24game_4_src.tar.gz</srcname>
+			<hash type="sha256">9c3fe788024fd8e597e5bdc664759f4aabdb97614e7fb4f99bf4d5d1004844b3</hash>
+			<sig>4fc33520a5773d227357010b30f7022c</sig>
+			<size>2244450</size>
+			<sdkver>10</sdkver>
+			<added>2015-01-08</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.3</version>
 			<versioncode>3</versioncode>
@@ -6113,10 +6127,10 @@
 	<application id="com.knirirr.beecount">
 		<id>com.knirirr.beecount</id>
 		<added>2014-06-17</added>
-		<lastupdated>2014-12-08</lastupdated>
+		<lastupdated>2015-01-08</lastupdated>
 		<name>BeeCount</name>
 		<summary>Knitting row counter</summary>
-		<icon>com.knirirr.beecount.92.png</icon>
+		<icon>com.knirirr.beecount.93.png</icon>
 		<desc>&lt;p&gt;A knitting project helper, with the following features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Keep track of several knitting projects.&lt;/li&gt;&lt;li&gt; For each project, track several items which need counting, e.g. rows, pattern repeats etc&lt;/li&gt;&lt;li&gt; Allow counting up, down and re-setting to zero of these counts.&lt;/li&gt;&lt;li&gt; Allow editing of projects to add, remove or change counts after project creation.&lt;/li&gt;&lt;li&gt; Link counts together so that one increments another.&lt;/li&gt;&lt;li&gt; Set row alerts and cause counts to reset at particular values.&lt;/li&gt;&lt;li&gt; Allow backing up and restoring of the entire projects database.&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>Apache2</license>
 		<categories>Office</categories>
@@ -6124,8 +6138,21 @@
 		<web/>
 		<source>https://github.com/knirirr/BeeCount</source>
 		<tracker>https://github.com/knirirr/BeeCount/issues</tracker>
-		<marketversion>2.3.2</marketversion>
-		<marketvercode>92</marketvercode>
+		<marketversion>2.3.4</marketversion>
+		<marketvercode>93</marketvercode>
+		<package>
+			<version>2.3.4</version>
+			<versioncode>93</versioncode>
+			<apkname>com.knirirr.beecount_93.apk</apkname>
+			<srcname>com.knirirr.beecount_93_src.tar.gz</srcname>
+			<hash type="sha256">deb641eb1bf9da9ed64c757a20bb6515ef26f0fd98bb47496e31b69427c7550a</hash>
+			<sig>4ecf07bf8dd364c231baa4ffb2c48f5e</sig>
+			<size>3040660</size>
+			<sdkver>14</sdkver>
+			<added>2015-01-08</added>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,WAKE_LOCK</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>2.3.2</version>
 			<versioncode>92</versioncode>
@@ -6149,19 +6176,6 @@
 			<size>3041047</size>
 			<sdkver>14</sdkver>
 			<added>2014-10-28</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WAKE_LOCK</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>2.3.0</version>
-			<versioncode>87</versioncode>
-			<apkname>com.knirirr.beecount_87.apk</apkname>
-			<srcname>com.knirirr.beecount_87_src.tar.gz</srcname>
-			<hash type="sha256">78094e3de489510203921ad5c394db27e832949322fdae91b581a9b5e36bc2c1</hash>
-			<sig>4ecf07bf8dd364c231baa4ffb2c48f5e</sig>
-			<size>3029714</size>
-			<sdkver>14</sdkver>
-			<added>2014-09-06</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WAKE_LOCK</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -14350,10 +14364,10 @@
 	<application id="se.traffar.dot_race">
 		<id>se.traffar.dot_race</id>
 		<added>2014-12-13</added>
-		<lastupdated>2014-12-23</lastupdated>
+		<lastupdated>2015-01-08</lastupdated>
 		<name>Dot-Race</name>
 		<summary>Simple, funny action game.</summary>
-		<icon>se.traffar.dot_race.2.png</icon>
+		<icon>se.traffar.dot_race.4.png</icon>
 		<desc>&lt;p&gt;Dot race is simple, but funny and fast action game. Take a control of your spaceship and compete with computer or an other player in collecting magic artifacts.&lt;/p&gt;&lt;p&gt;The spaceship will accelerate toward your finger. To break put the finger behind the moving spaceship.  There is also another controller 'virtual joystick' available also in two player game.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Games,Action</categories>
@@ -14363,6 +14377,20 @@
 		<tracker>https://bitbucket.org/przemekr/dot-race/issues</tracker>
 		<marketversion>0.4</marketversion>
 		<marketvercode>4</marketvercode>
+		<package>
+			<version>0.4</version>
+			<versioncode>4</versioncode>
+			<apkname>se.traffar.dot_race_4.apk</apkname>
+			<srcname>se.traffar.dot_race_4_src.tar.gz</srcname>
+			<hash type="sha256">10efff86a93143136df1711ccf4467b3f527946079b4f7d85261c828bda83854</hash>
+			<sig>0d86767d5d5158954347ba7db0d7eaad</sig>
+			<size>4457777</size>
+			<sdkver>10</sdkver>
+			<added>2015-01-08</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.2</version>
 			<versioncode>2</versioncode>
@@ -25707,8 +25735,8 @@
 		<tracker>https://github.com/kontalk/androidclient/issues</tracker>
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=VU57LMG64GATN</donate>
 		<bitcoin>14vipppSvCG7VdvoYmbhKZ8DbTfv9U1QfS</bitcoin>
-		<marketversion>3.0-beta3</marketversion>
-		<marketvercode>36</marketvercode>
+		<marketversion>3.0-beta4</marketversion>
+		<marketvercode>37</marketvercode>
 		<package>
 			<version>3.0-beta3</version>
 			<versioncode>36</versioncode>
@@ -27776,10 +27804,10 @@
 	<application id="de.ph1b.audiobook">
 		<id>de.ph1b.audiobook</id>
 		<added>2014-08-17</added>
-		<lastupdated>2014-11-28</lastupdated>
+		<lastupdated>2015-01-08</lastupdated>
 		<name>Material Player</name>
 		<summary>Simple audiobook player</summary>
-		<icon>de.ph1b.audiobook.24.png</icon>
+		<icon>de.ph1b.audiobook.28.png</icon>
 		<desc>&lt;p&gt;Audiobook player with the following basic features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Remembers last position&lt;/li&gt;&lt;li&gt; Easy, intuitive interface&lt;/li&gt;&lt;li&gt; Sleep-timer&lt;/li&gt;&lt;li&gt; Easily jump to a position&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Multimedia</categories>
@@ -27789,6 +27817,20 @@
 		<tracker>https://github.com/Ph1b/MaterialAudiobookPlayer/issues</tracker>
 		<marketversion>1.5.3</marketversion>
 		<marketvercode>28</marketvercode>
+		<package>
+			<version>1.5.3</version>
+			<versioncode>28</versioncode>
+			<apkname>de.ph1b.audiobook_28.apk</apkname>
+			<srcname>de.ph1b.audiobook_28_src.tar.gz</srcname>
+			<hash type="sha256">bab73f31fcb6055c68378dabe4c2e244a0bbf982e0232cec4d48dffe5cea38c5</hash>
+			<sig>c71df7f381104997bf82c2753c5c6b0c</sig>
+			<size>1112929</size>
+			<sdkver>11</sdkver>
+			<added>2015-01-08</added>
+			<permissions>ACCESS_NETWORK_STATE,WAKE_LOCK,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.4.6.1</version>
 			<versioncode>24</versioncode>
@@ -27813,19 +27855,6 @@
 			<sdkver>14</sdkver>
 			<added>2014-11-27</added>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.4.5</version>
-			<versioncode>22</versioncode>
-			<apkname>de.ph1b.audiobook_22.apk</apkname>
-			<srcname>de.ph1b.audiobook_22_src.tar.gz</srcname>
-			<hash type="sha256">5a2796c6a0f263fe75c45d36204946864cd63b048af1c8f893bd9703983763f0</hash>
-			<sig>c71df7f381104997bf82c2753c5c6b0c</sig>
-			<size>973968</size>
-			<sdkver>14</sdkver>
-			<added>2014-11-24</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,WAKE_LOCK,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -30875,10 +30904,10 @@
 	<application id="dev.drsoran.moloko">
 		<id>dev.drsoran.moloko</id>
 		<added>2012-09-28</added>
-		<lastupdated>2013-04-13</lastupdated>
+		<lastupdated>2015-01-08</lastupdated>
 		<name>Moloko</name>
 		<summary>Todo list</summary>
-		<icon>dev.drsoran.moloko.94211.png</icon>
+		<icon>dev.drsoran.moloko.94212.png</icon>
 		<desc>&lt;p&gt;The goal of the app is to support nearly all features provided by the rememberthemilk.com web application. Moloko accesses all tasks via a local database. Network connection is only necessary for background synchronization. Currently it supports German, English and French language.&lt;/p&gt;&lt;p&gt;rememberthemilk.com is a website that helps you manage todo lists. The app sets up an account provider and you can choose read access or read/write access to your account, but you will need an account on the website first.&lt;/p&gt;&lt;p&gt;Support for HTTP and HTTPS access of RTM including proxy settings and compression to save data volume. RTM smart search syntax operators: also used for smart lists. See the wiki on the website for more.&lt;/p&gt;&lt;p&gt;Status: BETA&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -30888,6 +30917,19 @@
 		<tracker>https://code.google.com/p/moloko/issues</tracker>
 		<marketversion>0.17.4b</marketversion>
 		<marketvercode>94212</marketvercode>
+		<package>
+			<version>0.17.4b</version>
+			<versioncode>94212</versioncode>
+			<apkname>dev.drsoran.moloko_94212.apk</apkname>
+			<srcname>dev.drsoran.moloko_94212_src.tar.gz</srcname>
+			<hash type="sha256">62d730fbd4f101fe7bf8be6fdae179eb3e8be12991a17d1869664ec67928ef2b</hash>
+			<sig>26a4ad9971f507b67fc2cf2a061b227d</sig>
+			<size>1986212</size>
+			<sdkver>8</sdkver>
+			<added>2015-01-08</added>
+			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,READ_LOGS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,INTERNET,VIBRATE,READ_EXTERNAL_STORAGE,READ_CALL_LOG,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.17.3b</version>
 			<versioncode>94211</versioncode>
@@ -30911,19 +30953,6 @@
 			<size>1971569</size>
 			<sdkver>8</sdkver>
 			<added>2013-02-21</added>
-			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,GET_ACCOUNTS,VIBRATE,READ_EXTERNAL_STORAGE,READ_CALL_LOG,MANAGE_ACCOUNTS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,READ_LOGS,READ_SYNC_SETTINGS,READ_CONTACTS,INTERNET,AUTHENTICATE_ACCOUNTS</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.17.1b</version>
-			<versioncode>94209</versioncode>
-			<apkname>dev.drsoran.moloko_94209.apk</apkname>
-			<srcname>dev.drsoran.moloko_94209_src.tar.gz</srcname>
-			<hash type="sha256">37da96bbddcaf7fbbd5ddf02a95ce3e0c093b2a2c5741f8356f5ccc18fa7b2d0</hash>
-			<sig>26a4ad9971f507b67fc2cf2a061b227d</sig>
-			<size>1970057</size>
-			<sdkver>8</sdkver>
-			<added>2013-02-04</added>
 			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,GET_ACCOUNTS,VIBRATE,READ_EXTERNAL_STORAGE,READ_CALL_LOG,MANAGE_ACCOUNTS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,READ_LOGS,READ_SYNC_SETTINGS,READ_CONTACTS,INTERNET,AUTHENTICATE_ACCOUNTS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -33030,8 +33059,8 @@
 		<web>http://www.navit-project.org</web>
 		<source>http://sourceforge.net/p/navit/code</source>
 		<tracker>http://trac.navit-project.org</tracker>
-		<marketversion>5989</marketversion>
-		<marketvercode>5989</marketvercode>
+		<marketversion>5994</marketversion>
+		<marketvercode>5994</marketvercode>
 		<package>
 			<version>navit 0.5.0-5889</version>
 			<versioncode>5889</versioncode>
@@ -37616,8 +37645,8 @@
 		<source>https://github.com/osmandapp/Osmand</source>
 		<tracker>https://github.com/osmandapp/Osmand/issues</tracker>
 		<donate>https://code.google.com/p/osmand/#Please_support_the_project</donate>
-		<marketversion>1.8.3</marketversion>
-		<marketvercode>183</marketvercode>
+		<marketversion>1.9.4</marketversion>
+		<marketvercode>196</marketvercode>
 		<antifeatures>Tracking</antifeatures>
 		<package>
 			<version>1.9.4</version>
@@ -38289,10 +38318,10 @@
 	<application id="de.jkliemann.parkendd">
 		<id>de.jkliemann.parkendd</id>
 		<added>2014-12-16</added>
-		<lastupdated>2014-12-21</lastupdated>
+		<lastupdated>2015-01-08</lastupdated>
 		<name>ParkenDD</name>
 		<summary>Show available parking slots in Dresden</summary>
-		<icon>de.jkliemann.parkendd.4.png</icon>
+		<icon>de.jkliemann.parkendd.5.png</icon>
 		<desc>&lt;p&gt;Shows available parking lots in Dresden, Germany. Note that the app and the homepage are only available in German at the moment.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Navigation</categories>
@@ -38302,8 +38331,21 @@
 		<tracker>https://github.com/jklmnn/ParkenDD/issues</tracker>
 		<bitcoin>1HBFDdz7dJeBE2c3zQmWnzeWCbHoZQ64dd</bitcoin>
 		<flattr>752f3c69bfdeca06686f730348e93fdd</flattr>
-		<marketversion>0.2.1</marketversion>
-		<marketvercode>4</marketvercode>
+		<marketversion>0.3.0</marketversion>
+		<marketvercode>5</marketvercode>
+		<package>
+			<version>0.3.0</version>
+			<versioncode>5</versioncode>
+			<apkname>de.jkliemann.parkendd_5.apk</apkname>
+			<srcname>de.jkliemann.parkendd_5_src.tar.gz</srcname>
+			<hash type="sha256">26e02bfdb089f02aa85d861a78e1cc55e5444f311dde20b24ada4b19d0652aff</hash>
+			<sig>c4ee51197b4105a9ea5a437acec3b4ef</sig>
+			<size>928201</size>
+			<sdkver>15</sdkver>
+			<added>2015-01-08</added>
+			<permissions>INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.2.1</version>
 			<versioncode>4</versioncode>
@@ -38325,19 +38367,6 @@
 			<hash type="sha256">6c201a73f7e386186133bc759fd70a94b447e221c746a4a13f6fa9f20dcd19e3</hash>
 			<sig>c4ee51197b4105a9ea5a437acec3b4ef</sig>
 			<size>923123</size>
-			<sdkver>15</sdkver>
-			<added>2014-12-20</added>
-			<permissions>INTERNET</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.1.1</version>
-			<versioncode>2</versioncode>
-			<apkname>de.jkliemann.parkendd_2.apk</apkname>
-			<srcname>de.jkliemann.parkendd_2_src.tar.gz</srcname>
-			<hash type="sha256">aedd4cd1b3f6b9ffa75136b1371ccac0c27e92a6e14ce0f82fae77e6acdd0d87</hash>
-			<sig>c4ee51197b4105a9ea5a437acec3b4ef</sig>
-			<size>913349</size>
 			<sdkver>15</sdkver>
 			<added>2014-12-20</added>
 			<permissions>INTERNET</permissions>
@@ -39332,10 +39361,10 @@
 	<application id="unisiegen.photographers.activity">
 		<id>unisiegen.photographers.activity</id>
 		<added>2014-03-02</added>
-		<lastupdated>2015-01-06</lastupdated>
+		<lastupdated>2015-01-08</lastupdated>
 		<name>Photographer's Notebook</name>
 		<summary>Manage metadata for analog photography</summary>
-		<icon>unisiegen.photographers.activity.8.png</icon>
+		<icon>unisiegen.photographers.activity.9.png</icon>
 		<desc>&lt;p&gt;Photographer's Notebook is an app to store and manage metadata of analogue photos. It is meant to replace the usual paper-based notebooks photographers use to document camera settings in analogue photography.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://bitbucket.org/sdraxler/photographers-notebook/src/tip/Photographers/docs/changelog.txt&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>Office,Multimedia</categories>
@@ -39345,6 +39374,19 @@
 		<tracker>https://bitbucket.org/sdraxler/photographers-notebook/issues</tracker>
 		<marketversion>Beta v6.2</marketversion>
 		<marketvercode>9</marketvercode>
+		<package>
+			<version>Beta v6.2</version>
+			<versioncode>9</versioncode>
+			<apkname>unisiegen.photographers.activity_9.apk</apkname>
+			<srcname>unisiegen.photographers.activity_9_src.tar.gz</srcname>
+			<hash type="sha256">f3809416ee1e8afd291be7ce5f960cfdb041d3193825204e65f2392f2a5de827</hash>
+			<sig>7cbd7201dc9524fd4dde0dbad29ad31c</sig>
+			<size>898605</size>
+			<sdkver>8</sdkver>
+			<added>2015-01-08</added>
+			<permissions>ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps</features>
+		</package>
 		<package>
 			<version>Beta v6.1</version>
 			<versioncode>8</versioncode>
@@ -39368,19 +39410,6 @@
 			<size>1203902</size>
 			<sdkver>8</sdkver>
 			<added>2014-12-25</added>
-			<permissions>ACCESS_FINE_LOCATION</permissions>
-			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps</features>
-		</package>
-		<package>
-			<version>Beta v5.1</version>
-			<versioncode>6</versioncode>
-			<apkname>unisiegen.photographers.activity_6.apk</apkname>
-			<srcname>unisiegen.photographers.activity_6_src.tar.gz</srcname>
-			<hash type="sha256">9d0df6f71d347c5f75a94ed53a449f3e9cafb29b53a03bcc530ed9f57440f471</hash>
-			<sig>7cbd7201dc9524fd4dde0dbad29ad31c</sig>
-			<size>1203886</size>
-			<sdkver>8</sdkver>
-			<added>2014-12-20</added>
 			<permissions>ACCESS_FINE_LOCATION</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps</features>
 		</package>
@@ -41215,10 +41244,10 @@
 	<application id="name.boyle.chris.sgtpuzzles">
 		<id>name.boyle.chris.sgtpuzzles</id>
 		<added>2014-01-08</added>
-		<lastupdated>2014-01-08</lastupdated>
+		<lastupdated>2015-01-08</lastupdated>
 		<name>Puzzles</name>
 		<summary>33 single-player logic games</summary>
-		<icon>name.boyle.chris.sgtpuzzles.72.png</icon>
+		<icon>name.boyle.chris.sgtpuzzles.97.png</icon>
 		<desc>&lt;p&gt;A port of Simon Tatham's Portable Puzzle Collection, a collection of 34 single-player logic games.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Games</categories>
@@ -41226,8 +41255,22 @@
 		<web>http://chris.boyle.name/projects/android-puzzles</web>
 		<source>https://github.com/chrisboyle/sgtpuzzles</source>
 		<tracker>https://github.com/chrisboyle/sgtpuzzles/issues</tracker>
-		<marketversion>${timestamp()}-${idForSimon()}</marketversion>
+		<marketversion>2014-11-09-1643-4a8edc6</marketversion>
 		<marketvercode>97</marketvercode>
+		<package>
+			<version>2014-11-09-1643-4a8edc6</version>
+			<versioncode>97</versioncode>
+			<apkname>name.boyle.chris.sgtpuzzles_97.apk</apkname>
+			<srcname>name.boyle.chris.sgtpuzzles_97_src.tar.gz</srcname>
+			<hash type="sha256">3e4e502cb39e2bf3693da1e24e2819a6c2ccf09e846d499d6ba69f653367e8b2</hash>
+			<sig>9acc9530d4ee77d1eb22f1c0e383314b</sig>
+			<size>6133460</size>
+			<sdkver>7</sdkver>
+			<added>2015-01-08</added>
+			<permissions>NFC,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+			<features>android.hardware.faketouch</features>
+		</package>
 		<package>
 			<version>9561.1</version>
 			<versioncode>72</versioncode>
@@ -45521,10 +45564,10 @@
 	<application id="ru.gelin.android.sendtosd">
 		<id>ru.gelin.android.sendtosd</id>
 		<added>2012-08-23</added>
-		<lastupdated>2013-02-22</lastupdated>
+		<lastupdated>2015-01-08</lastupdated>
 		<name>Send to SD card</name>
 		<summary>Copy things to the local storage</summary>
-		<icon>ru.gelin.android.sendtosd.36.png</icon>
+		<icon>ru.gelin.android.sendtosd.37.png</icon>
 		<desc>&lt;p&gt;This adds an item to the share menu to save the object to the sdcard. For example, let's say you place a memory card in the phone to look at some pictures. You look at them in the gallery and as you go you copy the good ones to the internal memory. Not all things will be saved as expected: a webpage will only have it's url saved.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -45533,7 +45576,20 @@
 		<source>https://code.google.com/p/sendtosd-android/source</source>
 		<tracker>https://code.google.com/p/sendtosd-android/issues</tracker>
 		<marketversion>0.3.10</marketversion>
-		<marketvercode>37</marketvercode>
+		<marketvercode>38</marketvercode>
+		<package>
+			<version>0.3.10</version>
+			<versioncode>37</versioncode>
+			<apkname>ru.gelin.android.sendtosd_37.apk</apkname>
+			<srcname>ru.gelin.android.sendtosd_37_src.tar.gz</srcname>
+			<hash type="sha256">35ffbe5e85016cf1ca7e8cde63abbf828cce01175259062d130d1963a8b21254</hash>
+			<sig>2ca065f19462509955aa7a32fd3ba0db</sig>
+			<size>59942</size>
+			<sdkver>8</sdkver>
+			<added>2015-01-08</added>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.3.9</version>
 			<versioncode>36</versioncode>
@@ -45557,19 +45613,6 @@
 			<size>69932</size>
 			<sdkver>4</sdkver>
 			<added>2012-10-10</added>
-			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.3.7-beta2</version>
-			<versioncode>34</versioncode>
-			<apkname>ru.gelin.android.sendtosd_34.apk</apkname>
-			<srcname>ru.gelin.android.sendtosd_34_src.tar.gz</srcname>
-			<hash type="sha256">ad7e724619c81c5344de1139ba0d9e79c6c73ce46812c8bf85e60b913a6f84dd</hash>
-			<sig>2ca065f19462509955aa7a32fd3ba0db</sig>
-			<size>69877</size>
-			<sdkver>4</sdkver>
-			<added>2012-08-23</added>
 			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -46099,10 +46142,10 @@
 	<application id="com.shatteredpixel.shatteredpixeldungeon">
 		<id>com.shatteredpixel.shatteredpixeldungeon</id>
 		<added>2014-11-15</added>
-		<lastupdated>2014-11-18</lastupdated>
+		<lastupdated>2015-01-08</lastupdated>
 		<name>Shattered Pixel Dungeon</name>
 		<summary>Rogue-like</summary>
-		<icon>com.shatteredpixel.shatteredpixeldungeon.15.png</icon>
+		<icon>com.shatteredpixel.shatteredpixeldungeon.27.png</icon>
 		<desc>&lt;p&gt;Traditional roguelike game with pixel-art graphics and simple interface. Based on &lt;a href=&quot;fdroid.app:com.watabou.pixeldungeon&quot;&gt;Pixel Dungeon&lt;/a&gt;.&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Games</categories>
@@ -46113,6 +46156,19 @@
 		<bitcoin>1LyLJAzxCfieivap1yK3iCpGoUmzAnjdyK</bitcoin>
 		<marketversion>0.2.3a</marketversion>
 		<marketvercode>27</marketvercode>
+		<package>
+			<version>0.2.3a</version>
+			<versioncode>27</versioncode>
+			<apkname>com.shatteredpixel.shatteredpixeldungeon_27.apk</apkname>
+			<srcname>com.shatteredpixel.shatteredpixeldungeon_27_src.tar.gz</srcname>
+			<hash type="sha256">c859f9fb1e2d7bdb35c0e5d6623fe08b74c3538b46ce1a7e0888e3b9f6ea3620</hash>
+			<sig>47c75b4a7a072500de30a85ac30da621</sig>
+			<size>2968711</size>
+			<sdkver>8</sdkver>
+			<added>2015-01-08</added>
+			<permissions>VIBRATE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.2.2b</version>
 			<versioncode>15</versioncode>
@@ -47998,8 +48054,8 @@
 		<web/>
 		<source>https://github.com/jberkel/sms-backup-plus</source>
 		<tracker>https://github.com/jberkel/sms-backup-plus/issues</tracker>
-		<marketversion>1.5.7</marketversion>
-		<marketvercode>1548</marketvercode>
+		<marketversion>1.5.8</marketversion>
+		<marketvercode>1549</marketvercode>
 		<package>
 			<version>1.5.6-beta5</version>
 			<versioncode>1543</versioncode>
@@ -49181,8 +49237,8 @@
 		<web>https://github.com/premnirmal/StockTicker/blob/HEAD/README.md</web>
 		<source>https://github.com/premnirmal/StockTicker</source>
 		<tracker>https://github.com/premnirmal/StockTicker/issues</tracker>
-		<marketversion>4.10.00</marketversion>
-		<marketvercode>24</marketvercode>
+		<marketversion>4.20.00</marketversion>
+		<marketvercode>25</marketvercode>
 		<package>
 			<version>4.10.00</version>
 			<versioncode>24</versioncode>
@@ -50321,10 +50377,10 @@
 	<application id="org.tasks">
 		<id>org.tasks</id>
 		<added>2014-06-21</added>
-		<lastupdated>2014-12-26</lastupdated>
+		<lastupdated>2015-01-08</lastupdated>
 		<name>Tasks</name>
 		<summary>Fork of Astrid Tasks &amp; To-Do List</summary>
-		<icon>org.tasks.345.png</icon>
+		<icon>org.tasks.346.png</icon>
 		<desc>&lt;p&gt;This app is built on the same code as the original Astrid app but differs in several ways:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; No Astrid.com synchronization&lt;/li&gt;&lt;li&gt; No sharing or assigning tasks&lt;/li&gt;&lt;li&gt; No iOS or web interface&lt;/li&gt;&lt;li&gt; Third party apps need to update their code to support Tasks&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Tasks is not affiliated with Yahoo! or Todoroo.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -50335,7 +50391,20 @@
 		<donate>https://pledgie.com/campaigns/24281</donate>
 		<flattr>2308341</flattr>
 		<marketversion>4.7.5</marketversion>
-		<marketvercode>345</marketvercode>
+		<marketvercode>346</marketvercode>
+		<package>
+			<version>4.7.5</version>
+			<versioncode>346</versioncode>
+			<apkname>org.tasks_346.apk</apkname>
+			<srcname>org.tasks_346_src.tar.gz</srcname>
+			<hash type="sha256">8dec4825c23d909902d9232eb6c1651c75f9e5c74a29e7f2c24dfc699b8a483e</hash>
+			<sig>7cff0310c51486068069310a0447d43e</sig>
+			<size>4202389</size>
+			<sdkver>7</sdkver>
+			<added>2015-01-08</added>
+			<permissions>RECORD_AUDIO,READ_PHONE_STATE,READ_CALENDAR,WRITE_EXTERNAL_STORAGE,org.tasks.READ,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE,USE_CREDENTIALS,GET_ACCOUNTS,VIBRATE,READ_CALL_LOG,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,INTERNET,READ_CONTACTS,MANAGE_ACCOUNTS,WRITE_CALENDAR,org.tasks.permission.READ_TASKS,org.tasks.WRITE,com.google.android.googleapps.permission.GOOGLE_AUTH</permissions>
+			<features>android.hardware.microphone</features>
+		</package>
 		<package>
 			<version>4.7.5</version>
 			<versioncode>345</versioncode>
@@ -50360,19 +50429,6 @@
 			<sdkver>7</sdkver>
 			<added>2014-12-24</added>
 			<permissions>RECORD_AUDIO,ACCESS_NETWORK_STATE,READ_CALENDAR,WRITE_EXTERNAL_STORAGE,org.tasks.READ,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE,USE_CREDENTIALS,GET_ACCOUNTS,VIBRATE,READ_CALL_LOG,RECEIVE_BOOT_COMPLETED,INTERNET,READ_PHONE_STATE,READ_CONTACTS,MANAGE_ACCOUNTS,WRITE_CALENDAR,org.tasks.permission.READ_TASKS,org.tasks.WRITE,com.google.android.googleapps.permission.GOOGLE_AUTH</permissions>
-			<features>android.hardware.microphone</features>
-		</package>
-		<package>
-			<version>4.7.4</version>
-			<versioncode>341</versioncode>
-			<apkname>org.tasks_341.apk</apkname>
-			<srcname>org.tasks_341_src.tar.gz</srcname>
-			<hash type="sha256">686498de621a18e7701443089ad0fc55b0ccd9811bceb1fef1f6596f22eccf85</hash>
-			<sig>7cff0310c51486068069310a0447d43e</sig>
-			<size>4171715</size>
-			<sdkver>7</sdkver>
-			<added>2014-12-10</added>
-			<permissions>ACCESS_NETWORK_STATE,READ_CALENDAR,WRITE_EXTERNAL_STORAGE,org.tasks.READ,com.android.launcher.permission.INSTALL_SHORTCUT,USE_CREDENTIALS,INTERNET,VIBRATE,com.google.android.googleapps.permission.GOOGLE_AUTH,READ_CALL_LOG,READ_CONTACTS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_PHONE_STATE,RECORD_AUDIO,MANAGE_ACCOUNTS,WRITE_CALENDAR,org.tasks.permission.READ_TASKS,org.tasks.WRITE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.microphone</features>
 		</package>
 	</application>
@@ -56900,7 +56956,7 @@
 		<source>https://github.com/wordpress-mobile/WordPress-Android</source>
 		<tracker>http://android.trac.wordpress.org</tracker>
 		<marketversion>3.5</marketversion>
-		<marketvercode>157</marketvercode>
+		<marketvercode>158</marketvercode>
 		<package>
 			<version>2.7.1</version>
 			<versioncode>103</versioncode>
