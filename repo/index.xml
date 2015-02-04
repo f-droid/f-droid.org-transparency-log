@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1422877121" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1422998040" url="http://f-droid.org/repo" version="12">
 		<description>The official FDroid repository. Applications in this repository are built directly from the source code. (One, Firefox, is the official binary built by the Mozilla. This will ultimately be replaced by a source-built version. </description>
 	</repo>
 	<application id="de.j4velin.systemappmover">
@@ -1823,8 +1823,8 @@
 		<web/>
 		<source>https://github.com/arpitkh96/AmazeFileManager</source>
 		<tracker>https://github.com/arpitkh96/AmazeFileManager/issues</tracker>
-		<marketversion>1.4.0</marketversion>
-		<marketvercode>6</marketvercode>
+		<marketversion>1.4.2</marketversion>
+		<marketvercode>8</marketvercode>
 		<package>
 			<version>1.4.2</version>
 			<versioncode>8</versioncode>
@@ -5477,10 +5477,10 @@
 	<application id="com.ds.avare">
 		<id>com.ds.avare</id>
 		<added>2014-08-12</added>
-		<lastupdated>2015-01-31</lastupdated>
+		<lastupdated>2015-02-03</lastupdated>
 		<name>Avare</name>
 		<summary>Aviation map</summary>
-		<icon>com.ds.avare.218.png</icon>
+		<icon>com.ds.avare.219.png</icon>
 		<desc>&lt;p&gt;Avare (pronounced &quot;AvAir&quot;) is a free moving aviation map. Basic features include online or offline A/FD info, approach plates and GPS moving map on all FAA VFR sectionals, WACs and TACs, plus IFR low charts and airport diagrams. Avare also enables manual browsing of all charts and all other materials even without cell service or GPS. Current FAA weather METARs, TAFs and TFRs are provided too.&lt;/p&gt;&lt;p&gt;Notice: This is not an FAA certified GPS. AntiFeatures: A Google account is required.&lt;/p&gt;</desc>
 		<license>NetBSD/Apache2</license>
 		<categories>Navigation</categories>
@@ -5492,6 +5492,19 @@
 		<marketversion>5.9.9</marketversion>
 		<marketvercode>219</marketvercode>
 		<antifeatures>NonFreeDep</antifeatures>
+		<package>
+			<version>5.9.9</version>
+			<versioncode>219</versioncode>
+			<apkname>com.ds.avare_219.apk</apkname>
+			<srcname>com.ds.avare_219_src.tar.gz</srcname>
+			<hash type="sha256">5abf5fae9a61d08e5593567627b1fcc80b8bad3f5ddae9602c83baaea4840e15</hash>
+			<sig>7ac870875c761a7b082e51d0feef5a66</sig>
+			<size>627520</size>
+			<sdkver>8</sdkver>
+			<added>2015-02-03</added>
+			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET,ACCESS_COARSE_LOCATION,GET_ACCOUNTS,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>5.9.8</version>
 			<versioncode>218</versioncode>
@@ -5515,19 +5528,6 @@
 			<size>626834</size>
 			<sdkver>8</sdkver>
 			<added>2015-01-30</added>
-			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET,ACCESS_COARSE_LOCATION,GET_ACCOUNTS,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>5.9.6</version>
-			<versioncode>216</versioncode>
-			<apkname>com.ds.avare_216.apk</apkname>
-			<srcname>com.ds.avare_216_src.tar.gz</srcname>
-			<hash type="sha256">63693ca42d4db34c59db3f151c2dc40498f7595eef24fbdd5a30eb8defd19680</hash>
-			<sig>7ac870875c761a7b082e51d0feef5a66</sig>
-			<size>626508</size>
-			<sdkver>8</sdkver>
-			<added>2015-01-28</added>
 			<permissions>WRITE_SETTINGS,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET,ACCESS_COARSE_LOCATION,GET_ACCOUNTS,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -8670,10 +8670,10 @@
 	<application id="com.afollestad.cabinet">
 		<id>com.afollestad.cabinet</id>
 		<added>2014-10-23</added>
-		<lastupdated>2015-02-01</lastupdated>
+		<lastupdated>2015-02-03</lastupdated>
 		<name>Cabinet Beta</name>
 		<summary>File manager</summary>
-		<icon>com.afollestad.cabinet.103.png</icon>
+		<icon>com.afollestad.cabinet.106.png</icon>
 		<desc>&lt;p&gt;Minimal file manager designed for Android 4.1 and above. However, updates might be slow or might not come at all, since the author has no longer the time to maintain it. Pullrequests are welcome.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Office</categories>
@@ -8681,9 +8681,22 @@
 		<web>https://github.com/afollestad/cabinet/blob/HEAD/README.md</web>
 		<source>https://github.com/afollestad/cabinet</source>
 		<tracker>https://github.com/afollestad/cabinet/issues</tracker>
-		<marketversion>1.9.0.6</marketversion>
-		<marketvercode>106</marketvercode>
+		<marketversion>1.9.0.8</marketversion>
+		<marketvercode>108</marketvercode>
 		<antifeatures>NonFreeDep</antifeatures>
+		<package>
+			<version>1.9.0.6</version>
+			<versioncode>106</versioncode>
+			<apkname>com.afollestad.cabinet_106.apk</apkname>
+			<srcname>com.afollestad.cabinet_106_src.tar.gz</srcname>
+			<hash type="sha256">e7b6e199328c28a325dbe0d2bc01e4e5286abca03ec42f6db77fa634b9e40084</hash>
+			<sig>3692054ff9af118adbbb9243e7ba4e98</sig>
+			<size>1726878</size>
+			<sdkver>14</sdkver>
+			<added>2015-02-03</added>
+			<permissions>READ_EXTERNAL_STORAGE,ACCESS_SUPERUSER,com.android.vending.BILLING,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.9.0.3</version>
 			<versioncode>103</versioncode>
@@ -8708,19 +8721,6 @@
 			<sdkver>14</sdkver>
 			<added>2015-01-28</added>
 			<permissions>READ_EXTERNAL_STORAGE,ACCESS_SUPERUSER,INTERNET,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.8.7.1</version>
-			<versioncode>97</versioncode>
-			<apkname>com.afollestad.cabinet_97.apk</apkname>
-			<srcname>com.afollestad.cabinet_97_src.tar.gz</srcname>
-			<hash type="sha256">84853f668d8f8b297001043c0e51f1a899fa89d22c0cfc5059a198bfd726564c</hash>
-			<sig>3692054ff9af118adbbb9243e7ba4e98</sig>
-			<size>1838913</size>
-			<sdkver>14</sdkver>
-			<added>2015-01-17</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,INTERNET,com.android.vending.BILLING,READ_EXTERNAL_STORAGE,ACCESS_SUPERUSER</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -10813,10 +10813,10 @@
 	<application id="org.floens.chan">
 		<id>org.floens.chan</id>
 		<added>2014-06-03</added>
-		<lastupdated>2015-01-30</lastupdated>
+		<lastupdated>2015-02-03</lastupdated>
 		<name>Clover</name>
 		<summary>4chan image board browser</summary>
-		<icon>org.floens.chan.44.png</icon>
+		<icon>org.floens.chan.46.png</icon>
 		<desc>&lt;p&gt;Clover is a browser for the popular &lt;a href=&quot;https://4chan.org/&quot;&gt;4chan&lt;/a&gt; image board&lt;/p&gt;&lt;p&gt;Features include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Customizable boards - you can add more boards in the settings&lt;/li&gt;&lt;li&gt; View images fast and save them&lt;/li&gt;&lt;li&gt; Pin threads for easy access&lt;/li&gt;&lt;li&gt; Watch threads to be notified of new posts and replies to you&lt;/li&gt;&lt;li&gt; 4chan pass support&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
@@ -10828,6 +10828,20 @@
 		<bitcoin>1N7VtcNh8L8u4tF9CJ38GjnPbmxM4Vixi6</bitcoin>
 		<marketversion>v1.2.7</marketversion>
 		<marketvercode>46</marketvercode>
+		<package>
+			<version>v1.2.7</version>
+			<versioncode>46</versioncode>
+			<apkname>org.floens.chan_46.apk</apkname>
+			<srcname>org.floens.chan_46_src.tar.gz</srcname>
+			<hash type="sha256">dcb8d714323fced1462fd4c46615624f5a0a181a44c3cd818ec6752495cb06cb</hash>
+			<sig>e2a3403ec4446f9bd9e6be5aaebbcd25</sig>
+			<size>825773</size>
+			<sdkver>14</sdkver>
+			<added>2015-02-03</added>
+			<permissions>READ_EXTERNAL_STORAGE,NFC,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>v1.2.6</version>
 			<versioncode>44</versioncode>
@@ -10852,20 +10866,6 @@
 			<size>847152</size>
 			<sdkver>14</sdkver>
 			<added>2014-12-13</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,NFC,READ_EXTERNAL_STORAGE,INTERNET</permissions>
-			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>v1.2.4</version>
-			<versioncode>42</versioncode>
-			<apkname>org.floens.chan_42.apk</apkname>
-			<srcname>org.floens.chan_42_src.tar.gz</srcname>
-			<hash type="sha256">41421b5422bc56d5115e976b96a36729ed92595165f9fcc87d3e1d8bef6d806d</hash>
-			<sig>e2a3403ec4446f9bd9e6be5aaebbcd25</sig>
-			<size>847184</size>
-			<sdkver>14</sdkver>
-			<added>2014-12-11</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,NFC,READ_EXTERNAL_STORAGE,INTERNET</permissions>
 			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
 			<features>android.hardware.touchscreen</features>
@@ -11731,8 +11731,8 @@
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=CW3SYT3KG5PDL</donate>
 		<bitcoin>1NxSU1YxYzJVDpX1rcESAA3NJki7kRgeeu</bitcoin>
 		<flattr>3531619</flattr>
-		<marketversion>0.10</marketversion>
-		<marketvercode>41</marketvercode>
+		<marketversion>1.0.1</marketversion>
+		<marketvercode>46</marketvercode>
 		<package>
 			<version>0.10</version>
 			<versioncode>41</versioncode>
@@ -15464,11 +15464,11 @@
 	<application id="org.droidupnp">
 		<id>org.droidupnp</id>
 		<added>2013-12-09</added>
-		<lastupdated>2014-03-12</lastupdated>
+		<lastupdated>2015-02-03</lastupdated>
 		<name>DroidUPnP</name>
 		<summary>Play files off the network</summary>
-		<icon>org.droidupnp.12.png</icon>
-		<desc>&lt;p&gt;Discover your home UPnP device, content provider, connected television or any device controllable by UPnP and allow you to control those. It also allow you to share your local content to other UPnP capable device.&lt;/p&gt;</desc>
+		<icon>org.droidupnp.14.png</icon>
+		<desc>&lt;p&gt;Discover your home UPnP device, content provider, connected television or any device controllable by UPnP and allow you to control those. It also allow you to share your local content to other UPnP capable device.&lt;/p&gt;&lt;p&gt;Currently this app still uses binary libraries from &lt;a href=&quot;http://4thline.org/&quot;&gt;http://4thline.org/&lt;/a&gt;.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Multimedia</categories>
 		<category>Multimedia</category>
@@ -15477,6 +15477,32 @@
 		<tracker>https://github.com/trishika/DroidUPnP/issues</tracker>
 		<marketversion>2.2.1</marketversion>
 		<marketvercode>14</marketvercode>
+		<package>
+			<version>2.2.1</version>
+			<versioncode>14</versioncode>
+			<apkname>org.droidupnp_14.apk</apkname>
+			<srcname>org.droidupnp_14_src.tar.gz</srcname>
+			<hash type="sha256">8f49f64cbac0daaaf5caba89d86720a182d7fb2e6d0bd57324979fa2c2ce0df2</hash>
+			<sig>43c6f6ed7ab35d3cfa371f0a7248a4c9</sig>
+			<size>2404520</size>
+			<sdkver>14</sdkver>
+			<added>2015-02-03</added>
+			<permissions>ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,INTERNET,CHANGE_WIFI_MULTICAST_STATE,ACCESS_WIFI_STATE,WAKE_LOCK</permissions>
+			<features>android.hardware.touchscreen,android.hardware.wifi</features>
+		</package>
+		<package>
+			<version>2.2.0</version>
+			<versioncode>13</versioncode>
+			<apkname>org.droidupnp_13.apk</apkname>
+			<srcname>org.droidupnp_13_src.tar.gz</srcname>
+			<hash type="sha256">85ef71deccce4fbf3a7c1844b26730463de29f997c2351e4e0cb4a92bc2606aa</hash>
+			<sig>43c6f6ed7ab35d3cfa371f0a7248a4c9</sig>
+			<size>2404098</size>
+			<sdkver>14</sdkver>
+			<added>2015-02-03</added>
+			<permissions>ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,INTERNET,CHANGE_WIFI_MULTICAST_STATE,ACCESS_WIFI_STATE,WAKE_LOCK</permissions>
+			<features>android.hardware.touchscreen,android.hardware.wifi</features>
+		</package>
 		<package>
 			<version>2.1.0</version>
 			<versioncode>12</versioncode>
@@ -15488,32 +15514,6 @@
 			<sdkver>14</sdkver>
 			<added>2014-03-12</added>
 			<permissions>ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,INTERNET,CHANGE_WIFI_MULTICAST_STATE,ACCESS_WIFI_STATE,WAKE_LOCK</permissions>
-			<features>android.hardware.touchscreen,android.hardware.wifi</features>
-		</package>
-		<package>
-			<version>2.0.0</version>
-			<versioncode>11</versioncode>
-			<apkname>org.droidupnp_11.apk</apkname>
-			<srcname>org.droidupnp_11_src.tar.gz</srcname>
-			<hash type="sha256">5c6db16f5b0afa3ce5a9b723c0cb787f6eea32db1a8ce9ec8edc6ebd66b54dff</hash>
-			<sig>43c6f6ed7ab35d3cfa371f0a7248a4c9</sig>
-			<size>1682847</size>
-			<sdkver>14</sdkver>
-			<added>2014-02-18</added>
-			<permissions>ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,INTERNET,CHANGE_WIFI_MULTICAST_STATE,ACCESS_WIFI_STATE,WAKE_LOCK</permissions>
-			<features>android.hardware.touchscreen,android.hardware.wifi</features>
-		</package>
-		<package>
-			<version>1.1.0</version>
-			<versioncode>6</versioncode>
-			<apkname>org.droidupnp_6.apk</apkname>
-			<srcname>org.droidupnp_6_src.tar.gz</srcname>
-			<hash type="sha256">cff05cd825eabde82b69750cc6513a39e32cc8f24aa296bfa075fd2202800f4c</hash>
-			<sig>43c6f6ed7ab35d3cfa371f0a7248a4c9</sig>
-			<size>2242448</size>
-			<sdkver>14</sdkver>
-			<added>2013-12-09</added>
-			<permissions>ACCESS_WIFI_STATE,ACCESS_NETWORK_STATE,WAKE_LOCK,CHANGE_WIFI_MULTICAST_STATE,INTERNET</permissions>
 			<features>android.hardware.touchscreen,android.hardware.wifi</features>
 		</package>
 	</application>
@@ -15739,8 +15739,8 @@
 		<source>https://github.com/daneren2005/Subsonic</source>
 		<tracker>https://github.com/daneren2005/Subsonic/issues</tracker>
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=5GUMY7ZLZRNXS&amp;lc=US&amp;item_name=DSub&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted</donate>
-		<marketversion>4.9</marketversion>
-		<marketvercode>142</marketvercode>
+		<marketversion>4.9.1</marketversion>
+		<marketvercode>144</marketvercode>
 		<package>
 			<version>4.3.5</version>
 			<versioncode>80</versioncode>
@@ -15855,8 +15855,8 @@
 		<web>https://duck.co/help/mobile/android</web>
 		<source>https://github.com/duckduckgo/android</source>
 		<tracker>https://github.com/duckduckgo/android/issues</tracker>
-		<marketversion>2.1.9</marketversion>
-		<marketvercode>60</marketvercode>
+		<marketversion>2.1.10</marketversion>
+		<marketvercode>61</marketvercode>
 		<package>
 			<version>2.1.9</version>
 			<versioncode>60</versioncode>
@@ -21796,14 +21796,14 @@
 		<summary>GreenAddress client</summary>
 		<icon>com.greenaddress.greenbits_android_wallet.36.png</icon>
 		<desc>&lt;p&gt;GreenBits is a Bitcoin Wallet for Android provided by GreenAddress.&lt;/p&gt;&lt;p&gt;The wallet main strengths are security, privacy, easy of use and aims is to provide a great user experience.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; It supports the payment protocol via both click and qrcode scanning and instant confirmation.&lt;/li&gt;&lt;li&gt; Supports paper wallet scanning in both WIF and BIP38 format.&lt;/li&gt;&lt;li&gt; Uses multisignature for improved security and per transaction two factor authentication.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Please note that another GreenAddress app is available for Android: it has more features available however it consumes more resources and even on recent Android devices it may not be as good of a user experience as this new Android native version.&lt;/p&gt;&lt;p&gt;You can find it at &lt;a href=&quot;fdroid.app:it.greenaddress.cordova&quot;&gt;GreenAddress.It&lt;/a&gt;.&lt;/p&gt;</desc>
-		<license>LGPLv2.1</license>
+		<license>GPLv3</license>
 		<categories>Internet</categories>
 		<category>Internet</category>
 		<web>http://greenaddress.com</web>
 		<source>https://github.com/greenaddress/GreenBits</source>
 		<tracker>https://github.com/greenaddress/GreenBits/issues</tracker>
-		<marketversion>1.36</marketversion>
-		<marketvercode>36</marketvercode>
+		<marketversion>1.37</marketversion>
+		<marketvercode>37</marketvercode>
 		<package>
 			<version>1.36</version>
 			<versioncode>36</versioncode>
@@ -26085,10 +26085,10 @@
 	<application id="com.grarak.kerneladiutor">
 		<id>com.grarak.kerneladiutor</id>
 		<added>2015-01-17</added>
-		<lastupdated>2015-01-26</lastupdated>
+		<lastupdated>2015-02-03</lastupdated>
 		<name>Kernel Adiutor</name>
 		<summary>Manage kernel parameters</summary>
-		<icon>com.grarak.kerneladiutor.33.png</icon>
+		<icon>com.grarak.kerneladiutor.35.png</icon>
 		<desc>&lt;p&gt;Tweak and monitor kernel parameters. Depending on the device and kernel used, this includes:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; CPU (Frequency, Governor, Voltages)&lt;/li&gt;&lt;li&gt; GPU (Frequency, Governor)&lt;/li&gt;&lt;li&gt; Screen (Color Calibration &lt;a href=&quot;RGB&quot;&gt;RGB&lt;/a&gt;)&lt;/li&gt;&lt;li&gt; Wake (DT2W, S2W)&lt;/li&gt;&lt;li&gt; Sound (Faux Sound)&lt;/li&gt;&lt;li&gt; Battery (Fast Charge)&lt;/li&gt;&lt;li&gt; I/O Scheduler&lt;/li&gt;&lt;li&gt; Kernel Samepage Merging&lt;/li&gt;&lt;li&gt; Low Memory Killer (Minfree settings)&lt;/li&gt;&lt;li&gt; Virtual Machine&lt;/li&gt;&lt;li&gt; Build prop Editor&lt;/li&gt;&lt;li&gt; etc.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Features which aren't supported by your device won't show up in the first place.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>System</categories>
@@ -26099,6 +26099,19 @@
 		<marketversion>0.7.1</marketversion>
 		<marketvercode>35</marketvercode>
 		<requirements>root</requirements>
+		<package>
+			<version>0.7.1</version>
+			<versioncode>35</versioncode>
+			<apkname>com.grarak.kerneladiutor_35.apk</apkname>
+			<srcname>com.grarak.kerneladiutor_35_src.tar.gz</srcname>
+			<hash type="sha256">7f967b9674a6b74ed68b7350aa064570f29a7a9859ddcf239a63ae5970158f45</hash>
+			<sig>40c7cc5bd9e042971fb3e7558a32801b</sig>
+			<size>1377910</size>
+			<sdkver>14</sdkver>
+			<added>2015-02-03</added>
+			<permissions>RECEIVE_BOOT_COMPLETED,ACCESS_SUPERUSER</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.6.4</version>
 			<versioncode>33</versioncode>
@@ -26122,19 +26135,6 @@
 			<size>1372543</size>
 			<sdkver>15</sdkver>
 			<added>2015-01-20</added>
-			<permissions>RECEIVE_BOOT_COMPLETED,ACCESS_SUPERUSER</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.6.2</version>
-			<versioncode>31</versioncode>
-			<apkname>com.grarak.kerneladiutor_31.apk</apkname>
-			<srcname>com.grarak.kerneladiutor_31_src.tar.gz</srcname>
-			<hash type="sha256">d1390b995fdaf82a325ddcb3e12dddd78228a13e1d9b3fb692b78e33e52781e3</hash>
-			<sig>40c7cc5bd9e042971fb3e7558a32801b</sig>
-			<size>1370341</size>
-			<sdkver>15</sdkver>
-			<added>2015-01-17</added>
 			<permissions>RECEIVE_BOOT_COMPLETED,ACCESS_SUPERUSER</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -26363,10 +26363,10 @@
 	<application id="com.syncedsynapse.kore2">
 		<id>com.syncedsynapse.kore2</id>
 		<added>2015-01-24</added>
-		<lastupdated>2015-01-27</lastupdated>
+		<lastupdated>2015-02-03</lastupdated>
 		<name>Kore</name>
 		<summary>Remote control for Kodi (XBMC)</summary>
-		<icon>com.syncedsynapse.kore2.4.png</icon>
+		<icon>com.syncedsynapse.kore2.5.png</icon>
 		<desc>&lt;p&gt;Simple remote controle for &lt;a href=&quot;http://kodi.tv&quot;&gt;Kodi&lt;/a&gt;. In-app purchases (e.g. for themes) are broken, since they require proprietary play- services to be installed on the device and a special API key, which FDroid cannot include.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>Multimedia</categories>
@@ -26377,6 +26377,19 @@
 		<marketversion>1.0.0</marketversion>
 		<marketvercode>5</marketvercode>
 		<antifeatures>NonFreeDep</antifeatures>
+		<package>
+			<version>1.0.0</version>
+			<versioncode>5</versioncode>
+			<apkname>com.syncedsynapse.kore2_5.apk</apkname>
+			<srcname>com.syncedsynapse.kore2_5_src.tar.gz</srcname>
+			<hash type="sha256">19624fdb2447b217ad6a7949c15a9bac381a1f77aca5c376be0b525cf7fc6bb1</hash>
+			<sig>d297796cfd5788832f3bf9331ea99a0c</sig>
+			<size>2292474</size>
+			<sdkver>15</sdkver>
+			<added>2015-02-03</added>
+			<permissions>READ_EXTERNAL_STORAGE,CHANGE_WIFI_MULTICAST_STATE,ACCESS_WIFI_STATE,INTERNET,com.android.vending.BILLING,WRITE_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen,android.hardware.wifi</features>
+		</package>
 		<package>
 			<version>0.9.2</version>
 			<versioncode>4</versioncode>
@@ -30304,10 +30317,10 @@
 	<application id="ar.rulosoft.mimanganu">
 		<id>ar.rulosoft.mimanganu</id>
 		<added>2014-12-26</added>
-		<lastupdated>2015-01-23</lastupdated>
+		<lastupdated>2015-02-03</lastupdated>
 		<name>Mi Manga Nu</name>
 		<summary>Manga reader</summary>
-		<icon>ar.rulosoft.mimanganu.11.png</icon>
+		<icon>ar.rulosoft.mimanganu.12.png</icon>
 		<desc>&lt;p&gt;Read and organize mangas.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Reading</categories>
@@ -30317,6 +30330,19 @@
 		<tracker>https://github.com/raulhaag/MiMangaNu/issues</tracker>
 		<marketversion>1.12</marketversion>
 		<marketvercode>12</marketvercode>
+		<package>
+			<version>1.12</version>
+			<versioncode>12</versioncode>
+			<apkname>ar.rulosoft.mimanganu_12.apk</apkname>
+			<srcname>ar.rulosoft.mimanganu_12_src.tar.gz</srcname>
+			<hash type="sha256">e6dc75b32f150e298d18a2fad65db7b9b5aa291303d3741a2499130cb0f73a12</hash>
+			<sig>b836b3886aaa0ec7d5dde684ac78d5b5</sig>
+			<size>1317200</size>
+			<sdkver>8</sdkver>
+			<added>2015-02-03</added>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.11</version>
 			<versioncode>11</versioncode>
@@ -30341,19 +30367,6 @@
 			<sdkver>8</sdkver>
 			<added>2015-01-18</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,INTERNET</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.09</version>
-			<versioncode>9</versioncode>
-			<apkname>ar.rulosoft.mimanganu_9.apk</apkname>
-			<srcname>ar.rulosoft.mimanganu_9_src.tar.gz</srcname>
-			<hash type="sha256">588d779a1b1e80a3d53af3fe258f3d34279cfe2b746bb5894ade6633edd03a0e</hash>
-			<sig>b836b3886aaa0ec7d5dde684ac78d5b5</sig>
-			<size>1267363</size>
-			<sdkver>8</sdkver>
-			<added>2015-01-15</added>
-			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -30477,10 +30490,10 @@
 	<application id="ca.farrelltonsolar.classic">
 		<id>ca.farrelltonsolar.classic</id>
 		<added>2015-01-13</added>
-		<lastupdated>2015-01-19</lastupdated>
+		<lastupdated>2015-02-03</lastupdated>
 		<name>MidniteSolar Classic Monitor</name>
 		<summary>View solar charging device status</summary>
-		<icon>ca.farrelltonsolar.classic.204.png</icon>
+		<icon>ca.farrelltonsolar.classic.205.png</icon>
 		<desc>&lt;p&gt;Unofficial status monitor for &lt;a href=&quot;http://www.midnitesolar.com/&quot;&gt;Midnite solar&lt;/a&gt;'s Classic 150, 200, 250 Charge Controller. It is a Read Only Program, it does not write to the Classic.&lt;/p&gt;&lt;p&gt;If the app detects a Whizbang Junior current monitor, the State Of Charge will display along with a bi-directional current gauge. Basic support for the Tristar MPPT charge controller from Morningstar is also included.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>Office</categories>
@@ -30490,6 +30503,19 @@
 		<tracker>https://github.com/graham22/Classic/issues</tracker>
 		<marketversion>2.0.5</marketversion>
 		<marketvercode>205</marketvercode>
+		<package>
+			<version>2.0.5</version>
+			<versioncode>205</versioncode>
+			<apkname>ca.farrelltonsolar.classic_205.apk</apkname>
+			<srcname>ca.farrelltonsolar.classic_205_src.tar.gz</srcname>
+			<hash type="sha256">b8724e312a7099862a13a1e09186ad8d5d769c08c08c73c5023dac52339679b5</hash>
+			<sig>fe9e3840c1b314e9017b76fe96999e0b</sig>
+			<size>1612928</size>
+			<sdkver>14</sdkver>
+			<added>2015-02-03</added>
+			<permissions>ACCESS_WIFI_STATE,ACCESS_NETWORK_STATE,WAKE_LOCK,INTERNET</permissions>
+			<features>android.hardware.touchscreen,android.hardware.wifi</features>
+		</package>
 		<package>
 			<version>2.0.4</version>
 			<versioncode>204</versioncode>
@@ -37099,10 +37125,10 @@
 	<application id="be.brunoparmentier.openbikesharing.app">
 		<id>be.brunoparmentier.openbikesharing.app</id>
 		<added>2014-08-10</added>
-		<lastupdated>2015-01-03</lastupdated>
+		<lastupdated>2015-02-03</lastupdated>
 		<name>OpenBikeSharing</name>
 		<summary>Display shared bikes availability in your city</summary>
-		<icon>be.brunoparmentier.openbikesharing.app.11.png</icon>
+		<icon>be.brunoparmentier.openbikesharing.app.12.png</icon>
 		<desc>&lt;p&gt;OpenBikeSharing displays the availability of shared bikes in your city in real time.&lt;/p&gt;&lt;p&gt;It uses the &lt;a href=&quot;http://api.citybik.es/v2/&quot;&gt;CityBikes&lt;/a&gt; API that provides data for more than 170 cities and displays those data on an OpenStreetMap layer thanks to the &lt;a href=&quot;https://github.com/osmdroid/osmdroid&quot;&gt;osmdroid&lt;/a&gt; library.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/bparmentier/OpenBikeSharing/releases&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Navigation</categories>
@@ -37112,8 +37138,21 @@
 		<tracker>https://github.com/bparmentier/OpenBikeSharing/issues</tracker>
 		<donate>http://www.brunoparmentier.be/about.html</donate>
 		<bitcoin>168utA5DWMVXLFVfQDahG5abEWUSk9Wcfm</bitcoin>
-		<marketversion>1.6</marketversion>
-		<marketvercode>11</marketvercode>
+		<marketversion>1.6.1</marketversion>
+		<marketvercode>12</marketvercode>
+		<package>
+			<version>1.6.1</version>
+			<versioncode>12</versioncode>
+			<apkname>be.brunoparmentier.openbikesharing.app_12.apk</apkname>
+			<srcname>be.brunoparmentier.openbikesharing.app_12_src.tar.gz</srcname>
+			<hash type="sha256">94d3314255a974f968414586aa072eb6bf070034ff90c80c5fa084e9e9771ebf</hash>
+			<sig>6698a14041573421c49c79482b35f918</sig>
+			<size>813304</size>
+			<sdkver>14</sdkver>
+			<added>2015-02-03</added>
+			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,INTERNET,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.wifi,android.hardware.location.network</features>
+		</package>
 		<package>
 			<version>1.6</version>
 			<versioncode>11</versioncode>
@@ -37137,19 +37176,6 @@
 			<size>814683</size>
 			<sdkver>14</sdkver>
 			<added>2014-11-28</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,INTERNET,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.wifi,android.hardware.location.network</features>
-		</package>
-		<package>
-			<version>1.4</version>
-			<versioncode>9</versioncode>
-			<apkname>be.brunoparmentier.openbikesharing.app_9.apk</apkname>
-			<srcname>be.brunoparmentier.openbikesharing.app_9_src.tar.gz</srcname>
-			<hash type="sha256">78f5adf333845c10d0ab5540fa4b16d0f96b87198978801597182233a91ae1df</hash>
-			<sig>6698a14041573421c49c79482b35f918</sig>
-			<size>774726</size>
-			<sdkver>14</sdkver>
-			<added>2014-10-31</added>
 			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,INTERNET,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.wifi,android.hardware.location.network</features>
 		</package>
@@ -38466,10 +38492,10 @@
 	<application id="net.osmand.plus">
 		<id>net.osmand.plus</id>
 		<added>2011-06-24</added>
-		<lastupdated>2015-01-07</lastupdated>
+		<lastupdated>2015-02-03</lastupdated>
 		<name>OsmAnd~</name>
 		<summary>Offline/online maps and navigation</summary>
-		<icon>net.osmand.plus.196.png</icon>
+		<icon>net.osmand.plus.197.png</icon>
 		<desc>&lt;p&gt;Osmand~'s features can be extended by enabling the plugins via the settings, which include online maps from many sources, tracking, OSM editing and accessibility enhancements.&lt;/p&gt;&lt;p&gt;Map data of both vector and raster types can be stored on the phone memory card for offline usage, and navigation by default uses offline methods. Map data packages for many territories can be downloaded from within the app and there is a desktop program available on the website as well for creating your own.&lt;/p&gt;&lt;p&gt;Anti-Features: Tracking - It will send your device and application specs to an Analytics server upon downloading the list of maps you can download.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://osmandapp.github.io/changes.html&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Navigation</categories>
@@ -38478,9 +38504,22 @@
 		<source>https://github.com/osmandapp/Osmand</source>
 		<tracker>https://github.com/osmandapp/Osmand/issues</tracker>
 		<donate>https://code.google.com/p/osmand/#Please_support_the_project</donate>
-		<marketversion>1.9.4</marketversion>
-		<marketvercode>196</marketvercode>
+		<marketversion>1.9.5</marketversion>
+		<marketvercode>197</marketvercode>
 		<antifeatures>Tracking</antifeatures>
+		<package>
+			<version>1.9.5</version>
+			<versioncode>197</versioncode>
+			<apkname>net.osmand.plus_197.apk</apkname>
+			<srcname>net.osmand.plus_197_src.tar.gz</srcname>
+			<hash type="sha256">630caad98afc86d8364e06f486c8f84baa3d1ee8ebc1ba449b4493ded95834f1</hash>
+			<sig>62de1ed5da5b716973da89258848e7bc</sig>
+			<size>30491366</size>
+			<sdkver>7</sdkver>
+			<added>2015-02-03</added>
+			<permissions>ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,DISABLE_KEYGUARD,STORAGE,VIBRATE,com.android.vending.BILLING,ACCESS_COARSE_LOCATION,CAMERA,INTERNET,ACCESS_FINE_LOCATION,WRITE_MEDIA_STORAGE,WAKE_LOCK</permissions>
+			<nativecode>armeabi,armeabi-v7a,mips,x86</nativecode>
+		</package>
 		<package>
 			<version>1.9.4</version>
 			<versioncode>196</versioncode>
@@ -38504,19 +38543,6 @@
 			<size>25791241</size>
 			<sdkver>7</sdkver>
 			<added>2014-08-08</added>
-			<permissions>ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,STORAGE,VIBRATE,ACCESS_COARSE_LOCATION,CAMERA,INTERNET,ACCESS_FINE_LOCATION,WRITE_MEDIA_STORAGE,READ_EXTERNAL_STORAGE</permissions>
-			<nativecode>armeabi,armeabi-v7a,mips,x86</nativecode>
-		</package>
-		<package>
-			<version>1.8.2</version>
-			<versioncode>182</versioncode>
-			<apkname>net.osmand.plus_182.apk</apkname>
-			<srcname>net.osmand.plus_182_src.tar.gz</srcname>
-			<hash type="sha256">519d12610caf5b70fb118a183fa7650192ff75eaa380aff09630577d39f3ea02</hash>
-			<sig>62de1ed5da5b716973da89258848e7bc</sig>
-			<size>25693215</size>
-			<sdkver>7</sdkver>
-			<added>2014-07-17</added>
 			<permissions>ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,STORAGE,VIBRATE,ACCESS_COARSE_LOCATION,CAMERA,INTERNET,ACCESS_FINE_LOCATION,WRITE_MEDIA_STORAGE,READ_EXTERNAL_STORAGE</permissions>
 			<nativecode>armeabi,armeabi-v7a,mips,x86</nativecode>
 		</package>
@@ -40405,8 +40431,8 @@
 		<web>http://forum.xda-developers.com/showthread.php?p=53218143</web>
 		<source>https://github.com/Pi-Developers/Pi-Locker</source>
 		<tracker>https://github.com/Pi-Developers/Pi-Locker/issues</tracker>
-		<marketversion>3.0</marketversion>
-		<marketvercode>3</marketvercode>
+		<marketversion>5.0.3</marketversion>
+		<marketvercode>10</marketvercode>
 		<package>
 			<version>3.0</version>
 			<versioncode>3</versioncode>
@@ -41394,10 +41420,10 @@
 	<application id="com.mde.potdroid">
 		<id>com.mde.potdroid</id>
 		<added>2015-01-26</added>
-		<lastupdated>2015-01-26</lastupdated>
+		<lastupdated>2015-02-03</lastupdated>
 		<name>pOT-Droid</name>
 		<summary>Companion app for mods.de forum</summary>
-		<icon>com.mde.potdroid.57.png</icon>
+		<icon>com.mde.potdroid.58.png</icon>
 		<desc>&lt;p&gt;Companion app for the german &lt;a href=&quot;http://forum.mods.de/bb&quot;&gt;mods.de&lt;/a&gt; forum.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://projects.oelerich.org/projects/pot-droid/repository/revisions/master/entry/CHANGELOG.md&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv2</license>
 		<categories>Internet,Reading</categories>
@@ -41407,6 +41433,19 @@
 		<tracker>https://projects.oelerich.org/projects/pot-droid/issues</tracker>
 		<marketversion>4.0.9</marketversion>
 		<marketvercode>58</marketvercode>
+		<package>
+			<version>4.0.9</version>
+			<versioncode>58</versioncode>
+			<apkname>com.mde.potdroid_58.apk</apkname>
+			<srcname>com.mde.potdroid_58_src.tar.gz</srcname>
+			<hash type="sha256">6571fa294328cb437f9b6fd05d4631a829def7fc96f82e30972fbb3c34583fa1</hash>
+			<sig>394c6fbe14e11be967deef1348099f81</sig>
+			<size>2078137</size>
+			<sdkver>9</sdkver>
+			<added>2015-02-03</added>
+			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,VIBRATE,RECEIVE_BOOT_COMPLETED,INTERNET,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>4.0.8</version>
 			<versioncode>57</versioncode>
@@ -41773,10 +41812,10 @@
 	<application id="com.smithdtyler.prettygoodmusicplayer">
 		<id>com.smithdtyler.prettygoodmusicplayer</id>
 		<added>2014-11-02</added>
-		<lastupdated>2015-01-30</lastupdated>
+		<lastupdated>2015-02-03</lastupdated>
 		<name>Pretty Good Music Player</name>
 		<summary>Folder-based, no frills music player</summary>
-		<icon>com.smithdtyler.prettygoodmusicplayer.50.png</icon>
+		<icon>com.smithdtyler.prettygoodmusicplayer.51.png</icon>
 		<desc>&lt;p&gt;Music player that focuses on basics: rock solid music playing.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Multimedia</categories>
@@ -41784,8 +41823,21 @@
 		<web/>
 		<source>https://github.com/smithdtyler/prettygoodmusicplayer</source>
 		<tracker>https://github.com/smithdtyler/prettygoodmusicplayer/issues</tracker>
-		<marketversion>3.1.10</marketversion>
-		<marketvercode>50</marketvercode>
+		<marketversion>3.2.0</marketversion>
+		<marketvercode>51</marketvercode>
+		<package>
+			<version>3.2.0</version>
+			<versioncode>51</versioncode>
+			<apkname>com.smithdtyler.prettygoodmusicplayer_51.apk</apkname>
+			<srcname>com.smithdtyler.prettygoodmusicplayer_51_src.tar.gz</srcname>
+			<hash type="sha256">1916253ce6ac6c4c69dd284fd0c83a58a299759dcb732db9c6543b2d4eb6013c</hash>
+			<sig>42add6c14368ce02503fe7125903232f</sig>
+			<size>409077</size>
+			<sdkver>16</sdkver>
+			<added>2015-02-03</added>
+			<permissions>MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE,BLUETOOTH</permissions>
+			<features>android.hardware.touchscreen,android.hardware.bluetooth</features>
+		</package>
 		<package>
 			<version>3.1.10</version>
 			<versioncode>50</versioncode>
@@ -41809,19 +41861,6 @@
 			<size>404312</size>
 			<sdkver>16</sdkver>
 			<added>2015-01-25</added>
-			<permissions>MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE,BLUETOOTH</permissions>
-			<features>android.hardware.touchscreen,android.hardware.bluetooth</features>
-		</package>
-		<package>
-			<version>3.1.8</version>
-			<versioncode>48</versioncode>
-			<apkname>com.smithdtyler.prettygoodmusicplayer_48.apk</apkname>
-			<srcname>com.smithdtyler.prettygoodmusicplayer_48_src.tar.gz</srcname>
-			<hash type="sha256">8094d763c4b0a6b3256c9cf2fa3d80d7daf3bf00c1aba99bd253696c61aa7525</hash>
-			<sig>42add6c14368ce02503fe7125903232f</sig>
-			<size>397697</size>
-			<sdkver>16</sdkver>
-			<added>2015-01-18</added>
 			<permissions>MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE,BLUETOOTH</permissions>
 			<features>android.hardware.touchscreen,android.hardware.bluetooth</features>
 		</package>
@@ -45270,6 +45309,36 @@
 			<size>204621</size>
 			<sdkver>4</sdkver>
 			<added>2013-06-22</added>
+		</package>
+	</application>
+	<application id="com.naman14.stools">
+		<id>com.naman14.stools</id>
+		<added>2015-02-03</added>
+		<lastupdated>2015-02-03</lastupdated>
+		<name>S Tools+</name>
+		<summary>Collection of system tools</summary>
+		<icon>com.naman14.stools.10.png</icon>
+		<desc>&lt;p&gt;Keep track of your CPU frequency, sensors and device information. The collection includes additional tools like a colorpicker and a compass.&lt;/p&gt;</desc>
+		<license>GPLv3+</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web>https://github.com/naman14/S-Tools/blob/HEAD/README.md</web>
+		<source>https://github.com/naman14/S-Tools</source>
+		<tracker>https://github.com/naman14/S-Tools/issues</tracker>
+		<marketversion>3.1</marketversion>
+		<marketvercode>10</marketvercode>
+		<package>
+			<version>3.1</version>
+			<versioncode>10</versioncode>
+			<apkname>com.naman14.stools_10.apk</apkname>
+			<srcname>com.naman14.stools_10_src.tar.gz</srcname>
+			<hash type="sha256">57f9662a20957db989eae43f14b4ccefb838d3340cfcbcea12641eddbd9b4bdb</hash>
+			<sig>b23bad16647678e4e52ddc13705ae60a</sig>
+			<size>2248875</size>
+			<sdkver>14</sdkver>
+			<added>2015-02-03</added>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,CHANGE_WIFI_STATE,ACCESS_LOCATION_EXTRA_COMMANDS,ACCESS_FINE_LOCATION,READ_PHONE_STATE</permissions>
+			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.wifi,android.hardware.location.network</features>
 		</package>
 	</application>
 	<application id="edu.cmu.cylab.starslinger.demo">
@@ -50179,10 +50248,10 @@
 	<application id="fm.a2d.sf">
 		<id>fm.a2d.sf</id>
 		<added>2015-01-17</added>
-		<lastupdated>2015-02-01</lastupdated>
+		<lastupdated>2015-02-03</lastupdated>
 		<name>SpiritF</name>
 		<summary>Use headphones as antenna for FM radio</summary>
-		<icon>fm.a2d.sf.85.png</icon>
+		<icon>fm.a2d.sf.90.png</icon>
 		<desc>&lt;p&gt;When your devices supports FM radio, you can plug in your headphones to use them as an antenna and tune in to your favorite radio station with this app.&lt;/p&gt;</desc>
 		<license>AGPLv3+</license>
 		<categories>Multimedia</categories>
@@ -50193,6 +50262,20 @@
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=mikereidis%40gmail%2ecom&amp;lc=CA&amp;item_name=Spirit%20FM%20%2d%20Mike%20Reid&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted</donate>
 		<marketversion>2015_02_01_beta</marketversion>
 		<marketvercode>90</marketvercode>
+		<package>
+			<version>2015_02_01_beta</version>
+			<versioncode>90</versioncode>
+			<apkname>fm.a2d.sf_90.apk</apkname>
+			<srcname>fm.a2d.sf_90_src.tar.gz</srcname>
+			<hash type="sha256">b7dd5653600fb7ee7163abea7d19b586173db3b95d52cc1ad869ff8350cdbfda</hash>
+			<sig>b3c826ced04b6d3d83c51ae3838ea449</sig>
+			<size>1021522</size>
+			<sdkver>16</sdkver>
+			<added>2015-02-03</added>
+			<permissions>WRITE_SETTINGS,ACCESS_SUPERUSER,RECORD_AUDIO,BROADCAST_STICKY,READ_EXTERNAL_STORAGE,SYSTEM_ALERT_WINDOW,BLUETOOTH_ADMIN,BLUETOOTH,INTERNET,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,WRITE_EXTERNAL_STORAGE</permissions>
+			<nativecode>armeabi</nativecode>
+			<features>android.hardware.touchscreen,android.hardware.microphone,android.hardware.bluetooth</features>
+		</package>
 		<package>
 			<version>2015_01_30_beta</version>
 			<versioncode>85</versioncode>
@@ -50218,20 +50301,6 @@
 			<sdkver>16</sdkver>
 			<added>2015-01-31</added>
 			<permissions>WRITE_SETTINGS,READ_PHONE_STATE,RECORD_AUDIO,READ_EXTERNAL_STORAGE,SYSTEM_ALERT_WINDOW,BLUETOOTH_ADMIN,BLUETOOTH,WRITE_EXTERNAL_STORAGE,INTERNET,MODIFY_AUDIO_SETTINGS,ACCESS_SUPERUSER,BROADCAST_STICKY</permissions>
-			<nativecode>armeabi</nativecode>
-			<features>android.hardware.touchscreen,android.hardware.microphone,android.hardware.bluetooth</features>
-		</package>
-		<package>
-			<version>2015_01_28_beta</version>
-			<versioncode>83</versioncode>
-			<apkname>fm.a2d.sf_83.apk</apkname>
-			<srcname>fm.a2d.sf_83_src.tar.gz</srcname>
-			<hash type="sha256">fa55cd118596b5534e85dd04db71f541cd1165dbb6388de375c1f3d370015da4</hash>
-			<sig>b3c826ced04b6d3d83c51ae3838ea449</sig>
-			<size>1021619</size>
-			<sdkver>16</sdkver>
-			<added>2015-01-30</added>
-			<permissions>WRITE_SETTINGS,ACCESS_SUPERUSER,RECORD_AUDIO,READ_EXTERNAL_STORAGE,SYSTEM_ALERT_WINDOW,BLUETOOTH_ADMIN,BLUETOOTH,BROADCAST_STICKY,INTERNET,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>armeabi</nativecode>
 			<features>android.hardware.touchscreen,android.hardware.microphone,android.hardware.bluetooth</features>
 		</package>
@@ -55009,10 +55078,10 @@
 	<application id="com.reddyetwo.hashmypass.app">
 		<id>com.reddyetwo.hashmypass.app</id>
 		<added>2014-09-01</added>
-		<lastupdated>2014-09-25</lastupdated>
+		<lastupdated>2015-02-03</lastupdated>
 		<name>Twik</name>
 		<summary>Manage and generate secure passwords</summary>
-		<icon>com.reddyetwo.hashmypass.app.11.png</icon>
+		<icon>com.reddyetwo.hashmypass.app.16.png</icon>
 		<desc>&lt;p&gt;Use a combination of a master key/password, a private key, and the website name/url to generate a unique, strong password. Since passwords are generated each time, even if one of them is compromised the rest would be safe. Twik also integrates with any web browser, so that you can generate a password quickly by sharing a website with Twik from the browser.&lt;/p&gt;&lt;p&gt;It is compatible with Password Hasher Plus, a Chrome extension by Eric Woodruff that follows the same principles for generating strong passwords. You can use the same private and master keys to generate the same passwords on your desktop browser.&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Several profiles, each with its own private key&lt;/li&gt;&lt;li&gt; Favicons to easily identify websites&lt;/li&gt;&lt;li&gt; Identicons to check that you typed your master key correctly at a glance&lt;/li&gt;&lt;li&gt; Share any website from a web browser to generate a password for it&lt;/li&gt;&lt;li&gt; Customize password generation for each website (password length and characters)&lt;/li&gt;&lt;li&gt; Automatically copy generated passwords to the clipboard&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Security,Internet</categories>
@@ -55020,8 +55089,21 @@
 		<web>https://github.com/gustavomondron/twik/blob/HEAD/README.md</web>
 		<source>https://github.com/gustavomondron/twik</source>
 		<tracker>https://github.com/gustavomondron/twik/issues</tracker>
-		<marketversion>1.2.6</marketversion>
-		<marketvercode>11</marketvercode>
+		<marketversion>1.3.1</marketversion>
+		<marketvercode>16</marketvercode>
+		<package>
+			<version>1.3.1</version>
+			<versioncode>16</versioncode>
+			<apkname>com.reddyetwo.hashmypass.app_16.apk</apkname>
+			<srcname>com.reddyetwo.hashmypass.app_16_src.tar.gz</srcname>
+			<hash type="sha256">15d50f63c776c58325eb11f33fad0485cca8eacdd89130d81e910606b253c7bd</hash>
+			<sig>1423c70ef958b6184559bccec0a557ce</sig>
+			<size>1414796</size>
+			<sdkver>15</sdkver>
+			<added>2015-02-03</added>
+			<permissions>INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.2.6</version>
 			<versioncode>11</versioncode>
@@ -55045,19 +55127,6 @@
 			<size>737032</size>
 			<sdkver>15</sdkver>
 			<added>2014-09-22</added>
-			<permissions>INTERNET</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.2.4</version>
-			<versioncode>9</versioncode>
-			<apkname>com.reddyetwo.hashmypass.app_9.apk</apkname>
-			<srcname>com.reddyetwo.hashmypass.app_9_src.tar.gz</srcname>
-			<hash type="sha256">26544d0651020bfee70515682fe4bffe2ed6b7226803dea44a2f66f3ac19041e</hash>
-			<sig>1423c70ef958b6184559bccec0a557ce</sig>
-			<size>730224</size>
-			<sdkver>15</sdkver>
-			<added>2014-09-16</added>
 			<permissions>INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -56769,6 +56838,36 @@
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.network</features>
 		</package>
 	</application>
+	<application id="ru.gelin.android.weather.notification.skin.biggertext">
+		<id>ru.gelin.android.weather.notification.skin.biggertext</id>
+		<added>2015-02-03</added>
+		<lastupdated>2015-02-03</lastupdated>
+		<name>Weather Skin: Bigger Text</name>
+		<summary>Theme for Weather Notification</summary>
+		<icon>ru.gelin.android.weather.notification.skin.biggertext.17.png</icon>
+		<desc>&lt;p&gt;Big text skin for &lt;a href=&quot;fdroid.app:ru.gelin.android.weather.notification&quot;&gt;Weather notification&lt;/a&gt;.&lt;/p&gt;</desc>
+		<license>GPLv2</license>
+		<categories>Internet</categories>
+		<category>Internet</category>
+		<web>https://code.google.com/p/weather-notification-android</web>
+		<source>https://code.google.com/p/weather-notification-android/source</source>
+		<tracker>https://code.google.com/p/weather-notification-android/issues</tracker>
+		<marketversion>0.3.6</marketversion>
+		<marketvercode>17</marketvercode>
+		<package>
+			<version>0.3.6</version>
+			<versioncode>17</versioncode>
+			<apkname>ru.gelin.android.weather.notification.skin.biggertext_17.apk</apkname>
+			<srcname>ru.gelin.android.weather.notification.skin.biggertext_17_src.tar.gz</srcname>
+			<hash type="sha256">e257a51862e0c299545b14c4c2b394f3edcd0a3d941fd4fb906c71d4397e53ca</hash>
+			<sig>b00143fadbca5c8c18fd2a7e807e04f3</sig>
+			<size>1695227</size>
+			<sdkver>4</sdkver>
+			<added>2015-02-03</added>
+			<permissions>ru.gelin.android.weather.notification.START_UPDATE_SERVICE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="ru.gelin.android.weather.notification.skin.blacktext">
 		<id>ru.gelin.android.weather.notification.skin.blacktext</id>
 		<added>2012-09-07</added>
@@ -56825,6 +56924,36 @@
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="ru.gelin.android.weather.notification.skin.blacktextplus">
+		<id>ru.gelin.android.weather.notification.skin.blacktextplus</id>
+		<added>2015-02-03</added>
+		<lastupdated>2015-02-03</lastupdated>
+		<name>Weather Skin: Black Text Plus</name>
+		<summary>Theme for Weather Notification</summary>
+		<icon>ru.gelin.android.weather.notification.skin.blacktextplus.17.png</icon>
+		<desc>&lt;p&gt;Black Text Plus skin for &lt;a href=&quot;fdroid.app:ru.gelin.android.weather.notification&quot;&gt;Weather notification&lt;/a&gt;.&lt;/p&gt;</desc>
+		<license>GPLv2</license>
+		<categories>Internet</categories>
+		<category>Internet</category>
+		<web>https://code.google.com/p/weather-notification-android</web>
+		<source>https://code.google.com/p/weather-notification-android/source</source>
+		<tracker>https://code.google.com/p/weather-notification-android/issues</tracker>
+		<marketversion>0.3.6</marketversion>
+		<marketvercode>17</marketvercode>
+		<package>
+			<version>0.3.6</version>
+			<versioncode>17</versioncode>
+			<apkname>ru.gelin.android.weather.notification.skin.blacktextplus_17.apk</apkname>
+			<srcname>ru.gelin.android.weather.notification.skin.blacktextplus_17_src.tar.gz</srcname>
+			<hash type="sha256">c02113e8610b0f849f8d125172ba2aacf3769d1490914c9b740f4b8585c91b5d</hash>
+			<sig>19a83b115ba253f093017a792bce4e9f</sig>
+			<size>1522955</size>
+			<sdkver>4</sdkver>
+			<added>2015-02-03</added>
+			<permissions>ru.gelin.android.weather.notification.START_UPDATE_SERVICE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="ru.gelin.android.weather.notification.skin.whitetext">
 		<id>ru.gelin.android.weather.notification.skin.whitetext</id>
 		<added>2012-09-07</added>
@@ -56877,6 +57006,36 @@
 			<size>741153</size>
 			<sdkver>3</sdkver>
 			<added>2013-02-08</added>
+			<permissions>ru.gelin.android.weather.notification.START_UPDATE_SERVICE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
+	<application id="ru.gelin.android.weather.notification.skin.whitetextplus">
+		<id>ru.gelin.android.weather.notification.skin.whitetextplus</id>
+		<added>2015-02-03</added>
+		<lastupdated>2015-02-03</lastupdated>
+		<name>Weather Skin: White Text Plus</name>
+		<summary>Theme for Weather Notification</summary>
+		<icon>ru.gelin.android.weather.notification.skin.whitetextplus.17.png</icon>
+		<desc>&lt;p&gt;White Text Plus skin for &lt;a href=&quot;fdroid.app:ru.gelin.android.weather.notification&quot;&gt;Weather notification&lt;/a&gt;.&lt;/p&gt;</desc>
+		<license>GPLv2</license>
+		<categories>Internet</categories>
+		<category>Internet</category>
+		<web>https://code.google.com/p/weather-notification-android</web>
+		<source>https://code.google.com/p/weather-notification-android/source</source>
+		<tracker>https://code.google.com/p/weather-notification-android/issues</tracker>
+		<marketversion>0.3.6</marketversion>
+		<marketvercode>17</marketvercode>
+		<package>
+			<version>0.3.6</version>
+			<versioncode>17</versioncode>
+			<apkname>ru.gelin.android.weather.notification.skin.whitetextplus_17.apk</apkname>
+			<srcname>ru.gelin.android.weather.notification.skin.whitetextplus_17_src.tar.gz</srcname>
+			<hash type="sha256">1fb228c2c0c52fe892da7a03fc56f8cb3de7ac9d9b9de4d45591f1addd1cb843</hash>
+			<sig>a293c30b77c7793827675dc543d59daf</sig>
+			<size>1522744</size>
+			<sdkver>4</sdkver>
+			<added>2015-02-03</added>
 			<permissions>ru.gelin.android.weather.notification.START_UPDATE_SERVICE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -56940,10 +57099,10 @@
 	<application id="cz.yetanotherview.webcamviewer.app">
 		<id>cz.yetanotherview.webcamviewer.app</id>
 		<added>2014-12-16</added>
-		<lastupdated>2015-01-26</lastupdated>
+		<lastupdated>2015-02-03</lastupdated>
 		<name>WebCam Viewer</name>
 		<summary>View webcam streams</summary>
-		<icon>cz.yetanotherview.webcamviewer.app.36.png</icon>
+		<icon>cz.yetanotherview.webcamviewer.app.37.png</icon>
 		<desc>&lt;p&gt;Add and refresh webcams accessible from an URL.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>Internet,Multimedia</categories>
@@ -56953,6 +57112,19 @@
 		<tracker>https://github.com/TomasValenta/WebCamViewer/issues</tracker>
 		<marketversion>2.0 rc4</marketversion>
 		<marketvercode>37</marketvercode>
+		<package>
+			<version>2.0 rc4</version>
+			<versioncode>37</versioncode>
+			<apkname>cz.yetanotherview.webcamviewer.app_37.apk</apkname>
+			<srcname>cz.yetanotherview.webcamviewer.app_37_src.tar.gz</srcname>
+			<hash type="sha256">d31bc92f7c311456277dc092a2fe232fb4509b98c9cc36d00ca5bc5da21c646d</hash>
+			<sig>4e6fb534071566eb90c37013c90f4093</sig>
+			<size>1593003</size>
+			<sdkver>15</sdkver>
+			<added>2015-02-03</added>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>2.0 rc3</version>
 			<versioncode>36</versioncode>
@@ -56977,19 +57149,6 @@
 			<sdkver>15</sdkver>
 			<added>2015-01-23</added>
 			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>2.0 rc1</version>
-			<versioncode>34</versioncode>
-			<apkname>cz.yetanotherview.webcamviewer.app_34.apk</apkname>
-			<srcname>cz.yetanotherview.webcamviewer.app_34_src.tar.gz</srcname>
-			<hash type="sha256">5d92a549214c1f1921d676435a765d1f22f2abdb558fbeacf338e471eebca0b0</hash>
-			<sig>4e6fb534071566eb90c37013c90f4093</sig>
-			<size>1582859</size>
-			<sdkver>15</sdkver>
-			<added>2015-01-21</added>
-			<permissions>INTERNET,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
