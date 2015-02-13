@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1423658152" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1423731535" url="http://f-droid.org/repo" version="12">
 		<description>The official FDroid repository. Applications in this repository are built directly from the source code. (One, Firefox, is the official binary built by the Mozilla. This will ultimately be replaced by a source-built version. </description>
 	</repo>
 	<application id="de.j4velin.systemappmover">
@@ -1339,11 +1339,11 @@
 	<application id="com.madgag.agit">
 		<id>com.madgag.agit</id>
 		<added>2013-03-07</added>
-		<lastupdated>2013-07-16</lastupdated>
+		<lastupdated>2015-02-12</lastupdated>
 		<name>Agit</name>
 		<summary>Read software source code</summary>
-		<icon>com.madgag.agit.130701616.png</icon>
-		<desc>&lt;p&gt;Clone remote git repositories onto your phone!&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Just like regular Git, the full history is stored for offline access.&lt;/li&gt;&lt;li&gt; Animated Diffs - Watch diffs smoothly transition from Before to After.&lt;/li&gt;&lt;li&gt; Supports git, http, https protocols. SSH for private repos is also possible&lt;/li&gt;&lt;li&gt; Periodic sync enabled on Android 2.2 and later: latest commits fetched quarter-hourly.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Currently this is a 'read-only' client. You can clone &amp;amp; fetch, but not commit and push.&lt;/p&gt;</desc>
+		<icon>com.madgag.agit.139000000.png</icon>
+		<desc>&lt;p&gt;Clone remote git repositories onto your phone!&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Just like regular Git, the full history is stored for offline access.&lt;/li&gt;&lt;li&gt; Animated Diffs - Watch diffs smoothly transition from Before to After.&lt;/li&gt;&lt;li&gt; Supports git, http, https protocols. SSH for private repos is also possible&lt;/li&gt;&lt;li&gt; Periodic sync enabled on Android 2.3 and later: latest commits fetched quarter-hourly.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Currently this is a 'read-only' client. You can clone &amp;amp; fetch, but not commit and push.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Development</categories>
 		<category>Development</category>
@@ -1351,8 +1351,21 @@
 		<source>https://github.com/rtyley/agit</source>
 		<tracker>https://github.com/rtyley/agit/issues</tracker>
 		<flattr>799516</flattr>
-		<marketversion>1.38</marketversion>
-		<marketvercode>130400912</marketvercode>
+		<marketversion>1.39</marketversion>
+		<marketvercode>139000000</marketvercode>
+		<package>
+			<version>1.39</version>
+			<versioncode>139000000</versioncode>
+			<apkname>com.madgag.agit_139000000.apk</apkname>
+			<srcname>com.madgag.agit_139000000_src.tar.gz</srcname>
+			<hash type="sha256">51ceb6c98c20f05bf0759392c4aa7eff701a6c39e71614bc0e5f0a2db57dabe8</hash>
+			<sig>7426d38b33c3a65c145649a57b11fc08</sig>
+			<size>1709541</size>
+			<sdkver>9</sdkver>
+			<added>2015-02-12</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,READ_SYNC_STATS,WRITE_SYNC_SETTINGS,INTERNET,org.openintents.ssh.permission.ACCESS_SSH_AGENT,READ_EXTERNAL_STORAGE,VIBRATE,GET_ACCOUNTS,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.38</version>
 			<versioncode>130701616</versioncode>
@@ -1363,19 +1376,6 @@
 			<size>1658341</size>
 			<sdkver>8</sdkver>
 			<added>2013-07-16</added>
-			<permissions>READ_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,GET_ACCOUNTS,VIBRATE,org.openintents.ssh.permission.ACCESS_SSH_AGENT,READ_SYNC_STATS,INTERNET,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,WRITE_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.38</version>
-			<versioncode>130400912</versioncode>
-			<apkname>com.madgag.agit_130400812.apk</apkname>
-			<srcname>com.madgag.agit_130400812_src.tar.gz</srcname>
-			<hash type="sha256">2d9a0b3589175bf6109900c092e3861856b6c14db8800f534bd07a30c25fd394</hash>
-			<sig>7426d38b33c3a65c145649a57b11fc08</sig>
-			<size>1658342</size>
-			<sdkver>8</sdkver>
-			<added>2013-04-09</added>
 			<permissions>READ_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,AUTHENTICATE_ACCOUNTS,GET_ACCOUNTS,VIBRATE,org.openintents.ssh.permission.ACCESS_SSH_AGENT,READ_SYNC_STATS,INTERNET,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -3426,10 +3426,10 @@
 	<application id="de.danoeh.antennapod">
 		<id>de.danoeh.antennapod</id>
 		<added>2012-09-20</added>
-		<lastupdated>2014-10-16</lastupdated>
+		<lastupdated>2015-02-12</lastupdated>
 		<name>AntennaPod</name>
 		<summary>Listen to audio feeds</summary>
-		<icon>de.danoeh.antennapod.41.png</icon>
+		<icon>de.danoeh.antennapod.44.png</icon>
 		<desc>&lt;p&gt;&lt;b&gt;N.B.&lt;/b&gt; The Flattr functionality is disabled in the f-droid.org build as the API keys are not in the source.&lt;/p&gt;&lt;p&gt;AntennaPod is a podcast manager for Android 2.3.3 and above. It offers all the basic features you expect from a podcatcher, like streaming and downloading episodes, refreshing all feeds automatically or adding them to a queue to listen to them later. The Miro directory can be searched and browsed for shows.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://raw.github.com/danieloeh/AntennaPod/master/CHANGELOG.md&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Status: BETA&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Multimedia</categories>
@@ -3441,6 +3441,19 @@
 		<flattr>745609</flattr>
 		<marketversion>1.0</marketversion>
 		<marketvercode>44</marketvercode>
+		<package>
+			<version>1.0</version>
+			<versioncode>44</versioncode>
+			<apkname>de.danoeh.antennapod_44.apk</apkname>
+			<srcname>de.danoeh.antennapod_44_src.tar.gz</srcname>
+			<hash type="sha256">279c75ec0e982209c2420972c863d49204c9eee23cdc436d87148f59b422d88a</hash>
+			<sig>3870fa89bfb5e13509ce5888800bc643</sig>
+			<size>2564055</size>
+			<sdkver>10</sdkver>
+			<added>2015-02-12</added>
+			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET,ACCESS_WIFI_STATE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.wifi</features>
+		</package>
 		<package>
 			<version>0.9.9.4</version>
 			<versioncode>41</versioncode>
@@ -3464,19 +3477,6 @@
 			<size>2815685</size>
 			<sdkver>10</sdkver>
 			<added>2014-08-08</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET,ACCESS_WIFI_STATE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.wifi</features>
-		</package>
-		<package>
-			<version>0.9.9.2</version>
-			<versioncode>39</versioncode>
-			<apkname>de.danoeh.antennapod_39.apk</apkname>
-			<srcname>de.danoeh.antennapod_39_src.tar.gz</srcname>
-			<hash type="sha256">d2a185237c6bd5a9de1d60e8c55f1aa99e7e7f2565437f4a46a4cfb968d8b6e8</hash>
-			<sig>3870fa89bfb5e13509ce5888800bc643</sig>
-			<size>2708794</size>
-			<sdkver>10</sdkver>
-			<added>2014-07-26</added>
 			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET,ACCESS_WIFI_STATE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.wifi</features>
 		</package>
@@ -6918,10 +6918,10 @@
 	<application id="de.schildbach.wallet">
 		<id>de.schildbach.wallet</id>
 		<added>2012-02-27</added>
-		<lastupdated>2015-02-01</lastupdated>
+		<lastupdated>2015-02-12</lastupdated>
 		<name>Bitcoin</name>
 		<summary>Store digital currency</summary>
-		<icon>de.schildbach.wallet.208.png</icon>
+		<icon>de.schildbach.wallet.209.png</icon>
 		<desc>&lt;ul&gt;&lt;li&gt; No cloud server or web service needed: this wallet works peer to peer&lt;/li&gt;&lt;li&gt; Display of wallet balance in Bitcoin and various other currencies&lt;/li&gt;&lt;li&gt; Sending and receiving of Bitcoin via NFC, QR-codes or Bitcoin URLs&lt;/li&gt;&lt;li&gt; Address book for regularly used Bitcoin addresses&lt;/li&gt;&lt;li&gt; Enter transactions while offline, will be executed when online&lt;/li&gt;&lt;li&gt; Manages blockchain on your device&lt;/li&gt;&lt;li&gt; System notifications for Bitcoin connectivity and received coins&lt;/li&gt;&lt;li&gt; App widget for Bitcoin balance&lt;/li&gt;&lt;li&gt; Back up private keys to local storage encrypted with a password&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A few tens of MiB must be downloaded to set up the blockchain and a couple more per month subsequently to keep it updated.&lt;/p&gt;&lt;p&gt;See the &lt;a href=&quot;http://bitcoin-wallet.googlecode.com/git/wallet/README&quot;&gt;Readme&lt;/a&gt; for more details. Use this at your own risk and be wary that if you don't make a backup of the private keys you will no longer be able to acces the Bitcoins contained in the wallet, should the data of the app be lost.&lt;/p&gt;&lt;p&gt;There's a separate version of this application that uses a test version of the Bitcoin network: &lt;a href=&quot;fdroid.app:de.schildbach.wallet_test&quot;&gt;Testnet3&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://raw.github.com/schildbach/bitcoin-wallet/prod/wallet/CHANGES&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -6932,6 +6932,18 @@
 		<bitcoin>1HkX6X8EakdsgAysL93oKrWiXGPbFiG1xV</bitcoin>
 		<marketversion>4.19</marketversion>
 		<marketvercode>209</marketvercode>
+		<package>
+			<version>4.19</version>
+			<versioncode>209</versioncode>
+			<apkname>de.schildbach.wallet_209.apk</apkname>
+			<srcname>de.schildbach.wallet_209_src.tar.gz</srcname>
+			<hash type="sha256">6f16b1cf69a62a6d48a656223cd220218590cee966440aebff0769f0a5e77efe</hash>
+			<sig>eb52a39c855f2439eeb711a9f0ab611b</sig>
+			<size>4304280</size>
+			<sdkver>15</sdkver>
+			<added>2015-02-12</added>
+			<permissions>NFC,READ_EXTERNAL_STORAGE,WAKE_LOCK,VIBRATE,BLUETOOTH,CAMERA,RECEIVE_BOOT_COMPLETED,INTERNET,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>4.18</version>
 			<versioncode>208</versioncode>
@@ -6954,18 +6966,6 @@
 			<size>4300910</size>
 			<sdkver>15</sdkver>
 			<added>2015-01-23</added>
-			<permissions>NFC,READ_EXTERNAL_STORAGE,INTERNET,VIBRATE,BLUETOOTH,CAMERA,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
-		</package>
-		<package>
-			<version>4.16</version>
-			<versioncode>206</versioncode>
-			<apkname>de.schildbach.wallet_206.apk</apkname>
-			<srcname>de.schildbach.wallet_206_src.tar.gz</srcname>
-			<hash type="sha256">7794ca09dff3d5ab2f0324aef6a34b8b95dee902f13705ade5a0cafa49ee2a36</hash>
-			<sig>eb52a39c855f2439eeb711a9f0ab611b</sig>
-			<size>4270725</size>
-			<sdkver>15</sdkver>
-			<added>2014-12-25</added>
 			<permissions>NFC,READ_EXTERNAL_STORAGE,INTERNET,VIBRATE,BLUETOOTH,CAMERA,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
@@ -14219,8 +14219,8 @@
 		<web/>
 		<source>https://github.com/giraffine/Android-Project</source>
 		<tracker>https://github.com/giraffine/Android-Project/issues</tracker>
-		<marketversion>3.2.1</marketversion>
-		<marketvercode>35</marketvercode>
+		<marketversion>3.3.0</marketversion>
+		<marketvercode>36</marketvercode>
 		<package>
 			<version>3.2.1</version>
 			<versioncode>35</versioncode>
@@ -21965,8 +21965,8 @@
 		<web>http://greenaddress.com</web>
 		<source>https://github.com/greenaddress/GreenBits</source>
 		<tracker>https://github.com/greenaddress/GreenBits/issues</tracker>
-		<marketversion>1.41</marketversion>
-		<marketvercode>41</marketvercode>
+		<marketversion>1.42</marketversion>
+		<marketvercode>42</marketvercode>
 		<package>
 			<version>1.41</version>
 			<versioncode>41</versioncode>
@@ -22772,6 +22772,36 @@
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="de.kodejak.hashr">
+		<id>de.kodejak.hashr</id>
+		<added>2015-02-12</added>
+		<lastupdated>2015-02-12</lastupdated>
+		<name>Hashr</name>
+		<summary>Calculate and compare checksum hashes</summary>
+		<icon>de.kodejak.hashr.11.png</icon>
+		<desc>&lt;p&gt;Generate checksums from texts or files, compare it to other checksums and show if they match or not. Following checksums are supportet:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; MD5&lt;/li&gt;&lt;li&gt; SHA-1&lt;/li&gt;&lt;li&gt; SHA-256&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Currently a file manager must be present at the device to choose files for generating checksums.&lt;/p&gt;</desc>
+		<license>GPLv3+</license>
+		<categories>Office</categories>
+		<category>Office</category>
+		<web>https://github.com/kodejak/Hashr/blob/HEAD/README.md</web>
+		<source>https://github.com/kodejak/Hashr</source>
+		<tracker>https://github.com/kodejak/Hashr/issues</tracker>
+		<marketversion>1.1</marketversion>
+		<marketvercode>11</marketvercode>
+		<package>
+			<version>1.1</version>
+			<versioncode>11</versioncode>
+			<apkname>de.kodejak.hashr_11.apk</apkname>
+			<srcname>de.kodejak.hashr_11_src.tar.gz</srcname>
+			<hash type="sha256">75446ce983d3f0619a6565db6d3ba9de6be9a9011e39b560e08caa74cb947714</hash>
+			<sig>a0b06ae093b5d76f37480499e9183865</sig>
+			<size>1223917</size>
+			<sdkver>15</sdkver>
+			<added>2015-02-12</added>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="com.zaren">
 		<id>com.zaren</id>
 		<added>2013-03-09</added>
@@ -23239,10 +23269,10 @@
 	<application id="com.manuelmaly.hn">
 		<id>com.manuelmaly.hn</id>
 		<added>2013-04-04</added>
-		<lastupdated>2014-10-16</lastupdated>
+		<lastupdated>2015-02-12</lastupdated>
 		<name>HN</name>
 		<summary>Read and comment on tech news</summary>
-		<icon>com.manuelmaly.hn.17.png</icon>
+		<icon>com.manuelmaly.hn.18.png</icon>
 		<desc>&lt;p&gt;Hacker News client with a focus on reliability and usability.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; View articles in ViewText, Google, or your system browser (you can set each as default)&lt;/li&gt;&lt;li&gt; Upvote stories (long-press on story)&lt;/li&gt;&lt;li&gt; Collapse and expand comments by tapping on them&lt;/li&gt;&lt;li&gt; Choose from 3 text sizes&lt;/li&gt;&lt;li&gt; Switch between stories and comments with one tap&lt;/li&gt;&lt;li&gt; View &quot;more&quot; stories than only the HN frontpage&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A proprietary analytics library was removed before building.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Reading</categories>
@@ -23252,6 +23282,19 @@
 		<tracker>https://github.com/manmal/hn-android/issues</tracker>
 		<marketversion>1.9.8</marketversion>
 		<marketvercode>18</marketvercode>
+		<package>
+			<version>1.9.8</version>
+			<versioncode>18</versioncode>
+			<apkname>com.manuelmaly.hn_18.apk</apkname>
+			<srcname>com.manuelmaly.hn_18_src.tar.gz</srcname>
+			<hash type="sha256">963a119ee596aa087c4a1ecee09603e8edf19f52be0faafbbbb2bb2053563313</hash>
+			<sig>3ab16da3907ef3b63468d338d56e107a</sig>
+			<size>971184</size>
+			<sdkver>8</sdkver>
+			<added>2015-02-12</added>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.9.7</version>
 			<versioncode>17</versioncode>
@@ -23275,19 +23318,6 @@
 			<size>572561</size>
 			<sdkver>8</sdkver>
 			<added>2013-12-11</added>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.9.5</version>
-			<versioncode>15</versioncode>
-			<apkname>com.manuelmaly.hn_15.apk</apkname>
-			<srcname>com.manuelmaly.hn_15_src.tar.gz</srcname>
-			<hash type="sha256">7111343c1f8919d382fc16007d8ca7685e8e118bfd5d644b6e7c500acca58695</hash>
-			<sig>3ab16da3907ef3b63468d338d56e107a</sig>
-			<size>572584</size>
-			<sdkver>8</sdkver>
-			<added>2013-12-09</added>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -26377,6 +26407,36 @@
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="com.sunyata.kindmind">
+		<id>com.sunyata.kindmind</id>
+		<added>2015-02-12</added>
+		<lastupdated>2015-02-12</lastupdated>
+		<name>KindMind</name>
+		<summary>Be aware of sad feelings and unmet needs</summary>
+		<icon>com.sunyata.kindmind.59.png</icon>
+		<desc>&lt;p&gt;Mindfulness and self-compassion tracker which brings awareness to painful feelings and the unmet needs causing these feelings. It can also be customized to suggest kind actions that can be taken after the feelings and need have been identified.&lt;/p&gt;</desc>
+		<license>GPLv3</license>
+		<categories>Office</categories>
+		<category>Office</category>
+		<web/>
+		<source>https://github.com/SunyataZero/KindMind</source>
+		<tracker>https://github.com/SunyataZero/KindMind/issues</tracker>
+		<marketversion>1.0.0_BETA</marketversion>
+		<marketvercode>59</marketvercode>
+		<package>
+			<version>1.0.0_BETA</version>
+			<versioncode>59</versioncode>
+			<apkname>com.sunyata.kindmind_59.apk</apkname>
+			<srcname>com.sunyata.kindmind_59_src.tar.gz</srcname>
+			<hash type="sha256">8ca0dfe53f4606b31105af35828268bd36b0d36ce1c49b825e4eb752b2274e8b</hash>
+			<sig>4800fdce7ea52c6520f948da5dbc8d57</sig>
+			<size>307241</size>
+			<sdkver>15</sdkver>
+			<added>2015-02-12</added>
+			<permissions>ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,com.android.browser.permission.READ_HISTORY_BOOKMARKS,READ_CONTACTS,WRITE_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
 	<application id="com.leinardi.kitchentimer">
 		<id>com.leinardi.kitchentimer</id>
 		<added>2012-01-28</added>
@@ -27692,10 +27752,10 @@
 	<application id="org.fitchfamily.android.gsmlocation">
 		<id>org.fitchfamily.android.gsmlocation</id>
 		<added>2014-12-20</added>
-		<lastupdated>2015-01-02</lastupdated>
+		<lastupdated>2015-02-12</lastupdated>
 		<name>LocalGsmNlpBackend</name>
 		<summary>UnifiedNlp location provider (local GSM database)</summary>
-		<icon>org.fitchfamily.android.gsmlocation.11.png</icon>
+		<icon>org.fitchfamily.android.gsmlocation.13.png</icon>
 		<desc>&lt;p&gt;&lt;a href=&quot;fdroid.app:com.google.android.gms&quot;&gt;µg UnifiedNlp&lt;/a&gt; backend that uses local GSM data to resolve user location.&lt;/p&gt;&lt;p&gt;A facility in the setting menu allows you to create a database using data from &lt;a href=&quot;http://opencellid.org&quot;&gt;OpenCellId&lt;/a&gt; and/or &lt;a href=&quot;https://location.services.mozilla.com&quot;&gt;Mozilla Location Services&lt;/a&gt; CSV files. Alternatively, the on-phone database can be generated in advance via the &lt;a href=&quot;lacells-creator&quot;&gt;https://github.com/n76/lacells-creator&lt;/a&gt; scripts that gather tower information from those two sources, too.&lt;/p&gt;&lt;p&gt;This backend performs no network data. All data acquired by the phone stays on the phone and no queries are made to a centralized AP location provider.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>Navigation</categories>
@@ -27703,8 +27763,21 @@
 		<web>https://github.com/n76/Local-GSM-Backend/blob/HEAD/README.md</web>
 		<source>https://github.com/n76/Local-GSM-Backend</source>
 		<tracker>https://github.com/n76/Local-GSM-Backend/issues</tracker>
-		<marketversion>0.5.6</marketversion>
-		<marketvercode>11</marketvercode>
+		<marketversion>0.5.8</marketversion>
+		<marketvercode>13</marketvercode>
+		<package>
+			<version>0.5.8</version>
+			<versioncode>13</versioncode>
+			<apkname>org.fitchfamily.android.gsmlocation_13.apk</apkname>
+			<srcname>org.fitchfamily.android.gsmlocation_13_src.tar.gz</srcname>
+			<hash type="sha256">b8bfbc58b3c50e4d00fd2e5321b7377f4aef9921a701fad12040767946dd0890</hash>
+			<sig>b392903bb331fa6af251627c7f9dba66</sig>
+			<size>34541</size>
+			<sdkver>18</sdkver>
+			<added>2015-02-12</added>
+			<permissions>READ_EXTERNAL_STORAGE,ACCESS_COARSE_LOCATION,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
+			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.network</features>
+		</package>
 		<package>
 			<version>0.5.6</version>
 			<versioncode>11</versioncode>
@@ -38811,10 +38884,10 @@
 	<application id="org.gittner.osmbugs">
 		<id>org.gittner.osmbugs</id>
 		<added>2015-01-03</added>
-		<lastupdated>2015-02-02</lastupdated>
+		<lastupdated>2015-02-12</lastupdated>
 		<name>OSMBugs</name>
 		<summary>View OpenStreetMap errors</summary>
-		<icon>org.gittner.osmbugs.17.png</icon>
+		<icon>org.gittner.osmbugs.18.png</icon>
 		<desc>&lt;p&gt;Display bugs and errors from various quality assurance services on a map.&lt;/p&gt;&lt;p&gt;Supported Platforms:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Notes&lt;/li&gt;&lt;li&gt; Keepright&lt;/li&gt;&lt;li&gt; Mapdust&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>WTFPL</license>
 		<categories>Office</categories>
@@ -38822,8 +38895,21 @@
 		<web/>
 		<source>https://github.com/Gittner/OSMBugs</source>
 		<tracker>https://github.com/Gittner/OSMBugs/issues</tracker>
-		<marketversion>0-8-2</marketversion>
-		<marketvercode>17</marketvercode>
+		<marketversion>0-8-3</marketversion>
+		<marketvercode>18</marketvercode>
+		<package>
+			<version>0-8-3</version>
+			<versioncode>18</versioncode>
+			<apkname>org.gittner.osmbugs_18.apk</apkname>
+			<srcname>org.gittner.osmbugs_18_src.tar.gz</srcname>
+			<hash type="sha256">85fe2cf9a42f5fef47f88c07e8910fd6594568cd591695b93b588c1f98603fb3</hash>
+			<sig>8f8da887ee3a22ab8db87e8c498667fc</sig>
+			<size>648290</size>
+			<sdkver>14</sdkver>
+			<added>2015-02-12</added>
+			<permissions>ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,ACCESS_COARSE_LOCATION,INTERNET,ACCESS_FINE_LOCATION,WRITE_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.location.network</features>
+		</package>
 		<package>
 			<version>0-8-2</version>
 			<versioncode>17</versioncode>
@@ -38848,19 +38934,6 @@
 			<sdkver>14</sdkver>
 			<added>2015-01-26</added>
 			<permissions>ACCESS_NETWORK_STATE,READ_EXTERNAL_STORAGE,ACCESS_COARSE_LOCATION,INTERNET,ACCESS_FINE_LOCATION,WRITE_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.location.network</features>
-		</package>
-		<package>
-			<version>0-8-0</version>
-			<versioncode>15</versioncode>
-			<apkname>org.gittner.osmbugs_15.apk</apkname>
-			<srcname>org.gittner.osmbugs_15_src.tar.gz</srcname>
-			<hash type="sha256">8a6a05d727dbe51764080fda15b62c25742ae38d30df54ba4936f30661bc0215</hash>
-			<sig>8f8da887ee3a22ab8db87e8c498667fc</sig>
-			<size>599538</size>
-			<sdkver>14</sdkver>
-			<added>2015-01-18</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,ACCESS_COARSE_LOCATION,INTERNET,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.location.network</features>
 		</package>
 	</application>
@@ -39157,10 +39230,10 @@
 	<application id="fr.unix_experience.owncloud_sms">
 		<id>fr.unix_experience.owncloud_sms</id>
 		<added>2015-01-25</added>
-		<lastupdated>2015-01-25</lastupdated>
+		<lastupdated>2015-02-12</lastupdated>
 		<name>ownCloud-SMS</name>
 		<summary>Synchronize your SMS messages with ownCloud</summary>
-		<icon>fr.unix_experience.owncloud_sms.17.png</icon>
+		<icon>fr.unix_experience.owncloud_sms.18.png</icon>
 		<desc>&lt;p&gt;App to synchronize your SMS messages on a remote ownCloud instance and let you read your messages from it.&lt;/p&gt;&lt;p&gt;Sending SMS from ownCloud instance will coming in a future release.&lt;/p&gt;&lt;p&gt;Application is fully compatible from Android 4.0 to 5.0&lt;/p&gt;&lt;p&gt;Note: This app needs an ownCloud installation running the &lt;a href=&quot;http://apps.owncloud.com/content/show.php/ownCloud+SMS?content=167289&quot;&gt;ocsms&lt;/a&gt; app.&lt;/p&gt;</desc>
 		<license>AGPLv3</license>
 		<categories>Phone &amp; SMS</categories>
@@ -39170,6 +39243,20 @@
 		<tracker>https://github.com/nerzhul/ownCloud-SMS-App/issues</tracker>
 		<marketversion>0.17.0</marketversion>
 		<marketvercode>18</marketvercode>
+		<package>
+			<version>0.17.0</version>
+			<versioncode>18</versioncode>
+			<apkname>fr.unix_experience.owncloud_sms_18.apk</apkname>
+			<srcname>fr.unix_experience.owncloud_sms_18_src.tar.gz</srcname>
+			<hash type="sha256">6f4d79431ed15a631d7b250bd2649a7d7647ea5ca0cd8ac2c928d558d7b7db07</hash>
+			<sig>1504441716c60fbc2049b061a4229fa6</sig>
+			<size>1184962</size>
+			<sdkver>14</sdkver>
+			<maxsdkver>21</maxsdkver>
+			<added>2015-02-12</added>
+			<permissions>ACCESS_NETWORK_STATE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,WAKE_LOCK,GET_ACCOUNTS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,INTERNET,READ_SYNC_SETTINGS,READ_SMS,MANAGE_ACCOUNTS,RECEIVE_SMS,AUTHENTICATE_ACCOUNTS</permissions>
+			<features>android.hardware.telephony,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.16.1</version>
 			<versioncode>17</versioncode>
@@ -45159,10 +45246,10 @@
 	<application id="com.abcdjdj.rootverifier">
 		<id>com.abcdjdj.rootverifier</id>
 		<added>2013-08-09</added>
-		<lastupdated>2014-06-13</lastupdated>
+		<lastupdated>2015-02-12</lastupdated>
 		<name>Root Verifier</name>
 		<summary>Check if device is rooted</summary>
-		<icon>com.abcdjdj.rootverifier.7.png</icon>
+		<icon>com.abcdjdj.rootverifier.8.png</icon>
 		<desc>&lt;p&gt;RootVerifier checks if your Android device has Superuser (&quot;root&quot;) access or not. It can be quite useful for those who are new to the Android world and don't know whether their device is rooted yet.&lt;/p&gt;</desc>
 		<license>GPLv2+</license>
 		<categories>System</categories>
@@ -45172,6 +45259,19 @@
 		<tracker>https://github.com/abcdjdj/RootVerifier-APP/issues</tracker>
 		<marketversion>1.7</marketversion>
 		<marketvercode>8</marketvercode>
+		<package>
+			<version>1.7</version>
+			<versioncode>8</versioncode>
+			<apkname>com.abcdjdj.rootverifier_8.apk</apkname>
+			<srcname>com.abcdjdj.rootverifier_8_src.tar.gz</srcname>
+			<hash type="sha256">efd847d7748de84429b53d27afcc760fbb5a5f5bfec2455912cb42b70ec1ec05</hash>
+			<sig>468e86798d8462ab65b709e829a004d1</sig>
+			<size>390878</size>
+			<sdkver>8</sdkver>
+			<added>2015-02-12</added>
+			<permissions>ACCESS_SUPERUSER</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.6</version>
 			<versioncode>7</versioncode>
@@ -45195,19 +45295,6 @@
 			<size>406055</size>
 			<sdkver>8</sdkver>
 			<added>2014-06-09</added>
-			<permissions>ACCESS_SUPERUSER</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.4</version>
-			<versioncode>5</versioncode>
-			<apkname>com.abcdjdj.rootverifier_5.apk</apkname>
-			<srcname>com.abcdjdj.rootverifier_5_src.tar.gz</srcname>
-			<hash type="sha256">66787668b0dd3b4f74790cc8d23bf674a2c9e8a8e90f0474c418411788ecbc79</hash>
-			<sig>468e86798d8462ab65b709e829a004d1</sig>
-			<size>1032257</size>
-			<sdkver>8</sdkver>
-			<added>2014-02-22</added>
 			<permissions>ACCESS_SUPERUSER</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -48160,6 +48247,36 @@
 			<sdkver>8</sdkver>
 			<added>2012-10-10</added>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
+	<application id="souch.smp">
+		<id>souch.smp</id>
+		<added>2015-02-12</added>
+		<lastupdated>2015-02-12</lastupdated>
+		<name>SicMu Player</name>
+		<summary>Play music files</summary>
+		<icon>souch.smp.2.png</icon>
+		<desc>&lt;p&gt;Lightweight audio player which features a single over-all playlist with every song on the device. Can be sorted and grouped by folders, genres, artists, albums and album's track. It works on old slow small devices (from Android froyo 2.2). No eye candy graphics.&lt;/p&gt;</desc>
+		<license>GPLv3</license>
+		<categories>Multimedia</categories>
+		<category>Multimedia</category>
+		<web>https://github.com/souch/SMP/blob/HEAD/README.md</web>
+		<source>https://github.com/souch/SMP</source>
+		<tracker>https://github.com/souch/SMP/issues</tracker>
+		<marketversion>0.2</marketversion>
+		<marketvercode>2</marketvercode>
+		<package>
+			<version>0.2</version>
+			<versioncode>2</versioncode>
+			<apkname>souch.smp_2.apk</apkname>
+			<srcname>souch.smp_2_src.tar.gz</srcname>
+			<hash type="sha256">46560480d81950deb821931423057ca43017e0fd848b5ac60cd897553d03b65f</hash>
+			<sig>878a7ab83537c8be9d513ce493440957</sig>
+			<size>154832</size>
+			<sdkver>8</sdkver>
+			<added>2015-02-12</added>
+			<permissions>READ_EXTERNAL_STORAGE,WAKE_LOCK</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -52596,10 +52713,10 @@
 	<application id="de.schildbach.wallet_test">
 		<id>de.schildbach.wallet_test</id>
 		<added>2012-04-07</added>
-		<lastupdated>2015-02-01</lastupdated>
+		<lastupdated>2015-02-12</lastupdated>
 		<name>Testnet3</name>
 		<summary>Testing version of Bitcoin</summary>
-		<icon>de.schildbach.wallet_test.208.png</icon>
+		<icon>de.schildbach.wallet_test.209.png</icon>
 		<desc>&lt;p&gt;A bitcoin wallet, allowing you to store, send and receive bitcoins on your device, both via QR codes and NFC. When run for the first time, it can happen that the app shows only a white display for some seconds.&lt;/p&gt;&lt;p&gt;This is a test version of &lt;a href=&quot;fdroid.app:de.schildbach.wallet&quot;&gt;Bitcoin&lt;/a&gt; that uses the test Bitcoin network, not the real one.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/schildbach/bitcoin-wallet/blob/HEAD/wallet/CHANGES&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -52610,6 +52727,18 @@
 		<bitcoin>1HkX6X8EakdsgAysL93oKrWiXGPbFiG1xV</bitcoin>
 		<marketversion>4.19-test</marketversion>
 		<marketvercode>209</marketvercode>
+		<package>
+			<version>4.19-test</version>
+			<versioncode>209</versioncode>
+			<apkname>de.schildbach.wallet_test_209.apk</apkname>
+			<srcname>de.schildbach.wallet_test_209_src.tar.gz</srcname>
+			<hash type="sha256">99d3f770afcb753ace354e22cb2da55aacff84590b48559ee4cf385a51688d29</hash>
+			<sig>e02308f5a8441a390a03b31ff9f45511</sig>
+			<size>4294228</size>
+			<sdkver>15</sdkver>
+			<added>2015-02-12</added>
+			<permissions>NFC,READ_EXTERNAL_STORAGE,WAKE_LOCK,VIBRATE,BLUETOOTH,CAMERA,RECEIVE_BOOT_COMPLETED,INTERNET,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>4.18-test</version>
 			<versioncode>208</versioncode>
@@ -52632,18 +52761,6 @@
 			<size>4291004</size>
 			<sdkver>15</sdkver>
 			<added>2015-01-23</added>
-			<permissions>NFC,READ_EXTERNAL_STORAGE,INTERNET,VIBRATE,BLUETOOTH,CAMERA,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
-		</package>
-		<package>
-			<version>4.16-test</version>
-			<versioncode>206</versioncode>
-			<apkname>de.schildbach.wallet_test_206.apk</apkname>
-			<srcname>de.schildbach.wallet_test_206_src.tar.gz</srcname>
-			<hash type="sha256">043c9d9b21594b64a14f1bc7886126e8be04fee241bfbcd6b382c39030f19c29</hash>
-			<sig>e02308f5a8441a390a03b31ff9f45511</sig>
-			<size>4260799</size>
-			<sdkver>15</sdkver>
-			<added>2014-12-25</added>
 			<permissions>NFC,READ_EXTERNAL_STORAGE,INTERNET,VIBRATE,BLUETOOTH,CAMERA,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
@@ -52948,10 +53065,10 @@
 	<application id="de.smasi.tickmate">
 		<id>de.smasi.tickmate</id>
 		<added>2014-01-20</added>
-		<lastupdated>2015-02-05</lastupdated>
+		<lastupdated>2015-02-12</lastupdated>
 		<name>Tickmate</name>
 		<summary>One bit journal</summary>
-		<icon>de.smasi.tickmate.19.png</icon>
+		<icon>de.smasi.tickmate.20.png</icon>
 		<desc>&lt;p&gt;Tickmate is basically a one bit journal. For each day, you can specify whether something occurred or not. The occurrences can be arbitrary things, like flossing your teeth or having a drink. You are able to quantify your habits and the accumulated data can be displayed for the past weeks or months to track changes over time. This way, it may help you to get over your old habits or embody new ones.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -52960,8 +53077,21 @@
 		<source>https://github.com/lordi/tickmate</source>
 		<tracker>https://github.com/lordi/tickmate/issues</tracker>
 		<bitcoin>18tub3juj26zyGwdpmGDLgtLEpfFf2Nvhu</bitcoin>
-		<marketversion>1.2.0</marketversion>
-		<marketvercode>19</marketvercode>
+		<marketversion>1.2.1</marketversion>
+		<marketvercode>20</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>20</versioncode>
+			<apkname>de.smasi.tickmate_20.apk</apkname>
+			<srcname>de.smasi.tickmate_20_src.tar.gz</srcname>
+			<hash type="sha256">0f793166f7c5f111f0a97f001bbe51c9185f3746f79c5d935f3d836c82c2a6ab</hash>
+			<sig>6502d1da51b6c84f96ff0c68857e9de9</sig>
+			<size>903753</size>
+			<sdkver>11</sdkver>
+			<added>2015-02-12</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.2.0</version>
 			<versioncode>19</versioncode>
@@ -52985,19 +53115,6 @@
 			<size>888757</size>
 			<sdkver>11</sdkver>
 			<added>2014-11-04</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.1.1</version>
-			<versioncode>14</versioncode>
-			<apkname>de.smasi.tickmate_14.apk</apkname>
-			<srcname>de.smasi.tickmate_14_src.tar.gz</srcname>
-			<hash type="sha256">5d996f9fd229cc50ee2a9631f55235207ce406a45f03976b4e6f1b9ffd57f048</hash>
-			<sig>6502d1da51b6c84f96ff0c68857e9de9</sig>
-			<size>875823</size>
-			<sdkver>11</sdkver>
-			<added>2014-02-20</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -57504,10 +57621,10 @@
 	<application id="cz.yetanotherview.webcamviewer.app">
 		<id>cz.yetanotherview.webcamviewer.app</id>
 		<added>2014-12-16</added>
-		<lastupdated>2015-02-05</lastupdated>
-		<name>WebCam Viewer</name>
+		<lastupdated>2015-02-12</lastupdated>
+		<name>WebCams</name>
 		<summary>View webcam streams</summary>
-		<icon>cz.yetanotherview.webcamviewer.app.38.png</icon>
+		<icon>cz.yetanotherview.webcamviewer.app.40.png</icon>
 		<desc>&lt;p&gt;Add and refresh webcams accessible from an URL.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>Internet,Multimedia</categories>
@@ -57515,8 +57632,34 @@
 		<web>https://github.com/TomasValenta/WebCamViewer/blob/HEAD/README.md</web>
 		<source>https://github.com/TomasValenta/WebCamViewer</source>
 		<tracker>https://github.com/TomasValenta/WebCamViewer/issues</tracker>
-		<marketversion>2.0.1</marketversion>
-		<marketvercode>39</marketvercode>
+		<marketversion>2.0.2</marketversion>
+		<marketvercode>40</marketvercode>
+		<package>
+			<version>2.0.2</version>
+			<versioncode>40</versioncode>
+			<apkname>cz.yetanotherview.webcamviewer.app_40.apk</apkname>
+			<srcname>cz.yetanotherview.webcamviewer.app_40_src.tar.gz</srcname>
+			<hash type="sha256">3776a87f46484146d9776374fadc8218df9718fd6a99575493bce23712aa398f</hash>
+			<sig>4e6fb534071566eb90c37013c90f4093</sig>
+			<size>1599238</size>
+			<sdkver>15</sdkver>
+			<added>2015-02-12</added>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+		<package>
+			<version>2.0.1</version>
+			<versioncode>39</versioncode>
+			<apkname>cz.yetanotherview.webcamviewer.app_39.apk</apkname>
+			<srcname>cz.yetanotherview.webcamviewer.app_39_src.tar.gz</srcname>
+			<hash type="sha256">af461d357533d18129b1242ac224a4cebbb5484c32c4cda3444ac7c547dde8ce</hash>
+			<sig>4e6fb534071566eb90c37013c90f4093</sig>
+			<size>1598071</size>
+			<sdkver>15</sdkver>
+			<added>2015-02-12</added>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>2.0</version>
 			<versioncode>38</versioncode>
@@ -57528,32 +57671,6 @@
 			<sdkver>15</sdkver>
 			<added>2015-02-05</added>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>2.0 rc4</version>
-			<versioncode>37</versioncode>
-			<apkname>cz.yetanotherview.webcamviewer.app_37.apk</apkname>
-			<srcname>cz.yetanotherview.webcamviewer.app_37_src.tar.gz</srcname>
-			<hash type="sha256">d31bc92f7c311456277dc092a2fe232fb4509b98c9cc36d00ca5bc5da21c646d</hash>
-			<sig>4e6fb534071566eb90c37013c90f4093</sig>
-			<size>1593003</size>
-			<sdkver>15</sdkver>
-			<added>2015-02-03</added>
-			<permissions>INTERNET,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>2.0 rc3</version>
-			<versioncode>36</versioncode>
-			<apkname>cz.yetanotherview.webcamviewer.app_36.apk</apkname>
-			<srcname>cz.yetanotherview.webcamviewer.app_36_src.tar.gz</srcname>
-			<hash type="sha256">35cbbe63894e7737b1f35878aa3d058c4aa44bf4ed248531153b03860fea8bf9</hash>
-			<sig>4e6fb534071566eb90c37013c90f4093</sig>
-			<size>1575486</size>
-			<sdkver>15</sdkver>
-			<added>2015-01-26</added>
-			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -59494,7 +59611,7 @@
 		<name>Xabber</name>
 		<summary>Instant messaging client</summary>
 		<icon>com.xabber.androiddev.115.png</icon>
-		<desc>&lt;p&gt;Jabber (XMPP) client app with multiple accounts, privacy modes and a clean and simple interface. #IM&lt;/p&gt;&lt;p&gt;Supported protocols:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; RFC-3920: Core;&lt;/li&gt;&lt;li&gt; RFC-3921: Instant Messaging and Presence;&lt;/li&gt;&lt;li&gt; XEP-0030: Service Discovery;&lt;/li&gt;&lt;li&gt; XEP-0128: Service Discovery Extensions;&lt;/li&gt;&lt;li&gt; XEP-0115: Entity Capabilities;&lt;/li&gt;&lt;li&gt; XEP-0054: vcard-temp;&lt;/li&gt;&lt;li&gt; XEP-0153: vCard-Based Avatars;&lt;/li&gt;&lt;li&gt; XEP-0045: Multi-User Chat (incompletely);&lt;/li&gt;&lt;li&gt; XEP-0078: Non-SASL Authentication;&lt;/li&gt;&lt;li&gt; XEP-0138: Stream Compression;&lt;/li&gt;&lt;li&gt; XEP-0203: Delayed Delivery;&lt;/li&gt;&lt;li&gt; XEP-0091: Legacy Delayed Delivery;&lt;/li&gt;&lt;li&gt; XEP-0199: XMPP Ping;&lt;/li&gt;&lt;li&gt; XEP-0147: XMPP URI Scheme Query Components;&lt;/li&gt;&lt;li&gt; XEP-0085: Chat State Notifications;&lt;/li&gt;&lt;li&gt; XEP-0184: Message Delivery Receipts;&lt;/li&gt;&lt;li&gt; XEP-0155: Stanza Session Negotiation;&lt;/li&gt;&lt;li&gt; XEP-0059: Result Set Management;&lt;/li&gt;&lt;li&gt; XEP-0136: Message Archiving;&lt;/li&gt;&lt;li&gt; XEP-0224: Attention.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/redsolution/xabber-android/blob/master/app/src/main/res/values/change_log.xml&quot;&gt;ChangeLog&lt;/a&gt;&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;Jabber (XMPP) client app with multiple accounts, privacy modes and a clean and simple interface. #IM&lt;/p&gt;&lt;p&gt;Supported protocols:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; RFC-3920: Core;&lt;/li&gt;&lt;li&gt; RFC-3921: Instant Messaging and Presence;&lt;/li&gt;&lt;li&gt; XEP-0030: Service Discovery;&lt;/li&gt;&lt;li&gt; XEP-0128: Service Discovery Extensions;&lt;/li&gt;&lt;li&gt; XEP-0115: Entity Capabilities;&lt;/li&gt;&lt;li&gt; XEP-0054: vcard-temp;&lt;/li&gt;&lt;li&gt; XEP-0153: vCard-Based Avatars;&lt;/li&gt;&lt;li&gt; XEP-0045: Multi-User Chat (incompletely);&lt;/li&gt;&lt;li&gt; XEP-0078: Non-SASL Authentication;&lt;/li&gt;&lt;li&gt; XEP-0138: Stream Compression;&lt;/li&gt;&lt;li&gt; XEP-0203: Delayed Delivery;&lt;/li&gt;&lt;li&gt; XEP-0091: Legacy Delayed Delivery;&lt;/li&gt;&lt;li&gt; XEP-0199: XMPP Ping;&lt;/li&gt;&lt;li&gt; XEP-0147: XMPP URI Scheme Query Components;&lt;/li&gt;&lt;li&gt; XEP-0085: Chat State Notifications;&lt;/li&gt;&lt;li&gt; XEP-0184: Message Delivery Receipts;&lt;/li&gt;&lt;li&gt; XEP-0155: Stanza Session Negotiation;&lt;/li&gt;&lt;li&gt; XEP-0059: Result Set Management;&lt;/li&gt;&lt;li&gt; XEP-0136: Message Archiving;&lt;/li&gt;&lt;li&gt; XEP-0224: Attention.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/redsolution/xabber-android/wiki/Xabber-Version-History&quot;&gt;Version History&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
 		<category>Internet</category>
