@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1431179674" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1431240432" url="http://f-droid.org/repo" version="12">
 		<description>The official FDroid repository. Applications in this repository are built directly from the source code. (One, Firefox, is the official binary built by the Mozilla. This will ultimately be replaced by a source-built version. </description>
 	</repo>
 	<application id="de.j4velin.systemappmover">
@@ -925,10 +925,10 @@
 	<application id="com.achep.acdisplay">
 		<id>com.achep.acdisplay</id>
 		<added>2014-06-07</added>
-		<lastupdated>2015-05-06</lastupdated>
+		<lastupdated>2015-05-10</lastupdated>
 		<name>AcDisplay</name>
 		<summary>Handle new notifications with ease</summary>
-		<icon>com.achep.acdisplay.67.png</icon>
+		<icon>com.achep.acdisplay.68.png</icon>
 		<desc>&lt;p&gt;AcDisplay is a new way of handling notifications in Android. It will let you know about new notifications by showing a minimal, beautiful screen, allowing you to open them directly from the lock screen. And if you want to see what's going on, you can simply take your phone out of your pocket to view all the latest notifications, in a similarly pleasing and minimalistic manner.&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Great design and awesome performance.&lt;/li&gt;&lt;li&gt; Active mode (uses the device's sensors to wake your device up when you need it.)&lt;/li&gt;&lt;li&gt; Use AcDisplay as your lockscreen.&lt;/li&gt;&lt;li&gt; Translated to most popular languages.&lt;/li&gt;&lt;li&gt; Inactive hours (to save some battery.)&lt;/li&gt;&lt;li&gt; Enable only while charging.&lt;/li&gt;&lt;li&gt; Lots of other features such as: Blacklist, Dynamic background, Low-priority notifications and much more.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;This app uses a precompiled library: XposedBridge.&lt;/p&gt;</desc>
 		<license>GPLv2+</license>
 		<categories>System</categories>
@@ -938,6 +938,19 @@
 		<tracker>https://github.com/AChep/AcDisplay/issues</tracker>
 		<marketversion>3.6.1</marketversion>
 		<marketvercode>68</marketvercode>
+		<package>
+			<version>3.6.1</version>
+			<versioncode>68</versioncode>
+			<apkname>com.achep.acdisplay_68.apk</apkname>
+			<srcname>com.achep.acdisplay_68_src.tar.gz</srcname>
+			<hash type="sha256">7f126d469c26166dccf1d85ba351c8dd49ab7503ea1adfa13ca2dff78774923a</hash>
+			<sig>b8eda2593bf479055543f4e3088cc3ac</sig>
+			<size>2947390</size>
+			<sdkver>16</sdkver>
+			<added>2015-05-10</added>
+			<permissions>MEDIA_CONTENT_CONTROL,GET_TASKS,ACCESS_NETWORK_STATE,BIND_ACCESSIBILITY_SERVICE,WRITE_SETTINGS,INTERNET,VIBRATE,DISABLE_KEYGUARD,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.android.vending.BILLING,PACKAGE_USAGE_STATS</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>3.6</version>
 			<versioncode>67</versioncode>
@@ -961,19 +974,6 @@
 			<size>2804239</size>
 			<sdkver>16</sdkver>
 			<added>2015-05-05</added>
-			<permissions>MEDIA_CONTENT_CONTROL,GET_TASKS,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,WRITE_SETTINGS,DISABLE_KEYGUARD,VIBRATE,BIND_ACCESSIBILITY_SERVICE,INTERNET,com.android.vending.BILLING,WAKE_LOCK,PACKAGE_USAGE_STATS</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>3.4.4</version>
-			<versioncode>64</versioncode>
-			<apkname>com.achep.acdisplay_64.apk</apkname>
-			<srcname>com.achep.acdisplay_64_src.tar.gz</srcname>
-			<hash type="sha256">6b5eeff457a7b5f4c1ae8c3d95e68b3c05a7f9fc6f3bd9d1b30439f1709d0f23</hash>
-			<sig>b8eda2593bf479055543f4e3088cc3ac</sig>
-			<size>2798594</size>
-			<sdkver>16</sdkver>
-			<added>2015-05-03</added>
 			<permissions>MEDIA_CONTENT_CONTROL,GET_TASKS,ACCESS_NETWORK_STATE,RECEIVE_BOOT_COMPLETED,WRITE_SETTINGS,DISABLE_KEYGUARD,VIBRATE,BIND_ACCESSIBILITY_SERVICE,INTERNET,com.android.vending.BILLING,WAKE_LOCK,PACKAGE_USAGE_STATS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -7701,10 +7701,10 @@
 	<application id="de.schildbach.wallet">
 		<id>de.schildbach.wallet</id>
 		<added>2012-02-27</added>
-		<lastupdated>2015-05-02</lastupdated>
+		<lastupdated>2015-05-10</lastupdated>
 		<name>Bitcoin</name>
 		<summary>Store digital currency</summary>
-		<icon>de.schildbach.wallet.217.png</icon>
+		<icon>de.schildbach.wallet.218.png</icon>
 		<desc>&lt;ul&gt;&lt;li&gt; No cloud server or web service needed: this wallet works peer to peer&lt;/li&gt;&lt;li&gt; Display of wallet balance in Bitcoin and various other currencies&lt;/li&gt;&lt;li&gt; Sending and receiving of Bitcoin via NFC, QR-codes or Bitcoin URLs&lt;/li&gt;&lt;li&gt; Address book for regularly used Bitcoin addresses&lt;/li&gt;&lt;li&gt; Enter transactions while offline, will be executed when online&lt;/li&gt;&lt;li&gt; Manages blockchain on your device&lt;/li&gt;&lt;li&gt; System notifications for Bitcoin connectivity and received coins&lt;/li&gt;&lt;li&gt; App widget for Bitcoin balance&lt;/li&gt;&lt;li&gt; Back up private keys to local storage encrypted with a password&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A few tens of MiB must be downloaded to set up the blockchain and a couple more per month subsequently to keep it updated.&lt;/p&gt;&lt;p&gt;See the &lt;a href=&quot;http://bitcoin-wallet.googlecode.com/git/wallet/README&quot;&gt;Readme&lt;/a&gt; for more details. Use this at your own risk and be wary that if you don't make a backup of the private keys you will no longer be able to acces the Bitcoins contained in the wallet, should the data of the app be lost.&lt;/p&gt;&lt;p&gt;There's a separate version of this application that uses a test version of the Bitcoin network: &lt;a href=&quot;fdroid.app:de.schildbach.wallet_test&quot;&gt;Testnet3&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://raw.github.com/schildbach/bitcoin-wallet/prod/wallet/CHANGES&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -7715,6 +7715,18 @@
 		<bitcoin>1HkX6X8EakdsgAysL93oKrWiXGPbFiG1xV</bitcoin>
 		<marketversion>4.28</marketversion>
 		<marketvercode>218</marketvercode>
+		<package>
+			<version>4.28</version>
+			<versioncode>218</versioncode>
+			<apkname>de.schildbach.wallet_218.apk</apkname>
+			<srcname>de.schildbach.wallet_218_src.tar.gz</srcname>
+			<hash type="sha256">09e59b3aef3e5017c32ae0bfc7f869975ef89a0b8aef6c755b26bd0dd7551ceb</hash>
+			<sig>eb52a39c855f2439eeb711a9f0ab611b</sig>
+			<size>2540474</size>
+			<sdkver>15</sdkver>
+			<added>2015-05-10</added>
+			<permissions>NFC,READ_EXTERNAL_STORAGE,WAKE_LOCK,VIBRATE,BLUETOOTH,CAMERA,RECEIVE_BOOT_COMPLETED,INTERNET,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>4.27</version>
 			<versioncode>217</versioncode>
@@ -7738,18 +7750,6 @@
 			<sdkver>15</sdkver>
 			<added>2015-04-22</added>
 			<permissions>NFC,READ_EXTERNAL_STORAGE,WAKE_LOCK,VIBRATE,BLUETOOTH,CAMERA,RECEIVE_BOOT_COMPLETED,INTERNET,WRITE_EXTERNAL_STORAGE</permissions>
-		</package>
-		<package>
-			<version>4.24</version>
-			<versioncode>214</versioncode>
-			<apkname>de.schildbach.wallet_214.apk</apkname>
-			<srcname>de.schildbach.wallet_214_src.tar.gz</srcname>
-			<hash type="sha256">ccbdee1bd0fc7a2754c1b5e45ea3cbb239fadc0e9fdb46e121cdac1bc6df7f89</hash>
-			<sig>eb52a39c855f2439eeb711a9f0ab611b</sig>
-			<size>4354985</size>
-			<sdkver>15</sdkver>
-			<added>2015-04-15</added>
-			<permissions>NFC,READ_EXTERNAL_STORAGE,INTERNET,VIBRATE,BLUETOOTH,CAMERA,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="com.veken0m.bitcoinium">
@@ -9650,10 +9650,10 @@
 	<application id="at.bitfire.cadroid">
 		<id>at.bitfire.cadroid</id>
 		<added>2014-08-10</added>
-		<lastupdated>2015-04-26</lastupdated>
+		<lastupdated>2015-05-10</lastupdated>
 		<name>CAdroid</name>
 		<summary>Certificate importer</summary>
-		<icon>at.bitfire.cadroid.7.png</icon>
+		<icon>at.bitfire.cadroid.8.png</icon>
 		<desc>&lt;p&gt;Assist you in importing your self-signed certificate to your Android device:&lt;/p&gt;&lt;p&gt;After you enter the host name of your HTTPS site, its certificate will be extracted and shown to you. Possible mistakes that may prevent successful import will be detected and displayed. As soon as you have verified the certificate by its details and fingerprints, it will be exported into a .crt file. You can then simply import the certificate from the file with a few clicks.&lt;/p&gt;&lt;p&gt;When the certificate was imported correctly, it will be accepted in (nearly) all apps, including &lt;a href=&quot;fdroid.app:at.bitfire.davdroid&quot;&gt;DAVdroid&lt;/a&gt; and the Android email app don't choose &quot;Accept all certificates&quot; there, see &lt;a href=&quot;https://code.google.com/p/android/issues/detail?id=67038&quot;&gt;https://code.google.com/p/android/issues/detail?id=67038&lt;/a&gt;.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
@@ -9664,8 +9664,21 @@
 		<donate>http://cadroid.bitfire.at/#donations</donate>
 		<bitcoin>1KSCy7RHztKuhW9fLLaUYqdwdC2iwbejZU</bitcoin>
 		<flattr>2100160</flattr>
-		<marketversion>1.0.2</marketversion>
-		<marketvercode>7</marketvercode>
+		<marketversion>1.0.3</marketversion>
+		<marketvercode>8</marketvercode>
+		<package>
+			<version>1.0.3</version>
+			<versioncode>8</versioncode>
+			<apkname>at.bitfire.cadroid_8.apk</apkname>
+			<srcname>at.bitfire.cadroid_8_src.tar.gz</srcname>
+			<hash type="sha256">0b32c8e4c24f08babe96e749bfec91013f60e0a4406c933f39a6c979442e8b9a</hash>
+			<sig>e48f055476a1d8d608c2fc91dbdce51c</sig>
+			<size>102335</size>
+			<sdkver>14</sdkver>
+			<added>2015-05-10</added>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.0.2</version>
 			<versioncode>7</versioncode>
@@ -9690,19 +9703,6 @@
 			<sdkver>14</sdkver>
 			<added>2015-04-04</added>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.0</version>
-			<versioncode>5</versioncode>
-			<apkname>at.bitfire.cadroid_5.apk</apkname>
-			<srcname>at.bitfire.cadroid_5_src.tar.gz</srcname>
-			<hash type="sha256">66a7dd8f0f3834f07cba9f960ece7352db0ed2641b0b2ceb722366f83dac8690</hash>
-			<sig>e48f055476a1d8d608c2fc91dbdce51c</sig>
-			<size>100437</size>
-			<sdkver>14</sdkver>
-			<added>2015-03-30</added>
-			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -14538,10 +14538,10 @@
 	<application id="at.bitfire.davdroid">
 		<id>at.bitfire.davdroid</id>
 		<added>2013-10-13</added>
-		<lastupdated>2015-05-01</lastupdated>
+		<lastupdated>2015-05-10</lastupdated>
 		<name>DAVdroid</name>
 		<summary>Contacts and Calendar sync</summary>
-		<icon>at.bitfire.davdroid.61.png</icon>
+		<icon>at.bitfire.davdroid.62.png</icon>
 		<desc>&lt;p&gt;DAVdroid is a CalDAV/CardDAV synchronisation adapter for Android 4+ devices. Use it with your own server (like OwnCloud or Baïkal) or with a trusted hoster to keep your contacts and events under your control. Integrates natively in Android calendar/contact apps. See homepage for configuration details, including info about self-signed certificates.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/bitfireAT/davdroid/releases&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
@@ -14552,8 +14552,21 @@
 		<donate>https://davdroid.bitfire.at/donate</donate>
 		<bitcoin>1KSCy7RHztKuhW9fLLaUYqdwdC2iwbejZU</bitcoin>
 		<flattr>2100160</flattr>
-		<marketversion>0.7.5</marketversion>
-		<marketvercode>61</marketvercode>
+		<marketversion>0.7.6</marketversion>
+		<marketvercode>62</marketvercode>
+		<package>
+			<version>0.7.6</version>
+			<versioncode>62</versioncode>
+			<apkname>at.bitfire.davdroid_62.apk</apkname>
+			<srcname>at.bitfire.davdroid_62_src.tar.gz</srcname>
+			<hash type="sha256">0c8a1affdf5776f3f2ceac52564a20de38d5921c34944e4bdc887084c6e71198</hash>
+			<sig>03542175324d067b4c36582242f8aecc</sig>
+			<size>1304641</size>
+			<sdkver>14</sdkver>
+			<added>2015-05-10</added>
+			<permissions>WRITE_CONTACTS,READ_CALENDAR,WRITE_SYNC_SETTINGS,INTERNET,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,WRITE_CALENDAR,AUTHENTICATE_ACCOUNTS</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>0.7.5</version>
 			<versioncode>61</versioncode>
@@ -14577,19 +14590,6 @@
 			<size>1309770</size>
 			<sdkver>14</sdkver>
 			<added>2015-04-29</added>
-			<permissions>WRITE_CONTACTS,READ_CALENDAR,WRITE_SYNC_SETTINGS,INTERNET,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,WRITE_CALENDAR,AUTHENTICATE_ACCOUNTS</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.7.2</version>
-			<versioncode>57</versioncode>
-			<apkname>at.bitfire.davdroid_57.apk</apkname>
-			<srcname>at.bitfire.davdroid_57_src.tar.gz</srcname>
-			<hash type="sha256">f2a68e5194b7f2c0ed2ef395dd513802a5e69b27329141cd497bc81df2e5f824</hash>
-			<sig>03542175324d067b4c36582242f8aecc</sig>
-			<size>1285377</size>
-			<sdkver>14</sdkver>
-			<added>2015-03-30</added>
 			<permissions>WRITE_CONTACTS,READ_CALENDAR,WRITE_SYNC_SETTINGS,INTERNET,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,WRITE_CALENDAR,AUTHENTICATE_ACCOUNTS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -19059,10 +19059,10 @@
 	<application id="org.fdroid.fdroid">
 		<id>org.fdroid.fdroid</id>
 		<added>2011-01-17</added>
-		<lastupdated>2015-04-29</lastupdated>
+		<lastupdated>2015-05-10</lastupdated>
 		<name>F-Droid</name>
 		<summary>Application manager</summary>
-		<icon>org.fdroid.fdroid.880.png</icon>
+		<icon>org.fdroid.fdroid.890.png</icon>
 		<desc>&lt;p&gt;Connects to F-Droid compatible repositories. The default repo is hosted at f-droid.org, which contains only bona fide FOSS.&lt;/p&gt;&lt;p&gt;Android is open in the sense that you are free to install apks from anywhere you wish, but there are many good reasons for using a client/repository setup:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Be notified when updates are available&lt;/li&gt;&lt;li&gt; Keep track of older and beta versions&lt;/li&gt;&lt;li&gt; Filter apps that aren't compatible with the device&lt;/li&gt;&lt;li&gt; Find apps via categories and searchable descriptions&lt;/li&gt;&lt;li&gt; Access associated urls for donations, source code etc.&lt;/li&gt;&lt;li&gt; Stay safe by checking repo index signatures and apk hashes&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;https://gitlab.com/fdroid/fdroidclient/raw/master/CHANGELOG.md&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>System</categories>
@@ -19075,6 +19075,18 @@
 		<flattr>343053</flattr>
 		<marketversion>0.88</marketversion>
 		<marketvercode>880</marketvercode>
+		<package>
+			<version>0.89-test</version>
+			<versioncode>890</versioncode>
+			<apkname>org.fdroid.fdroid_890.apk</apkname>
+			<srcname>org.fdroid.fdroid_890_src.tar.gz</srcname>
+			<hash type="sha256">a2f67349e14f70e70dc9c5f4af5f623e97b0871f1e98292c742c4dba3aa03e23</hash>
+			<sig>9063aaadfff9cfd811a9c72fb5012f28</sig>
+			<size>3695715</size>
+			<sdkver>7</sdkver>
+			<added>2015-05-10</added>
+			<permissions>ACCESS_NETWORK_STATE,NFC,WRITE_EXTERNAL_STORAGE,ACCESS_SUPERUSER,CHANGE_WIFI_MULTICAST_STATE,BLUETOOTH,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,RECEIVE_BOOT_COMPLETED,INTERNET,DELETE_PACKAGES,INSTALL_PACKAGES,READ_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>0.88</version>
 			<versioncode>880</versioncode>
@@ -19157,18 +19169,6 @@
 			<size>3576702</size>
 			<sdkver>7</sdkver>
 			<added>2015-03-24</added>
-			<permissions>ACCESS_NETWORK_STATE,NFC,WRITE_EXTERNAL_STORAGE,INSTALL_PACKAGES,CHANGE_WIFI_MULTICAST_STATE,BLUETOOTH,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,RECEIVE_BOOT_COMPLETED,INTERNET,DELETE_PACKAGES,ACCESS_SUPERUSER,READ_EXTERNAL_STORAGE</permissions>
-		</package>
-		<package>
-			<version>0.81-test</version>
-			<versioncode>810</versioncode>
-			<apkname>org.fdroid.fdroid_810.apk</apkname>
-			<srcname>org.fdroid.fdroid_810_src.tar.gz</srcname>
-			<hash type="sha256">ea39b045d165cd0743e343c40d7ec1874e15a74043f90d7bf1decdf9766b8a0d</hash>
-			<sig>9063aaadfff9cfd811a9c72fb5012f28</sig>
-			<size>3535975</size>
-			<sdkver>7</sdkver>
-			<added>2015-03-16</added>
 			<permissions>ACCESS_NETWORK_STATE,NFC,WRITE_EXTERNAL_STORAGE,INSTALL_PACKAGES,CHANGE_WIFI_MULTICAST_STATE,BLUETOOTH,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,RECEIVE_BOOT_COMPLETED,INTERNET,DELETE_PACKAGES,ACCESS_SUPERUSER,READ_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
@@ -19837,11 +19837,11 @@
 	<application id="org.mozilla.fennec_fdroid">
 		<id>org.mozilla.fennec_fdroid</id>
 		<added>2015-02-01</added>
-		<lastupdated>2015-05-09</lastupdated>
+		<lastupdated>2015-05-10</lastupdated>
 		<name>Fennec FDroid</name>
 		<summary>Web browser</summary>
-		<icon>org.mozilla.fennec_fdroid.380000.png</icon>
-		<desc>&lt;p&gt;Browser using the Gecko layout engine to render web pages, which implements current and anticipated web standards. This is a developer build based on the latest &lt;a href=&quot;fdroid.app:org.mozilla.firefox&quot;&gt;Firefox&lt;/a&gt; release. It's focused on removing any proprietary binaries used in the official builds.&lt;/p&gt;&lt;p&gt;There might still be binaries left. The app (or some of the builds) might get removed or re-pushed at anytime:&lt;/p&gt;&lt;p&gt;DO NOT INSTALL unless you know what you are doing!&lt;/p&gt;&lt;p&gt;Currently following features are being stripped/added at build time:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Removed: Tests&lt;/li&gt;&lt;li&gt; Removed: Crashreporter&lt;/li&gt;&lt;li&gt; Removed: Mediastreaming (requires non-free library: play-services)&lt;/li&gt;&lt;li&gt; Removed: Updater&lt;/li&gt;&lt;li&gt; Added: MultiLocales&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;For further information, please look at the &lt;a href=&quot;https://gitlab.com/fdroid/fdroiddata/tree/master/metadata/org.mozilla.fennec_fdroid.txt&quot;&gt;build recipe&lt;/a&gt;.&lt;/p&gt;</desc>
+		<icon>org.mozilla.fennec_fdroid.380010.png</icon>
+		<desc>&lt;p&gt;Browser using the Gecko layout engine to render web pages, which implements current and anticipated web standards. This is a developer build based on the latest &lt;a href=&quot;fdroid.app:org.mozilla.firefox&quot;&gt;Firefox&lt;/a&gt; release. It's focused on removing any proprietary binaries used in the official builds.&lt;/p&gt;&lt;p&gt;There might still be binaries left. The app (or some of the builds) might get removed or re-pushed at anytime:&lt;/p&gt;&lt;p&gt;DO NOT INSTALL unless you know what you are doing!&lt;/p&gt;&lt;p&gt;Currently following features are being stripped/added at build time:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Removed: Tests&lt;/li&gt;&lt;li&gt; Removed: Crashreporter&lt;/li&gt;&lt;li&gt; Removed: Healthreporter (UI?)&lt;/li&gt;&lt;li&gt; Removed: Mediastreaming (requires non-free library: play-services)&lt;/li&gt;&lt;li&gt; Removed: Updater&lt;/li&gt;&lt;li&gt; Removed: &lt;a href=&quot;https://wiki.mozilla.org/Media/EME&quot;&gt;EME&lt;/a&gt;/DRM&lt;/li&gt;&lt;li&gt; Added: MultiLocales&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;For further information, please look at the &lt;a href=&quot;https://gitlab.com/fdroid/fdroiddata/tree/master/metadata/org.mozilla.fennec_fdroid.txt&quot;&gt;build recipe&lt;/a&gt;.&lt;/p&gt;</desc>
 		<license>MPL2</license>
 		<categories>Internet</categories>
 		<category>Internet</category>
@@ -19853,6 +19853,20 @@
 		<marketvercode>370210</marketvercode>
 		<antifeatures>NonFreeAdd,Tracking</antifeatures>
 		<provides>org.mozilla.firefox</provides>
+		<package>
+			<version>38.0</version>
+			<versioncode>380010</versioncode>
+			<apkname>org.mozilla.fennec_fdroid_380010.apk</apkname>
+			<srcname>org.mozilla.fennec_fdroid_380010_src.tar.gz</srcname>
+			<hash type="sha256">e896f60f9a1f3d5024a7c66717e9ffa3aaf14d88a30ebdf534521855f27b66b3</hash>
+			<sig>da03897e192cc766155eadcf73989726</sig>
+			<size>42697846</size>
+			<sdkver>9</sdkver>
+			<added>2015-05-10</added>
+			<permissions>org.mozilla.fennec_fdroid.permissions.FORMHISTORY_PROVIDER,WRITE_SETTINGS,ACCESS_NETWORK_STATE,com.android.launcher.permission.UNINSTALL_SHORTCUT,READ_EXTERNAL_STORAGE,USE_CREDENTIALS,VIBRATE,READ_SYNC_SETTINGS,RECORD_AUDIO,CHANGE_WIFI_STATE,org.mozilla.fennec_fdroid.permission.PER_ANDROID_PACKAGE,org.mozilla.fennec_fdroid.permissions.PASSWORD_PROVIDER,com.android.launcher.permission.INSTALL_SHORTCUT,org.mozilla.fennec_fdroid_sync.permission.PER_ACCOUNT_TYPE,org.mozilla.fennec_fdroid.permissions.BROWSER_PROVIDER,CAMERA,RECEIVE_BOOT_COMPLETED,com.android.browser.permission.READ_HISTORY_BOOKMARKS,MANAGE_ACCOUNTS,NFC,WRITE_SYNC_SETTINGS,WAKE_LOCK,READ_SYNC_STATS,GET_ACCOUNTS,DOWNLOAD_WITHOUT_NOTIFICATION,AUTHENTICATE_ACCOUNTS,WRITE_EXTERNAL_STORAGE,ACCESS_WIFI_STATE,org.mozilla.fennec_fdroid_fxaccount.permission.PER_ACCOUNT_TYPE,INTERNET,ACCESS_FINE_LOCATION</permissions>
+			<nativecode>x86</nativecode>
+			<features>android.hardware.touchscreen,android.hardware.wifi</features>
+		</package>
 		<package>
 			<version>38.0</version>
 			<versioncode>380000</versioncode>
@@ -19893,20 +19907,6 @@
 			<added>2015-04-16</added>
 			<permissions>org.mozilla.fennec_fdroid.permissions.FORMHISTORY_PROVIDER,WRITE_SETTINGS,ACCESS_NETWORK_STATE,com.android.launcher.permission.UNINSTALL_SHORTCUT,READ_EXTERNAL_STORAGE,USE_CREDENTIALS,VIBRATE,READ_SYNC_SETTINGS,RECORD_AUDIO,CHANGE_WIFI_STATE,org.mozilla.fennec_fdroid.permission.PER_ANDROID_PACKAGE,org.mozilla.fennec_fdroid.permissions.PASSWORD_PROVIDER,com.android.launcher.permission.INSTALL_SHORTCUT,org.mozilla.fennec_fdroid_sync.permission.PER_ACCOUNT_TYPE,org.mozilla.fennec_fdroid.permissions.BROWSER_PROVIDER,CAMERA,RECEIVE_BOOT_COMPLETED,com.android.browser.permission.READ_HISTORY_BOOKMARKS,MANAGE_ACCOUNTS,NFC,WRITE_SYNC_SETTINGS,WAKE_LOCK,READ_SYNC_STATS,GET_ACCOUNTS,DOWNLOAD_WITHOUT_NOTIFICATION,AUTHENTICATE_ACCOUNTS,WRITE_EXTERNAL_STORAGE,ACCESS_WIFI_STATE,org.mozilla.fennec_fdroid_fxaccount.permission.PER_ACCOUNT_TYPE,INTERNET,ACCESS_FINE_LOCATION</permissions>
 			<nativecode>armeabi-v7a</nativecode>
-			<features>android.hardware.touchscreen,android.hardware.wifi</features>
-		</package>
-		<package>
-			<version>37.0.1</version>
-			<versioncode>370110</versioncode>
-			<apkname>org.mozilla.fennec_fdroid_370110.apk</apkname>
-			<srcname>org.mozilla.fennec_fdroid_370110_src.tar.gz</srcname>
-			<hash type="sha256">ed28e26a343dee15dfd75321ad295285c591f87de53153aae57a86f63181849c</hash>
-			<sig>da03897e192cc766155eadcf73989726</sig>
-			<size>42139994</size>
-			<sdkver>9</sdkver>
-			<added>2015-04-09</added>
-			<permissions>org.mozilla.fennec_fdroid.permissions.FORMHISTORY_PROVIDER,WRITE_SETTINGS,ACCESS_NETWORK_STATE,com.android.launcher.permission.UNINSTALL_SHORTCUT,READ_EXTERNAL_STORAGE,USE_CREDENTIALS,VIBRATE,READ_SYNC_SETTINGS,RECORD_AUDIO,CHANGE_WIFI_STATE,org.mozilla.fennec_fdroid.permission.PER_ANDROID_PACKAGE,org.mozilla.fennec_fdroid.permissions.PASSWORD_PROVIDER,com.android.launcher.permission.INSTALL_SHORTCUT,org.mozilla.fennec_fdroid_sync.permission.PER_ACCOUNT_TYPE,org.mozilla.fennec_fdroid.permissions.BROWSER_PROVIDER,CAMERA,RECEIVE_BOOT_COMPLETED,com.android.browser.permission.READ_HISTORY_BOOKMARKS,MANAGE_ACCOUNTS,NFC,WRITE_SYNC_SETTINGS,WAKE_LOCK,READ_SYNC_STATS,GET_ACCOUNTS,DOWNLOAD_WITHOUT_NOTIFICATION,AUTHENTICATE_ACCOUNTS,WRITE_EXTERNAL_STORAGE,ACCESS_WIFI_STATE,org.mozilla.fennec_fdroid_fxaccount.permission.PER_ACCOUNT_TYPE,INTERNET,ACCESS_FINE_LOCATION</permissions>
-			<nativecode>x86</nativecode>
 			<features>android.hardware.touchscreen,android.hardware.wifi</features>
 		</package>
 	</application>
@@ -26603,10 +26603,10 @@
 	<application id="com.cradle.iitc_mobile">
 		<id>com.cradle.iitc_mobile</id>
 		<added>2013-05-03</added>
-		<lastupdated>2015-04-04</lastupdated>
+		<lastupdated>2015-05-10</lastupdated>
 		<name>IITC Mobile</name>
 		<summary>Map addon for the Ingress game</summary>
-		<icon>com.cradle.iitc_mobile.95.png</icon>
+		<icon>com.cradle.iitc_mobile.96.png</icon>
 		<desc>&lt;p&gt;Ingress map browser with IITC embedded. Ingress Intel Total Conversion (IITC) is a browser addon for the Ingress augmented reality game. IITC Mobile brings this browser addon to the mobile world.&lt;/p&gt;&lt;p&gt;Anti-feature: Network Services. The game itself is neither free-as-in-freedom nor open-source.&lt;/p&gt;</desc>
 		<license>ISC</license>
 		<categories>Games</categories>
@@ -26618,6 +26618,19 @@
 		<marketversion>0.22.3</marketversion>
 		<marketvercode>96</marketvercode>
 		<antifeatures>NonFreeNet</antifeatures>
+		<package>
+			<version>0.22.3</version>
+			<versioncode>96</versioncode>
+			<apkname>com.cradle.iitc_mobile_96.apk</apkname>
+			<srcname>com.cradle.iitc_mobile_96_src.tar.gz</srcname>
+			<hash type="sha256">04f569b934163c8dac0f30c0bf35d87de5a6c92e1094a534b40e543ad2f97777</hash>
+			<sig>ac0ea7155041191b78c5214e5c711dda</sig>
+			<size>1162361</size>
+			<sdkver>14</sdkver>
+			<added>2015-05-10</added>
+			<permissions>ACCESS_NETWORK_STATE,NFC,READ_EXTERNAL_STORAGE,INTERNET,ACCESS_FINE_LOCATION,WRITE_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps</features>
+		</package>
 		<package>
 			<version>0.22.2</version>
 			<versioncode>95</versioncode>
@@ -26641,19 +26654,6 @@
 			<size>1143030</size>
 			<sdkver>14</sdkver>
 			<added>2015-03-22</added>
-			<permissions>ACCESS_NETWORK_STATE,NFC,WRITE_EXTERNAL_STORAGE,INTERNET,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps</features>
-		</package>
-		<package>
-			<version>0.22.0</version>
-			<versioncode>93</versioncode>
-			<apkname>com.cradle.iitc_mobile_93.apk</apkname>
-			<srcname>com.cradle.iitc_mobile_93_src.tar.gz</srcname>
-			<hash type="sha256">c5df2eea945199a8fee5b51a7854107943659b1c1bb9207b278b19f83ed16e01</hash>
-			<sig>ac0ea7155041191b78c5214e5c711dda</sig>
-			<size>1139742</size>
-			<sdkver>14</sdkver>
-			<added>2015-02-28</added>
 			<permissions>ACCESS_NETWORK_STATE,NFC,WRITE_EXTERNAL_STORAGE,INTERNET,ACCESS_FINE_LOCATION,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps</features>
 		</package>
@@ -36538,10 +36538,10 @@
 	<application id="org.totschnig.myexpenses">
 		<id>org.totschnig.myexpenses</id>
 		<added>2012-10-31</added>
-		<lastupdated>2015-05-07</lastupdated>
+		<lastupdated>2015-05-10</lastupdated>
 		<name>My Expenses</name>
 		<summary>Manage finances</summary>
-		<icon>org.totschnig.myexpenses.204.png</icon>
+		<icon>org.totschnig.myexpenses.205.png</icon>
 		<desc>&lt;p&gt;MyExpenses is designed to keep track of expenses, and to export these expenses as QIF files into a finance program (e.g.: Grisbi, GnuCash).&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Up to five accounts with transfers (unlimited in Contrib version)&lt;/li&gt;&lt;li&gt; Define plans (3) for future and recurrent transactions (unlimited in Contrib version)&lt;/li&gt;&lt;li&gt; Group transactions per day, week, month, year and display sums per group&lt;/li&gt;&lt;li&gt; Two levels of categories (import from Grisbi XML and QIF), display distribution of transactions in Contrib version&lt;/li&gt;&lt;li&gt; Split transactions (Contrib version)&lt;/li&gt;&lt;li&gt; Calculator&lt;/li&gt;&lt;li&gt; Export to QIF and CSV (MS Excel), can be automatically shared (via email, FTP, Dropbox, ...) and done in batch in Contrib version&lt;/li&gt;&lt;li&gt; Import QIF data&lt;/li&gt;&lt;li&gt; Password protection, recoverable with security question in Contrib version&lt;/li&gt;&lt;li&gt; Integrated Help&lt;/li&gt;&lt;li&gt; Create transactions from templates&lt;/li&gt;&lt;li&gt; Data backup and restore&lt;/li&gt;&lt;li&gt; Aggregate financial situation (Contrib version)&lt;/li&gt;&lt;li&gt; Two themes: light and dark&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -36554,6 +36554,19 @@
 		<flattr>1028216</flattr>
 		<marketversion>Unknown</marketversion>
 		<marketvercode>205</marketvercode>
+		<package>
+			<version>2.4.5.1</version>
+			<versioncode>205</versioncode>
+			<apkname>org.totschnig.myexpenses_205.apk</apkname>
+			<srcname>org.totschnig.myexpenses_205_src.tar.gz</srcname>
+			<hash type="sha256">d16eb101db327d323c16297f58cc4e01f0172d3a61f64ed353205eae83c0f410</hash>
+			<sig>e1ca5bcb8d0a515a6d35500974fbc3a8</sig>
+			<size>3273267</size>
+			<sdkver>8</sdkver>
+			<added>2015-05-10</added>
+			<permissions>READ_CALENDAR,READ_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,RECEIVE_BOOT_COMPLETED,WRITE_CALENDAR,WRITE_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>2.4.5</version>
 			<versioncode>204</versioncode>
@@ -36578,19 +36591,6 @@
 			<sdkver>8</sdkver>
 			<added>2015-04-22</added>
 			<permissions>READ_CALENDAR,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,RECEIVE_BOOT_COMPLETED,WRITE_CALENDAR,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>2.4.3.2</version>
-			<versioncode>198</versioncode>
-			<apkname>org.totschnig.myexpenses_198.apk</apkname>
-			<srcname>org.totschnig.myexpenses_198_src.tar.gz</srcname>
-			<hash type="sha256">a535ea077e5102ddd970255ac80813f07923f4bc8a6b7c47821c1344341cab42</hash>
-			<sig>e1ca5bcb8d0a515a6d35500974fbc3a8</sig>
-			<size>3223166</size>
-			<sdkver>8</sdkver>
-			<added>2015-04-07</added>
-			<permissions>READ_CALENDAR,READ_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,RECEIVE_BOOT_COMPLETED,WRITE_CALENDAR,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -37982,10 +37982,10 @@
 	<application id="ca.rmen.android.networkmonitor">
 		<id>ca.rmen.android.networkmonitor</id>
 		<added>2015-04-27</added>
-		<lastupdated>2015-05-03</lastupdated>
+		<lastupdated>2015-05-10</lastupdated>
 		<name>Network Monitor</name>
 		<summary>Check network connectivity</summary>
-		<icon>ca.rmen.android.networkmonitor.11802.png</icon>
+		<icon>ca.rmen.android.networkmonitor.11803.png</icon>
 		<desc>&lt;p&gt;Network Monitor is a diagnostic tool which periodically tests your network connection and logs the results to a database on the phone. It tests the connection by retrieving the main Google page (http://www.google.com) in two different ways:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; An HTTP connection (the type of connection used by the browser and other web apps)&lt;/li&gt;&lt;li&gt; A basic socket connection (a type of connection used by other apps)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;It also logs other information about your device and connection status, such as:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; The network type (WiFi, mobile/EDGE, mobile/HSPA, etc)&lt;/li&gt;&lt;li&gt; The WiFi SSID or APN&lt;/li&gt;&lt;li&gt; The device's location (latitude, longitude)&lt;/li&gt;&lt;li&gt; The cell tower's ids&lt;/li&gt;&lt;li&gt; The signal strength (from 0 to 4)&lt;/li&gt;&lt;li&gt; Other information...&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;You can send yourself a report of the collected data, in several formats (Excel, CSV, HTML, KML, the raw database). The report will also contain a summary of the success rate of the connection tests, per cell tower and WiFi access point.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; WARNING: This app is a diagnostic/debugging app which may use a lot of battery and data.&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>Apache2</license>
 		<categories>System</categories>
@@ -37993,8 +37993,20 @@
 		<web>https://github.com/caarmen/network-monitor/blob/master/README.md</web>
 		<source>https://github.com/caarmen/network-monitor/</source>
 		<tracker>https://github.com/caarmen/network-monitor/issues</tracker>
-		<marketversion>1.18.2</marketversion>
-		<marketvercode>11802</marketvercode>
+		<marketversion>1.18.3</marketversion>
+		<marketvercode>11803</marketvercode>
+		<package>
+			<version>1.18.3</version>
+			<versioncode>11803</versioncode>
+			<apkname>ca.rmen.android.networkmonitor_11803.apk</apkname>
+			<srcname>ca.rmen.android.networkmonitor_11803_src.tar.gz</srcname>
+			<hash type="sha256">39db00039c1d4fcacad4ad7dfc59066cd54cdec32ed2eb46e979a85f0e1f0ec6</hash>
+			<sig>36435f1c1103b63268cd82ac98478a05</sig>
+			<size>1552539</size>
+			<sdkver>9</sdkver>
+			<added>2015-05-10</added>
+			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,BATTERY_STATS,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,RECEIVE_BOOT_COMPLETED,INTERNET,ACCESS_FINE_LOCATION,READ_PHONE_STATE,READ_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>1.18.2</version>
 			<versioncode>11802</versioncode>
@@ -42509,10 +42521,10 @@
 	<application id="net.osmand.plus">
 		<id>net.osmand.plus</id>
 		<added>2011-06-24</added>
-		<lastupdated>2015-05-08</lastupdated>
+		<lastupdated>2015-05-10</lastupdated>
 		<name>OsmAnd~</name>
 		<summary>Offline/online maps and navigation</summary>
-		<icon>net.osmand.plus.205.png</icon>
+		<icon>net.osmand.plus.206.png</icon>
 		<desc>&lt;p&gt;Osmand~'s features can be extended by enabling the plugins via the settings, which include online maps from many sources, tracking, OpenStreetMap (OSM) editing and accessibility enhancements.&lt;/p&gt;&lt;p&gt;Map data of both vector and raster types can be stored on the phone memory card for offline usage, and navigation by default uses offline methods. Map data packages for many territories can be downloaded from within the app and there is a desktop program available on the website as well for creating your own.&lt;/p&gt;&lt;p&gt;Anti-Features: Tracking - It will send your device and application specs to an Analytics server upon downloading the list of maps you can download.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://osmand.net/help/changes.html&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Navigation</categories>
@@ -42524,6 +42536,19 @@
 		<marketversion>2.0.3</marketversion>
 		<marketvercode>205</marketvercode>
 		<antifeatures>Tracking</antifeatures>
+		<package>
+			<version>2.0.4</version>
+			<versioncode>206</versioncode>
+			<apkname>net.osmand.plus_206.apk</apkname>
+			<srcname>net.osmand.plus_206_src.tar.gz</srcname>
+			<hash type="sha256">b5549f4b7d043039b7bdbe6be4f6d97c55914db36fd959794be9666b70c7c0b2</hash>
+			<sig>62de1ed5da5b716973da89258848e7bc</sig>
+			<size>38869381</size>
+			<sdkver>9</sdkver>
+			<added>2015-05-10</added>
+			<permissions>ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,STORAGE,VIBRATE,com.android.vending.BILLING,ACCESS_COARSE_LOCATION,CAMERA,ACCESS_LOCATION_EXTRA_COMMANDS,INTERNET,ACCESS_FINE_LOCATION,WRITE_MEDIA_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<nativecode>armeabi,armeabi-v7a,mips,x86</nativecode>
+		</package>
 		<package>
 			<version>2.0.3</version>
 			<versioncode>205</versioncode>
@@ -42547,19 +42572,6 @@
 			<size>30491366</size>
 			<sdkver>7</sdkver>
 			<added>2015-02-03</added>
-			<permissions>ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,DISABLE_KEYGUARD,STORAGE,VIBRATE,com.android.vending.BILLING,ACCESS_COARSE_LOCATION,CAMERA,INTERNET,ACCESS_FINE_LOCATION,WRITE_MEDIA_STORAGE,WAKE_LOCK</permissions>
-			<nativecode>armeabi,armeabi-v7a,mips,x86</nativecode>
-		</package>
-		<package>
-			<version>1.9.4</version>
-			<versioncode>196</versioncode>
-			<apkname>net.osmand.plus_196.apk</apkname>
-			<srcname>net.osmand.plus_196_src.tar.gz</srcname>
-			<hash type="sha256">32a0d292f6e48983a2f0dc5fff6eb082823fddc370865d9f0138ae7fe978a74e</hash>
-			<sig>62de1ed5da5b716973da89258848e7bc</sig>
-			<size>30477150</size>
-			<sdkver>7</sdkver>
-			<added>2015-01-07</added>
 			<permissions>ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,DISABLE_KEYGUARD,STORAGE,VIBRATE,com.android.vending.BILLING,ACCESS_COARSE_LOCATION,CAMERA,INTERNET,ACCESS_FINE_LOCATION,WRITE_MEDIA_STORAGE,WAKE_LOCK</permissions>
 			<nativecode>armeabi,armeabi-v7a,mips,x86</nativecode>
 		</package>
@@ -47449,10 +47461,10 @@
 	<application id="com.geecko.QuickLyric">
 		<id>com.geecko.QuickLyric</id>
 		<added>2015-02-27</added>
-		<lastupdated>2015-05-05</lastupdated>
+		<lastupdated>2015-05-10</lastupdated>
 		<name>QuickLyric</name>
 		<summary>Fetch and display song lyrics</summary>
-		<icon>com.geecko.QuickLyric.40.png</icon>
+		<icon>com.geecko.QuickLyric.45.png</icon>
 		<desc>&lt;p&gt;QuickLyric fetches your lyrics for you. It includes a search engine and is simple and easy to use. It can also detect what song is playing on your device.&lt;/p&gt;&lt;p&gt;The NFC permission is used to share lyrics via Android Beam.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Multimedia,Internet</categories>
@@ -47461,8 +47473,21 @@
 		<source>https://github.com/geecko86/QuickLyric</source>
 		<tracker>https://github.com/geecko86/QuickLyric/issues</tracker>
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=RSJZUSUHBBKTJ&amp;lc=US&amp;item_name=geecko&amp;item_number=00&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted</donate>
-		<marketversion>1.8</marketversion>
-		<marketvercode>40</marketvercode>
+		<marketversion>1.8c</marketversion>
+		<marketvercode>45</marketvercode>
+		<package>
+			<version>1.8c</version>
+			<versioncode>45</versioncode>
+			<apkname>com.geecko.QuickLyric_45.apk</apkname>
+			<srcname>com.geecko.QuickLyric_45_src.tar.gz</srcname>
+			<hash type="sha256">f874324ce653d6f31cd413406aac37a825ebdefd29213a376562f39685bb85d5</hash>
+			<sig>1a242e673a80a73ba840d8a9d8549b83</sig>
+			<size>3199517</size>
+			<sdkver>14</sdkver>
+			<added>2015-05-10</added>
+			<permissions>ACCESS_NETWORK_STATE,NFC,READ_EXTERNAL_STORAGE,VIBRATE,INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.8</version>
 			<versioncode>40</versioncode>
@@ -47486,19 +47511,6 @@
 			<size>2775964</size>
 			<sdkver>14</sdkver>
 			<added>2015-04-12</added>
-			<permissions>ACCESS_NETWORK_STATE,NFC,READ_EXTERNAL_STORAGE,VIBRATE,INTERNET</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.7.4</version>
-			<versioncode>33</versioncode>
-			<apkname>com.geecko.QuickLyric_33.apk</apkname>
-			<srcname>com.geecko.QuickLyric_33_src.tar.gz</srcname>
-			<hash type="sha256">ea6015acfddd75c911440efde4eee5e1010762e17c129b16a83ced3bdf1d1533</hash>
-			<sig>1a242e673a80a73ba840d8a9d8549b83</sig>
-			<size>2775979</size>
-			<sdkver>14</sdkver>
-			<added>2015-04-11</added>
 			<permissions>ACCESS_NETWORK_STATE,NFC,READ_EXTERNAL_STORAGE,VIBRATE,INTERNET</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -47736,10 +47748,10 @@
 	<application id="com.frrahat.quransimple">
 		<id>com.frrahat.quransimple</id>
 		<added>2015-03-03</added>
-		<lastupdated>2015-05-08</lastupdated>
+		<lastupdated>2015-05-10</lastupdated>
 		<name>Quran For My Android</name>
 		<summary>Shows Quran text or word by word translation</summary>
-		<icon>com.frrahat.quransimple.130.png</icon>
+		<icon>com.frrahat.quransimple.131.png</icon>
 		<desc>&lt;p&gt;Displays Quran text or word by word translation.&lt;/p&gt;</desc>
 		<license>GPLv2+</license>
 		<categories>Reading</categories>
@@ -47747,8 +47759,21 @@
 		<web/>
 		<source>https://github.com/frrahat/Quran-For-My-Android</source>
 		<tracker>https://github.com/frrahat/Quran-For-My-Android/issues</tracker>
-		<marketversion>1.3.0</marketversion>
-		<marketvercode>130</marketvercode>
+		<marketversion>1.3.1</marketversion>
+		<marketvercode>131</marketvercode>
+		<package>
+			<version>1.3.1</version>
+			<versioncode>131</versioncode>
+			<apkname>com.frrahat.quransimple_131.apk</apkname>
+			<srcname>com.frrahat.quransimple_131_src.tar.gz</srcname>
+			<hash type="sha256">fae31d49a853fa849fc95dc08929b75fa4c2439efa98e2f82c07468ea555b5b8</hash>
+			<sig>c1364e58ddc8c867e944762421dfe063</sig>
+			<size>2279086</size>
+			<sdkver>14</sdkver>
+			<added>2015-05-10</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.3.0</version>
 			<versioncode>130</versioncode>
@@ -47773,18 +47798,6 @@
 			<sdkver>14</sdkver>
 			<added>2015-04-26</added>
 			<permissions>WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.1.0</version>
-			<versioncode>110</versioncode>
-			<apkname>com.frrahat.quransimple_110.apk</apkname>
-			<srcname>com.frrahat.quransimple_110_src.tar.gz</srcname>
-			<hash type="sha256">7608833b1beebb2c0c99c20d883e4330bd6cc56f667890ee5f5f295faea6241c</hash>
-			<sig>c1364e58ddc8c867e944762421dfe063</sig>
-			<size>2562605</size>
-			<sdkver>14</sdkver>
-			<added>2015-04-04</added>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -56671,10 +56684,10 @@
 	<application id="biz.codefuture.svgviewer">
 		<id>biz.codefuture.svgviewer</id>
 		<added>2013-06-24</added>
-		<lastupdated>2014-05-09</lastupdated>
+		<lastupdated>2015-05-10</lastupdated>
 		<name>SVG viewer</name>
 		<summary>Vector graphics viewer</summary>
-		<icon>biz.codefuture.svgviewer.7.png</icon>
+		<icon>biz.codefuture.svgviewer.8.png</icon>
 		<desc>&lt;p&gt;View svg files (a vector-graphics image format) via a file manager.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Multimedia</categories>
@@ -56684,6 +56697,19 @@
 		<tracker>https://github.com/cw/svg-viewer-android/issues</tracker>
 		<marketversion>1.3.4</marketversion>
 		<marketvercode>8</marketvercode>
+		<package>
+			<version>1.3.4</version>
+			<versioncode>8</versioncode>
+			<apkname>biz.codefuture.svgviewer_8.apk</apkname>
+			<srcname>biz.codefuture.svgviewer_8_src.tar.gz</srcname>
+			<hash type="sha256">f9e0dab015c5aea1e693338e5d6895b40b34d5d57956e7ba35e480a39628d054</hash>
+			<sig>8cd20bb37cf8e53abcc190032cdb3048</sig>
+			<size>174358</size>
+			<sdkver>12</sdkver>
+			<added>2015-05-10</added>
+			<permissions>READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.3.3</version>
 			<versioncode>7</versioncode>
@@ -56708,18 +56734,6 @@
 			<sdkver>12</sdkver>
 			<added>2014-04-07</added>
 			<permissions>READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.3.1</version>
-			<versioncode>5</versioncode>
-			<apkname>biz.codefuture.svgviewer_5.apk</apkname>
-			<srcname>biz.codefuture.svgviewer_5_src.tar.gz</srcname>
-			<hash type="sha256">a05f54f148c523abf69f16ee257867c5cf3ed20c3c82d8e8c0ca85c69bccc599</hash>
-			<sig>8cd20bb37cf8e53abcc190032cdb3048</sig>
-			<size>173453</size>
-			<sdkver>12</sdkver>
-			<added>2013-06-24</added>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -57771,10 +57785,10 @@
 	<application id="de.schildbach.wallet_test">
 		<id>de.schildbach.wallet_test</id>
 		<added>2012-04-07</added>
-		<lastupdated>2015-05-02</lastupdated>
+		<lastupdated>2015-05-10</lastupdated>
 		<name>Testnet3</name>
 		<summary>Testing version of Bitcoin</summary>
-		<icon>de.schildbach.wallet_test.217.png</icon>
+		<icon>de.schildbach.wallet_test.218.png</icon>
 		<desc>&lt;p&gt;A bitcoin wallet, allowing you to store, send and receive bitcoins on your device, both via QR codes and NFC. When run for the first time, it can happen that the app shows only a white display for some seconds.&lt;/p&gt;&lt;p&gt;This is a test version of &lt;a href=&quot;fdroid.app:de.schildbach.wallet&quot;&gt;Bitcoin&lt;/a&gt; that uses the test Bitcoin network, not the real one.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/schildbach/bitcoin-wallet/blob/HEAD/wallet/CHANGES&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -57785,6 +57799,18 @@
 		<bitcoin>1HkX6X8EakdsgAysL93oKrWiXGPbFiG1xV</bitcoin>
 		<marketversion>4.28-test</marketversion>
 		<marketvercode>218</marketvercode>
+		<package>
+			<version>4.28-test</version>
+			<versioncode>218</versioncode>
+			<apkname>de.schildbach.wallet_test_218.apk</apkname>
+			<srcname>de.schildbach.wallet_test_218_src.tar.gz</srcname>
+			<hash type="sha256">44c83ea8077dc742f8be8118bd99b933d5231650ad890720043042fb202cc9f9</hash>
+			<sig>e02308f5a8441a390a03b31ff9f45511</sig>
+			<size>2530383</size>
+			<sdkver>15</sdkver>
+			<added>2015-05-10</added>
+			<permissions>NFC,READ_EXTERNAL_STORAGE,WAKE_LOCK,VIBRATE,BLUETOOTH,CAMERA,RECEIVE_BOOT_COMPLETED,INTERNET,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>4.27-test</version>
 			<versioncode>217</versioncode>
@@ -57808,18 +57834,6 @@
 			<sdkver>15</sdkver>
 			<added>2015-04-22</added>
 			<permissions>NFC,READ_EXTERNAL_STORAGE,WAKE_LOCK,VIBRATE,BLUETOOTH,CAMERA,RECEIVE_BOOT_COMPLETED,INTERNET,WRITE_EXTERNAL_STORAGE</permissions>
-		</package>
-		<package>
-			<version>4.24-test</version>
-			<versioncode>214</versioncode>
-			<apkname>de.schildbach.wallet_test_214.apk</apkname>
-			<srcname>de.schildbach.wallet_test_214_src.tar.gz</srcname>
-			<hash type="sha256">69329174af3b737317a8d6f31a6b8a812818774e442a01e07c38a152e208d3df</hash>
-			<sig>e02308f5a8441a390a03b31ff9f45511</sig>
-			<size>4345206</size>
-			<sdkver>15</sdkver>
-			<added>2015-04-15</added>
-			<permissions>NFC,READ_EXTERNAL_STORAGE,INTERNET,VIBRATE,BLUETOOTH,CAMERA,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="org.paulmach.textedit">
@@ -61602,8 +61616,8 @@
 		<web>https://github.com/ligi/VaporizerControl/blob/HEAD/README.md</web>
 		<source>https://github.com/ligi/VaporizerControl</source>
 		<tracker>https://github.com/ligi/VaporizerControl/issues</tracker>
-		<marketversion>1.5</marketversion>
-		<marketvercode>15</marketvercode>
+		<marketversion>1.6</marketversion>
+		<marketvercode>16</marketvercode>
 		<package>
 			<version>1.5</version>
 			<versioncode>15</versioncode>
