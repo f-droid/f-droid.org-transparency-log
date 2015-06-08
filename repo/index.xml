@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1433432762" url="http://f-droid.org/repo" version="12">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1433490894" url="http://f-droid.org/repo" version="12">
 		<description>The official FDroid repository. Applications in this repository are built directly from the source code. (One, Firefox, is the official binary built by the Mozilla. This will ultimately be replaced by a source-built version. </description>
 	</repo>
 	<application id="de.j4velin.systemappmover">
@@ -7528,7 +7528,7 @@
 		<added>2014-10-16</added>
 		<lastupdated>2015-04-08</lastupdated>
 		<name>BeTrains NMBS/SNCB belgium</name>
-		<summary>Provides Belgian train times.</summary>
+		<summary>Provides Belgian train times</summary>
 		<icon>tof.cv.mpp.6517.png</icon>
 		<desc>&lt;p&gt;BeTrains is a useful (non-official NMBS/SNCB) tool for people travelling by Train in Belgium. A perfect match between a simple application of route planner and timetables, and between a communicative and social network oriented platform! So many features! Give it a try:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Route planner: The easiest way to travel in Belgium.&lt;/li&gt;&lt;li&gt; Real time information!&lt;/li&gt;&lt;li&gt; Social networks: Twitter is your friend, and gives you all the real-time&lt;/li&gt;&lt;li&gt; user information (using #SNCB, #NMBS, #BeTrains hastags)&lt;/li&gt;&lt;li&gt; Included chat: allow you to communicate with all the Android people in your&lt;/li&gt;&lt;li&gt; train. A very cool tool if you are alone on your seat and want to meet&lt;/li&gt;&lt;li&gt; people.&lt;/li&gt;&lt;li&gt; Traffic issues: get all the issues in the train network.&lt;/li&gt;&lt;li&gt; Get the closest station! Once you got it, launch Google Maps, or Navigation&lt;/li&gt;&lt;li&gt; (need Android 1,6 or higher)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Follow @BeTrains on Twitter!&lt;/p&gt;</desc>
 		<license>Apache2</license>
@@ -9805,7 +9805,7 @@
 		<added>2014-11-11</added>
 		<lastupdated>2014-12-12</lastupdated>
 		<name>BusTO</name>
-		<summary>Arrival times for Turin public transports.</summary>
+		<summary>Arrival times for Turin public transports</summary>
 		<icon>it.reyboz.bustorino.8.png</icon>
 		<desc>&lt;p&gt;BusTO gives you arrival times for all public transport in Turin and its outskirts. Type in the number of the bus stop and get all the information about scheduled and real arrival times of every 5T/GTT's vehicle stopping there.&lt;/p&gt;&lt;p&gt;BusTO fornisce informazioni in tempo reale sul trasporto pubblico di Torino e provincia. Inserisci il numero della fermata del pullman di qualsiasi veicolo della rete 5T/GTT per sapere i passaggi pianificati ed in tempo reale.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://blog.reyboz.it/tag/busto/&quot;&gt;Maggiori informazioni&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
@@ -10812,10 +10812,10 @@
 	<application id="com.theksmith.android.car_bus_interface">
 		<id>com.theksmith.android.car_bus_interface</id>
 		<added>2014-11-24</added>
-		<lastupdated>2015-05-27</lastupdated>
+		<lastupdated>2015-06-05</lastupdated>
 		<name>Car Bus Interface</name>
 		<summary>Connect to car computers via Bluetooth</summary>
-		<icon>com.theksmith.android.car_bus_interface.90.png</icon>
+		<icon>com.theksmith.android.car_bus_interface.100.png</icon>
 		<desc>&lt;p&gt;Interface with a vehicle's communication bus via Bluetooth OBD2 dongle (ELM327 compatible). It allows the Android device to respond to specific bus messages, such as those occurring when the user presses physical buttons inside the vehicle.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>System</categories>
@@ -10824,8 +10824,21 @@
 		<source>https://github.com/theksmith/CarBusInterface</source>
 		<tracker>https://github.com/theksmith/CarBusInterface/issues</tracker>
 		<changelog>https://github.com/theksmith/CarBusInterface/blob/HEAD/CHANGELOG.md</changelog>
-		<marketversion>0.9</marketversion>
-		<marketvercode>90</marketvercode>
+		<marketversion>1.0</marketversion>
+		<marketvercode>100</marketvercode>
+		<package>
+			<version>1.0</version>
+			<versioncode>100</versioncode>
+			<apkname>com.theksmith.android.car_bus_interface_100.apk</apkname>
+			<srcname>com.theksmith.android.car_bus_interface_100_src.tar.gz</srcname>
+			<hash type="sha256">cde945a5b293eee085e854ad45fc45eeee5c0725e17a9d246366e3a71f90be4a</hash>
+			<sig>45768452eb1a485fcb70297ee7b499a3</sig>
+			<size>305099</size>
+			<sdkver>16</sdkver>
+			<added>2015-06-05</added>
+			<permissions>GET_TASKS,REORDER_TASKS,ACCESS_SUPERUSER,net.dinglisch.android.tasker.PERMISSION_RUN_TASKS,BLUETOOTH</permissions>
+			<features>android.hardware.touchscreen,android.hardware.bluetooth</features>
+		</package>
 		<package>
 			<version>0.9</version>
 			<versioncode>90</versioncode>
@@ -15280,7 +15293,7 @@
 		<added>2014-10-23</added>
 		<lastupdated>2014-10-23</lastupdated>
 		<name>Deck Wallet</name>
-		<summary>Store your Bitcoins in a deck of cards.</summary>
+		<summary>Store your Bitcoins in a deck of cards</summary>
 		<icon>com.ecuamobi.deckwallet.100.png</icon>
 		<desc>&lt;p&gt;Allows you to generate up to 52 bitcoin addresses by entering the order of a deck of cards plus an optional password.&lt;/p&gt;</desc>
 		<license>MIT</license>
@@ -15812,7 +15825,7 @@
 		<added>2014-12-28</added>
 		<lastupdated>2015-05-04</lastupdated>
 		<name>Dicer</name>
-		<summary>Roll dice.</summary>
+		<summary>Roll dice</summary>
 		<icon>com.platypus.dicer.5.png</icon>
 		<desc>&lt;p&gt;Roll dice on your phone.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
@@ -16698,7 +16711,7 @@
 		<added>2014-12-13</added>
 		<lastupdated>2015-01-08</lastupdated>
 		<name>Dot-Race</name>
-		<summary>Simple, funny action game.</summary>
+		<summary>Simple, funny action game</summary>
 		<icon>se.traffar.dot_race.4.png</icon>
 		<desc>&lt;p&gt;Dot race is simple, but funny and fast action game. Take a control of your spaceship and compete with computer or an other player in collecting magic artifacts.&lt;/p&gt;&lt;p&gt;The spaceship will accelerate toward your finger. To break put the finger behind the moving spaceship.  There is also another controller 'virtual joystick' available also in two player game.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
@@ -19050,10 +19063,10 @@
 	<application id="org.epstudios.epmobile">
 		<id>org.epstudios.epmobile</id>
 		<added>2012-08-23</added>
-		<lastupdated>2015-05-31</lastupdated>
+		<lastupdated>2015-06-05</lastupdated>
 		<name>EP Mobile</name>
 		<summary>Medical tools</summary>
-		<icon>org.epstudios.epmobile.44.png</icon>
+		<icon>org.epstudios.epmobile.45.png</icon>
 		<desc>&lt;p&gt;EP Mobile is an application that provides a set of tools for electrophysiologists and other health care workers who deal with cardiac arrhythmias. The program includes EP calculators, drug dose calculators, risk scores, diagnostic tools, ECG figures, and more.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Science &amp; Education</categories>
@@ -19062,8 +19075,21 @@
 		<source>https://github.com/mannd/epmobile</source>
 		<tracker>https://github.com/mannd/epmobile/issues</tracker>
 		<changelog>https://github.com/mannd/epmobile/tree/master/doc/changes</changelog>
-		<marketversion>2.11</marketversion>
-		<marketvercode>44</marketvercode>
+		<marketversion>2.11.1</marketversion>
+		<marketvercode>45</marketvercode>
+		<package>
+			<version>2.11.1</version>
+			<versioncode>45</versioncode>
+			<apkname>org.epstudios.epmobile_45.apk</apkname>
+			<srcname>org.epstudios.epmobile_45_src.tar.gz</srcname>
+			<hash type="sha256">dbc54624db75757d0134d6b536267385b8593bd08e08b2094cd66b082c776d6b</hash>
+			<sig>1de57ef7702cafe69869bb00ce72738d</sig>
+			<size>1973906</size>
+			<sdkver>7</sdkver>
+			<added>2015-06-05</added>
+			<permissions>INTERNET</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>2.11</version>
 			<versioncode>44</versioncode>
@@ -19088,18 +19114,6 @@
 			<sdkver>7</sdkver>
 			<added>2015-03-31</added>
 			<permissions>INTERNET</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>2.6</version>
-			<versioncode>38</versioncode>
-			<apkname>org.epstudios.epmobile_38.apk</apkname>
-			<srcname>org.epstudios.epmobile_38_src.tar.gz</srcname>
-			<hash type="sha256">35389682e550e8696a6e7d9f0ea110322e1cb41154430ea4e54111370de33759</hash>
-			<sig>1de57ef7702cafe69869bb00ce72738d</sig>
-			<size>954279</size>
-			<sdkver>7</sdkver>
-			<added>2014-10-23</added>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -40221,7 +40235,7 @@
 		<added>2012-08-23</added>
 		<lastupdated>2014-11-09</lastupdated>
 		<name>NoNonsense Notes</name>
-		<summary>Notepad and todo app with sync support.</summary>
+		<summary>Notepad and todo app with sync support</summary>
 		<icon>com.nononsenseapps.notepad.55300.png</icon>
 		<desc>&lt;p&gt;Notepad and todo list app with a modern look.&lt;/p&gt;</desc>
 		<license>Apache2</license>
@@ -42037,10 +42051,10 @@
 	<application id="org.tw.onze.cmtheme">
 		<id>org.tw.onze.cmtheme</id>
 		<added>2015-03-29</added>
-		<lastupdated>2015-05-20</lastupdated>
+		<lastupdated>2015-06-05</lastupdated>
 		<name>Onze</name>
 		<summary>CM11 FLOSS Theme</summary>
-		<icon>org.tw.onze.cmtheme.12.png</icon>
+		<icon>org.tw.onze.cmtheme.13.png</icon>
 		<desc>&lt;p&gt;A port of TwelF CM12 Theme. Onze is a Material Design inspired theme for CM11 aiming to provide a consistent and minimalistic look to your device.&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; FLOSS Icon Pack&lt;/li&gt;&lt;li&gt; Bootanimation&lt;/li&gt;&lt;li&gt; Wallpaper &amp;amp; Lockscreen&lt;/li&gt;&lt;li&gt; Alarm &amp;amp; Ringtone&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;For issues, comments and icon request, please use the issue tracker.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -42051,6 +42065,18 @@
 		<changelog>https://gitlab.com/xphnx/onze_cm11_theme/blob/HEAD/CHANGELOG.md</changelog>
 		<marketversion>1.2</marketversion>
 		<marketvercode>12</marketvercode>
+		<package>
+			<version>1.3</version>
+			<versioncode>13</versioncode>
+			<apkname>org.tw.onze.cmtheme_13.apk</apkname>
+			<srcname>org.tw.onze.cmtheme_13_src.tar.gz</srcname>
+			<hash type="sha256">62aaf067a1134fbe9d07c5253dd9dbc3b4402dfc17e9c1165636819afedfcc87</hash>
+			<sig>1acf51ece068c085163f01e0d9b40336</sig>
+			<size>10160772</size>
+			<sdkver>19</sdkver>
+			<added>2015-06-05</added>
+			<features>org.cyanogenmod.theme,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.2</version>
 			<versioncode>12</versioncode>
@@ -42073,18 +42099,6 @@
 			<size>7459686</size>
 			<sdkver>19</sdkver>
 			<added>2015-05-08</added>
-			<features>org.cyanogenmod.theme,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>0.9</version>
-			<versioncode>9</versioncode>
-			<apkname>org.tw.onze.cmtheme_9.apk</apkname>
-			<srcname>org.tw.onze.cmtheme_9_src.tar.gz</srcname>
-			<hash type="sha256">047e7eb525cd05076f7b5bf62165c049d7c5d5d6158166b3a29496dc20e071fe</hash>
-			<sig>1acf51ece068c085163f01e0d9b40336</sig>
-			<size>7076922</size>
-			<sdkver>19</sdkver>
-			<added>2015-04-25</added>
 			<features>org.cyanogenmod.theme,android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -42864,7 +42878,7 @@
 		<added>2013-09-11</added>
 		<lastupdated>2015-05-29</lastupdated>
 		<name>OpenKeychain</name>
-		<summary>Encrypt files and communications with OpenPGP.</summary>
+		<summary>Encrypt files and communications with OpenPGP</summary>
 		<icon>org.sufficientlysecure.keychain.32300.png</icon>
 		<desc>&lt;p&gt;OpenKeychain helps you communicate more privately and securely. It uses high-quality modern encryption to ensure that your messages can be read only by the people you send them to, others can send you messages that only you can read, and these messages can be digitally signed so the people getting them are sure who sent them. OpenKeychain is based on the well established OpenPGP standard making encryption compatible across your devices and operating systems.&lt;/p&gt;&lt;p&gt;Modern encryption is based on digital &quot;keys&quot;. OpenKeychain stores and manages your keys, and those of the people you communicate with, on your Android. It also helps you find others' keys online, and interchange keys by touching devices. But its most frequent use is in using those keys to encrypt and decrypt messages.&lt;/p&gt;&lt;p&gt;OpenKeychain integrates with&lt;/p&gt;&lt;ul&gt;&lt;li&gt; K-9 Mail&lt;/li&gt;&lt;li&gt; Conversations&lt;/li&gt;&lt;li&gt; and many more...&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;OpenKeychain is designed to be trustworthy. It’s Free Software with no secrets; anyone can examine and validate every bit of it.&lt;/p&gt;&lt;p&gt;Permissions:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Full network access: To query keyservers&lt;/li&gt;&lt;li&gt; Near Field Communication: To exchange keys via NFC; Yubikey NEO support&lt;/li&gt;&lt;li&gt; Storage: To import/export keys from sd card&lt;/li&gt;&lt;li&gt; Identity/Contact: To pre-fill name, email, and search queries; integration with Android's contacts&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3+</license>
@@ -44359,10 +44373,10 @@
 	<application id="nya.miku.wishmaster">
 		<id>nya.miku.wishmaster</id>
 		<added>2015-05-12</added>
-		<lastupdated>2015-05-24</lastupdated>
+		<lastupdated>2015-06-05</lastupdated>
 		<name>Overchan</name>
 		<summary>Browse multiple imageboards</summary>
-		<icon>nya.miku.wishmaster.20.png</icon>
+		<icon>nya.miku.wishmaster.21.png</icon>
 		<desc>&lt;p&gt;Mobile application for browsing imageboards. Supports 4chan, krautchan, 8chan, iichan.hk, dobrochan, 2ch (russian dvach) and some others.&lt;/p&gt;&lt;p&gt;Some features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Separate preferences for each imageboard: password for post deletion, HTTP/SSL, proxy&lt;/li&gt;&lt;li&gt; Automatic hide posts and threads using regular expressions&lt;/li&gt;&lt;li&gt; Automatic update all open tabs in background&lt;/li&gt;&lt;li&gt; Sending posts in background&lt;/li&gt;&lt;li&gt; Saving threads with all attachments in HTML with Dollchan&lt;/li&gt;&lt;li&gt; Two ways to display replies to posts: as separate references and as list&lt;/li&gt;&lt;li&gt; Support the tablet interface&lt;/li&gt;&lt;li&gt; Themes&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Internet</categories>
@@ -44373,8 +44387,22 @@
 		<changelog/>
 		<donate>http://miku-nyan.github.io/Overchan-Android/en.html#Donate</donate>
 		<bitcoin>1LaumSD5Y9npHxsq9Cqo3esmWiytqv95QW</bitcoin>
-		<marketversion>1.0.5</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>1.0.6</marketversion>
+		<marketvercode>21</marketvercode>
+		<package>
+			<version>1.0.6</version>
+			<versioncode>21</versioncode>
+			<apkname>nya.miku.wishmaster_21.apk</apkname>
+			<srcname>nya.miku.wishmaster_21_src.tar.gz</srcname>
+			<hash type="sha256">2f2d5d833fce4f441f99bdfd1c6b5c2561d9bc0be8254c60f7fb751d02763c59</hash>
+			<sig>ca18b66d2e432ca7956e48ebab439e60</sig>
+			<size>3652685</size>
+			<sdkver>4</sdkver>
+			<added>2015-06-05</added>
+			<permissions>READ_EXTERNAL_STORAGE,ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.0.5</version>
 			<versioncode>20</versioncode>
@@ -44400,20 +44428,6 @@
 			<sdkver>4</sdkver>
 			<added>2015-05-18</added>
 			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,INTERNET</permissions>
-			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.0.3</version>
-			<versioncode>18</versioncode>
-			<apkname>nya.miku.wishmaster_18.apk</apkname>
-			<srcname>nya.miku.wishmaster_18_src.tar.gz</srcname>
-			<hash type="sha256">33dd6a117d3a814691c3ff968278a63589cb21eb128400daa9780df25caa57cf</hash>
-			<sig>ca18b66d2e432ca7956e48ebab439e60</sig>
-			<size>3515457</size>
-			<sdkver>4</sdkver>
-			<added>2015-05-12</added>
-			<permissions>WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,INTERNET</permissions>
 			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -48938,7 +48952,7 @@
 		<added>2015-05-08</added>
 		<lastupdated>2015-05-14</lastupdated>
 		<name>QRStream</name>
-		<summary>Transfer files and text via successive QR codes.</summary>
+		<summary>Transfer files and text via successive QR codes</summary>
 		<icon>com.github.xloem.qrstream.6.png</icon>
 		<desc>&lt;p&gt;QRStream's intent is to provide for communication with a device without using the radios or USB port.  This can be very useful in a handful of obscure situations.&lt;/p&gt;&lt;p&gt;The first version of this app sent and received a text file or the clipboard by calling out to zxing, without a container format or protocol.  Content is split into reasonable sizes and displayed as QR codes, or QR codes are read and spliced together in order.  This does allow for compatibility with other barcode readers and generators.&lt;/p&gt;&lt;p&gt;As (and if) the app develops, some ideas are an optional stream protocol, embedding the encoding and decoding for smoother use, ensuring binary data can be transferred reliably, including a data review screen, or providing forwarding for IP traffic.&lt;/p&gt;&lt;p&gt;If this is useful to you, improve something and send a pull request!&lt;/p&gt;</desc>
 		<license>PublicDomain</license>
@@ -49149,7 +49163,7 @@
 		<name>Quick Dice Roller</name>
 		<summary>Flexible, complete and handy dice roller</summary>
 		<icon>ohm.quickdice.36.png</icon>
-		<desc>&lt;p&gt;Emulate almost all the complex dice rolls required by RPG and board games.&lt;/p&gt;&lt;p&gt;The dice can be added at will and organized in dice bags. Each die is defined by a formula such as &quot;2d6+5&quot; as well as special functions like &quot;rak(1d6,4,3)&quot; that allow to emulates the most complex game systems. An handy formulas builder simplifies the process, and allow to access to an online help. Check the &lt;a href=&quot;http://goo.gl/mZkcQS&quot;&gt;list of all supported functions&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Thanks to &quot;named values&quot;, as well as keep track of games scores, you can define formulas using variable parameters. You can create, for example, the named value &quot;Level&quot; with label &quot;lvl&quot;, then use the formula &quot;(lvl)d6&quot; to determine the fireball damage. So when your mage level up you don't need to edit the formula: just change the &quot;Level&quot; value!&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;Quick Dice Roller is an app made for the tabletop RPG Geek. It allows to emulate almost all the complex dice rolls required by RPG and board games.&lt;/p&gt;&lt;p&gt;The dice can be added at will and organized in dice bags. Each die is defined by a formula such as &quot;2d6+5&quot; as well as special functions like &quot;rak(1d6,4,3)&quot; that allow to emulates the most complex game systems. An handy formulas builder simplifies the process, and allow to access to an online help. Check the &lt;a href=&quot;http://goo.gl/mZkcQS&quot;&gt;list of all supported functions&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Thanks to &quot;named values&quot;, as well as keep track of games scores, you can define formulas using variable parameters. You can create, for example, the named value &quot;Level&quot; with label &quot;lvl&quot;, then use the formula &quot;(lvl)d6&quot; to determine the fireball damage. So when your mage level up you don't need to edit the formula: just change the &quot;Level&quot; value!&lt;/p&gt;&lt;p&gt;Main features of Quick Dice Roller:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Organize dice in dice bags&lt;/li&gt;&lt;li&gt; Use same formulas you're familiar to (xdy+z)&lt;/li&gt;&lt;li&gt; Simple and intuitive Formulas Builder&lt;/li&gt;&lt;li&gt; Many functions to emulate main systems&lt;/li&gt;&lt;li&gt; Keep track of scores and use them in formulas&lt;/li&gt;&lt;li&gt; Read or listen rolls result in a clear way&lt;/li&gt;&lt;li&gt; Apply modifiers on the fly with a touch&lt;/li&gt;&lt;li&gt; Sum a roll to the previous automagically or on demand&lt;/li&gt;&lt;li&gt; Paste last roll result from the clipboard in another app&lt;/li&gt;&lt;li&gt; Keep track of last rolls made&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Games</categories>
 		<category>Games</category>
@@ -58058,7 +58072,7 @@
 		<added>2015-05-20</added>
 		<lastupdated>2015-05-20</lastupdated>
 		<name>StageFever</name>
-		<summary>Display stage notes, AMP/effect settings etc.</summary>
+		<summary>Display stage notes, AMP/effect settings etc</summary>
 		<icon>com.fr3ts0n.stagefever.1.png</icon>
 		<desc>&lt;p&gt;Shows stage notes, AMP/effect settings, BPM etc. for any song in setlist. A setlist is a csv file following the scheme:&lt;/p&gt;&lt;p&gt;Song;Artist;Settings;BPM;Stage notes&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
@@ -59761,10 +59775,10 @@
 	<application id="org.tasks">
 		<id>org.tasks</id>
 		<added>2014-06-21</added>
-		<lastupdated>2015-04-21</lastupdated>
+		<lastupdated>2015-06-05</lastupdated>
 		<name>Tasks</name>
 		<summary>Fork of Astrid Tasks &amp; To-Do List</summary>
-		<icon>org.tasks.359.png</icon>
+		<icon>org.tasks.362.png</icon>
 		<desc>&lt;p&gt;This app is built on the same code as the original Astrid app but differs in several ways:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; No Astrid.com synchronization&lt;/li&gt;&lt;li&gt; No sharing or assigning tasks&lt;/li&gt;&lt;li&gt; No iOS or web interface&lt;/li&gt;&lt;li&gt; Third party apps need to update their code to support Tasks&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Tasks is not affiliated with Yahoo! or Todoroo.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Office</categories>
@@ -59776,7 +59790,20 @@
 		<donate>https://pledgie.com/campaigns/24281</donate>
 		<flattr>2308341</flattr>
 		<marketversion>4.7.11</marketversion>
-		<marketvercode>360</marketvercode>
+		<marketvercode>362</marketvercode>
+		<package>
+			<version>4.7.11</version>
+			<versioncode>362</versioncode>
+			<apkname>org.tasks_362.apk</apkname>
+			<srcname>org.tasks_362_src.tar.gz</srcname>
+			<hash type="sha256">fabd66234f86fabb328863a0915e71e64c6aeb410aed2f8f428a6e5eae34d789</hash>
+			<sig>7cff0310c51486068069310a0447d43e</sig>
+			<size>4465196</size>
+			<sdkver>7</sdkver>
+			<added>2015-06-05</added>
+			<permissions>RECORD_AUDIO,MANAGE_ACCOUNTS,READ_CALENDAR,WRITE_EXTERNAL_STORAGE,org.tasks.READ,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE,USE_CREDENTIALS,GET_ACCOUNTS,VIBRATE,READ_CALL_LOG,RECEIVE_BOOT_COMPLETED,INTERNET,READ_CONTACTS,READ_PHONE_STATE,WRITE_CALENDAR,org.tasks.permission.READ_TASKS,org.tasks.WRITE,com.google.android.googleapps.permission.GOOGLE_AUTH</permissions>
+			<features>android.hardware.microphone</features>
+		</package>
 		<package>
 			<version>4.7.10</version>
 			<versioncode>359</versioncode>
@@ -59801,19 +59828,6 @@
 			<sdkver>7</sdkver>
 			<added>2015-04-04</added>
 			<permissions>RECORD_AUDIO,READ_PHONE_STATE,READ_CALENDAR,WRITE_EXTERNAL_STORAGE,org.tasks.READ,com.android.launcher.permission.INSTALL_SHORTCUT,READ_EXTERNAL_STORAGE,USE_CREDENTIALS,GET_ACCOUNTS,VIBRATE,org.tasks.permission.READ_TASKS,READ_CALL_LOG,RECEIVE_BOOT_COMPLETED,INTERNET,READ_CONTACTS,MANAGE_ACCOUNTS,WRITE_CALENDAR,com.android.vending.BILLING,org.tasks.WRITE,com.google.android.googleapps.permission.GOOGLE_AUTH</permissions>
-			<features>android.hardware.microphone</features>
-		</package>
-		<package>
-			<version>4.7.7</version>
-			<versioncode>348</versioncode>
-			<apkname>org.tasks_348.apk</apkname>
-			<srcname>org.tasks_348_src.tar.gz</srcname>
-			<hash type="sha256">0f4595fae82bd927b331191f305f630cb4fc6f82ab9c60229264019c84b668bf</hash>
-			<sig>7cff0310c51486068069310a0447d43e</sig>
-			<size>4202191</size>
-			<sdkver>7</sdkver>
-			<added>2015-01-12</added>
-			<permissions>ACCESS_NETWORK_STATE,READ_CALENDAR,WRITE_EXTERNAL_STORAGE,org.tasks.READ,com.android.launcher.permission.INSTALL_SHORTCUT,USE_CREDENTIALS,INTERNET,com.google.android.googleapps.permission.GOOGLE_AUTH,VIBRATE,org.tasks.permission.READ_TASKS,READ_CALL_LOG,READ_CONTACTS,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,RECORD_AUDIO,MANAGE_ACCOUNTS,WRITE_CALENDAR,READ_PHONE_STATE,org.tasks.WRITE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.microphone</features>
 		</package>
 	</application>
@@ -63082,10 +63096,10 @@
 	<application id="org.twelf.cmtheme">
 		<id>org.twelf.cmtheme</id>
 		<added>2015-03-08</added>
-		<lastupdated>2015-05-20</lastupdated>
+		<lastupdated>2015-06-05</lastupdated>
 		<name>TwelF</name>
 		<summary>CM12 FLOSS Theme</summary>
-		<icon>org.twelf.cmtheme.12.png</icon>
+		<icon>org.twelf.cmtheme.13.png</icon>
 		<desc>&lt;p&gt;TwelF is a Material Design inspired theme for Android Lollipop aiming to provide a consistent and minimalistic look to your device. Your ROM must include the CM12 Theme Engine.&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; FLOSS Icon Pack&lt;/li&gt;&lt;li&gt; Bootanimation&lt;/li&gt;&lt;li&gt; Wallpaper &amp;amp; Lockscreen&lt;/li&gt;&lt;li&gt; Alarm &amp;amp; Ringtone&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;For issues, comments and icon request, please use the issue tracker.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System</categories>
@@ -63094,8 +63108,20 @@
 		<source>https://gitlab.com/xphnx/twelf_cm12_theme</source>
 		<tracker>https://gitlab.com/xphnx/twelf_cm12_theme/issues</tracker>
 		<changelog>https://gitlab.com/xphnx/twelf_cm12_theme/blob/HEAD/CHANGELOG.md</changelog>
-		<marketversion>1.2</marketversion>
-		<marketvercode>12</marketvercode>
+		<marketversion>1.3</marketversion>
+		<marketvercode>13</marketvercode>
+		<package>
+			<version>1.3</version>
+			<versioncode>13</versioncode>
+			<apkname>org.twelf.cmtheme_13.apk</apkname>
+			<srcname>org.twelf.cmtheme_13_src.tar.gz</srcname>
+			<hash type="sha256">2f035ba3eac15d6494822d0e5324d8ee3568ffdca71a719e067560c6614f7a76</hash>
+			<sig>0be9f91b034a13c162724f0a005f4d2d</sig>
+			<size>10160130</size>
+			<sdkver>21</sdkver>
+			<added>2015-06-05</added>
+			<features>org.cyanogenmod.theme,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.2</version>
 			<versioncode>12</versioncode>
@@ -63118,18 +63144,6 @@
 			<size>7459032</size>
 			<sdkver>21</sdkver>
 			<added>2015-05-08</added>
-			<features>org.cyanogenmod.theme,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.0</version>
-			<versioncode>10</versioncode>
-			<apkname>org.twelf.cmtheme_10.apk</apkname>
-			<srcname>org.twelf.cmtheme_10_src.tar.gz</srcname>
-			<hash type="sha256">bb11b19f7d5125b94d542d19c765289556475153224b297cf42bca06de86f9df</hash>
-			<sig>0be9f91b034a13c162724f0a005f4d2d</sig>
-			<size>6939650</size>
-			<sdkver>21</sdkver>
-			<added>2015-04-25</added>
 			<features>org.cyanogenmod.theme,android.hardware.touchscreen</features>
 		</package>
 	</application>
