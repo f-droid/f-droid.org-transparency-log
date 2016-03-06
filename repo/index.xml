@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1457207242" url="http://f-droid.org/repo" version="15">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1457273296" url="http://f-droid.org/repo" version="15">
 		<description>The official FDroid repository. Applications in this repository are built directly from the source code. (One, Firefox, is the official binary built by the Mozilla. This will ultimately be replaced by a source-built version. </description>
 	</repo>
 	<application id="de.j4velin.systemappmover">
@@ -3861,6 +3861,36 @@
 			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.location.gps,android.hardware.location.network</features>
 		</package>
 	</application>
+	<application id="org.androidpn.client">
+		<id>org.androidpn.client</id>
+		<added>2016-03-06</added>
+		<lastupdated>2016-03-06</lastupdated>
+		<name>AndroidPN Client</name>
+		<summary>Push Notificitaion Client</summary>
+		<icon>org.androidpn.client.20160303.png</icon>
+		<desc>&lt;p&gt;Android Push Notificitaion Client. Obtain server from &lt;a href=&quot;http://sourceforge.net/projects/androidpn/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</desc>
+		<license>Apache2</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web>https://github.com/daktak/androidpn-client/blob/HEAD/README.md</web>
+		<source>https://github.com/daktak/androidpn-client</source>
+		<tracker>https://github.com/daktak/androidpn-client/issues</tracker>
+		<marketversion>0.5.6</marketversion>
+		<marketvercode>20160303</marketvercode>
+		<package>
+			<version>0.5.6</version>
+			<versioncode>20160303</versioncode>
+			<apkname>org.androidpn.client_20160303.apk</apkname>
+			<srcname>org.androidpn.client_20160303_src.tar.gz</srcname>
+			<hash type="sha256">a65ca4ab19ebed73d8ceeb87433d21f8d55996930380eb5652c9c9dafaad9e39</hash>
+			<sig>41de34e9f1b13c3b2c898d51be1b1d5c</sig>
+			<size>1687242</size>
+			<sdkver>19</sdkver>
+			<added>2016-03-06</added>
+			<permissions>ACCESS_NETWORK_STATE,VIBRATE,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,RECEIVE_BOOT_COMPLETED,INTERNET,READ_PHONE_STATE</permissions>
+			<features>android.hardware.touchscreen,android.hardware.wifi</features>
+		</package>
+	</application>
 	<application id="fr.asterope">
 		<id>fr.asterope</id>
 		<added>2014-09-22</added>
@@ -4570,10 +4600,10 @@
 	<application id="de.danoeh.antennapod">
 		<id>de.danoeh.antennapod</id>
 		<added>2012-09-20</added>
-		<lastupdated>2016-03-04</lastupdated>
+		<lastupdated>2016-03-06</lastupdated>
 		<name>AntennaPod</name>
 		<summary>Advanced podcast manager and player</summary>
-		<icon>de.danoeh.antennapod.1050100.png</icon>
+		<icon>de.danoeh.antennapod.1050101.png</icon>
 		<desc>&lt;p&gt;Podcast manager and player that gives you instant access to millions of free and paid podcasts, from independent podcasters to large publishing houses such as the BBC, NPR and CNN. Add, import and export their feeds hassle-free using the iTunes podcast database, gPodder, OPML files or simple RSS URLs. Save effort, battery power and mobile data usage with powerful automation controls for downloading episodes (specify times, intervals and WiFi networks) and deleting episodes (based your favourites and delay settings). But most importantly: Download, stream or queue episodes and enjoy them the way you like with adjustable playback speeds, chapter support and a sleep timer.&lt;/p&gt;&lt;p&gt;Made by podcast-enthousiasts, AntennaPod is kept free of ads and frequently updated based on your input.&lt;/p&gt;&lt;p&gt;&lt;b&gt;N.B.&lt;/b&gt; The Flattr functionality is disabled in this build as the API keys are not in the source.&lt;/p&gt;&lt;p&gt;Check out the &lt;a href=&quot;https://github.com/AntennaPod/AntennaPod/wiki/About-AntennaPod#all-features&quot;&gt;full feature list&lt;/a&gt; over at our Wiki.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Multimedia</categories>
@@ -4583,18 +4613,18 @@
 		<tracker>https://www.github.com/antennapod/AntennaPod/issues</tracker>
 		<changelog>https://raw.githubusercontent.com/AntennaPod/AntennaPod/HEAD/CHANGELOG.md</changelog>
 		<bitcoin>1DzvtuvdW8VhDsq9GUytMyALmsHeaHEKbg</bitcoin>
-		<marketversion>1.5.1.0</marketversion>
-		<marketvercode>1050100</marketvercode>
+		<marketversion>1.5.1.1</marketversion>
+		<marketvercode>1050101</marketvercode>
 		<package>
-			<version>1.5.1.0</version>
-			<versioncode>1050100</versioncode>
-			<apkname>de.danoeh.antennapod_1050100.apk</apkname>
-			<srcname>de.danoeh.antennapod_1050100_src.tar.gz</srcname>
-			<hash type="sha256">ca4db1ff7469af7a4812e9afc8d1fa3798714a340adbffbf0056e3d93ea85b57</hash>
+			<version>1.5.1.1</version>
+			<versioncode>1050101</versioncode>
+			<apkname>de.danoeh.antennapod_1050101.apk</apkname>
+			<srcname>de.danoeh.antennapod_1050101_src.tar.gz</srcname>
+			<hash type="sha256">fe8de8b93295c2cc7fff8498df6d27c41d9bce95cadec1bc5a29ea60951b748c</hash>
 			<sig>3870fa89bfb5e13509ce5888800bc643</sig>
-			<size>4394356</size>
+			<size>4394566</size>
 			<sdkver>10</sdkver>
-			<added>2016-03-04</added>
+			<added>2016-03-06</added>
 			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,INTERNET,VIBRATE,BLUETOOTH,ACCESS_WIFI_STATE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.wifi,android.hardware.bluetooth</features>
 		</package>
@@ -5903,10 +5933,10 @@
 	<application id="org.microg.nlp.backend.apple">
 		<id>org.microg.nlp.backend.apple</id>
 		<added>2014-03-22</added>
-		<lastupdated>2015-04-05</lastupdated>
+		<lastupdated>2016-03-06</lastupdated>
 		<name>Apple UnifiedNlp Backend</name>
 		<summary>UnifiedNlp location provider (Apple WiFi)</summary>
-		<icon>org.microg.nlp.backend.apple.10101.png</icon>
+		<icon>org.microg.nlp.backend.apple.10200.png</icon>
 		<desc>&lt;p&gt;&lt;a href=&quot;fdroid.app:com.google.android.gms&quot;&gt;µg UnifiedNlp (no GAPPS)&lt;/a&gt; backend that uses Apple's service to resolve WiFi locations.&lt;/p&gt;&lt;p&gt;Location calculation is done onboard and wifi locations are cached to minimize data usage.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>Navigation</categories>
@@ -5915,9 +5945,22 @@
 		<source>https://github.com/microg/AppleWifiNlpBackend</source>
 		<tracker>https://github.com/microg/AppleWifiNlpBackend/issues</tracker>
 		<changelog>https://github.com/microg/AppleWifiNlpBackend/releases</changelog>
-		<marketversion>1.1.1</marketversion>
-		<marketvercode>10101</marketvercode>
+		<marketversion>1.2.0</marketversion>
+		<marketvercode>10200</marketvercode>
 		<antifeatures>Tracking,NonFreeNet</antifeatures>
+		<package>
+			<version>1.2.0</version>
+			<versioncode>10200</versioncode>
+			<apkname>org.microg.nlp.backend.apple_10200.apk</apkname>
+			<srcname>org.microg.nlp.backend.apple_10200_src.tar.gz</srcname>
+			<hash type="sha256">decd7447ea9db1245f0a6ad335c071fa7cb2cd6d685182df5baabc79f61f2279</hash>
+			<sig>d23f7f8f10a5246475ea4ac6b8a31c7d</sig>
+			<size>289485</size>
+			<sdkver>10</sdkver>
+			<added>2016-03-06</added>
+			<permissions>CHANGE_WIFI_STATE,READ_EXTERNAL_STORAGE,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,ACCESS_NETWORK_STATE,INTERNET,ACCESS_FINE_LOCATION,WRITE_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.location,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.1.1</version>
 			<versioncode>10101</versioncode>
@@ -5942,19 +5985,6 @@
 			<sdkver>10</sdkver>
 			<added>2015-02-20</added>
 			<permissions>CHANGE_WIFI_STATE,READ_EXTERNAL_STORAGE,ACCESS_WIFI_STATE,ACCESS_NETWORK_STATE,INTERNET,WRITE_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen,android.hardware.wifi</features>
-		</package>
-		<package>
-			<version>1.0.3</version>
-			<versioncode>1030</versioncode>
-			<apkname>org.microg.nlp.backend.apple_1030.apk</apkname>
-			<srcname>org.microg.nlp.backend.apple_1030_src.tar.gz</srcname>
-			<hash type="sha256">a3daa10ddf50b8842833c30c388a8bca34575f8f892084a1c733c9346554d2bf</hash>
-			<sig>d23f7f8f10a5246475ea4ac6b8a31c7d</sig>
-			<size>112451</size>
-			<sdkver>10</sdkver>
-			<added>2015-01-30</added>
-			<permissions>CHANGE_WIFI_STATE,WRITE_EXTERNAL_STORAGE,ACCESS_WIFI_STATE,INTERNET,READ_PHONE_STATE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen,android.hardware.wifi</features>
 		</package>
 	</application>
@@ -7811,10 +7841,10 @@
 	<application id="com.samebits.beacon.locator">
 		<id>com.samebits.beacon.locator</id>
 		<added>2016-02-27</added>
-		<lastupdated>2016-02-27</lastupdated>
+		<lastupdated>2016-03-06</lastupdated>
 		<name>Beacon Locator</name>
 		<summary>Interact with Bluetooth beacons</summary>
-		<icon>com.samebits.beacon.locator.101.png</icon>
+		<icon>com.samebits.beacon.locator.102.png</icon>
 		<desc>&lt;p&gt;Scan, locate and track Bluetooth LE beacons (Eddystone, iBeacons or AltBeacons) allows you to define actions that will be triggered when a specified event occurs.&lt;/p&gt;&lt;p&gt;These events are supported:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Beacon enters a region (beacon in range)&lt;/li&gt;&lt;li&gt; Beacon leaves the region (beacon is out of range)&lt;/li&gt;&lt;li&gt; Beacon is near you&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;For each event you can define unlimited number of actions :&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Start an application&lt;/li&gt;&lt;li&gt; Open url&lt;/li&gt;&lt;li&gt; Get current location&lt;/li&gt;&lt;li&gt; Broadcast intent action&lt;/li&gt;&lt;li&gt; Set Normal / Silent mode&lt;/li&gt;&lt;li&gt; Execute tasker action (http://tasker.dinglisch.net) for unlimited action possibilities&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;For example, you may set a silent mode entering your bedroom...and set normal sound profile leaving it.&lt;/p&gt;&lt;p&gt;Additional information is supplied in the &lt;a href=&quot;https://github.com/vitas/beaconloc/wiki/Help&quot;&gt;help section&lt;/a&gt; of the wiki.&lt;/p&gt;</desc>
 		<license>Apache2</license>
 		<categories>System</categories>
@@ -7824,6 +7854,19 @@
 		<tracker>https://github.com/vitas/beaconloc/issues</tracker>
 		<marketversion>1.0.2</marketversion>
 		<marketvercode>102</marketvercode>
+		<package>
+			<version>1.0.2</version>
+			<versioncode>102</versioncode>
+			<apkname>com.samebits.beacon.locator_102.apk</apkname>
+			<srcname>com.samebits.beacon.locator_102_src.tar.gz</srcname>
+			<hash type="sha256">2a7b8445026cfa7d9033e2bf2096ed9248e6f0c297de4009ca68081b2e8a7144</hash>
+			<sig>a19db8a5f0c0b5cbe1c7e93991f49262</sig>
+			<size>2071349</size>
+			<sdkver>18</sdkver>
+			<added>2016-03-06</added>
+			<permissions>RECEIVE_BOOT_COMPLETED,BLUETOOTH_ADMIN,BLUETOOTH,ACCESS_COARSE_LOCATION,net.dinglisch.android.tasker.PERMISSION_RUN_TASKS,INTERNET,ACCESS_FINE_LOCATION</permissions>
+			<features>android.hardware.touchscreen,android.hardware.location.gps,android.hardware.bluetooth_le,android.hardware.location.network,android.hardware.bluetooth,android.hardware.location</features>
+		</package>
 		<package>
 			<version>1.0.1</version>
 			<versioncode>101</versioncode>
@@ -9313,10 +9356,10 @@
 	<application id="de.baumann.thema">
 		<id>de.baumann.thema</id>
 		<added>2016-01-08</added>
-		<lastupdated>2016-02-27</lastupdated>
+		<lastupdated>2016-03-06</lastupdated>
 		<name>Blue Minimal</name>
 		<summary>Minimalistic CM12+ theme</summary>
-		<icon>de.baumann.thema.14.png</icon>
+		<icon>de.baumann.thema.16.png</icon>
 		<desc>&lt;p&gt;A Material Design inspired theme for Lollipop aiming to provide a consistent and minimalistic look to your device. It is based on several other CM12 themes. A device running the Cyanogenmod 12 ROM or any other rom compatible with the CM12 theme engine is needed to use the theme.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/scoute-dich/Baumann_Theme/blob/HEAD/screenshots.md&quot;&gt;Screenshots&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Theming</categories>
@@ -9327,6 +9370,19 @@
 		<changelog>https://github.com/scoute-dich/Baumann_Theme/blob/HEAD/CHANGELOG.md</changelog>
 		<marketversion>3.6</marketversion>
 		<marketvercode>16</marketvercode>
+		<package>
+			<version>3.6</version>
+			<versioncode>16</versioncode>
+			<apkname>de.baumann.thema_16.apk</apkname>
+			<srcname>de.baumann.thema_16_src.tar.gz</srcname>
+			<hash type="sha256">e384970db2c125dc2bb5019c79390405361c14ca3618e00bfb67cfb1e43a83d1</hash>
+			<sig>456a8dd6ec092d29d045f59dd0616098</sig>
+			<size>8537972</size>
+			<sdkver>21</sdkver>
+			<added>2016-03-06</added>
+			<permissions>SET_WALLPAPER_HINTS,READ_EXTERNAL_STORAGE,SET_WALLPAPER,WRITE_EXTERNAL_STORAGE</permissions>
+			<features>org.cyanogenmod.theme,android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>3.5.1</version>
 			<versioncode>14</versioncode>
@@ -9351,19 +9407,6 @@
 			<sdkver>21</sdkver>
 			<added>2016-02-12</added>
 			<permissions>SET_WALLPAPER_HINTS,READ_EXTERNAL_STORAGE,SET_WALLPAPER,WRITE_EXTERNAL_STORAGE</permissions>
-			<features>org.cyanogenmod.theme,android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>3.1</version>
-			<versioncode>12</versioncode>
-			<apkname>de.baumann.thema_12.apk</apkname>
-			<srcname>de.baumann.thema_12_src.tar.gz</srcname>
-			<hash type="sha256">183cdbec881c12511586151e551483068e0048bf1496dc444e627cdea05475af</hash>
-			<sig>456a8dd6ec092d29d045f59dd0616098</sig>
-			<size>7221064</size>
-			<sdkver>21</sdkver>
-			<added>2016-01-08</added>
-			<permissions>SET_WALLPAPER_HINTS,WRITE_EXTERNAL_STORAGE,SET_WALLPAPER,READ_EXTERNAL_STORAGE</permissions>
 			<features>org.cyanogenmod.theme,android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -11540,10 +11583,10 @@
 	<application id="com.github.quarck.calnotify">
 		<id>com.github.quarck.calnotify</id>
 		<added>2016-02-27</added>
-		<lastupdated>2016-03-05</lastupdated>
+		<lastupdated>2016-03-06</lastupdated>
 		<name>Calendar Notifications Plus</name>
 		<summary>Advanced calendar notifications</summary>
-		<icon>com.github.quarck.calnotify.10.png</icon>
+		<icon>com.github.quarck.calnotify.11.png</icon>
 		<desc>&lt;p&gt;Replace calendar notifications with advanced notifications, allowing custom snooze times and reboot notifications persistence. The app is focusing on making its functionality as transparent as possible, notification would behave in the same way as stock calendar notifications. All calendar applications should be handled correctly in theory.&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>System,Time</categories>
@@ -11551,8 +11594,21 @@
 		<web/>
 		<source>https://github.com/quarck/CalendarNotification</source>
 		<tracker>https://github.com/quarck/CalendarNotification/issues</tracker>
-		<marketversion>1.0.9</marketversion>
-		<marketvercode>10</marketvercode>
+		<marketversion>1.0.10</marketversion>
+		<marketvercode>11</marketvercode>
+		<package>
+			<version>1.0.10</version>
+			<versioncode>11</versioncode>
+			<apkname>com.github.quarck.calnotify_11.apk</apkname>
+			<srcname>com.github.quarck.calnotify_11_src.tar.gz</srcname>
+			<hash type="sha256">583c5c86a6b02c94566f2bc709aa875bc219b74eafe12b83872baa5e2601aaf2</hash>
+			<sig>f2120634456a8be7778a0af70b0cc275</sig>
+			<size>1144542</size>
+			<sdkver>16</sdkver>
+			<added>2016-03-06</added>
+			<permissions>WRITE_CALENDAR,READ_CALENDAR,VIBRATE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.0.9</version>
 			<versioncode>10</versioncode>
@@ -11577,19 +11633,6 @@
 			<sdkver>16</sdkver>
 			<added>2016-03-01</added>
 			<permissions>READ_CALENDAR,WRITE_CALENDAR,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.0.1</version>
-			<versioncode>2</versioncode>
-			<apkname>com.github.quarck.calnotify_2.apk</apkname>
-			<srcname>com.github.quarck.calnotify_2_src.tar.gz</srcname>
-			<hash type="sha256">340ea70eb799b30d9d1af3fc3f8e7a10714077f2dce67b425431219b0b5142bb</hash>
-			<sig>f2120634456a8be7778a0af70b0cc275</sig>
-			<size>1136481</size>
-			<sdkver>16</sdkver>
-			<added>2016-02-27</added>
-			<permissions>WRITE_CALENDAR,READ_CALENDAR,VIBRATE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -20974,8 +21017,8 @@
 		<source>https://github.com/T-Rex96/Easy_xkcd</source>
 		<tracker>https://github.com/T-Rex96/Easy_xkcd/issues</tracker>
 		<changelog>https://github.com/T-Rex96/Easy_xkcd/blob/HEAD/CHANGELOG.md</changelog>
-		<marketversion>5.0</marketversion>
-		<marketvercode>112</marketvercode>
+		<marketversion>5.0.1</marketversion>
+		<marketvercode>113</marketvercode>
 		<package>
 			<version>5.0</version>
 			<versioncode>112</versioncode>
@@ -26408,8 +26451,8 @@
 		<source>http://svn.gna.org/viewcvs/gcstar/viewer</source>
 		<tracker/>
 		<donate>http://gcstar.org/contribute.en.php#donate</donate>
-		<marketversion>2.10</marketversion>
-		<marketvercode>12</marketvercode>
+		<marketversion>2.11</marketversion>
+		<marketvercode>13</marketvercode>
 		<package>
 			<version>2.10</version>
 			<versioncode>12</versioncode>
@@ -30139,10 +30182,10 @@
 	<application id="com.holokenmod">
 		<id>com.holokenmod</id>
 		<added>2016-02-20</added>
-		<lastupdated>2016-02-20</lastupdated>
+		<lastupdated>2016-03-06</lastupdated>
 		<name>HoloKenMod</name>
 		<summary>KenKen game</summary>
-		<icon>com.holokenmod.13.png</icon>
+		<icon>com.holokenmod.14.png</icon>
 		<desc>&lt;p&gt;Adding some bug fixes and features to &lt;a href=&quot;fdroid.app:com.tortuca.holoken&quot;&gt;HoloKen&lt;/a&gt; which was: Based on KenKen and forked from &lt;a href=&quot;fdroid.app:net.cactii.mathdoku&quot;&gt;MathDoku&lt;/a&gt; v1.9, now featuring a Holo-inspired design and more user-friendly functionalities.&lt;/p&gt;&lt;p&gt;Also known as Mathdoku or Kendoku, this KenKen game will test your mental arithmetic and challenge your mind. The goal is to fill in the entire grid with numbers while meeting the operation restrictions for each grid cage. No description available&lt;/p&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Games</categories>
@@ -30152,6 +30195,19 @@
 		<tracker>https://github.com/queler/holokenmod/issues</tracker>
 		<marketversion>1.4</marketversion>
 		<marketvercode>14</marketvercode>
+		<package>
+			<version>1.4</version>
+			<versioncode>14</versioncode>
+			<apkname>com.holokenmod_14.apk</apkname>
+			<srcname>com.holokenmod_14_src.tar.gz</srcname>
+			<hash type="sha256">2a5b6c04db023bf1e104f10d9b1cc7124ea1a30c5cae19ae52e94d743a1471b1</hash>
+			<sig>d9faa51e7b4af01d94362c4e335773dc</sig>
+			<size>178476</size>
+			<sdkver>8</sdkver>
+			<added>2016-03-06</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.3</version>
 			<versioncode>13</versioncode>
@@ -32291,10 +32347,10 @@
 	<application id="com.iven.lfflfeedreader">
 		<id>com.iven.lfflfeedreader</id>
 		<added>2015-01-07</added>
-		<lastupdated>2016-01-18</lastupdated>
+		<lastupdated>2016-03-06</lastupdated>
 		<name>Iven News Reader</name>
 		<summary>Feed reader for Lffl</summary>
-		<icon>com.iven.lfflfeedreader.55.png</icon>
+		<icon>com.iven.lfflfeedreader.56.png</icon>
 		<desc>&lt;p&gt;Light and modern Android feed reader.&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Reading,Internet</categories>
@@ -32302,8 +32358,21 @@
 		<web>https://github.com/enricocid/lffl-feed-reader/blob/HEAD/README.md</web>
 		<source>https://github.com/enricocid/lffl-feed-reader</source>
 		<tracker>https://github.com/enricocid/lffl-feed-reader/issues</tracker>
-		<marketversion>7.3.3</marketversion>
-		<marketvercode>55</marketvercode>
+		<marketversion>7.3.4</marketversion>
+		<marketvercode>56</marketvercode>
+		<package>
+			<version>7.3.4</version>
+			<versioncode>56</versioncode>
+			<apkname>com.iven.lfflfeedreader_56.apk</apkname>
+			<srcname>com.iven.lfflfeedreader_56_src.tar.gz</srcname>
+			<hash type="sha256">ef2b3bf26d049d90ba08ff7b7ae5812a4a3009b5ed41648a063cb968b5258c9b</hash>
+			<sig>c09646b0512594dd2041458e5af7e161</sig>
+			<size>1721772</size>
+			<sdkver>9</sdkver>
+			<added>2016-03-06</added>
+			<permissions>ACCESS_WIFI_STATE,ACCESS_NETWORK_STATE,INTERNET</permissions>
+			<features>android.hardware.touchscreen,android.hardware.wifi</features>
+		</package>
 		<package>
 			<version>7.3.3</version>
 			<versioncode>55</versioncode>
@@ -32327,19 +32396,6 @@
 			<size>1686716</size>
 			<sdkver>9</sdkver>
 			<added>2016-01-04</added>
-			<permissions>ACCESS_WIFI_STATE,ACCESS_NETWORK_STATE,INTERNET</permissions>
-			<features>android.hardware.touchscreen,android.hardware.wifi</features>
-		</package>
-		<package>
-			<version>7.3.1</version>
-			<versioncode>53</versioncode>
-			<apkname>com.iven.lfflfeedreader_53.apk</apkname>
-			<srcname>com.iven.lfflfeedreader_53_src.tar.gz</srcname>
-			<hash type="sha256">40ac73ed5c0076f8324d81a332e37eba857e92f754504923242e3d3623a6b585</hash>
-			<sig>c09646b0512594dd2041458e5af7e161</sig>
-			<size>1685524</size>
-			<sdkver>9</sdkver>
-			<added>2015-12-30</added>
 			<permissions>ACCESS_WIFI_STATE,ACCESS_NETWORK_STATE,INTERNET</permissions>
 			<features>android.hardware.touchscreen,android.hardware.wifi</features>
 		</package>
@@ -33819,10 +33875,10 @@
 	<application id="fr.neamar.kiss">
 		<id>fr.neamar.kiss</id>
 		<added>2015-08-07</added>
-		<lastupdated>2016-03-01</lastupdated>
+		<lastupdated>2016-03-06</lastupdated>
 		<name>KISS launcher</name>
 		<summary>Custom launcher</summary>
-		<icon>fr.neamar.kiss.77.png</icon>
+		<icon>fr.neamar.kiss.78.png</icon>
 		<desc>&lt;p&gt;KISS is a fast launcher following the KISS principle.&lt;/p&gt;&lt;p&gt;Search through you app, contacts and settings lightning fast. No more time spent trying to find the app you need to launch: enter a few characters from the name and press enter. Need to phone someone? Don't meddle with the call log, just give three letters of their name and push the &quot;phone&quot; button.&lt;/p&gt;&lt;p&gt;KISS becomes smarter and smarter as you use it, pushing forward results you're more likely to select.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Theming</categories>
@@ -33831,8 +33887,21 @@
 		<source>https://github.com/Neamar/KISS</source>
 		<tracker>https://github.com/Neamar/KISS/issues</tracker>
 		<changelog>https://github.com/Neamar/KISS/releases</changelog>
-		<marketversion>2.19.2</marketversion>
-		<marketvercode>77</marketvercode>
+		<marketversion>2.20.0</marketversion>
+		<marketvercode>78</marketvercode>
+		<package>
+			<version>2.20.0</version>
+			<versioncode>78</versioncode>
+			<apkname>fr.neamar.kiss_78.apk</apkname>
+			<srcname>fr.neamar.kiss_78_src.tar.gz</srcname>
+			<hash type="sha256">2363cb826473da880fb1a16df71d1f16f884ed1fb91e23a8ba685ecdaf6c0f73</hash>
+			<sig>a2743b9ee3511dc8c0898d08dd9f466c</sig>
+			<size>267200</size>
+			<sdkver>10</sdkver>
+			<added>2016-03-06</added>
+			<permissions>FLASHLIGHT,WRITE_SETTINGS,CAMERA,ACCESS_NETWORK_STATE,CHANGE_NETWORK_STATE,CALL_PHONE,WRITE_SYNC_SETTINGS,BLUETOOTH_ADMIN,BLUETOOTH,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,READ_SYNC_SETTINGS,READ_CONTACTS,READ_PHONE_STATE,RECEIVE_SMS</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>2.19.2</version>
 			<versioncode>77</versioncode>
@@ -33856,19 +33925,6 @@
 			<size>252005</size>
 			<sdkver>10</sdkver>
 			<added>2016-02-15</added>
-			<permissions>FLASHLIGHT,WRITE_SETTINGS,ACCESS_NETWORK_STATE,CHANGE_NETWORK_STATE,CALL_PHONE,WRITE_SYNC_SETTINGS,BLUETOOTH_ADMIN,BLUETOOTH,ACCESS_WIFI_STATE,CAMERA,CHANGE_WIFI_STATE,READ_SYNC_SETTINGS,READ_CONTACTS,READ_PHONE_STATE,RECEIVE_SMS</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>2.19.0</version>
-			<versioncode>75</versioncode>
-			<apkname>fr.neamar.kiss_75.apk</apkname>
-			<srcname>fr.neamar.kiss_75_src.tar.gz</srcname>
-			<hash type="sha256">3a0deee81a1524f8ab0522e61daa99e0c2ada0cf8b82719fb6d1b725b4efeef0</hash>
-			<sig>a2743b9ee3511dc8c0898d08dd9f466c</sig>
-			<size>252036</size>
-			<sdkver>10</sdkver>
-			<added>2016-02-14</added>
 			<permissions>FLASHLIGHT,WRITE_SETTINGS,ACCESS_NETWORK_STATE,CHANGE_NETWORK_STATE,CALL_PHONE,WRITE_SYNC_SETTINGS,BLUETOOTH_ADMIN,BLUETOOTH,ACCESS_WIFI_STATE,CAMERA,CHANGE_WIFI_STATE,READ_SYNC_SETTINGS,READ_CONTACTS,READ_PHONE_STATE,RECEIVE_SMS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -34025,10 +34081,10 @@
 	<application id="org.kore.kolabnotes.android">
 		<id>org.kore.kolabnotes.android</id>
 		<added>2015-07-01</added>
-		<lastupdated>2016-02-24</lastupdated>
+		<lastupdated>2016-03-06</lastupdated>
 		<name>Kolab Notes</name>
 		<summary>Write notes and sync them with Kolab</summary>
-		<icon>org.kore.kolabnotes.android.57.png</icon>
+		<icon>org.kore.kolabnotes.android.58.png</icon>
 		<desc>&lt;p&gt;Take notes locally and optionally sync them with Kolab and IMAP servers in the Kolab v3 storage format.&lt;/p&gt;&lt;p&gt;The goal of the app is, to support the full stack of Kolab Notes functionality: notebooks and tags for organising notes is already possible. Also it is possible to edit the classification and color of a note. Formating the text and inserting inline images works, too. The app is also able to display and edit the color of tags. Since 1.0.0 shared notebooks are supported (which can be toggled in the extended options from the account creation wizard).&lt;/p&gt;&lt;p&gt;There are already 2 types of widgets included in the app. One widget is a kind of a &quot;sticky note&quot; widget, it displays the summary and description of a single note. The other widget is a configureable list widget.&lt;/p&gt;</desc>
 		<license>LGPLv3</license>
 		<categories>Writing</categories>
@@ -34036,8 +34092,21 @@
 		<web/>
 		<source>https://github.com/konradrenner/kolabnotes-android</source>
 		<tracker>https://github.com/konradrenner/kolabnotes-android/issues</tracker>
-		<marketversion>1.7.2</marketversion>
-		<marketvercode>57</marketvercode>
+		<marketversion>1.8.0</marketversion>
+		<marketvercode>58</marketvercode>
+		<package>
+			<version>1.8.0</version>
+			<versioncode>58</versioncode>
+			<apkname>org.kore.kolabnotes.android_58.apk</apkname>
+			<srcname>org.kore.kolabnotes.android_58_src.tar.gz</srcname>
+			<hash type="sha256">16a40231d5cc25e3d35cbd95d9daf4e4a9fe279065986b9780d7782d3b364f75</hash>
+			<sig>939dc6dc386c496cfacdb5349b79853d</sig>
+			<size>4635142</size>
+			<sdkver>16</sdkver>
+			<added>2016-03-06</added>
+			<permissions>WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,GET_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_SYNC_STATS,INTERNET,READ_SYNC_SETTINGS,READ_PROFILE,AUTHENTICATE_ACCOUNTS</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>1.7.2</version>
 			<versioncode>57</versioncode>
@@ -34061,19 +34130,6 @@
 			<size>4628316</size>
 			<sdkver>16</sdkver>
 			<added>2016-02-15</added>
-			<permissions>WRITE_SYNC_SETTINGS,USE_CREDENTIALS,GET_ACCOUNTS,READ_SYNC_STATS,INTERNET,READ_SYNC_SETTINGS,READ_PROFILE,AUTHENTICATE_ACCOUNTS</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>1.7.0</version>
-			<versioncode>55</versioncode>
-			<apkname>org.kore.kolabnotes.android_55.apk</apkname>
-			<srcname>org.kore.kolabnotes.android_55_src.tar.gz</srcname>
-			<hash type="sha256">5453bbaeec1eb732e04696b806248a75b2be98140a0120f8b3ffed6620199845</hash>
-			<sig>939dc6dc386c496cfacdb5349b79853d</sig>
-			<size>4628084</size>
-			<sdkver>16</sdkver>
-			<added>2016-02-14</added>
 			<permissions>WRITE_SYNC_SETTINGS,USE_CREDENTIALS,GET_ACCOUNTS,READ_SYNC_STATS,INTERNET,READ_SYNC_SETTINGS,READ_PROFILE,AUTHENTICATE_ACCOUNTS</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -35380,10 +35436,10 @@
 	<application id="org.linphone">
 		<id>org.linphone</id>
 		<added>2015-02-28</added>
-		<lastupdated>2015-09-05</lastupdated>
+		<lastupdated>2016-03-06</lastupdated>
 		<name>Linphone</name>
 		<summary>SIP (VOIP) phone</summary>
-		<icon>org.linphone.2510.png</icon>
+		<icon>org.linphone.3000.png</icon>
 		<desc>&lt;ul&gt;&lt;li&gt; Audio: speex; Opus; iLBC; G711; GSM; G722; Silk; PCMA; PCMU; AMR-WB; AAC-ELD&lt;/li&gt;&lt;li&gt; Video with VP8, mpeg4, x264; H263&lt;/li&gt;&lt;li&gt; Audio multicall and conferencing&lt;/li&gt;&lt;li&gt; SRTP/ZRTP media encryption&lt;/li&gt;&lt;li&gt; Echo cancellation&lt;/li&gt;&lt;li&gt; Address book integration&lt;/li&gt;&lt;li&gt; Call history&lt;/li&gt;&lt;li&gt; Multiple accounts support&lt;/li&gt;&lt;li&gt; Native x86&lt;/li&gt;&lt;li&gt; Text messaging&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Phone &amp; SMS</categories>
@@ -35394,6 +35450,20 @@
 		<marketversion>3.0.0</marketversion>
 		<marketvercode>3000</marketvercode>
 		<antifeatures>NonFreeDep</antifeatures>
+		<package>
+			<version>3.0.0-fdroid</version>
+			<versioncode>3000</versioncode>
+			<apkname>org.linphone_3000.apk</apkname>
+			<srcname>org.linphone_3000_src.tar.gz</srcname>
+			<hash type="sha256">f8258fc5b45ad74f718f19958659a7d8847c8abf562cb9f89671a5a60f3ca40e</hash>
+			<sig>8de7bb6279b9e96f59e15a09381c7f9c</sig>
+			<size>44981662</size>
+			<sdkver>14</sdkver>
+			<added>2016-03-06</added>
+			<permissions>ACCESS_NETWORK_STATE,RECORD_AUDIO,READ_EXTERNAL_STORAGE,VIBRATE,READ_LOGS,READ_SYNC_SETTINGS,org.linphone.permission.C2D_MESSAGE,BROADCAST_STICKY,com.google.android.c2dm.permission.RECEIVE,CHANGE_WIFI_MULTICAST_STATE,CAMERA,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_CONTACTS,PROCESS_OUTGOING_CALLS,CALL_PHONE,WRITE_SYNC_SETTINGS,GET_ACCOUNTS,AUTHENTICATE_ACCOUNTS,WRITE_EXTERNAL_STORAGE,BLUETOOTH,ACCESS_WIFI_STATE,INTERNET,READ_CONTACTS,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE</permissions>
+			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
+			<features>android.hardware.touchscreen,android.hardware.wifi,android.hardware.microphone,android.hardware.bluetooth</features>
+		</package>
 		<package>
 			<version>2.5.1-fdroid</version>
 			<versioncode>2510</versioncode>
@@ -35418,20 +35488,6 @@
 			<size>14928938</size>
 			<sdkver>8</sdkver>
 			<added>2015-08-15</added>
-			<permissions>ACCESS_NETWORK_STATE,RECORD_AUDIO,READ_EXTERNAL_STORAGE,VIBRATE,READ_LOGS,READ_SYNC_SETTINGS,org.linphone.permission.C2D_MESSAGE,BROADCAST_STICKY,com.google.android.c2dm.permission.RECEIVE,CHANGE_WIFI_MULTICAST_STATE,CAMERA,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_CONTACTS,PROCESS_OUTGOING_CALLS,CALL_PHONE,WRITE_SYNC_SETTINGS,GET_ACCOUNTS,AUTHENTICATE_ACCOUNTS,WRITE_EXTERNAL_STORAGE,BLUETOOTH,ACCESS_WIFI_STATE,INTERNET,READ_CONTACTS,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE</permissions>
-			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
-			<features>android.hardware.touchscreen,android.hardware.wifi,android.hardware.microphone,android.hardware.bluetooth</features>
-		</package>
-		<package>
-			<version>2.4.1-fdroid</version>
-			<versioncode>2411</versioncode>
-			<apkname>org.linphone_2411.apk</apkname>
-			<srcname>org.linphone_2411_src.tar.gz</srcname>
-			<hash type="sha256">38e65463db65c37f3e1bb45af6893ce619a4ac6e753e24b592f8ab6335048df8</hash>
-			<sig>8de7bb6279b9e96f59e15a09381c7f9c</sig>
-			<size>14824809</size>
-			<sdkver>8</sdkver>
-			<added>2015-06-11</added>
 			<permissions>ACCESS_NETWORK_STATE,RECORD_AUDIO,READ_EXTERNAL_STORAGE,VIBRATE,READ_LOGS,READ_SYNC_SETTINGS,org.linphone.permission.C2D_MESSAGE,BROADCAST_STICKY,com.google.android.c2dm.permission.RECEIVE,CHANGE_WIFI_MULTICAST_STATE,CAMERA,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_CONTACTS,PROCESS_OUTGOING_CALLS,CALL_PHONE,WRITE_SYNC_SETTINGS,GET_ACCOUNTS,AUTHENTICATE_ACCOUNTS,WRITE_EXTERNAL_STORAGE,BLUETOOTH,ACCESS_WIFI_STATE,INTERNET,READ_CONTACTS,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE</permissions>
 			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
 			<features>android.hardware.touchscreen,android.hardware.wifi,android.hardware.microphone,android.hardware.bluetooth</features>
@@ -43963,8 +44019,8 @@
 		<web/>
 		<source>https://github.com/M66B/NetGuard</source>
 		<tracker>https://github.com/M66B/NetGuard/issues</tracker>
-		<marketversion>2.3</marketversion>
-		<marketvercode>2016030301</marketvercode>
+		<marketversion>2.4</marketversion>
+		<marketvercode>2016030501</marketvercode>
 		<package>
 			<version>2.3</version>
 			<versioncode>2016030301</versioncode>
@@ -48198,10 +48254,10 @@
 	<application id="org.sufficientlysecure.keychain">
 		<id>org.sufficientlysecure.keychain</id>
 		<added>2013-09-11</added>
-		<lastupdated>2016-01-13</lastupdated>
+		<lastupdated>2016-03-06</lastupdated>
 		<name>OpenKeychain</name>
 		<summary>Encrypt files and communications with OpenPGP</summary>
-		<icon>org.sufficientlysecure.keychain.38200.png</icon>
+		<icon>org.sufficientlysecure.keychain.39000.png</icon>
 		<desc>&lt;p&gt;OpenKeychain helps you communicate more privately and securely. It uses high-quality modern encryption to ensure that your messages can be read only by the people you send them to, others can send you messages that only you can read, and these messages can be digitally signed so the people getting them are sure who sent them. OpenKeychain is based on the well established OpenPGP standard making encryption compatible across your devices and operating systems.&lt;/p&gt;&lt;p&gt;Modern encryption is based on digital &quot;keys&quot;. OpenKeychain stores and manages your keys, and those of the people you communicate with, on your Android. It also helps you find others' keys online, and interchange keys by touching devices. But its most frequent use is in using those keys to encrypt and decrypt messages.&lt;/p&gt;&lt;p&gt;OpenKeychain integrates with&lt;/p&gt;&lt;ul&gt;&lt;li&gt; K-9 Mail&lt;/li&gt;&lt;li&gt; Conversations&lt;/li&gt;&lt;li&gt; Password Store&lt;/li&gt;&lt;li&gt; oandbackup&lt;/li&gt;&lt;li&gt; and many more…&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;OpenKeychain is designed to be trustworthy. It’s Free Software with no secrets; anyone can examine and validate every bit of it.&lt;/p&gt;&lt;p&gt;Permissions:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Full network access: To query keyservers&lt;/li&gt;&lt;li&gt; Near Field Communication: To exchange keys via NFC; Yubikey NEO support&lt;/li&gt;&lt;li&gt; Storage: To import/export keys from sd card&lt;/li&gt;&lt;li&gt; Identity/Contact: To pre-fill name, email, and search queries; integration with Android's contacts&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Internet</categories>
@@ -48213,6 +48269,18 @@
 		<donate>http://www.openkeychain.org</donate>
 		<marketversion>3.9</marketversion>
 		<marketvercode>39000</marketvercode>
+		<package>
+			<version>3.9</version>
+			<versioncode>39000</versioncode>
+			<apkname>org.sufficientlysecure.keychain_39000.apk</apkname>
+			<srcname>org.sufficientlysecure.keychain_39000_src.tar.gz</srcname>
+			<hash type="sha256">8c0d198db8ad3beb85c5e989bdeb5fe70b6c454e5937549edeeaa9d35305eb2a</hash>
+			<sig>19c18c4bdc8adbcd2df4bbcd2c24fb1d</sig>
+			<size>8857136</size>
+			<sdkver>15</sdkver>
+			<added>2016-03-06</added>
+			<permissions>WRITE_CONTACTS,NFC,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WRITE_PROFILE,INTERNET,WRITE_SYNC_SETTINGS,CAMERA,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,READ_PROFILE,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
+		</package>
 		<package>
 			<version>3.8.2</version>
 			<versioncode>38200</versioncode>
@@ -48236,18 +48304,6 @@
 			<sdkver>15</sdkver>
 			<added>2016-01-13</added>
 			<permissions>WRITE_CONTACTS,NFC,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,WRITE_PROFILE,GET_ACCOUNTS,AUTHENTICATE_ACCOUNTS,CAMERA,INTERNET,READ_SYNC_SETTINGS,READ_CONTACTS,READ_PROFILE,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE</permissions>
-		</package>
-		<package>
-			<version>3.8</version>
-			<versioncode>38000</versioncode>
-			<apkname>org.sufficientlysecure.keychain_38000.apk</apkname>
-			<srcname>org.sufficientlysecure.keychain_38000_src.tar.gz</srcname>
-			<hash type="sha256">1200c15815edcbf78c8f090c5267bbe11ece941dcce43418ac3775deb161c961</hash>
-			<sig>19c18c4bdc8adbcd2df4bbcd2c24fb1d</sig>
-			<size>8587346</size>
-			<sdkver>15</sdkver>
-			<added>2016-01-12</added>
-			<permissions>WRITE_CONTACTS,NFC,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,WRITE_PROFILE,INTERNET,READ_EXTERNAL_STORAGE,CAMERA,GET_ACCOUNTS,READ_SYNC_SETTINGS,READ_CONTACTS,READ_PROFILE,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
 		</package>
 	</application>
 	<application id="de.jdsoft.law">
@@ -50328,8 +50384,8 @@
 		<tracker>https://github.com/owncloud/android/issues</tracker>
 		<changelog>https://github.com/owncloud/android/blob/beta/CHANGELOG.md</changelog>
 		<donate>https://www.bountysource.com/teams/owncloud</donate>
-		<marketversion>20160206</marketversion>
-		<marketvercode>20160206</marketvercode>
+		<marketversion>20160305</marketversion>
+		<marketvercode>20160305</marketvercode>
 		<package>
 			<version>20160120</version>
 			<versioncode>20160120</versioncode>
@@ -56093,8 +56149,8 @@
 		<web/>
 		<source>https://github.com/rdoeffinger/Dictionary</source>
 		<tracker>https://github.com/rdoeffinger/Dictionary/issues</tracker>
-		<marketversion>5.2.4</marketversion>
-		<marketvercode>57</marketvercode>
+		<marketversion>5.2.6</marketversion>
+		<marketvercode>63</marketvercode>
 		<package>
 			<version>5.2.4</version>
 			<versioncode>57</versioncode>
@@ -58185,10 +58241,10 @@
 	<application id="cx.ring">
 		<id>cx.ring</id>
 		<added>2016-01-29</added>
-		<lastupdated>2016-02-09</lastupdated>
+		<lastupdated>2016-03-06</lastupdated>
 		<name>Ring</name>
 		<summary>Secure and distributed communication platform</summary>
-		<icon>cx.ring.27.png</icon>
+		<icon>cx.ring.29.png</icon>
 		<desc>&lt;p&gt;Ring (formerly SFLphone) is a free distributed multimedia communication software. It is developed by Savoir-faire Linux with the help of a global community of users and contributors. Savoir-faire Linux is a Canadian company specialized in Linux and free software.&lt;/p&gt;</desc>
 		<license>GPLv3+</license>
 		<categories>Phone &amp; SMS,Internet</categories>
@@ -58198,6 +58254,20 @@
 		<tracker>https://tuleap.ring.cx/projects/ring/</tracker>
 		<marketversion>2.0.011</marketversion>
 		<marketvercode>29</marketvercode>
+		<package>
+			<version>2.0.011</version>
+			<versioncode>29</versioncode>
+			<apkname>cx.ring_29.apk</apkname>
+			<srcname>cx.ring_29_src.tar.gz</srcname>
+			<hash type="sha256">f07983e25c6b356634f120a485adbd692e31c370d50d8e1090174bf488dd5012</hash>
+			<sig>04f8ca04902d794aac01b98a0e2cd133</sig>
+			<size>8785780</size>
+			<sdkver>16</sdkver>
+			<added>2016-03-06</added>
+			<permissions>ACCESS_NETWORK_STATE,PROCESS_OUTGOING_CALLS,WRITE_EXTERNAL_STORAGE,CALL_PHONE,WAKE_LOCK,WRITE_CALL_LOG,VIBRATE,BLUETOOTH,ACCESS_WIFI_STATE,ACCESS_COARSE_LOCATION,READ_CALL_LOG,READ_CONTACTS,RECEIVE_BOOT_COMPLETED,INTERNET,RECORD_AUDIO,MODIFY_AUDIO_SETTINGS,READ_PROFILE,READ_EXTERNAL_STORAGE</permissions>
+			<nativecode>armeabi-v7a</nativecode>
+			<features>android.hardware.location,android.hardware.touchscreen,android.hardware.wifi,android.hardware.microphone,android.hardware.location.network</features>
+		</package>
 		<package>
 			<version>2.0.009</version>
 			<versioncode>27</versioncode>
@@ -60468,10 +60538,10 @@
 	<application id="com.seafile.seadroid2">
 		<id>com.seafile.seadroid2</id>
 		<added>2013-12-11</added>
-		<lastupdated>2016-02-20</lastupdated>
+		<lastupdated>2016-03-06</lastupdated>
 		<name>Seafile</name>
 		<summary>File synchronization</summary>
-		<icon>com.seafile.seadroid2.49.png</icon>
+		<icon>com.seafile.seadroid2.50.png</icon>
 		<desc>&lt;p&gt;Client for the Seafile cloud file server and project management software. If you are in a small team with a few people, you can create a group in Seafile and invite other team members. Team members can then maintain file libraries together and collaborate around them.&lt;/p&gt;&lt;p&gt;You can try the &lt;a href=&quot;https://seacloud.cc/demo&quot;&gt;demo&lt;/a&gt;, sign up for an account at the website, or since the server-side is also free-as-in-freedom, it can be installed on any server and configured to work with the app.&lt;/p&gt;</desc>
 		<license>AGPLv3+</license>
 		<categories>Internet</categories>
@@ -60479,8 +60549,21 @@
 		<web>http://seafile.com/en/download</web>
 		<source>https://github.com/haiwen/seadroid</source>
 		<tracker>https://github.com/haiwen/seadroid/issues</tracker>
-		<marketversion>2.0.3</marketversion>
-		<marketvercode>49</marketvercode>
+		<marketversion>2.0.4</marketversion>
+		<marketvercode>50</marketvercode>
+		<package>
+			<version>2.0.4</version>
+			<versioncode>50</versioncode>
+			<apkname>com.seafile.seadroid2_50.apk</apkname>
+			<srcname>com.seafile.seadroid2_50_src.tar.gz</srcname>
+			<hash type="sha256">d18771c4f1f464d87e1d4b64e3555c3ccbfca23175c61b5cb9ab6ea896b43818</hash>
+			<sig>5d4a9ff449755c827fdabe080e436bc0</sig>
+			<size>2994799</size>
+			<sdkver>8</sdkver>
+			<added>2016-03-06</added>
+			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,GET_ACCOUNTS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,INTERNET,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,AUTHENTICATE_ACCOUNTS</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>2.0.3</version>
 			<versioncode>49</versioncode>
@@ -60504,19 +60587,6 @@
 			<size>2982854</size>
 			<sdkver>8</sdkver>
 			<added>2016-02-01</added>
-			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,AUTHENTICATE_ACCOUNTS,INTERNET,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>2.0.1</version>
-			<versioncode>46</versioncode>
-			<apkname>com.seafile.seadroid2_46.apk</apkname>
-			<srcname>com.seafile.seadroid2_46_src.tar.gz</srcname>
-			<hash type="sha256">05c5888f9fbb7e4141ee9ed5f89ece7f9b8effeec4806e6069c0855cb762d7ec</hash>
-			<sig>5d4a9ff449755c827fdabe080e436bc0</sig>
-			<size>2982946</size>
-			<sdkver>8</sdkver>
-			<added>2016-01-27</added>
 			<permissions>ACCESS_NETWORK_STATE,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,USE_CREDENTIALS,AUTHENTICATE_ACCOUNTS,INTERNET,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,READ_SYNC_SETTINGS,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
@@ -63424,10 +63494,10 @@
 	<application id="nl.mpcjanssen.simpletask">
 		<id>nl.mpcjanssen.simpletask</id>
 		<added>2013-12-04</added>
-		<lastupdated>2016-02-17</lastupdated>
+		<lastupdated>2016-03-06</lastupdated>
 		<name>Simpletask Cloudless</name>
 		<summary>Todo list manager</summary>
-		<icon>nl.mpcjanssen.simpletask.3023.png</icon>
+		<icon>nl.mpcjanssen.simpletask.3024.png</icon>
 		<desc>&lt;p&gt;A simple task list manager that strives to have just enough features to do GTD (the Getting Things Done methodology), but no more.&lt;/p&gt;&lt;p&gt;Based on the &lt;a href=&quot;http://todotxt.com&quot;&gt;todo.txt&lt;/a&gt; app so all info is stored in a single text file called todo.txt.&lt;/p&gt;&lt;p&gt;Note that, with this version, you will need to take care of backups yourself.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Todo list stored in the documented todo.txt format&lt;/li&gt;&lt;li&gt; Comprehensive filtering and multi sort&lt;/li&gt;&lt;li&gt; Create calendar reminders for specific tasks directly from the app&lt;/li&gt;&lt;li&gt; Select on or more tasks and press overflow menu-&amp;gt;Add reminder&lt;/li&gt;&lt;li&gt; Share the complete tasklist or selected tasks using the Android share feature&lt;/li&gt;&lt;li&gt; Tasks can deferred into the future. Combined with the &quot;Creation date in future&quot; sort it allows you to get tasks out of your face (as in 1MTD/MYN)&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPLv3</license>
 		<categories>Writing</categories>
@@ -63436,8 +63506,21 @@
 		<source>https://github.com/mpcjanssen/simpletask-android</source>
 		<tracker>https://github.com/mpcjanssen/simpletask-android/issues</tracker>
 		<changelog>https://github.com/mpcjanssen/simpletask-android/blob/HEAD/src/main/assets/changelog.en.md</changelog>
-		<marketversion>7.0.13</marketversion>
-		<marketvercode>3023</marketvercode>
+		<marketversion>7.0.14</marketversion>
+		<marketvercode>3024</marketvercode>
+		<package>
+			<version>7.0.14</version>
+			<versioncode>3024</versioncode>
+			<apkname>nl.mpcjanssen.simpletask_3024.apk</apkname>
+			<srcname>nl.mpcjanssen.simpletask_3024_src.tar.gz</srcname>
+			<hash type="sha256">d192c2b5ce608352a8afa09a20ede09285decb034e710eb67d51ff305018c8a2</hash>
+			<sig>dd06020d0a5f4181366d0562dff0f90e</sig>
+			<size>2738987</size>
+			<sdkver>14</sdkver>
+			<added>2016-03-06</added>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_CALENDAR,READ_CALENDAR,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
 		<package>
 			<version>7.0.13</version>
 			<versioncode>3023</versioncode>
@@ -63462,19 +63545,6 @@
 			<sdkver>14</sdkver>
 			<added>2016-02-09</added>
 			<permissions>WRITE_CALENDAR,WRITE_EXTERNAL_STORAGE,READ_CALENDAR,READ_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-		<package>
-			<version>7.0.10</version>
-			<versioncode>3020</versioncode>
-			<apkname>nl.mpcjanssen.simpletask_3020.apk</apkname>
-			<srcname>nl.mpcjanssen.simpletask_3020_src.tar.gz</srcname>
-			<hash type="sha256">c5e9867c6b0cbac635efb4756c0eabd3730eac93a0c57d00e8dba9efa48ac5b2</hash>
-			<sig>dd06020d0a5f4181366d0562dff0f90e</sig>
-			<size>2770291</size>
-			<sdkver>14</sdkver>
-			<added>2016-02-08</added>
-			<permissions>READ_CALENDAR,com.android.launcher.permission.INSTALL_SHORTCUT,WRITE_CALENDAR,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
@@ -67075,6 +67145,37 @@
 			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
+	<application id="com.twofours.surespot">
+		<id>com.twofours.surespot</id>
+		<added>2015-11-19</added>
+		<lastupdated>2016-03-06</lastupdated>
+		<name>Surespot</name>
+		<summary>Send encrypted text messages</summary>
+		<icon>com.twofours.surespot.63.png</icon>
+		<desc>&lt;p&gt;Use surespot and everything you send can only be read by the person you sent it to. Period. Everything sent using surespot is end-to-end encrypted with symmetric-key encryption (256 bit AES-GCM) using keys created with 521 bit ECDH shared secret derivation, but you wont notice because security in surespot is built-in, not a layer over something else. Be confident sending private information and pictures, you have control over your messages, when you delete a sent message it will be removed from the receiver's phone and images are not shareable unless you make them so. Multiple identities allow you to be who you want with just who you want, and if anyone gets annoying you can block them. Surespot does not require or store your phone number or email address and we don't mine your data, no advertisements here!&lt;/p&gt;&lt;p&gt;&lt;b&gt;WARNING&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This build recipe is complex and error-prone. Use it only at your own risk.&lt;/p&gt;</desc>
+		<license>GPLv3</license>
+		<categories>Phone &amp; SMS</categories>
+		<category>Phone &amp; SMS</category>
+		<web>https://www.surespot.me/</web>
+		<source>https://github.com/zoff99/surespot-android</source>
+		<tracker>https://github.com/zoff99/surespot-android/issues</tracker>
+		<marketversion>63</marketversion>
+		<marketvercode>63</marketvercode>
+		<antifeatures>NonFreeDep</antifeatures>
+		<package>
+			<version>63-mod</version>
+			<versioncode>63</versioncode>
+			<apkname>com.twofours.surespot_64.apk</apkname>
+			<srcname>com.twofours.surespot_64_src.tar.gz</srcname>
+			<hash type="sha256">927b072c940a744ac8161ee06c4a8f8be7bb43e0a65b9698821cf726380f4a4f</hash>
+			<sig>a0e1153ccee1c3d81841279cb0eba603</sig>
+			<size>6009773</size>
+			<sdkver>10</sdkver>
+			<added>2016-03-06</added>
+			<permissions>ACCESS_NETWORK_STATE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,WAKE_LOCK,com.twofours.surespot.permission.C2D_MESSAGE,VIBRATE,com.google.android.c2dm.permission.RECEIVE,CAMERA,INTERNET,com.android.vending.BILLING,READ_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen,android.hardware.microphone</features>
+		</package>
+	</application>
 	<application id="com.omegavesko.sutransplus">
 		<id>com.omegavesko.sutransplus</id>
 		<added>2014-07-15</added>
@@ -68180,6 +68281,37 @@
 			<added>2016-02-24</added>
 			<permissions>RECORD_AUDIO,READ_CALENDAR,WRITE_EXTERNAL_STORAGE,org.tasks.READ,com.android.launcher.permission.INSTALL_SHORTCUT,VIBRATE,READ_CALL_LOG,RECEIVE_BOOT_COMPLETED,READ_CONTACTS,READ_PHONE_STATE,WRITE_CALENDAR,org.tasks.permission.READ_TASKS,org.tasks.WRITE,READ_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.microphone</features>
+		</package>
+	</application>
+	<application id="kvj.taskw">
+		<id>kvj.taskw</id>
+		<added>2016-03-06</added>
+		<lastupdated>2016-03-06</lastupdated>
+		<name>Taskwarrior</name>
+		<summary>Unofficial version of Taskwarrior - console task management tool</summary>
+		<icon>kvj.taskw.2.png</icon>
+		<desc>&lt;ul&gt;&lt;li&gt; Project is not affiliated with the authors of Taskwarrior, but original task binary is embedded into Android application&lt;/li&gt;&lt;li&gt; Because Android application uses task binary for all manipulations with tasks, in general, you can expect exactly same behaviour with original Taskwarrior&lt;/li&gt;&lt;li&gt; Synchronisation with taskd server works! See &lt;a href=&quot;https://bitbucket.org/kvorobyev/taskwarriorandroid/wiki/Configuration&quot;&gt;https://bitbucket.org/kvorobyev/taskwarriorandroid/wiki/Configuration&lt;/a&gt; for more information&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Following task features are implemented already:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; See your tasks using reports&lt;/li&gt;&lt;li&gt; Add, edit, start, stop, delete tasks&lt;/li&gt;&lt;li&gt; Annotate and de-annotate&lt;/li&gt;&lt;li&gt; Run custom search queries&lt;/li&gt;&lt;li&gt; Undo your changes&lt;/li&gt;&lt;li&gt; Run custom task commands&lt;/li&gt;&lt;li&gt; Synchronisation with taskd&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Features below are unique to Android version:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Create shortcuts to reports and new task templates to Home screen&lt;/li&gt;&lt;li&gt; Multiple profiles support&lt;/li&gt;&lt;li&gt; Auto-syncronisation by configurable intervals&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Following features are not implemented at present moment:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; UDAs&lt;/li&gt;&lt;li&gt; Dependencies&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;You can reach developer on Freenode IRC #taskwarrior channel, nickname: kvj&lt;/p&gt;</desc>
+		<license>MIT</license>
+		<categories>System,Time</categories>
+		<category>System</category>
+		<web>https://bitbucket.org/kvorobyev/taskwarriorandroid</web>
+		<source>https://bitbucket.org/kvorobyev/taskwarriorandroid/src</source>
+		<tracker>https://bitbucket.org/kvorobyev/taskwarriorandroid/issues</tracker>
+		<author>Konstantin Vorobyev</author>
+		<marketversion>0.1.160303</marketversion>
+		<marketvercode>1</marketvercode>
+		<package>
+			<version>0.1.160305</version>
+			<versioncode>2</versioncode>
+			<apkname>kvj.taskw_2.apk</apkname>
+			<srcname>kvj.taskw_2_src.tar.gz</srcname>
+			<hash type="sha256">d4d313081f6539f1a75aa4f33db6bd9adf972c88d86f3b4e446ce73477949fbc</hash>
+			<sig>bf49580dbb25d2319324200a920364e0</sig>
+			<size>10332406</size>
+			<sdkver>14</sdkver>
+			<added>2016-03-06</added>
+			<permissions>READ_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,AUTHENTICATE_ACCOUNTS,INTERNET,RECEIVE_BOOT_COMPLETED,GET_ACCOUNTS,MANAGE_ACCOUNTS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
+			<features>android.hardware.touchscreen</features>
 		</package>
 	</application>
 	<application id="ch.citux.td">
@@ -69408,8 +69540,8 @@
 		<web>https://github.com/ThibaudM/timelapse-sony/blob/HEAD/README.md</web>
 		<source>https://github.com/ThibaudM/timelapse-sony</source>
 		<tracker>https://github.com/ThibaudM/timelapse-sony/issues</tracker>
-		<marketversion>2.0.3</marketversion>
-		<marketvercode>15</marketvercode>
+		<marketversion>2.0.4</marketversion>
+		<marketvercode>16</marketvercode>
 		<package>
 			<version>2.0.3</version>
 			<versioncode>15</versioncode>
