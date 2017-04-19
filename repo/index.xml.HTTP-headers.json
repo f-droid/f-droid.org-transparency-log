@@ -1,16 +1,14 @@
 {
   "Accept-Ranges": "bytes",
-  "Age": "7392",
-  "Connection": "Keep-Alive",
+  "Connection": "close",
   "Content-Encoding": "gzip",
-  "Content-Length": "1042689",
   "Content-Type": "application/xml",
-  "Date": "Wed, 19 Apr 2017 22:17:36 GMT",
-  "ETag": "\"476c1f-54d625ef2d53a-gzip\"",
-  "Keep-Alive": "timeout=5, max=98",
-  "Last-Modified": "Mon, 17 Apr 2017 20:09:38 GMT",
+  "Date": "Wed, 19 Apr 2017 22:18:48 GMT",
+  "ETag": "\"477ae9-54d880c690394-gzip\"",
+  "Last-Modified": "Wed, 19 Apr 2017 17:06:42 GMT",
   "Server": "Apache",
   "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+  "Transfer-Encoding": "chunked",
   "Vary": "Accept-Encoding",
-  "Via": "1.1 f-droid.org (Apache/2.2.22)"
+  "Via": "1.1 f-droid.org (Apache/2.4.10)"
 }
