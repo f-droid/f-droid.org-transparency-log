@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid Archive" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1497737021" url="https://f-droid.org/archive" version="18">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid Archive" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1498146751" url="https://f-droid.org/archive" version="18">
 		<description>The archive repository of the F-Droid client. This contains older versions of applications from the main repository. </description>
 	</repo>
 	<application id="io.github.lonamiwebs.klooni">
@@ -3701,9 +3701,9 @@
 		<added>2015-11-07</added>
 		<lastupdated>2016-12-17</lastupdated>
 		<name>AntennaPod</name>
-		<summary>Advanced podcast manager and player</summary>
+		<summary/>
 		<icon>de.danoeh.antennapod.1060203.png</icon>
-		<desc>&lt;p&gt;Podcast manager and player that gives you instant access to millions of free and paid podcasts, from independent podcasters to large publishing houses such as the BBC, NPR and CNN. Add, import and export their feeds hassle-free using the iTunes podcast database, gPodder, OPML files or simple RSS URLs. Save effort, battery power and mobile data usage with powerful automation controls for downloading episodes (specify times, intervals and WiFi networks) and deleting episodes (based your favourites and delay settings). But most importantly: Download, stream or queue episodes and enjoy them the way you like with adjustable playback speeds, chapter support and a sleep timer.&lt;/p&gt;&lt;p&gt;Made by podcast-enthousiasts, AntennaPod is kept free of ads and frequently updated based on your input.&lt;/p&gt;&lt;p&gt;&lt;b&gt;N.B.&lt;/b&gt; The Flattr functionality is disabled in this build as the API keys are not in the source.&lt;/p&gt;&lt;p&gt;Check out the &lt;a href=&quot;https://github.com/AntennaPod/AntennaPod/wiki/About-AntennaPod#all-features&quot;&gt;full feature list&lt;/a&gt; over at our Wiki.&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Multimedia</categories>
 		<category>Multimedia</category>
@@ -3948,9 +3948,9 @@
 		<added>2016-07-08</added>
 		<lastupdated>2017-04-13</lastupdated>
 		<name>AnySoftKeyboard</name>
-		<summary>Alternative keyboard</summary>
+		<summary/>
 		<icon>com.menny.android.anysoftkeyboard.2060.png</icon>
-		<desc>&lt;p&gt;Alternative on-screen keyboard for multiple languages.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Multi-language keyboard support via external packages (English as standard)&lt;/li&gt;&lt;li&gt; Completion dictionaries for multiple languages&lt;/li&gt;&lt;li&gt; Multitouch support&lt;/li&gt;&lt;li&gt; Extension keyboard (swipe your finger all the way up out of the keyboard)&lt;/li&gt;&lt;li&gt; Gesture support: swipe left or right to switch layouts; swipe up to shift; swipe down to close the keyboard&lt;/li&gt;&lt;li&gt; Theme support (comes with several skins)&lt;/li&gt;&lt;li&gt; Emoji keyboard plus emoji tag search - type &quot;:emoji_name&quot;&lt;/li&gt;&lt;li&gt; Built-in user dictionary words editor&lt;/li&gt;&lt;li&gt; Optional 16-key English keyboard&lt;/li&gt;&lt;li&gt; Cursor movement soft-keys that can also be mapped to hardware keys&lt;/li&gt;&lt;li&gt; Supports ARM, x86 and MIPS natively&lt;/li&gt;&lt;li&gt; Voice-input&lt;/li&gt;&lt;li&gt; Ability to override the system locale value&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;We will try to publish any language packs and themes that have source xml and attribution/licence for the dictionaries. For more info see the f-droid.org &lt;a href=&quot;http://f-droid.org/forums/topic/anysoftkeyboard-language-packs-layouts-plans/#post-6408&quot;&gt;forum topic&lt;/a&gt;.&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Apache-2.0</license>
 		<categories>Writing</categories>
 		<category>Writing</category>
@@ -3958,8 +3958,8 @@
 		<source>https://github.com/AnySoftKeyboard/AnySoftKeyboard</source>
 		<tracker>https://github.com/AnySoftKeyboard/AnySoftKeyboard/issues</tracker>
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=KDYBGNUNMMN94&amp;lc=US&amp;item_name=AnySoftKeyboard</donate>
-		<marketversion>1.8.735</marketversion>
-		<marketvercode>2060</marketvercode>
+		<marketversion>1.8.844</marketversion>
+		<marketvercode>2169</marketvercode>
 		<package>
 			<version>1.8.401</version>
 			<versioncode>1726</versioncode>
@@ -4511,8 +4511,8 @@
 		<source>https://gitlab.com/axet/android-audio-recorder/tree/HEAD</source>
 		<tracker>https://gitlab.com/axet/android-audio-recorder/issues</tracker>
 		<changelog>https://gitlab.com/axet/android-audio-recorder/tags</changelog>
-		<marketversion>1.7.2</marketversion>
-		<marketvercode>152</marketvercode>
+		<marketversion>1.7.4</marketversion>
+		<marketvercode>154</marketvercode>
 		<package>
 			<version>1.5.17</version>
 			<versioncode>147</versioncode>
@@ -4615,10 +4615,10 @@
 	<application id="com.dosse.chromiumautoupdater">
 		<id>com.dosse.chromiumautoupdater</id>
 		<added>2017-01-29</added>
-		<lastupdated>2017-02-18</lastupdated>
+		<lastupdated>2017-06-22</lastupdated>
 		<name>Auto Updater for Chromium</name>
 		<summary>Automatic updates for Chromium</summary>
-		<icon>com.dosse.chromiumautoupdater.16.png</icon>
+		<icon>com.dosse.chromiumautoupdater.17.png</icon>
 		<desc>&lt;p&gt;Chromium on Android does not have automatic updates like Chrome. This app automatically installs Chromium and keeps it updated.&lt;/p&gt;&lt;p&gt;If your device is rooted, you can install this app and forget it. If root is not available, it will download updates but you will have to confirm installation.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Internet,System</categories>
@@ -4626,8 +4626,21 @@
 		<web>http://adolfintel.com/?p=chromium/index.frag</web>
 		<source>https://github.com/adolfintel/chromiumUpdater</source>
 		<tracker>https://github.com/adolfintel/chromiumUpdater/issues</tracker>
-		<marketversion>1.6</marketversion>
-		<marketvercode>16</marketvercode>
+		<marketversion>1.7</marketversion>
+		<marketvercode>17</marketvercode>
+		<package>
+			<version>1.6</version>
+			<versioncode>14</versioncode>
+			<apkname>com.dosse.chromiumautoupdater_14.apk</apkname>
+			<srcname>com.dosse.chromiumautoupdater_14_src.tar.gz</srcname>
+			<hash type="sha256">5ad8d06b7c8d26bfbbd20fefc212ab0dbb870a76980b022123e0ab43d9ef93d4</hash>
+			<size>1628041</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>24</targetSdkVersion>
+			<added>2017-02-02</added>
+			<sig>c5eb813aa0f90fc45b69f08a8da64d5c</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>1.6</version>
 			<versioncode>13</versioncode>
@@ -7524,8 +7537,8 @@
 		<source>https://github.com/scoute-dich/browser</source>
 		<tracker>https://github.com/scoute-dich/browser/issues</tracker>
 		<changelog>https://github.com/scoute-dich/browser/blob/HEAD/CHANGELOG.md</changelog>
-		<marketversion>3.6</marketversion>
-		<marketvercode>41</marketvercode>
+		<marketversion>3.7</marketversion>
+		<marketvercode>42</marketvercode>
 		<package>
 			<version>3.2</version>
 			<versioncode>31</versioncode>
@@ -8915,8 +8928,8 @@
 		<web/>
 		<source>https://github.com/quarck/CalendarNotification</source>
 		<tracker>https://github.com/quarck/CalendarNotification/issues</tracker>
-		<marketversion>1.4.0</marketversion>
-		<marketvercode>4000</marketvercode>
+		<marketversion>1.4.4</marketversion>
+		<marketvercode>4220</marketvercode>
 		<package>
 			<version>1.3.21</version>
 			<versioncode>3023</versioncode>
@@ -12120,10 +12133,10 @@
 	<application id="it.faerb.crond">
 		<id>it.faerb.crond</id>
 		<added>2017-05-10</added>
-		<lastupdated>2017-06-14</lastupdated>
+		<lastupdated>2017-06-22</lastupdated>
 		<name>crond</name>
 		<summary>Schedules scripts</summary>
-		<icon>it.faerb.crond.15.png</icon>
+		<icon>it.faerb.crond.16.png</icon>
 		<desc>&lt;p&gt;Simple android app which implements crond using AlarmManager.&lt;/p&gt;&lt;p&gt;Schedules all scripts in regular intervals as defined by the crontab file.  The syntax is the same as on any UNIX system and can be looked up on the internet. You need to edit the crontab file using another app or adb. Always open the app after making changes to the crontab file to apply them.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>System</categories>
@@ -12133,9 +12146,22 @@
 		<tracker>https://github.com/faerbit/android-crond/issues</tracker>
 		<changelog>https://github.com/Faerbit/android-crond/blob/HEAD/Changelog.md</changelog>
 		<author>Fabian Klemp</author>
-		<marketversion>v1.2.11</marketversion>
-		<marketvercode>15</marketvercode>
+		<marketversion>v1.2.12</marketversion>
+		<marketvercode>16</marketvercode>
 		<requirements>root</requirements>
+		<package>
+			<version>v1.2.8</version>
+			<versioncode>12</versioncode>
+			<apkname>it.faerb.crond_12.apk</apkname>
+			<srcname>it.faerb.crond_12_src.tar.gz</srcname>
+			<hash type="sha256">0a0b20dff110ea1b6c8d10c42d8e16c053906d374becf7c3e2ac5e3e630bb6e0</hash>
+			<size>2761355</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-05-17</added>
+			<sig>7966527423348896077e923cf77f2781</sig>
+			<permissions>RECEIVE_BOOT_COMPLETED</permissions>
+		</package>
 		<package>
 			<version>v1.2.6</version>
 			<versioncode>10</versioncode>
@@ -12939,10 +12965,10 @@
 	<application id="at.bitfire.davdroid">
 		<id>at.bitfire.davdroid</id>
 		<added>2015-10-26</added>
-		<lastupdated>2017-06-13</lastupdated>
+		<lastupdated>2017-06-22</lastupdated>
 		<name>DAVdroid</name>
 		<summary>Sync contacts and calendars</summary>
-		<icon>at.bitfire.davdroid.150.png</icon>
+		<icon>at.bitfire.davdroid.151.png</icon>
 		<desc>&lt;p&gt;DAVdroid is a CalDAV/CardDAV synchronisation adapter for Android 4+ devices.&lt;/p&gt;&lt;p&gt;Use it with your own server (like &lt;a href=&quot;https://owncloud.org/&quot;&gt;ownCloud&lt;/a&gt;/ &lt;a href=&quot;https://nextcloud.com/&quot;&gt;Nextcloud&lt;/a&gt;, &lt;a href=&quot;http://baikal-server.com/&quot;&gt;Baïkal&lt;/a&gt;, &lt;a href=&quot;http://www.davical.org/&quot;&gt;DAViCal&lt;/a&gt; or &lt;a href=&quot;http://radicale.org/&quot;&gt;radiCALe&lt;/a&gt;) or with a trusted hoster to keep your contacts and events under your control.&lt;/p&gt;&lt;p&gt;Integrates natively in Android calendar/contact apps. See homepage for configuration details, including info about self-signed certificates.&lt;/p&gt;&lt;p&gt;For a comparison of server software, see the &lt;a href=&quot;https://wiki.debian.org/Groupware&quot;&gt;Debian wiki&lt;/a&gt;.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Internet</categories>
@@ -12954,8 +12980,26 @@
 		<donate>https://davdroid.bitfire.at/donate/</donate>
 		<bitcoin>1KSCy7RHztKuhW9fLLaUYqdwdC2iwbejZU</bitcoin>
 		<flattr>2100160</flattr>
-		<marketversion>1.6.1-ose</marketversion>
-		<marketvercode>150</marketvercode>
+		<marketversion>1.6.1.1-ose</marketversion>
+		<marketvercode>151</marketvercode>
+		<package>
+			<version>1.5.2-ose</version>
+			<versioncode>147</versioncode>
+			<apkname>at.bitfire.davdroid_147.apk</apkname>
+			<srcname>at.bitfire.davdroid_147_src.tar.gz</srcname>
+			<hash type="sha256">7d06c9d0e2a1df059b2362a5e8e69bf0defe10b49cda86403badb63e820fb61e</hash>
+			<size>3625951</size>
+			<sdkver>15</sdkver>
+			<targetSdkVersion>25</targetSdkVersion>
+			<added>2017-05-15</added>
+			<sig>03542175324d067b4c36582242f8aecc</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_CALENDAR,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,READ_SYNC_STATS,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WRITE_CALENDAR,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,org.dmfs.permission.READ_TASKS,org.dmfs.permission.WRITE_TASKS</permissions>
+			<uses-permission maxSdkVersion="22" name="android.permission.AUTHENTICATE_ACCOUNTS"/>
+			<uses-permission maxSdkVersion="22" name="android.permission.GET_ACCOUNTS"/>
+			<uses-permission maxSdkVersion="22" name="android.permission.MANAGE_ACCOUNTS"/>
+			<uses-permission maxSdkVersion="18" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="18" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+		</package>
 		<package>
 			<version>1.5.1-ose</version>
 			<versioncode>146</versioncode>
@@ -13787,15 +13831,15 @@
 		<name>Delta Chat</name>
 		<summary>Communicate instantly via e-mail</summary>
 		<icon>com.b44t.messenger.403.png</icon>
-		<desc>&lt;p&gt;Delta Chat is a project that aims to create a messaging app that is completely compatible to the existing e-mail infrastructure.&lt;/p&gt;&lt;p&gt;So, with Delta Chat you get the ease of well-known messengers with the reach of e-mail. Moreover, you're independent from other companies or services -- as your data are not related to Delta Chat, you won't even add new dependecies here.&lt;/p&gt;&lt;p&gt;Some features at a glance:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Fast by the use of Push-IMAP&lt;/li&gt;&lt;li&gt; Largest userbase -- receivers not using Delta Chat can be reached as well&lt;/li&gt;&lt;li&gt; Compatible -- not only to itself&lt;/li&gt;&lt;li&gt; Elegant and simple user interface&lt;/li&gt;&lt;li&gt; Distributed system&lt;/li&gt;&lt;li&gt; No Spam -- only messages of known users are shown by default&lt;/li&gt;&lt;li&gt; Reliable -- safe for professional use&lt;/li&gt;&lt;li&gt; Trustworthy -- can even be used for business messages&lt;/li&gt;&lt;li&gt; Fully OpenSource and Standards based&lt;/li&gt;&lt;/ul&gt;</desc>
+		<desc>&lt;p&gt;Delta Chat is a project that aims to create a messaging app that is completely compatible to the existing e-mail infrastructure.&lt;/p&gt;&lt;p&gt;So, with Delta Chat you get the ease of well-known messengers with the reach of e-mail. Moreover, you're independent from other companies or services -- as your data are not related to Delta Chat, you won't even add new dependencies here.&lt;/p&gt;&lt;p&gt;Some features at a glance:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Secure with automatic end-to-end-encryption, supporting the new &lt;a href=&quot;https://autocrypt.readthedocs.io/en/latest/&quot;&gt;Autocrypt&lt;/a&gt; standard&lt;/li&gt;&lt;li&gt; Fast by the use of Push-IMAP&lt;/li&gt;&lt;li&gt; Largest userbase -- receivers not using Delta Chat can be reached as well&lt;/li&gt;&lt;li&gt; Compatible -- not only to itself&lt;/li&gt;&lt;li&gt; Elegant and simple user interface&lt;/li&gt;&lt;li&gt; Distributed system&lt;/li&gt;&lt;li&gt; No Spam -- only messages of known users are shown by default&lt;/li&gt;&lt;li&gt; Reliable -- safe for professional use&lt;/li&gt;&lt;li&gt; Trustworthy -- can even be used for business messages&lt;/li&gt;&lt;li&gt; Fully OpenSource and Standards based&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPL-3.0+</license>
 		<categories>Internet</categories>
 		<category>Internet</category>
-		<web>https://getdelta.org/</web>
-		<source>https://github.com/r10s/deltachat-android</source>
-		<tracker>https://github.com/r10s/deltachat-android/issues</tracker>
-		<changelog>https://github.com/r10s/deltachat-android/blob/HEAD/CHANGELOG.md#delta-chat-changelog</changelog>
-		<donate>https://getdelta.org/en/support</donate>
+		<web>https://delta.chat/</web>
+		<source>https://github.com/deltachat/deltachat-android</source>
+		<tracker>https://github.com/deltachat/deltachat-android/issues</tracker>
+		<changelog>https://github.com/deltachat/deltachat-android/blob/HEAD/CHANGELOG.md#delta-chat-changelog</changelog>
+		<donate>https://delta.chat/en/support</donate>
 		<bitcoin>18e3zwis2raitdZVhEhHHT7xG6oXsZte9L</bitcoin>
 		<marketversion>0.9.1</marketversion>
 		<marketvercode>403</marketvercode>
@@ -18109,10 +18153,10 @@
 	<application id="org.fdroid.fdroid">
 		<id>org.fdroid.fdroid</id>
 		<added>2011-01-17</added>
-		<lastupdated>2017-06-02</lastupdated>
+		<lastupdated>2017-06-22</lastupdated>
 		<name>F-Droid</name>
 		<summary>Application manager</summary>
-		<icon>org.fdroid.fdroid.103250.png</icon>
+		<icon>org.fdroid.fdroid.104050.png</icon>
 		<desc>&lt;p&gt;Connects to F-Droid compatible repositories. The default repo is hosted at f-droid.org, which contains only bona fide FOSS.&lt;/p&gt;&lt;p&gt;Android is open in the sense that you are free to install apks from anywhere you wish, but there are many good reasons for using a client/repository setup:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Be notified when updates are available&lt;/li&gt;&lt;li&gt; Keep track of older and beta versions&lt;/li&gt;&lt;li&gt; Filter apps that aren't compatible with the device&lt;/li&gt;&lt;li&gt; Find apps via categories and searchable descriptions&lt;/li&gt;&lt;li&gt; Access associated urls for donations, source code etc.&lt;/li&gt;&lt;li&gt; Stay safe by checking repo index signatures and apk hashes&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPL-3.0+</license>
 		<categories>System</categories>
@@ -18126,6 +18170,19 @@
 		<flattr>343053</flattr>
 		<marketversion>0.102.3</marketversion>
 		<marketvercode>102350</marketvercode>
+		<package>
+			<version>0.102-alpha2</version>
+			<versioncode>102002</versioncode>
+			<apkname>org.fdroid.fdroid_102002.apk</apkname>
+			<srcname>org.fdroid.fdroid_102002_src.tar.gz</srcname>
+			<hash type="sha256">d1051c5a44b54fe02755495161a6a92a48984198e3f296848d57439e5069a18a</hash>
+			<size>4745956</size>
+			<sdkver>10</sdkver>
+			<targetSdkVersion>24</targetSdkVersion>
+			<added>2016-11-03</added>
+			<sig>9063aaadfff9cfd811a9c72fb5012f28</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CHANGE_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,CHANGE_WIFI_STATE,INTERNET,NFC,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,org.fdroid.fdroid.privileged.USE_SERVICE</permissions>
+		</package>
 		<package>
 			<version>0.102-alpha1</version>
 			<versioncode>102001</versioncode>
@@ -20321,8 +20378,8 @@
 		<web/>
 		<source>https://gitlab.com/krt/ffupdater</source>
 		<tracker>https://gitlab.com/krt/ffupdater/issues</tracker>
-		<marketversion>53.0</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>54.0</marketversion>
+		<marketvercode>21</marketvercode>
 		<antifeatures>NonFreeAdd</antifeatures>
 		<package>
 			<version>git</version>
@@ -21479,8 +21536,8 @@
 		<source>https://github.com/martykan/forecastie</source>
 		<tracker>https://github.com/martykan/forecastie/issues</tracker>
 		<changelog>https://github.com/martykan/forecastie/releases</changelog>
-		<marketversion>1.3</marketversion>
-		<marketvercode>15</marketvercode>
+		<marketversion>1.4</marketversion>
+		<marketvercode>16</marketvercode>
 		<package>
 			<version>0.9.1</version>
 			<versioncode>10</versioncode>
@@ -27016,10 +27073,10 @@
 	<application id="com.github.axet.hourlyreminder">
 		<id>com.github.axet.hourlyreminder</id>
 		<added>2017-04-17</added>
-		<lastupdated>2017-06-14</lastupdated>
+		<lastupdated>2017-06-22</lastupdated>
 		<name>Hourly Reminder</name>
 		<summary>Remind you about hours passed</summary>
-		<icon>com.github.axet.hourlyreminder.289.png</icon>
+		<icon>com.github.axet.hourlyreminder.294.png</icon>
 		<desc>&lt;p&gt;Never miss an alarm: This app reminds you about hours passed. Application will pronounce current time on user specified hours. You can choice alarm types: beep, speech or custom wav/ogg files.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Multimedia</categories>
@@ -27027,8 +27084,21 @@
 		<web>https://gitlab.com/axet/android-hourly-reminder</web>
 		<source>https://gitlab.com/axet/android-hourly-reminder/tree/HEAD</source>
 		<tracker>https://gitlab.com/axet/android-hourly-reminder/issues</tracker>
-		<marketversion>3.0.37</marketversion>
-		<marketvercode>289</marketvercode>
+		<marketversion>3.0.42</marketversion>
+		<marketvercode>294</marketvercode>
+		<package>
+			<version>3.0.35</version>
+			<versioncode>287</versioncode>
+			<apkname>com.github.axet.hourlyreminder_287.apk</apkname>
+			<srcname>com.github.axet.hourlyreminder_287_src.tar.gz</srcname>
+			<hash type="sha256">8931cd45587116eee6cffc9300c7539fa0cdfe4abd8efe58adebf057f411f340</hash>
+			<size>2897496</size>
+			<sdkver>9</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-06-13</added>
+			<sig>e6f53f50f02827c928be94f9fb89920a</sig>
+			<permissions>READ_EXTERNAL_STORAGE,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,VIBRATE,WAKE_LOCK</permissions>
+		</package>
 		<package>
 			<version>3.0.33</version>
 			<versioncode>285</versioncode>
@@ -27921,8 +27991,8 @@
 		<web/>
 		<source>https://github.com/marunjar/anewjkuapp</source>
 		<tracker>https://github.com/marunjar/anewjkuapp/issues</tracker>
-		<marketversion>0.45.2</marketversion>
-		<marketvercode>140056</marketvercode>
+		<marketversion>0.45.3</marketversion>
+		<marketvercode>140057</marketvercode>
 		<package>
 			<version>0.42.4</version>
 			<versioncode>140046</versioncode>
@@ -29716,9 +29786,9 @@
 		<added>2015-10-12</added>
 		<lastupdated>2017-04-27</lastupdated>
 		<name>Kontalk</name>
-		<summary>Community-driven messaging</summary>
+		<summary/>
 		<icon>org.kontalk.226.png</icon>
-		<desc>&lt;p&gt;&lt;b&gt;Follow @kontalknet on Twitter or identi.ca to keep up to date with the latest changes and on service status!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Kontalk is a secure instant messenger, allowing you to send and receive text, image and voice messages (other file types coming soon) to and from other Kontalk users completely free of charge (*).&lt;/p&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Your phone number is your ID.&lt;/b&gt; No usernames or passwords&lt;/li&gt;&lt;li&gt; &lt;b&gt;It automatically finds other Kontalk users&lt;/b&gt; by looking at your address book, making it even easier to start chatting on Kontalk with your friends&lt;/li&gt;&lt;li&gt; &lt;b&gt;End-to-end encryption&lt;/b&gt; ensures safe and private conversations, so that only you and the person you are talking to can read them&lt;/li&gt;&lt;li&gt; Your and all phone numbers used on the network are irreversibly encrypted&lt;/li&gt;&lt;li&gt; It supports multiple devices, making it very easy to start chatting on your phone and continue the conversation on your tablet&lt;/li&gt;&lt;li&gt; Based on open standards: XMPP and OpenPGP&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;The network relies on community donations to keep the infrastructure running, so if you can, please donate on &lt;a href=&quot;http://kontalk.net/&quot;&gt;kontalk.net&lt;/a&gt;. Even small donations matter.&lt;/p&gt;&lt;p&gt;You can find all permissions used by the app explained at &lt;a href=&quot;https://github.com/kontalk/androidclient/wiki/Android-client-permissions&quot;&gt;this page&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;This version has been stripped of all Google components, meaning no support for push notifications.&lt;/p&gt;&lt;p&gt;(*) Carrier fees for Internet traffic may apply&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Internet</categories>
 		<category>Internet</category>
@@ -30560,10 +30630,10 @@
 	<application id="acr.browser.lightning">
 		<id>acr.browser.lightning</id>
 		<added>2016-04-25</added>
-		<lastupdated>2017-02-18</lastupdated>
+		<lastupdated>2017-06-22</lastupdated>
 		<name>Lightning</name>
 		<summary>Lightweight browser</summary>
-		<icon>acr.browser.lightning.91.png</icon>
+		<icon>acr.browser.lightning.95.png</icon>
 		<desc>&lt;p&gt;Lightweight browser with following features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Fast Start Times&lt;/li&gt;&lt;li&gt; Small Footprint&lt;/li&gt;&lt;li&gt; Smooth Scrolling&lt;/li&gt;&lt;li&gt; Long-press a tab to delete it&lt;/li&gt;&lt;li&gt; Long-press the back button to exit the browser&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Former versions can be found at &lt;a href=&quot;fdroid.app:acr.browser.barebones&quot;&gt;Lightning (old)&lt;/a&gt;.&lt;/p&gt;</desc>
 		<license>MPL-2.0</license>
 		<categories>Internet</categories>
@@ -30572,8 +30642,22 @@
 		<source>https://github.com/anthonycr/Lightning-Browser</source>
 		<tracker>https://github.com/anthonycr/Lightning-Browser/issues</tracker>
 		<changelog>https://github.com/anthonycr/Lightning-Browser/releases</changelog>
-		<marketversion>4.4.1</marketversion>
-		<marketvercode>90</marketvercode>
+		<marketversion>4.5.0</marketversion>
+		<marketvercode>95</marketvercode>
+		<package>
+			<version>4.4.0</version>
+			<versioncode>89</versioncode>
+			<apkname>acr.browser.lightning_89.apk</apkname>
+			<srcname>acr.browser.lightning_89_src.tar.gz</srcname>
+			<hash type="sha256">20f780604d3795095939780389e1f89ea4563b628e5e6c5091fb787b27e60210</hash>
+			<size>2351412</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>24</targetSdkVersion>
+			<added>2016-11-01</added>
+			<sig>309b51c23cbba48fcdf18723b77babb2</sig>
+			<permissions>ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.android.browser.permission.READ_HISTORY_BOOKMARKS,com.android.browser.permission.WRITE_HISTORY_BOOKMARKS,com.android.launcher.permission.INSTALL_SHORTCUT</permissions>
+			<nativecode>armeabi,armeabi-v7a,mips,x86</nativecode>
+		</package>
 		<package>
 			<version>4.3.3</version>
 			<versioncode>88</versioncode>
@@ -31593,6 +31677,38 @@
 			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
 		</package>
 	</application>
+	<application id="com.rehanced.lunary">
+		<id>com.rehanced.lunary</id>
+		<added>2017-06-13</added>
+		<lastupdated>2017-06-22</lastupdated>
+		<name>Lunary</name>
+		<summary>Manage and transfer your Ether with ease</summary>
+		<icon>com.rehanced.lunary.16.png</icon>
+		<desc>&lt;p&gt;A beautiful designed, easy to use and secure Ethereum Wallet for your phone.&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Mutli wallet support&lt;/li&gt;&lt;li&gt; Support for watch only wallets&lt;/li&gt;&lt;li&gt; Send / Request payments&lt;/li&gt;&lt;li&gt; Notification on incoming transactions&lt;/li&gt;&lt;li&gt; Combined transaction history&lt;/li&gt;&lt;li&gt; Addressbook and address naming&lt;/li&gt;&lt;li&gt; Importing / Exporting wallets&lt;/li&gt;&lt;li&gt; Display amounts in ETH, USD or BTC&lt;/li&gt;&lt;li&gt; No registration or sign up required&lt;/li&gt;&lt;li&gt; Price history charts&lt;/li&gt;&lt;li&gt; Support for 8 Currencies: USD, EUR, GBP, CHF, AUD, CAD, JPY, RUB&lt;/li&gt;&lt;/ul&gt;</desc>
+		<license>GPL-3.0</license>
+		<categories>Money,Internet</categories>
+		<category>Money</category>
+		<web/>
+		<source>https://github.com/manuelsc/Lunary-Ethereum-Wallet</source>
+		<tracker>https://github.com/manuelsc/Lunary-Ethereum-Wallet/issues</tracker>
+		<marketversion>1.26</marketversion>
+		<marketvercode>16</marketvercode>
+		<antifeatures>NonFreeNet</antifeatures>
+		<package>
+			<version>1.18</version>
+			<versioncode>9</versioncode>
+			<apkname>com.rehanced.lunary_9.apk</apkname>
+			<srcname>com.rehanced.lunary_9_src.tar.gz</srcname>
+			<hash type="sha256">b3e110c53a7fa69cf5adfa3f4e21e6a8f5de586a6e9dc158927815d912f917a9</hash>
+			<size>4748689</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>25</targetSdkVersion>
+			<added>2017-06-13</added>
+			<sig>6fd4c3599465e727a7d6246cadafa3db</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CAMERA,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
+	</application>
 	<application id="com.shkmishra.lyrically">
 		<id>com.shkmishra.lyrically</id>
 		<added>2016-11-21</added>
@@ -31607,8 +31723,8 @@
 		<web/>
 		<source>https://github.com/shkcodes/Lyrically</source>
 		<tracker>https://github.com/shkcodes/Lyrically/issues</tracker>
-		<marketversion>0.51</marketversion>
-		<marketvercode>13</marketvercode>
+		<marketversion>0.52</marketversion>
+		<marketvercode>14</marketvercode>
 		<package>
 			<version>0.31</version>
 			<versioncode>8</versioncode>
@@ -31879,8 +31995,8 @@
 		<source>https://github.com/PaulWoitaschek/MaterialAudiobookPlayer</source>
 		<tracker>https://github.com/PaulWoitaschek/MaterialAudiobookPlayer/issues</tracker>
 		<changelog>https://github.com/PaulWoitaschek/MaterialAudiobookPlayer/blob/HEAD/CHANGELOG.md</changelog>
-		<marketversion>3.3.5</marketversion>
-		<marketvercode>198</marketvercode>
+		<marketversion>3.3.6.2</marketversion>
+		<marketvercode>201</marketvercode>
 		<package>
 			<version>3.3.3.6</version>
 			<versioncode>194</versioncode>
@@ -36928,8 +37044,8 @@
 		<tracker>https://github.com/nextcloud/android/issues</tracker>
 		<changelog>https://github.com/nextcloud/android/blob/dev/CHANGELOG.md</changelog>
 		<donate>https://www.bountysource.com/teams/nextcloud</donate>
-		<marketversion>20170615</marketversion>
-		<marketvercode>20170615</marketvercode>
+		<marketversion>20170618</marketversion>
+		<marketvercode>20170618</marketvercode>
 		<package>
 			<version>20170606</version>
 			<versioncode>20170606</versioncode>
@@ -40479,9 +40595,9 @@
 		<added>2016-01-23</added>
 		<lastupdated>2017-03-17</lastupdated>
 		<name>Open Link With</name>
-		<summary>Open links with different apps</summary>
+		<summary/>
 		<icon>com.tasomaniac.openwith.floss.14003.png</icon>
-		<desc>&lt;p&gt;Intercept's URL intents and let's you choose which app to use for sharing/opening.&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Apache-2.0</license>
 		<categories>Internet,System</categories>
 		<category>Internet</category>
@@ -41039,9 +41155,9 @@
 		<added>2015-10-26</added>
 		<lastupdated>2017-05-06</lastupdated>
 		<name>OpenKeychain</name>
-		<summary>Encrypt files and communications with OpenPGP</summary>
+		<summary/>
 		<icon>org.sufficientlysecure.keychain.44100.png</icon>
-		<desc>&lt;p&gt;OpenKeychain helps you communicate more privately and securely. It uses high-quality modern encryption to ensure that your messages can be read only by the people you send them to, others can send you messages that only you can read, and these messages can be digitally signed so the people getting them are sure who sent them. OpenKeychain is based on the well established OpenPGP standard making encryption compatible across your devices and operating systems.&lt;/p&gt;&lt;p&gt;Modern encryption is based on digital &quot;keys&quot;. OpenKeychain stores and manages your keys, and those of the people you communicate with, on your Android. It also helps you find others' keys online, and interchange keys by touching devices. But its most frequent use is in using those keys to encrypt and decrypt messages.&lt;/p&gt;&lt;p&gt;OpenKeychain integrates with&lt;/p&gt;&lt;ul&gt;&lt;li&gt; K-9 Mail&lt;/li&gt;&lt;li&gt; Conversations&lt;/li&gt;&lt;li&gt; Password Store&lt;/li&gt;&lt;li&gt; oandbackup&lt;/li&gt;&lt;li&gt; and many more…&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;OpenKeychain is designed to be trustworthy. It’s Free Software with no secrets; anyone can examine and validate every bit of it.&lt;/p&gt;&lt;p&gt;Permissions:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Full network access: To query keyservers&lt;/li&gt;&lt;li&gt; Near Field Communication: To exchange keys via NFC; Yubikey NEO support&lt;/li&gt;&lt;li&gt; Storage: To import/export keys from sd card&lt;/li&gt;&lt;li&gt; Identity/Contact: To pre-fill name, email, and search queries; integration with Android's contacts&lt;/li&gt;&lt;/ul&gt;</desc>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>GPL-3.0+</license>
 		<categories>Security</categories>
 		<category>Security</category>
@@ -41882,9 +41998,9 @@
 		<added>2011-06-24</added>
 		<lastupdated>2017-04-30</lastupdated>
 		<name>OsmAnd~</name>
-		<summary>Offline/online maps and navigation</summary>
+		<summary/>
 		<icon>net.osmand.plus.263.png</icon>
-		<desc>&lt;p&gt;Osmand~'s features can be extended by enabling the plugins via the settings, which include online maps from many sources, tracking, OpenStreetMap (OSM) editing and accessibility enhancements.&lt;/p&gt;&lt;p&gt;Map data of both vector and raster types can be stored on the phone memory card for offline usage, and navigation by default uses offline methods. Map data packages for many territories can be downloaded from within the app and there is a desktop program available on the website as well for creating your own.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Anti-Features:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; NonFreeAssets - Artwork and layouts are under a non-commercial license.&lt;/li&gt;&lt;/ul&gt;</desc>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Navigation</categories>
 		<category>Navigation</category>
@@ -44010,8 +44126,8 @@
 		<web>https://github.com/zeapo/Android-Password-Store/blob/HEAD/README.md</web>
 		<source>https://github.com/zeapo/Android-Password-Store</source>
 		<tracker>https://github.com/zeapo/Android-Password-Store/issues</tracker>
-		<marketversion>1.2.0.61</marketversion>
-		<marketvercode>81</marketvercode>
+		<marketversion>1.2.0.62-alpha</marketversion>
+		<marketvercode>82</marketvercode>
 		<package>
 			<version>1.2.0.58</version>
 			<versioncode>78</versioncode>
@@ -44289,10 +44405,10 @@
 	<application id="de.baumann.pdfcreator">
 		<id>de.baumann.pdfcreator</id>
 		<added>2016-08-06</added>
-		<lastupdated>2017-05-25</lastupdated>
+		<lastupdated>2017-06-22</lastupdated>
 		<name>PDF Creator</name>
 		<summary>Create and edit PDF files</summary>
-		<icon>de.baumann.pdfcreator.24.png</icon>
+		<icon>de.baumann.pdfcreator.25.png</icon>
 		<desc>&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; create PDF-pages from text or pictures&lt;/li&gt;&lt;li&gt; add PDF-pages from text or pictures to existing PDFs&lt;/li&gt;&lt;li&gt; merge PDFs&lt;/li&gt;&lt;li&gt; protect PDFs with password&lt;/li&gt;&lt;li&gt; delete pages from existing PDFs&lt;/li&gt;&lt;li&gt; edit metadata from existing PDFs&lt;/li&gt;&lt;li&gt; convert PDFs to images&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPL-3.0+</license>
 		<categories>Writing</categories>
@@ -44301,8 +44417,22 @@
 		<source>https://github.com/scoute-dich/PDFCreator</source>
 		<tracker>https://github.com/scoute-dich/PDFCreator/issues</tracker>
 		<changelog>https://github.com/scoute-dich/PDFCreator/blob/HEAD/CHANGELOG.md</changelog>
-		<marketversion>3.7</marketversion>
-		<marketvercode>24</marketvercode>
+		<marketversion>3.8</marketversion>
+		<marketvercode>25</marketvercode>
+		<package>
+			<version>3.5</version>
+			<versioncode>22</versioncode>
+			<apkname>de.baumann.pdfcreator_22.apk</apkname>
+			<srcname>de.baumann.pdfcreator_22_src.tar.gz</srcname>
+			<hash type="sha256">2a8f8a54d3c5f7c43226279100a2c0abbb2e24c9bb2d99a93cbe4dcf58f7f0aa</hash>
+			<size>10723561</size>
+			<sdkver>17</sdkver>
+			<targetSdkVersion>25</targetSdkVersion>
+			<added>2017-05-12</added>
+			<sig>92ddbdf3cd8a31bcdd8412411e94de0e</sig>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
 		<package>
 			<version>3.4</version>
 			<versioncode>21</versioncode>
@@ -47531,10 +47661,10 @@
 	<application id="org.primftpd">
 		<id>org.primftpd</id>
 		<added>2015-12-15</added>
-		<lastupdated>2017-02-27</lastupdated>
+		<lastupdated>2017-06-22</lastupdated>
 		<name>primitive ftpd</name>
 		<summary>FTP server</summary>
-		<icon>org.primftpd.23.png</icon>
+		<icon>org.primftpd.24.png</icon>
 		<desc>&lt;p&gt;A simple FTP and SFTP (SSH file transfer) server. Allows to exchange files with other machines over WiFi. No more USB cable searching. Runs without root privileges and is not started when device boots: Control yourself when the server runs. However, while it runs it prevents standby to avoid long uploads and downloads to abort.&lt;/p&gt;</desc>
 		<license>Apache-2.0</license>
 		<categories>Connectivity</categories>
@@ -47542,8 +47672,21 @@
 		<web/>
 		<source>https://github.com/wolpi/prim-ftpd</source>
 		<tracker>https://github.com/wolpi/prim-ftpd/issues</tracker>
-		<marketversion>4.8.2</marketversion>
-		<marketvercode>23</marketvercode>
+		<marketversion>4.9</marketversion>
+		<marketvercode>24</marketvercode>
+		<package>
+			<version>4.6</version>
+			<versioncode>20</versioncode>
+			<apkname>org.primftpd_20.apk</apkname>
+			<srcname>org.primftpd_20_src.tar.gz</srcname>
+			<hash type="sha256">8d625d2f656c099d5d10abbe6a4f518adba1ab60471073ffb27c452b7fa0f975</hash>
+			<size>2203792</size>
+			<sdkver>15</sdkver>
+			<targetSdkVersion>22</targetSdkVersion>
+			<added>2016-10-04</added>
+			<sig>0125d771ab539dbc180da671f8f047bc</sig>
+			<permissions>INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>4.5</version>
 			<versioncode>19</versioncode>
@@ -47628,9 +47771,9 @@
 		<added>2016-04-17</added>
 		<lastupdated>2017-05-28</lastupdated>
 		<name>Privacy Browser</name>
-		<summary>A web browser that respects your privacy</summary>
+		<summary/>
 		<icon>com.stoutner.privacybrowser.standard.23.png</icon>
-		<desc>&lt;p&gt;Privacy Browser protects your privacy by disabling JavaScript, DOM storage, and cookies by default, but providing quick methods to enable them for websites where they are required. Many websites use these technologies to track users between visits and across sites.&lt;/p&gt;&lt;p&gt;Privacy Browser uses Android's built-in WebView to render web pages. As such, it works best if you have updated to the latest version of WebView.&lt;/p&gt;&lt;p&gt;Warning: Privacy Browser is susceptible to &lt;a href=&quot;https://www.stoutner.com/kitkat-security-problems/&quot;&gt;MITM (Man In The Middle) attacks&lt;/a&gt; when browsing insecure websites from devices running Android KitKat (version 4.4.x, API 19).&lt;/p&gt;&lt;p&gt;Features full screen browsing mode, integrated ad blocker, and Tor Orbot proxy support.&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>GPL-3.0+</license>
 		<categories>Internet</categories>
 		<category>Internet</category>
@@ -52822,9 +52965,9 @@
 		<added>2015-10-06</added>
 		<lastupdated>2017-04-27</lastupdated>
 		<name>Silence</name>
-		<summary>Send encrypted text messages (SMS/MMS)</summary>
+		<summary/>
 		<icon>org.smssecure.smssecure.202.png</icon>
-		<desc>&lt;p&gt;Silence is an SMS/MMS application that allows you to protect your privacy while communicating with friends. Using Silence, you can send SMS messages and share media or attachments with complete privacy.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Easy. Silence works like any other SMS application. There's nothing to sign up for and no new service your friends need to join.&lt;/li&gt;&lt;li&gt; Reliable. Silence communicates using encrypted SMS messages. No servers or internet connection required.&lt;/li&gt;&lt;li&gt; Private. Silence provides end-to-end encryption for your messages using the painstakingly engineered Signal encryption protocol.&lt;/li&gt;&lt;li&gt; Safe. All messages are encrypted locally, so if your phone is lost or stolen, your messages are protected.&lt;/li&gt;&lt;/ul&gt;</desc>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Phone &amp; SMS,Security</categories>
 		<category>Phone &amp; SMS</category>
@@ -53296,8 +53439,8 @@
 		<web/>
 		<source>https://github.com/TobiasBielefeld/Simple-Solitaire</source>
 		<tracker>https://github.com/TobiasBielefeld/Simple-Solitaire/issues</tracker>
-		<marketversion>3.7</marketversion>
-		<marketvercode>46</marketvercode>
+		<marketversion>3.7.1</marketversion>
+		<marketvercode>47</marketvercode>
 		<package>
 			<version>3.6</version>
 			<versioncode>41</versioncode>
@@ -53609,8 +53752,8 @@
 		<source>https://github.com/mpcjanssen/simpletask-android</source>
 		<tracker>https://github.com/mpcjanssen/simpletask-android/issues</tracker>
 		<changelog>https://github.com/mpcjanssen/simpletask-android/blob/HEAD/src/main/assets/changelog.en.md</changelog>
-		<marketversion>9.0.6</marketversion>
-		<marketvercode>3060</marketvercode>
+		<marketversion>9.0.7</marketversion>
+		<marketvercode>3061</marketvercode>
 		<package>
 			<version>8.3.1</version>
 			<versioncode>3053</versioncode>
@@ -55112,8 +55255,8 @@
 		<source>https://github.com/bottiger/SoundWaves</source>
 		<tracker>https://github.com/bottiger/SoundWaves/issues</tracker>
 		<changelog>https://github.com/bottiger/SoundWaves/blob/HEAD/Changelog.txt</changelog>
-		<marketversion>0.158.4</marketversion>
-		<marketvercode>382</marketvercode>
+		<marketversion>0.158.8</marketversion>
+		<marketvercode>386</marketvercode>
 		<package>
 			<version>0.150</version>
 			<versioncode>370</versioncode>
@@ -56247,10 +56390,10 @@
 	<application id="de.westnordost.streetcomplete">
 		<id>de.westnordost.streetcomplete</id>
 		<added>2017-03-24</added>
-		<lastupdated>2017-05-22</lastupdated>
+		<lastupdated>2017-06-22</lastupdated>
 		<name>Street­Complete</name>
 		<summary>OpenStreetMap surveyor app</summary>
-		<icon>de.westnordost.streetcomplete.8.png</icon>
+		<icon>de.westnordost.streetcomplete.9.png</icon>
 		<desc>&lt;p&gt;Help to improve the OpenStreetMap with StreetComplete!&lt;/p&gt;&lt;p&gt;This app finds incomplete and extendable data in your vicinity and displays it on a map as markers. Each of those is solvable by answering a simple question to complete the info on site.&lt;/p&gt;&lt;p&gt;The info you enter is then directly added to the OpenStreetMap in your name, without the need to use another editor.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Navigation</categories>
@@ -56260,8 +56403,22 @@
 		<tracker>https://github.com/westnordost/StreetComplete/issues</tracker>
 		<author>Tobias Zwick</author>
 		<email>osm@westnordost.de</email>
-		<marketversion>0.11</marketversion>
-		<marketvercode>8</marketvercode>
+		<marketversion>0.12</marketversion>
+		<marketvercode>9</marketvercode>
+		<package>
+			<version>0.8</version>
+			<versioncode>5</versioncode>
+			<apkname>de.westnordost.streetcomplete_5.apk</apkname>
+			<srcname>de.westnordost.streetcomplete_5_src.tar.gz</srcname>
+			<hash type="sha256">d3167cf3f2950174d947c4cb459bc5d277a18423ff898e70d4e83dd328d39f7f</hash>
+			<size>17657431</size>
+			<sdkver>17</sdkver>
+			<targetSdkVersion>25</targetSdkVersion>
+			<added>2017-04-30</added>
+			<sig>f101f1deb74cafc58625d7a2e342021f</sig>
+			<permissions>ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,INTERNET,WAKE_LOCK</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,x86</nativecode>
+		</package>
 		<package>
 			<version>0.7</version>
 			<versioncode>4</versioncode>
@@ -59030,9 +59187,9 @@
 		<added>2015-11-17</added>
 		<lastupdated>2017-06-17</lastupdated>
 		<name>Telegram</name>
-		<summary>Messaging client</summary>
+		<summary/>
 		<icon>org.telegram.messenger.9605.png</icon>
-		<desc>&lt;p&gt;&lt;b&gt;Warning:&lt;/b&gt; While this build is based on a pure-floss fork, original upstream is not always fast with publishing the sourcecode for recent vesions.&lt;/p&gt;&lt;p&gt;Client for the Telegram messaging platform. Chat with friends, start group chats and share all kinds of content. All of your messages and conversations are stored in Telegram's cloud.&lt;/p&gt;&lt;p&gt;The messaging platform is aimed at mobile devices, but desktop and web clients exist as well.&lt;/p&gt;&lt;p&gt;Several proprietary parts were removed from the original Telegram client, including Google Play Services for the location services, HockeySDK for self-updates and push notifications through Google Cloud Messaging. Location sharing functionality is restored using OpenStreetMap.&lt;/p&gt;&lt;p&gt;Anti-Feature: Non-Free Network, since the servers run proprietary software.&lt;/p&gt;&lt;p&gt;The official source code of the app contains binary blobs, so this tracks a fork which builds those from source. Hence, versions might become available with a certain lag.&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>GPL-2.0+</license>
 		<categories>Internet</categories>
 		<category>Internet</category>
@@ -59206,9 +59363,9 @@
 		<added>2012-03-15</added>
 		<lastupdated>2012-03-15</lastupdated>
 		<name>Terminal Emulator</name>
-		<summary>Communicate with the shell</summary>
+		<summary/>
 		<icon>jackpal.androidterm.42.png</icon>
-		<desc>&lt;p&gt;VT-100 compatible terminal emulator.&lt;/p&gt;&lt;p&gt;This code is based on the &quot;Term&quot; application which is included in the Android source code release.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;fdroid.app:org.pocketworkstation.pckeyboard&quot;&gt;Hacker's Keyboard&lt;/a&gt;, &lt;a href=&quot;fdroid.app:com.anysoftkeyboard.languagepack.SSH&quot;&gt;AnySoftKeyboard: SSH&lt;/a&gt; and the Android PC-keyboard-layout in Android 4.1 are well suited to terminal work.&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Apache-2.0</license>
 		<categories>Development</categories>
 		<category>Development</category>
@@ -62944,10 +63101,10 @@
 	<application id="org.mariotaku.twidere">
 		<id>org.mariotaku.twidere</id>
 		<added>2015-10-12</added>
-		<lastupdated>2017-06-13</lastupdated>
+		<lastupdated>2017-06-22</lastupdated>
 		<name>Twidere</name>
 		<summary>Microblogging client</summary>
-		<icon>org.mariotaku.twidere.379.png</icon>
+		<icon>org.mariotaku.twidere.381.png</icon>
 		<desc>&lt;p&gt;Features include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Built in image viewer and map viewer&lt;/li&gt;&lt;li&gt; Direct messages with conversation style&lt;/li&gt;&lt;li&gt; Extension support like Twicca, but more friendly for users and developers&lt;/li&gt;&lt;li&gt; t.co link auto expanding&lt;/li&gt;&lt;li&gt; Multiple account support&lt;/li&gt;&lt;li&gt; Custom oAuth consumer key/secret&lt;/li&gt;&lt;li&gt; Basic features supported for StatusNet/Fanfou&lt;/li&gt;&lt;li&gt; Direct login with user name and password (Don't worry! It's safe!)&lt;/li&gt;&lt;li&gt; Custom API Proxy (gtap, twip, jtapi supported)&lt;/li&gt;&lt;li&gt; GZip compressing for API requests&lt;/li&gt;&lt;li&gt; TCP DNS query and custom host mapping to fight against censorship&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Development is focussed on Twitter and that service is the only one officially supported.&lt;/p&gt;&lt;p&gt;If you want a StatusNet account press the button at the top of the account setup page. Set an appropriate REST API url and choose basic authentication. Searches will go to Twitter by default. For general info about the StatusNet API see &lt;a href=&quot;http://status.net/wiki/Twitter-compatible_API&quot;&gt;their wiki&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;You can donate via PayPal here, with the same address being used for AliPay donations.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Internet</categories>
@@ -62957,8 +63114,25 @@
 		<tracker>https://github.com/TwidereProject/Twidere-Android/issues</tracker>
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=mariotaku.lee%40gmail%2ecom&amp;item_name=Donate%20to%20Twidere</donate>
 		<bitcoin>1FHAVAzge7cj1LfCTMfnLL49DgA3mVUCuW</bitcoin>
-		<marketversion>3.6.19</marketversion>
-		<marketvercode>379</marketvercode>
+		<marketversion>3.6.21</marketversion>
+		<marketvercode>381</marketvercode>
+		<package>
+			<version>3.6.16</version>
+			<versioncode>376</versioncode>
+			<apkname>org.mariotaku.twidere_376.apk</apkname>
+			<srcname>org.mariotaku.twidere_376_src.tar.gz</srcname>
+			<hash type="sha256">2104172b8706cb4b6f2d615091400d9b72c95e5780fe34d9384912a06f741f27</hash>
+			<size>10313873</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>25</targetSdkVersion>
+			<added>2017-06-05</added>
+			<sig>7f8f67c08d819084cc419bb75535897b</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,NFC,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,org.mariotaku.twidere.permission.ACCESS_DATABASE,org.mariotaku.twidere.permission.SHORTEN_STATUS,org.mariotaku.twidere.permission.SYNC_TIMELINE,org.mariotaku.twidere.permission.UPLOAD_MEDIA</permissions>
+			<uses-permission maxSdkVersion="22" name="android.permission.AUTHENTICATE_ACCOUNTS"/>
+			<uses-permission maxSdkVersion="22" name="android.permission.GET_ACCOUNTS"/>
+			<uses-permission maxSdkVersion="22" name="android.permission.MANAGE_ACCOUNTS"/>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
 		<package>
 			<version>3.6.15</version>
 			<versioncode>375</versioncode>
@@ -66643,8 +66817,8 @@
 		<web>https://bitbucket.org/gelin/weather-notification</web>
 		<source>https://bitbucket.org/gelin/weather-notification/src</source>
 		<tracker>https://bitbucket.org/gelin/weather-notification/issues</tracker>
-		<marketversion>0.3.8</marketversion>
-		<marketvercode>51</marketvercode>
+		<marketversion>0.3.9</marketversion>
+		<marketvercode>52</marketvercode>
 		<package>
 			<version>0.2-beta2</version>
 			<versioncode>23</versioncode>
@@ -67995,9 +68169,9 @@
 		<added>2015-10-06</added>
 		<lastupdated>2017-04-27</lastupdated>
 		<name>Wikipedia</name>
-		<summary>Wikipedia.org client</summary>
+		<summary/>
 		<icon>org.wikipedia.194.png</icon>
-		<desc>&lt;p&gt;Official Wikipedia application.&lt;/p&gt;&lt;p&gt;Wikipedia is the free encyclopedia containing more than 32 million articles in 280 languages, and is the most comprehensive and widely used reference work humans have ever compiled.&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Tabbed browsing&lt;/li&gt;&lt;li&gt; Lead images&lt;/li&gt;&lt;li&gt; Image gallery&lt;/li&gt;&lt;li&gt; Descriptions from Wikidata&lt;/li&gt;&lt;li&gt; Article suggestions&lt;/li&gt;&lt;li&gt; Saved pages&lt;/li&gt;&lt;li&gt; Nearby&lt;/li&gt;&lt;li&gt; Language support&lt;/li&gt;&lt;li&gt; Table of contents&lt;/li&gt;&lt;li&gt; Wikipedia Zero&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;You can send feedback to the app developers. In the menu, press &quot;More&quot;, then &quot;About the Wikipedia app&quot;, then &quot;Send app feedback&quot;.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://m.wikimediafoundation.org/wiki/Privacy_policy&quot;&gt;Privacy policy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://m.wikimediafoundation.org/wiki/Terms_of_Use&quot;&gt;Terms of Use&lt;/a&gt;&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Apache-2.0</license>
 		<categories>Internet</categories>
 		<category>Internet</category>
@@ -69519,8 +69693,8 @@
 		<tracker>https://github.com/zoff99/zanavi/issues</tracker>
 		<donate>http://more.zanavi.cc/donate/</donate>
 		<bitcoin>1ZANav18WY8ytM7bhnAEBS3bdrTohsD9p</bitcoin>
-		<marketversion>2.0.56</marketversion>
-		<marketvercode>256</marketvercode>
+		<marketversion>2.0.57</marketversion>
+		<marketvercode>257</marketvercode>
 		<package>
 			<version>2.0.52</version>
 			<versioncode>252</versioncode>
