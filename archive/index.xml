@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid Archive" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1499008418" url="https://f-droid.org/archive" version="18">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid Archive" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1499278991" url="https://f-droid.org/archive" version="18">
 		<description>The archive repository of the F-Droid client. This contains older versions of applications from the main repository. </description>
 	</repo>
 	<application id="io.github.lonamiwebs.klooni">
@@ -4541,10 +4541,10 @@
 	<application id="com.github.axet.audiorecorder">
 		<id>com.github.axet.audiorecorder</id>
 		<added>2017-05-14</added>
-		<lastupdated>2017-07-02</lastupdated>
+		<lastupdated>2017-07-05</lastupdated>
 		<name>Audio Recorder</name>
 		<summary>Record audio files</summary>
-		<icon>com.github.axet.audiorecorder.176.png</icon>
+		<icon>com.github.axet.audiorecorder.179.png</icon>
 		<desc>&lt;p&gt;Audio recorder with custom recording folder, nice recording volume indicator, recording notification, recording lock screen activity.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Multimedia</categories>
@@ -4553,8 +4553,22 @@
 		<source>https://gitlab.com/axet/android-audio-recorder/tree/HEAD</source>
 		<tracker>https://gitlab.com/axet/android-audio-recorder/issues</tracker>
 		<changelog>https://gitlab.com/axet/android-audio-recorder/tags</changelog>
-		<marketversion>3.0.11</marketversion>
-		<marketvercode>176</marketvercode>
+		<marketversion>3.0.14</marketversion>
+		<marketvercode>179</marketvercode>
+		<package>
+			<version>3.0.6</version>
+			<versioncode>171</versioncode>
+			<apkname>com.github.axet.audiorecorder_171.apk</apkname>
+			<srcname>com.github.axet.audiorecorder_171_src.tar.gz</srcname>
+			<hash type="sha256">84bde16616256881570050fd66445376265e3b0b995b9b913b3a9be92d71d3aa</hash>
+			<size>7773770</size>
+			<sdkver>9</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-06-30</added>
+			<sig>0cd8f927cbc7e5ad277cb91e2beeb4e2</sig>
+			<permissions>ACCESS_NOTIFICATION_POLICY,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
 		<package>
 			<version>3.0.4</version>
 			<versioncode>169</versioncode>
@@ -5785,7 +5799,7 @@
 		<source>https://github.com/btcontract/wallet</source>
 		<tracker>https://github.com/btcontract/wallet/issues</tracker>
 		<marketversion>1.075</marketversion>
-		<marketvercode>51</marketvercode>
+		<marketvercode>52</marketvercode>
 		<package>
 			<version>1.06</version>
 			<versioncode>39</versioncode>
@@ -5836,14 +5850,14 @@
 		<name>Bitcoin Wallet</name>
 		<summary>Store digital currency</summary>
 		<icon>de.schildbach.wallet.303.png</icon>
-		<desc>&lt;ul&gt;&lt;li&gt; No cloud server or web service needed: this wallet works peer to peer&lt;/li&gt;&lt;li&gt; Display of wallet balance in Bitcoin and various other currencies&lt;/li&gt;&lt;li&gt; Sending and receiving of Bitcoin via NFC, QR-codes or Bitcoin URLs&lt;/li&gt;&lt;li&gt; Address book for regularly used Bitcoin addresses&lt;/li&gt;&lt;li&gt; Enter transactions while offline, will be executed when online&lt;/li&gt;&lt;li&gt; Manages blockchain on your device&lt;/li&gt;&lt;li&gt; System notifications for Bitcoin connectivity and received coins&lt;/li&gt;&lt;li&gt; App widget for Bitcoin balance&lt;/li&gt;&lt;li&gt; Back up private keys to local storage encrypted with a password&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A few tens of MiB must be downloaded to set up the blockchain and a couple more per month subsequently to keep it updated.&lt;/p&gt;&lt;p&gt;See the &lt;a href=&quot;http://bitcoin-wallet.googlecode.com/git/wallet/README&quot;&gt;Readme&lt;/a&gt; for more details. Use this at your own risk and be wary that if you don't make a backup of the private keys you will no longer be able to acces the Bitcoins contained in the wallet, should the data of the app be lost.&lt;/p&gt;&lt;p&gt;There's a separate version of this application that uses a test version of the Bitcoin network: &lt;a href=&quot;fdroid.app:de.schildbach.wallet_test&quot;&gt;Bitcoin Wallet [testnet3]&lt;/a&gt;.&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;Have your Bitcoins always with you, in your pocket! You pay by quickly scanning a QR code. As a merchant, you receive payments reliably and instantly. Bitcoin Wallet is the first mobile Bitcoin app, and arguably also the most secure!&lt;/p&gt;&lt;ul&gt;&lt;li&gt; No registration, web service or cloud needed! This wallet is de-centralized and peer to peer.&lt;/li&gt;&lt;li&gt; Display of Bitcoin amount in BTC, mBTC and µBTC.&lt;/li&gt;&lt;li&gt; Conversion to and from national currencies.&lt;/li&gt;&lt;li&gt; Sending and receiving of Bitcoin via NFC, QR codes or Bitcoin URLs.&lt;/li&gt;&lt;li&gt; Address book for regularly used Bitcoin addresses.&lt;/li&gt;&lt;li&gt; When you're offline, you can still pay via Bluetooth.&lt;/li&gt;&lt;li&gt; System notification for received coins.&lt;/li&gt;&lt;li&gt; Sweeping of paper wallets (e.g. those used for cold storage).&lt;/li&gt;&lt;li&gt; App widget for Bitcoin balance.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;See the &lt;a href=&quot;https://raw.githubusercontent.com/bitcoin-wallet/bitcoin-wallet/master/wallet/README.md&quot;&gt;README&lt;/a&gt; for more details. Use this at your own risk and be wary that if you don't make a backup of the private keys you will no longer be able to access the Bitcoins contained in the wallet, should the data of the app be lost.&lt;/p&gt;&lt;p&gt;There's a separate version of this application that uses a test version of the Bitcoin network: &lt;a href=&quot;fdroid.app:de.schildbach.wallet_test&quot;&gt;Bitcoin Wallet [testnet3]&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;All translations are managed via the &lt;a href=&quot;https://www.transifex.com/bitcoin-wallet/bitcoin-wallet/&quot;&gt;Transifex project&lt;/a&gt;.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Money</categories>
 		<category>Money</category>
-		<web>http://wallet.schildbach.de</web>
-		<source>https://github.com/schildbach/bitcoin-wallet</source>
-		<tracker>https://github.com/schildbach/bitcoin-wallet/issues</tracker>
-		<changelog>https://raw.github.com/schildbach/bitcoin-wallet/prod/wallet/CHANGES</changelog>
+		<web>https://wallet.schildbach.de</web>
+		<source>https://github.com/bitcoin-wallet/bitcoin-wallet</source>
+		<tracker>https://github.com/bitcoin-wallet/bitcoin-wallet/issues</tracker>
+		<changelog>https://raw.github.com/bitcoin-wallet/bitcoin-wallet/prod/wallet/CHANGES</changelog>
 		<bitcoin>1HkX6X8EakdsgAysL93oKrWiXGPbFiG1xV</bitcoin>
 		<marketversion>5.24</marketversion>
 		<marketvercode>304</marketvercode>
@@ -6397,21 +6411,34 @@
 	<application id="de.schildbach.wallet_test">
 		<id>de.schildbach.wallet_test</id>
 		<added>2012-04-07</added>
-		<lastupdated>2017-06-14</lastupdated>
+		<lastupdated>2017-07-05</lastupdated>
 		<name>Bitcoin Wallet [testnet3]</name>
 		<summary>Testing version of Bitcoin</summary>
-		<icon>de.schildbach.wallet_test.303.png</icon>
-		<desc>&lt;p&gt;A bitcoin wallet, allowing you to store, send and receive bitcoins on your device, both via QR codes and NFC. When run for the first time, it can happen that the app shows only a white display for some seconds.&lt;/p&gt;&lt;p&gt;This is a test version of &lt;a href=&quot;fdroid.app:de.schildbach.wallet&quot;&gt;Bitcoin Wallet&lt;/a&gt; that uses the test Bitcoin network, not the real one.&lt;/p&gt;</desc>
+		<icon>de.schildbach.wallet_test.304.png</icon>
+		<desc>&lt;p&gt;A Bitcoin wallet, allowing you to store, send and receive Bitcoins on your device, both via QR codes and NFC. This is a test version of &lt;a href=&quot;fdroid.app:de.schildbach.wallet&quot;&gt;Bitcoin Wallet&lt;/a&gt; that uses the test Bitcoin network, not the real one.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Money</categories>
 		<category>Money</category>
-		<web>http://wallet.schildbach.de</web>
-		<source>https://github.com/schildbach/bitcoin-wallet</source>
-		<tracker>https://github.com/schildbach/bitcoin-wallet/issues</tracker>
-		<changelog>https://github.com/schildbach/bitcoin-wallet/blob/HEAD/wallet/CHANGES</changelog>
+		<web>https://wallet.schildbach.de</web>
+		<source>https://github.com/bitcoin-wallet/bitcoin-wallet</source>
+		<tracker>https://github.com/bitcoin-wallet/bitcoin-wallet/issues</tracker>
+		<changelog>https://raw.githubusercontent.com/bitcoin-wallet/bitcoin-wallet/HEAD/wallet/CHANGES</changelog>
 		<bitcoin>1HkX6X8EakdsgAysL93oKrWiXGPbFiG1xV</bitcoin>
-		<marketversion>5.24-test</marketversion>
-		<marketvercode>304</marketvercode>
+		<marketversion>5.25-test</marketversion>
+		<marketvercode>305</marketvercode>
+		<package>
+			<version>5.20-test</version>
+			<versioncode>300</versioncode>
+			<apkname>de.schildbach.wallet_test_300.apk</apkname>
+			<srcname>de.schildbach.wallet_test_300_src.tar.gz</srcname>
+			<hash type="sha256">91724dfaa7b11579918d682b6060c5b28ff32f323e2bd462ca553bbec680e0d5</hash>
+			<size>3045125</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>25</targetSdkVersion>
+			<added>2017-06-13</added>
+			<sig>e02308f5a8441a390a03b31ff9f45511</sig>
+			<permissions>ACCESS_NETWORK_STATE,BLUETOOTH,CAMERA,INTERNET,NFC,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>5.18-test</version>
 			<versioncode>298</versioncode>
@@ -9718,10 +9745,10 @@
 	<application id="com.github.axet.callrecorder">
 		<id>com.github.axet.callrecorder</id>
 		<added>2017-06-23</added>
-		<lastupdated>2017-07-02</lastupdated>
+		<lastupdated>2017-07-05</lastupdated>
 		<name>Call Recorder</name>
 		<summary>Simple call recorder, no ads, open-source</summary>
-		<icon>com.github.axet.callrecorder.72.png</icon>
+		<icon>com.github.axet.callrecorder.73.png</icon>
 		<desc>&lt;p&gt;MOST PHONES DOES NOT SUPPORT CALL RECORDING. Blame Google or your phone manufacturer not me!&lt;/p&gt;&lt;p&gt;If it fails with high quality sound recording (voice line) this app will switch back to the MIC recording, no ads, open-source, GPLv3.&lt;/p&gt;&lt;p&gt;Google knows about issue but do nothing, can read more &lt;a href=&quot;https://code.google.com/p/android/issues/detail?id=206613#c13&quot;&gt;here&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>System</categories>
@@ -9729,8 +9756,22 @@
 		<web>https://gitlab.com/axet/android-call-recorder</web>
 		<source>https://gitlab.com/axet/android-call-recorder/tree/HEAD</source>
 		<tracker>https://gitlab.com/axet/android-call-recorder/issues</tracker>
-		<marketversion>1.3.3</marketversion>
-		<marketvercode>72</marketvercode>
+		<marketversion>1.3.4</marketversion>
+		<marketvercode>73</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>66</versioncode>
+			<apkname>com.github.axet.callrecorder_66.apk</apkname>
+			<srcname>com.github.axet.callrecorder_66_src.tar.gz</srcname>
+			<hash type="sha256">2d0de7e0878f7df61c7f06837f70237933fed589bb0597150eac6c580a963f90</hash>
+			<size>7770567</size>
+			<sdkver>9</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-06-30</added>
+			<sig>fb8ca33aca9dafbee138e2f8e5f5acbd</sig>
+			<permissions>PROCESS_OUTGOING_CALLS,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WRITE_EXTERNAL_STORAGE</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
 		<package>
 			<version>1.0.2</version>
 			<versioncode>60</versioncode>
@@ -15089,62 +15130,6 @@
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,RECEIVE_BOOT_COMPLETED,com.android.browser.permission.READ_HISTORY_BOOKMARKS,com.android.browser.permission.WRITE_HISTORY_BOOKMARKS</permissions>
 		</package>
 	</application>
-	<application id="com.bec3.mobilite">
-		<id>com.bec3.mobilite</id>
-		<added>2016-06-11</added>
-		<lastupdated>2016-06-25</lastupdated>
-		<name>DioLite</name>
-		<summary>Client for BeC3</summary>
-		<icon>com.bec3.mobilite.10310.png</icon>
-		<desc>&lt;p&gt;A client for &lt;a href=&quot;https://bec3.com&quot;&gt;BeC3&lt;/a&gt;, an IoT connectivity solution. It aims to include Android devices in the IoT network.&lt;/p&gt;&lt;p&gt;SECURITY WARNING: This application uses an insecure HTTP connection to exchange login information with the server.&lt;/p&gt;</desc>
-		<license>MIT</license>
-		<categories>Development</categories>
-		<category>Development</category>
-		<web>http://bec3.com</web>
-		<source>https://framagit.org/bec3/Diolite-android</source>
-		<tracker>https://framagit.org/bec3/Diolite-android/issues</tracker>
-		<marketversion>1.3.10</marketversion>
-		<marketvercode>10310</marketvercode>
-		<package>
-			<version>1.3.7</version>
-			<versioncode>10307</versioncode>
-			<apkname>com.bec3.mobilite_10307.apk</apkname>
-			<srcname>com.bec3.mobilite_10307_src.tar.gz</srcname>
-			<hash type="sha256">5a8bea7ab8f3026969b13e9df92e6f150b65a8febea3fc9042c6ffa6aa807b5e</hash>
-			<size>6723908</size>
-			<sdkver>16</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2016-06-18</added>
-			<sig>be55630df3618334ff38da0a99af8736</sig>
-			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,INTERNET,NFC,READ_PHONE_STATE,SEND_SMS,VIBRATE</permissions>
-		</package>
-		<package>
-			<version>1.3.5</version>
-			<versioncode>10305</versioncode>
-			<apkname>com.bec3.mobilite_10305.apk</apkname>
-			<srcname>com.bec3.mobilite_10305_src.tar.gz</srcname>
-			<hash type="sha256">d44ca164e770ff0cbe305514fbbad8c947f53c3ca29af0209ef782db06a63ca2</hash>
-			<size>6723856</size>
-			<sdkver>16</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2016-06-11</added>
-			<sig>be55630df3618334ff38da0a99af8736</sig>
-			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,INTERNET,NFC,READ_PHONE_STATE,SEND_SMS,VIBRATE</permissions>
-		</package>
-		<package>
-			<version>1.3.4</version>
-			<versioncode>10304</versioncode>
-			<apkname>com.bec3.mobilite_10304.apk</apkname>
-			<srcname>com.bec3.mobilite_10304_src.tar.gz</srcname>
-			<hash type="sha256">74afa5a25404f1d61560e161c5cebecb67016c006cf1a8150511f36cb2bcf8bc</hash>
-			<size>6723797</size>
-			<sdkver>16</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2016-06-11</added>
-			<sig>be55630df3618334ff38da0a99af8736</sig>
-			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,INTERNET,NFC,READ_PHONE_STATE,SEND_SMS,VIBRATE</permissions>
-		</package>
-	</application>
 	<application id="com.bec3.diolite">
 		<id>com.bec3.diolite</id>
 		<added>2016-01-27</added>
@@ -15225,6 +15210,62 @@
 			<added>2016-01-27</added>
 			<sig>6473211fd6b0fcf8e565485d19a2cf99</sig>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,NFC,READ_PHONE_STATE,SEND_SMS,VIBRATE</permissions>
+		</package>
+	</application>
+	<application id="com.bec3.mobilite">
+		<id>com.bec3.mobilite</id>
+		<added>2016-06-11</added>
+		<lastupdated>2016-06-25</lastupdated>
+		<name>DioLite</name>
+		<summary>Client for BeC3</summary>
+		<icon>com.bec3.mobilite.10310.png</icon>
+		<desc>&lt;p&gt;A client for &lt;a href=&quot;https://bec3.com&quot;&gt;BeC3&lt;/a&gt;, an IoT connectivity solution. It aims to include Android devices in the IoT network.&lt;/p&gt;&lt;p&gt;SECURITY WARNING: This application uses an insecure HTTP connection to exchange login information with the server.&lt;/p&gt;</desc>
+		<license>MIT</license>
+		<categories>Development</categories>
+		<category>Development</category>
+		<web>http://bec3.com</web>
+		<source>https://framagit.org/bec3/Diolite-android</source>
+		<tracker>https://framagit.org/bec3/Diolite-android/issues</tracker>
+		<marketversion>1.3.10</marketversion>
+		<marketvercode>10310</marketvercode>
+		<package>
+			<version>1.3.7</version>
+			<versioncode>10307</versioncode>
+			<apkname>com.bec3.mobilite_10307.apk</apkname>
+			<srcname>com.bec3.mobilite_10307_src.tar.gz</srcname>
+			<hash type="sha256">5a8bea7ab8f3026969b13e9df92e6f150b65a8febea3fc9042c6ffa6aa807b5e</hash>
+			<size>6723908</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2016-06-18</added>
+			<sig>be55630df3618334ff38da0a99af8736</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,INTERNET,NFC,READ_PHONE_STATE,SEND_SMS,VIBRATE</permissions>
+		</package>
+		<package>
+			<version>1.3.5</version>
+			<versioncode>10305</versioncode>
+			<apkname>com.bec3.mobilite_10305.apk</apkname>
+			<srcname>com.bec3.mobilite_10305_src.tar.gz</srcname>
+			<hash type="sha256">d44ca164e770ff0cbe305514fbbad8c947f53c3ca29af0209ef782db06a63ca2</hash>
+			<size>6723856</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2016-06-11</added>
+			<sig>be55630df3618334ff38da0a99af8736</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,INTERNET,NFC,READ_PHONE_STATE,SEND_SMS,VIBRATE</permissions>
+		</package>
+		<package>
+			<version>1.3.4</version>
+			<versioncode>10304</versioncode>
+			<apkname>com.bec3.mobilite_10304.apk</apkname>
+			<srcname>com.bec3.mobilite_10304_src.tar.gz</srcname>
+			<hash type="sha256">74afa5a25404f1d61560e161c5cebecb67016c006cf1a8150511f36cb2bcf8bc</hash>
+			<size>6723797</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2016-06-11</added>
+			<sig>be55630df3618334ff38da0a99af8736</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,INTERNET,NFC,READ_PHONE_STATE,SEND_SMS,VIBRATE</permissions>
 		</package>
 	</application>
 	<application id="com.google.android.diskusage">
@@ -24252,10 +24293,10 @@
 	<application id="com.simplemobiletools.gallery">
 		<id>com.simplemobiletools.gallery</id>
 		<added>2016-07-04</added>
-		<lastupdated>2017-07-02</lastupdated>
+		<lastupdated>2017-07-05</lastupdated>
 		<name>Gallery</name>
 		<summary>A gallery for viewing photos and videos</summary>
-		<icon>com.simplemobiletools.gallery.116.png</icon>
+		<icon>com.simplemobiletools.gallery.117.png</icon>
 		<desc>&lt;p&gt;A simple tool usable for viewing photos and videos. Items can be sorted by date, size, name both ascending or descending, photos can be zoomed in. Media files are shown in multiple columns, depending on the size of the display. They can be renamed, shared or deleted.&lt;/p&gt;&lt;p&gt;The Gallery is also offered for third party usage for previewing images / videos, adding attachments at email clients etc. It's perfect for everyday usage.&lt;/p&gt;&lt;p&gt;Contains no ads or unnecessary permissions. It is fully opensource, provides a Dark theme too.&lt;/p&gt;</desc>
 		<license>Apache-2.0</license>
 		<categories>Multimedia</categories>
@@ -24264,8 +24305,21 @@
 		<source>https://github.com/SimpleMobileTools/Simple-Gallery</source>
 		<tracker>https://github.com/SimpleMobileTools/Simple-Gallery/issues</tracker>
 		<changelog>https://github.com/SimpleMobileTools/Simple-Gallery/blob/HEAD/CHANGELOG.md</changelog>
-		<marketversion>2.12.0</marketversion>
-		<marketvercode>116</marketvercode>
+		<marketversion>2.12.1</marketversion>
+		<marketvercode>117</marketvercode>
+		<package>
+			<version>2.11.4</version>
+			<versioncode>114</versioncode>
+			<apkname>com.simplemobiletools.gallery_114.apk</apkname>
+			<srcname>com.simplemobiletools.gallery_114_src.tar.gz</srcname>
+			<hash type="sha256">5f2fa46c984a9b70096e717d59a46e1abd5be65306e14634aaae51133a61df1b</hash>
+			<size>2650293</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-06-27</added>
+			<sig>5ecf5b77af3a414b715dc7a334fb6b8a</sig>
+			<permissions>READ_EXTERNAL_STORAGE,SET_WALLPAPER,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>2.11.1</version>
 			<versioncode>111</versioncode>
@@ -27692,10 +27746,10 @@
 	<application id="com.github.axet.hourlyreminder">
 		<id>com.github.axet.hourlyreminder</id>
 		<added>2017-04-17</added>
-		<lastupdated>2017-07-01</lastupdated>
+		<lastupdated>2017-07-05</lastupdated>
 		<name>Hourly Reminder</name>
 		<summary>Remind you about hours passed</summary>
-		<icon>com.github.axet.hourlyreminder.301.png</icon>
+		<icon>com.github.axet.hourlyreminder.302.png</icon>
 		<desc>&lt;p&gt;Never miss an alarm: This app reminds you about hours passed. Application will pronounce current time on user specified hours. You can choice alarm types: beep, speech or custom wav/ogg files.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Multimedia</categories>
@@ -27703,8 +27757,21 @@
 		<web>https://gitlab.com/axet/android-hourly-reminder</web>
 		<source>https://gitlab.com/axet/android-hourly-reminder/tree/HEAD</source>
 		<tracker>https://gitlab.com/axet/android-hourly-reminder/issues</tracker>
-		<marketversion>3.0.49</marketversion>
-		<marketvercode>301</marketvercode>
+		<marketversion>3.0.50</marketversion>
+		<marketvercode>302</marketvercode>
+		<package>
+			<version>3.0.45</version>
+			<versioncode>297</versioncode>
+			<apkname>com.github.axet.hourlyreminder_297.apk</apkname>
+			<srcname>com.github.axet.hourlyreminder_297_src.tar.gz</srcname>
+			<hash type="sha256">5804590fc4114110c2e3af7fad220ad240fdbba16e7b1de25939fbb8984b4b8e</hash>
+			<size>2902557</size>
+			<sdkver>9</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-06-26</added>
+			<sig>e6f53f50f02827c928be94f9fb89920a</sig>
+			<permissions>READ_EXTERNAL_STORAGE,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,VIBRATE,WAKE_LOCK</permissions>
+		</package>
 		<package>
 			<version>3.0.43</version>
 			<versioncode>295</versioncode>
@@ -33443,10 +33510,10 @@
 	<application id="com.github.axet.mover">
 		<id>com.github.axet.mover</id>
 		<added>2017-06-23</added>
-		<lastupdated>2017-07-01</lastupdated>
+		<lastupdated>2017-07-05</lastupdated>
 		<name>Media Merger</name>
 		<summary>Merge media files, open-source</summary>
-		<icon>com.github.axet.mover.70.png</icon>
+		<icon>com.github.axet.mover.71.png</icon>
 		<desc>&lt;p&gt;Utitily moves /sdcard/DCIM/* and /sdcard/Pictures/Screenshots to user specified folder.&lt;/p&gt;&lt;p&gt;Android friendly. Application waits for event from ContentObserver, and only then scan for new files, no ads, open-source, GPLv3.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>System</categories>
@@ -33454,8 +33521,21 @@
 		<web>https://gitlab.com/axet/android-media-merger</web>
 		<source>https://gitlab.com/axet/android-media-merger/tree/HEAD</source>
 		<tracker>https://gitlab.com/axet/android-media-merger/issues</tracker>
-		<marketversion>1.2.56</marketversion>
-		<marketvercode>70</marketvercode>
+		<marketversion>1.2.57</marketversion>
+		<marketvercode>71</marketvercode>
+		<package>
+			<version>1.2.52</version>
+			<versioncode>66</versioncode>
+			<apkname>com.github.axet.mover_66.apk</apkname>
+			<srcname>com.github.axet.mover_66_src.tar.gz</srcname>
+			<hash type="sha256">733a3b4f0896d6b559a02bb8404fdaff91798d2c9aa36dbfe0e9d36a25ac1cec</hash>
+			<size>2744539</size>
+			<sdkver>9</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-06-28</added>
+			<sig>66b1ad7bbced758ed151f577317ef122</sig>
+			<permissions>READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>1.2.46</version>
 			<versioncode>60</versioncode>
@@ -39415,8 +39495,8 @@
 		<source>https://github.com/FengMoeTeam/NHentai-android</source>
 		<tracker>https://github.com/FengMoeTeam/NHentai-android/issues</tracker>
 		<changelog>https://github.com/FengMoeTeam/NHentai-android/releases</changelog>
-		<marketversion>1.8.3</marketversion>
-		<marketvercode>35</marketvercode>
+		<marketversion>1.8.4</marketversion>
+		<marketvercode>36</marketvercode>
 		<package>
 			<version>1.6.3</version>
 			<versioncode>30</versioncode>
@@ -39632,6 +39712,151 @@
 			<added>2017-03-17</added>
 			<sig>2c68e379af8fb106952393023ebaca37</sig>
 			<permissions>GET_ACCOUNTS,READ_CONTACTS,READ_PROFILE</permissions>
+		</package>
+	</application>
+	<application id="it.niedermann.owncloud.notes">
+		<id>it.niedermann.owncloud.notes</id>
+		<added>2016-01-29</added>
+		<lastupdated>2017-05-10</lastupdated>
+		<name>Notes</name>
+		<summary>View and edit notes on Nextcloud</summary>
+		<icon>it.niedermann.owncloud.notes.16.png</icon>
+		<desc>&lt;p&gt;Companion app to Nextcloud Notes.&lt;/p&gt;&lt;p&gt;Features&lt;/p&gt;&lt;ul&gt;&lt;li&gt; List, create, edit, share, search and delete notes&lt;/li&gt;&lt;li&gt; Share text and links as new note into the app&lt;/li&gt;&lt;li&gt; Mark notes as favorite&lt;/li&gt;&lt;li&gt; Bulk delete&lt;/li&gt;&lt;li&gt; Render MarkDown (using RxMarkdown)&lt;/li&gt;&lt;li&gt; English, German, Russian, Armenian, French and Serbian UI&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Requirements&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Nextcloud instance running&lt;/li&gt;&lt;li&gt; Nextcloud Notes app enabled&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Alternatives&lt;/p&gt;&lt;p&gt;If you dislike this app and you are looking for alternatives: Have a look at &lt;a href=&quot;fdroid.app:org.aykit.MyOwnNotes&quot;&gt;MyOwnNotes&lt;/a&gt;.&lt;/p&gt;</desc>
+		<license>GPL-3.0+</license>
+		<categories>Writing,Internet</categories>
+		<category>Writing</category>
+		<web>http://www.niedermann.it</web>
+		<source>https://github.com/stefan-niedermann/nextcloud-notes</source>
+		<tracker>https://github.com/stefan-niedermann/nextcloud-notes/issues</tracker>
+		<changelog>https://github.com/stefan-niedermann/nextcloud-notes/releases</changelog>
+		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=K7HVLE6J7SXXA</donate>
+		<marketversion>0.11.0</marketversion>
+		<marketvercode>16</marketvercode>
+		<package>
+			<version>0.8.1</version>
+			<versioncode>13</versioncode>
+			<apkname>it.niedermann.owncloud.notes_13.apk</apkname>
+			<srcname>it.niedermann.owncloud.notes_13_src.tar.gz</srcname>
+			<hash type="sha256">a01aa452cef4e0b63806f6a4bfa1ddcb216d5b4d732df493f50be33d7df8b0a8</hash>
+			<size>3329947</size>
+			<sdkver>11</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2016-03-30</added>
+			<sig>f1fe3efad6cc4b05eafe00e339f706f7</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,USE_CREDENTIALS</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>0.8.0</version>
+			<versioncode>12</versioncode>
+			<apkname>it.niedermann.owncloud.notes_12.apk</apkname>
+			<srcname>it.niedermann.owncloud.notes_12_src.tar.gz</srcname>
+			<hash type="sha256">386aa5c6fb35936a98c2e6a929653dfcebf227d9da770348d8930398e7f2d293</hash>
+			<size>3329667</size>
+			<sdkver>11</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2016-03-26</added>
+			<sig>f1fe3efad6cc4b05eafe00e339f706f7</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,USE_CREDENTIALS</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>0.7.2</version>
+			<versioncode>11</versioncode>
+			<apkname>it.niedermann.owncloud.notes_11.apk</apkname>
+			<srcname>it.niedermann.owncloud.notes_11_src.tar.gz</srcname>
+			<hash type="sha256">37ac91ad56a287ab0c6758dbacb5e0180973326277c6ddcc9a22b4a28df37121</hash>
+			<size>3329711</size>
+			<sdkver>11</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2016-03-11</added>
+			<sig>f1fe3efad6cc4b05eafe00e339f706f7</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,USE_CREDENTIALS</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>0.7.1</version>
+			<versioncode>10</versioncode>
+			<apkname>it.niedermann.owncloud.notes_10.apk</apkname>
+			<srcname>it.niedermann.owncloud.notes_10_src.tar.gz</srcname>
+			<hash type="sha256">ca16131f7da4fe1a17a0316b12497002286af9b688de2b33fc8a1257264922d7</hash>
+			<size>3329660</size>
+			<sdkver>11</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2016-03-10</added>
+			<sig>f1fe3efad6cc4b05eafe00e339f706f7</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,USE_CREDENTIALS</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>0.7.0</version>
+			<versioncode>9</versioncode>
+			<apkname>it.niedermann.owncloud.notes_9.apk</apkname>
+			<srcname>it.niedermann.owncloud.notes_9_src.tar.gz</srcname>
+			<hash type="sha256">2d5c7a1a385aeb309c5b74d9bd7a0338f9629bd5b121316da56af190669a9775</hash>
+			<size>3328672</size>
+			<sdkver>11</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2016-02-10</added>
+			<sig>f1fe3efad6cc4b05eafe00e339f706f7</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,USE_CREDENTIALS</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>0.6.0</version>
+			<versioncode>8</versioncode>
+			<apkname>it.niedermann.owncloud.notes_8.apk</apkname>
+			<srcname>it.niedermann.owncloud.notes_8_src.tar.gz</srcname>
+			<hash type="sha256">9f4a185e861854aa1158c24e494c8baa147925f3d1b994b4c119e11673e5f63c</hash>
+			<size>3329797</size>
+			<sdkver>10</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2016-02-02</added>
+			<sig>f1fe3efad6cc4b05eafe00e339f706f7</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,USE_CREDENTIALS</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>0.5.2</version>
+			<versioncode>7</versioncode>
+			<apkname>it.niedermann.owncloud.notes_7.apk</apkname>
+			<srcname>it.niedermann.owncloud.notes_7_src.tar.gz</srcname>
+			<hash type="sha256">4c3e0ee554da408e4241ed6d00dde86276c65839d603f25173eaabecc037b071</hash>
+			<size>3325115</size>
+			<sdkver>10</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2016-01-31</added>
+			<sig>f1fe3efad6cc4b05eafe00e339f706f7</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,USE_CREDENTIALS</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>0.5.0</version>
+			<versioncode>5</versioncode>
+			<apkname>it.niedermann.owncloud.notes_5.apk</apkname>
+			<srcname>it.niedermann.owncloud.notes_5_src.tar.gz</srcname>
+			<hash type="sha256">729692edb06aa6385b2ea3b06f4cb0e21da41ceef3220abe13e669e55bf0ed8b</hash>
+			<size>3227928</size>
+			<sdkver>22</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2016-01-30</added>
+			<sig>f1fe3efad6cc4b05eafe00e339f706f7</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,USE_CREDENTIALS</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>0.4.0</version>
+			<versioncode>4</versioncode>
+			<apkname>it.niedermann.owncloud.notes_4.apk</apkname>
+			<srcname>it.niedermann.owncloud.notes_4_src.tar.gz</srcname>
+			<hash type="sha256">db19c33613279fe27c96ea7c2809dd7fb5b60f38bd9053cbe14fed993d625395</hash>
+			<size>2981619</size>
+			<sdkver>22</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2016-01-29</added>
+			<sig>f1fe3efad6cc4b05eafe00e339f706f7</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,USE_CREDENTIALS</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
 		</package>
 	</application>
 	<application id="com.simplemobiletools.notes">
@@ -39918,151 +40143,6 @@
 			<targetSdkVersion>23</targetSdkVersion>
 			<added>2016-07-09</added>
 			<sig>ea6cd367d00a56cedf1169f1335f6044</sig>
-		</package>
-	</application>
-	<application id="it.niedermann.owncloud.notes">
-		<id>it.niedermann.owncloud.notes</id>
-		<added>2016-01-29</added>
-		<lastupdated>2017-05-10</lastupdated>
-		<name>Notes</name>
-		<summary>View and edit notes on Nextcloud</summary>
-		<icon>it.niedermann.owncloud.notes.16.png</icon>
-		<desc>&lt;p&gt;Companion app to Nextcloud Notes.&lt;/p&gt;&lt;p&gt;Features&lt;/p&gt;&lt;ul&gt;&lt;li&gt; List, create, edit, share, search and delete notes&lt;/li&gt;&lt;li&gt; Share text and links as new note into the app&lt;/li&gt;&lt;li&gt; Mark notes as favorite&lt;/li&gt;&lt;li&gt; Bulk delete&lt;/li&gt;&lt;li&gt; Render MarkDown (using RxMarkdown)&lt;/li&gt;&lt;li&gt; English, German, Russian, Armenian, French and Serbian UI&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Requirements&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Nextcloud instance running&lt;/li&gt;&lt;li&gt; Nextcloud Notes app enabled&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Alternatives&lt;/p&gt;&lt;p&gt;If you dislike this app and you are looking for alternatives: Have a look at &lt;a href=&quot;fdroid.app:org.aykit.MyOwnNotes&quot;&gt;MyOwnNotes&lt;/a&gt;.&lt;/p&gt;</desc>
-		<license>GPL-3.0+</license>
-		<categories>Writing,Internet</categories>
-		<category>Writing</category>
-		<web>http://www.niedermann.it</web>
-		<source>https://github.com/stefan-niedermann/nextcloud-notes</source>
-		<tracker>https://github.com/stefan-niedermann/nextcloud-notes/issues</tracker>
-		<changelog>https://github.com/stefan-niedermann/nextcloud-notes/releases</changelog>
-		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=K7HVLE6J7SXXA</donate>
-		<marketversion>0.11.0</marketversion>
-		<marketvercode>16</marketvercode>
-		<package>
-			<version>0.8.1</version>
-			<versioncode>13</versioncode>
-			<apkname>it.niedermann.owncloud.notes_13.apk</apkname>
-			<srcname>it.niedermann.owncloud.notes_13_src.tar.gz</srcname>
-			<hash type="sha256">a01aa452cef4e0b63806f6a4bfa1ddcb216d5b4d732df493f50be33d7df8b0a8</hash>
-			<size>3329947</size>
-			<sdkver>11</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2016-03-30</added>
-			<sig>f1fe3efad6cc4b05eafe00e339f706f7</sig>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET,USE_CREDENTIALS</permissions>
-			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
-		</package>
-		<package>
-			<version>0.8.0</version>
-			<versioncode>12</versioncode>
-			<apkname>it.niedermann.owncloud.notes_12.apk</apkname>
-			<srcname>it.niedermann.owncloud.notes_12_src.tar.gz</srcname>
-			<hash type="sha256">386aa5c6fb35936a98c2e6a929653dfcebf227d9da770348d8930398e7f2d293</hash>
-			<size>3329667</size>
-			<sdkver>11</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2016-03-26</added>
-			<sig>f1fe3efad6cc4b05eafe00e339f706f7</sig>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET,USE_CREDENTIALS</permissions>
-			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
-		</package>
-		<package>
-			<version>0.7.2</version>
-			<versioncode>11</versioncode>
-			<apkname>it.niedermann.owncloud.notes_11.apk</apkname>
-			<srcname>it.niedermann.owncloud.notes_11_src.tar.gz</srcname>
-			<hash type="sha256">37ac91ad56a287ab0c6758dbacb5e0180973326277c6ddcc9a22b4a28df37121</hash>
-			<size>3329711</size>
-			<sdkver>11</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2016-03-11</added>
-			<sig>f1fe3efad6cc4b05eafe00e339f706f7</sig>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET,USE_CREDENTIALS</permissions>
-			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
-		</package>
-		<package>
-			<version>0.7.1</version>
-			<versioncode>10</versioncode>
-			<apkname>it.niedermann.owncloud.notes_10.apk</apkname>
-			<srcname>it.niedermann.owncloud.notes_10_src.tar.gz</srcname>
-			<hash type="sha256">ca16131f7da4fe1a17a0316b12497002286af9b688de2b33fc8a1257264922d7</hash>
-			<size>3329660</size>
-			<sdkver>11</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2016-03-10</added>
-			<sig>f1fe3efad6cc4b05eafe00e339f706f7</sig>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET,USE_CREDENTIALS</permissions>
-			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
-		</package>
-		<package>
-			<version>0.7.0</version>
-			<versioncode>9</versioncode>
-			<apkname>it.niedermann.owncloud.notes_9.apk</apkname>
-			<srcname>it.niedermann.owncloud.notes_9_src.tar.gz</srcname>
-			<hash type="sha256">2d5c7a1a385aeb309c5b74d9bd7a0338f9629bd5b121316da56af190669a9775</hash>
-			<size>3328672</size>
-			<sdkver>11</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2016-02-10</added>
-			<sig>f1fe3efad6cc4b05eafe00e339f706f7</sig>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET,USE_CREDENTIALS</permissions>
-			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
-		</package>
-		<package>
-			<version>0.6.0</version>
-			<versioncode>8</versioncode>
-			<apkname>it.niedermann.owncloud.notes_8.apk</apkname>
-			<srcname>it.niedermann.owncloud.notes_8_src.tar.gz</srcname>
-			<hash type="sha256">9f4a185e861854aa1158c24e494c8baa147925f3d1b994b4c119e11673e5f63c</hash>
-			<size>3329797</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2016-02-02</added>
-			<sig>f1fe3efad6cc4b05eafe00e339f706f7</sig>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET,USE_CREDENTIALS</permissions>
-			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
-		</package>
-		<package>
-			<version>0.5.2</version>
-			<versioncode>7</versioncode>
-			<apkname>it.niedermann.owncloud.notes_7.apk</apkname>
-			<srcname>it.niedermann.owncloud.notes_7_src.tar.gz</srcname>
-			<hash type="sha256">4c3e0ee554da408e4241ed6d00dde86276c65839d603f25173eaabecc037b071</hash>
-			<size>3325115</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2016-01-31</added>
-			<sig>f1fe3efad6cc4b05eafe00e339f706f7</sig>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET,USE_CREDENTIALS</permissions>
-			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
-		</package>
-		<package>
-			<version>0.5.0</version>
-			<versioncode>5</versioncode>
-			<apkname>it.niedermann.owncloud.notes_5.apk</apkname>
-			<srcname>it.niedermann.owncloud.notes_5_src.tar.gz</srcname>
-			<hash type="sha256">729692edb06aa6385b2ea3b06f4cb0e21da41ceef3220abe13e669e55bf0ed8b</hash>
-			<size>3227928</size>
-			<sdkver>22</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2016-01-30</added>
-			<sig>f1fe3efad6cc4b05eafe00e339f706f7</sig>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET,USE_CREDENTIALS</permissions>
-			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
-		</package>
-		<package>
-			<version>0.4.0</version>
-			<versioncode>4</versioncode>
-			<apkname>it.niedermann.owncloud.notes_4.apk</apkname>
-			<srcname>it.niedermann.owncloud.notes_4_src.tar.gz</srcname>
-			<hash type="sha256">db19c33613279fe27c96ea7c2809dd7fb5b60f38bd9053cbe14fed993d625395</hash>
-			<size>2981619</size>
-			<sdkver>22</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2016-01-29</added>
-			<sig>f1fe3efad6cc4b05eafe00e339f706f7</sig>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET,USE_CREDENTIALS</permissions>
-			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
 		</package>
 	</application>
 	<application id="com.khuttun.notificationnotes">
@@ -42616,10 +42696,10 @@
 	<application id="com.benny.openlauncher">
 		<id>com.benny.openlauncher</id>
 		<added>2017-03-21</added>
-		<lastupdated>2017-06-28</lastupdated>
+		<lastupdated>2017-07-05</lastupdated>
 		<name>OpenLauncher</name>
 		<summary>Launch applications and manage homescreen</summary>
-		<icon>com.benny.openlauncher.23.png</icon>
+		<icon>com.benny.openlauncher.24.png</icon>
 		<desc>&lt;p&gt;Launcher that aims to be a powerful and community driven project.&lt;/p&gt;</desc>
 		<license>Apache-2.0</license>
 		<categories>System</categories>
@@ -42628,8 +42708,22 @@
 		<source>https://github.com/OpenLauncherTeam/openlauncher</source>
 		<tracker>https://github.com/OpenLauncherTeam/openlauncher/issues</tracker>
 		<changelog>https://github.com/OpenLauncherTeam/openlauncher/blob/HEAD/CHANGELOG.md</changelog>
-		<marketversion>0.5.2</marketversion>
-		<marketvercode>23</marketvercode>
+		<marketversion>0.5.3</marketversion>
+		<marketvercode>24</marketvercode>
+		<package>
+			<version>0.5.0</version>
+			<versioncode>21</versioncode>
+			<apkname>com.benny.openlauncher_21.apk</apkname>
+			<srcname>com.benny.openlauncher_21_src.tar.gz</srcname>
+			<hash type="sha256">b4a184ff9c24fcc2ec966e66477103fb4b00a404dd898aaf75a143177102d86f</hash>
+			<size>3857906</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>25</targetSdkVersion>
+			<added>2017-05-17</added>
+			<sig>3b24fa095f6f38103efc25b2c114bf81</sig>
+			<permissions>INTERNET,KILL_BACKGROUND_PROCESSES,READ_EXTERNAL_STORAGE,SET_WALLPAPER,WRITE_EXTERNAL_STORAGE</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
 		<package>
 			<version>0.4.0</version>
 			<versioncode>20</versioncode>
@@ -44059,6 +44153,194 @@
 			<added>2015-12-05</added>
 			<sig>7a2b73a14604b9707f378c6ecdc2f3af</sig>
 			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,BROADCAST_STICKY,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,USE_CREDENTIALS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,WRITE_SYNC_SETTINGS</permissions>
+		</package>
+	</application>
+	<application id="com.owncloud.android.beta">
+		<id>com.owncloud.android.beta</id>
+		<added>2015-11-29</added>
+		<lastupdated>2017-07-05</lastupdated>
+		<name>ownCloud Beta</name>
+		<summary>Synchronization client</summary>
+		<icon>com.owncloud.android.beta.20400000.png</icon>
+		<desc>&lt;p&gt;ownCloud beta is a beta version of the official ownCloud app and includes brand-new, untested features which might lead to instabilities and data loss. The app is designed for users willing to test the new features and to report bugs if they occur. Do not use it for your productive work!&lt;/p&gt;&lt;p&gt;The beta can be installed alongside the official ownCloud app which is available at F-Droid, too.&lt;/p&gt;</desc>
+		<license>GPL-2.0</license>
+		<categories>Internet</categories>
+		<category>Internet</category>
+		<web>https://owncloud.org</web>
+		<source>https://github.com/owncloud/android/</source>
+		<tracker>https://github.com/owncloud/android/issues</tracker>
+		<changelog>https://github.com/owncloud/android/blob/beta/CHANGELOG.md</changelog>
+		<donate>https://www.bountysource.com/teams/owncloud</donate>
+		<marketversion>2.5.0-beta.1</marketversion>
+		<marketvercode>20400000</marketvercode>
+		<package>
+			<version>20160410</version>
+			<versioncode>20160410</versioncode>
+			<apkname>com.owncloud.android.beta_20160410.apk</apkname>
+			<srcname>com.owncloud.android.beta_20160410_src.tar.gz</srcname>
+			<hash type="sha256">0417cbfdd82424fe554fe1307991083cb1cc6a4bbbfba3fab4e5384e3ff13201</hash>
+			<size>5018500</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2016-04-11</added>
+			<sig>aa41a8d13a15cc0f5706242e68bf9d58</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,BROADCAST_STICKY,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,MANAGE_DOCUMENTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,USE_CREDENTIALS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS</permissions>
+		</package>
+		<package>
+			<version>20160120</version>
+			<versioncode>20160120</versioncode>
+			<apkname>com.owncloud.android.beta_20160120.apk</apkname>
+			<srcname>com.owncloud.android.beta_20160120_src.tar.gz</srcname>
+			<hash type="sha256">809d63b1f7d34ad21d3b30a7ff81ade2e36b5228d523b7159638a9bfa606eb4c</hash>
+			<size>4906757</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2016-01-21</added>
+			<sig>aa41a8d13a15cc0f5706242e68bf9d58</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,BROADCAST_STICKY,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,USE_CREDENTIALS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,WRITE_SYNC_SETTINGS</permissions>
+		</package>
+		<package>
+			<version>20160109</version>
+			<versioncode>20160109</versioncode>
+			<apkname>com.owncloud.android.beta_20160109.apk</apkname>
+			<srcname>com.owncloud.android.beta_20160109_src.tar.gz</srcname>
+			<hash type="sha256">4d9f482221b369e83223450c86e6d4170e7e63faed4912a24298474a6848c5ba</hash>
+			<size>4885447</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2016-01-10</added>
+			<sig>aa41a8d13a15cc0f5706242e68bf9d58</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,BROADCAST_STICKY,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,USE_CREDENTIALS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,WRITE_SYNC_SETTINGS</permissions>
+		</package>
+		<package>
+			<version>20160103</version>
+			<versioncode>20160103</versioncode>
+			<apkname>com.owncloud.android.beta_20160103.apk</apkname>
+			<srcname>com.owncloud.android.beta_20160103_src.tar.gz</srcname>
+			<hash type="sha256">4f7059e2165278c0d557238ebbd85016d85efe65001e78db146bd991add4c413</hash>
+			<size>4855012</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2016-01-04</added>
+			<sig>aa41a8d13a15cc0f5706242e68bf9d58</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,BROADCAST_STICKY,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,USE_CREDENTIALS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,WRITE_SYNC_SETTINGS</permissions>
+		</package>
+		<package>
+			<version>20151226</version>
+			<versioncode>20151226</versioncode>
+			<apkname>com.owncloud.android.beta_20151226.apk</apkname>
+			<srcname>com.owncloud.android.beta_20151226_src.tar.gz</srcname>
+			<hash type="sha256">8962398e75dae1f5ae0f4f8a2df80ce5f36f29f286355d937fd1a3b1e15a4ac9</hash>
+			<size>4601492</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2015-12-27</added>
+			<sig>aa41a8d13a15cc0f5706242e68bf9d58</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,BROADCAST_STICKY,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,USE_CREDENTIALS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,WRITE_SYNC_SETTINGS</permissions>
+		</package>
+		<package>
+			<version>20151222</version>
+			<versioncode>20151222</versioncode>
+			<apkname>com.owncloud.android.beta_20151222.apk</apkname>
+			<srcname>com.owncloud.android.beta_20151222_src.tar.gz</srcname>
+			<hash type="sha256">8fe1f50592587de8406d79e180179f3048f8880da63664d07075264ce52d2167</hash>
+			<size>4601045</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2015-12-23</added>
+			<sig>aa41a8d13a15cc0f5706242e68bf9d58</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,BROADCAST_STICKY,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,USE_CREDENTIALS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,WRITE_SYNC_SETTINGS</permissions>
+		</package>
+		<package>
+			<version>20151220</version>
+			<versioncode>20151220</versioncode>
+			<apkname>com.owncloud.android.beta_20151220.apk</apkname>
+			<srcname>com.owncloud.android.beta_20151220_src.tar.gz</srcname>
+			<hash type="sha256">11483541569a3143c80c877b695412917c16458a3d531144165a443f1da8413d</hash>
+			<size>4600988</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2015-12-21</added>
+			<sig>aa41a8d13a15cc0f5706242e68bf9d58</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,BROADCAST_STICKY,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,USE_CREDENTIALS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,WRITE_SYNC_SETTINGS</permissions>
+		</package>
+		<package>
+			<version>20151213</version>
+			<versioncode>20151213</versioncode>
+			<apkname>com.owncloud.android.beta_20151213.apk</apkname>
+			<srcname>com.owncloud.android.beta_20151213_src.tar.gz</srcname>
+			<hash type="sha256">746b0789519f6e379de48c4d2c4a9030d3d9f2ecfe8717ee9ecc7e15b4d95032</hash>
+			<size>4602801</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2015-12-14</added>
+			<sig>aa41a8d13a15cc0f5706242e68bf9d58</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,BROADCAST_STICKY,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,USE_CREDENTIALS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,WRITE_SYNC_SETTINGS</permissions>
+		</package>
+		<package>
+			<version>20151202</version>
+			<versioncode>20151202</versioncode>
+			<apkname>com.owncloud.android.beta_20151202.apk</apkname>
+			<srcname>com.owncloud.android.beta_20151202_src.tar.gz</srcname>
+			<hash type="sha256">800565cfbeecd2dca0aadd058c50bac837d35d13e94fbed13ea1d1b750aafa62</hash>
+			<size>4584154</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2015-12-03</added>
+			<sig>aa41a8d13a15cc0f5706242e68bf9d58</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,BROADCAST_STICKY,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,USE_CREDENTIALS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,WRITE_SYNC_SETTINGS</permissions>
+		</package>
+		<package>
+			<version>20151130</version>
+			<versioncode>20151130</versioncode>
+			<apkname>com.owncloud.android.beta_20151130.apk</apkname>
+			<srcname>com.owncloud.android.beta_20151130_src.tar.gz</srcname>
+			<hash type="sha256">b48429e20910ee2e9c11bf4a5a81db4ce2be5010c7063a5ea12c0e28992a64c7</hash>
+			<size>4575097</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2015-12-01</added>
+			<sig>aa41a8d13a15cc0f5706242e68bf9d58</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,BROADCAST_STICKY,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,USE_CREDENTIALS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,WRITE_SYNC_SETTINGS</permissions>
+		</package>
+		<package>
+			<version>20151129</version>
+			<versioncode>20151129</versioncode>
+			<apkname>com.owncloud.android.beta_20151129.apk</apkname>
+			<srcname>com.owncloud.android.beta_20151129_src.tar.gz</srcname>
+			<hash type="sha256">5dd91cd8f846e64765fc63d53bd53f7f29190927fe45c22e6fb4f34253d4173b</hash>
+			<size>4575104</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2015-12-01</added>
+			<sig>aa41a8d13a15cc0f5706242e68bf9d58</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,BROADCAST_STICKY,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,USE_CREDENTIALS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,WRITE_SYNC_SETTINGS</permissions>
+		</package>
+		<package>
+			<version>ownCloud beta</version>
+			<versioncode>20151128</versioncode>
+			<apkname>com.owncloud.android.beta_20151128.apk</apkname>
+			<srcname>com.owncloud.android.beta_20151128_src.tar.gz</srcname>
+			<hash type="sha256">558a107a75690200b1938fb9ddb96162bb4723af10763257191b5b6e6d50c5e1</hash>
+			<size>4461058</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>22</targetSdkVersion>
+			<added>2015-11-29</added>
+			<sig>aa41a8d13a15cc0f5706242e68bf9d58</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,BROADCAST_STICKY,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,USE_CREDENTIALS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,WRITE_SYNC_SETTINGS</permissions>
+		</package>
+		<package>
+			<version>ownCloud beta</version>
+			<versioncode>20151125</versioncode>
+			<apkname>com.owncloud.android.beta_20151125.apk</apkname>
+			<srcname>com.owncloud.android.beta_20151125_src.tar.gz</srcname>
+			<hash type="sha256">4dec63044077e4901c86deece0ceccb64cb484ba61dd5fa1f9371df08392eb7f</hash>
+			<size>4435708</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>22</targetSdkVersion>
+			<added>2015-11-29</added>
+			<sig>aa41a8d13a15cc0f5706242e68bf9d58</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,BROADCAST_STICKY,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,USE_CREDENTIALS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,WRITE_SYNC_SETTINGS</permissions>
 		</package>
 	</application>
 	<application id="com.nbossard.packlist">
@@ -45997,6 +46279,36 @@
 			<added>2016-02-26</added>
 			<sig>87739d4671a997a8f1d78ea9476a9a54</sig>
 			<permissions>RECEIVE_BOOT_COMPLETED,WAKE_LOCK</permissions>
+		</package>
+	</application>
+	<application id="link.standen.michael.phonesaver">
+		<id>link.standen.michael.phonesaver</id>
+		<added>2017-06-27</added>
+		<lastupdated>2017-07-05</lastupdated>
+		<name>Phone Saver</name>
+		<summary>Save files via Share menu</summary>
+		<icon>link.standen.michael.phonesaver.11.png</icon>
+		<desc>&lt;p&gt;Ever hit that share button and really wanted to just store the file on your phone? That meme that you send to your friends that would be great in your reaction image folder. That screenshot of that Snapchat that you want to hide in a secret folder.&lt;/p&gt;&lt;p&gt;Well look no further!&lt;/p&gt;&lt;p&gt;Set up any number of locations on your mobile, and save to them with a single click when using Android's share feature.&lt;/p&gt;</desc>
+		<license>MIT</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web>https://github.com/ScreamingHawk/phone-saver/blob/HEAD/README.md</web>
+		<source>https://github.com/ScreamingHawk/phone-saver</source>
+		<tracker>https://github.com/ScreamingHawk/phone-saver/issues</tracker>
+		<marketversion>2.0</marketversion>
+		<marketvercode>11</marketvercode>
+		<package>
+			<version>1.6</version>
+			<versioncode>7</versioncode>
+			<apkname>link.standen.michael.phonesaver_7.apk</apkname>
+			<srcname>link.standen.michael.phonesaver_7_src.tar.gz</srcname>
+			<hash type="sha256">56811254520538aa35cd0fc33d18b92055a58b8608264438f94ea6dd88337063</hash>
+			<size>2381790</size>
+			<sdkver>15</sdkver>
+			<targetSdkVersion>25</targetSdkVersion>
+			<added>2017-06-27</added>
+			<sig>08762a9c9331fee2e3bd6cd897486764</sig>
+			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="fr.s13d.photobackup">
@@ -49393,6 +49705,75 @@
 			<permissions>CAMERA</permissions>
 		</package>
 	</application>
+	<application id="com.hughes.android.dictionary">
+		<id>com.hughes.android.dictionary</id>
+		<added>2012-01-29</added>
+		<lastupdated>2012-05-28</lastupdated>
+		<name>QuickDic</name>
+		<summary>Offline translation dictionary</summary>
+		<icon>com.hughes.android.dictionary.21.png</icon>
+		<desc>&lt;p&gt;Uses data from Wiktionary and Beolingus to generate dictionary files that can be used offline. These can be downloaded from within the app. Learn how to construct your own dictionaries by viewing the wiki page on the website.&lt;/p&gt;&lt;p&gt;Recently a fork has been created to provide updates, see &lt;a href=&quot;fdroid.app:de.reimardoeffinger.quickdic&quot;&gt;QuickDic&lt;/a&gt;.&lt;/p&gt;</desc>
+		<license>Apache-2.0</license>
+		<categories>Reading</categories>
+		<category>Reading</category>
+		<web>https://code.google.com/p/quickdic-dictionary</web>
+		<source>https://code.google.com/p/quickdic-dictionary/source</source>
+		<tracker/>
+		<marketversion>5.0.1</marketversion>
+		<marketvercode>25</marketvercode>
+		<package>
+			<version>3.3</version>
+			<versioncode>21</versioncode>
+			<apkname>com.hughes.android.dictionary_21.apk</apkname>
+			<srcname>com.hughes.android.dictionary_21_src.tar.gz</srcname>
+			<hash type="sha256">02bcdce35e221f937d381150bcc8550704bf6a40b614858d3d7a0a4ca7c6cd0e</hash>
+			<size>6646741</size>
+			<sdkver>4</sdkver>
+			<targetSdkVersion>4</targetSdkVersion>
+			<added>2012-05-28</added>
+			<sig>b3ef170bb852b6b6ed6fb5f3d93846f5</sig>
+			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
+		<package>
+			<version>3.2</version>
+			<versioncode>18</versioncode>
+			<apkname>com.hughes.android.dictionary_18.apk</apkname>
+			<srcname>com.hughes.android.dictionary_18_src.tar.gz</srcname>
+			<hash type="sha256">e08c06c884635ed5fbdd259949cbafcb495e5ba99379276934e15670ac5c92d6</hash>
+			<size>5397715</size>
+			<sdkver>4</sdkver>
+			<targetSdkVersion>4</targetSdkVersion>
+			<added>2012-03-17</added>
+			<sig>b3ef170bb852b6b6ed6fb5f3d93846f5</sig>
+			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
+		<package>
+			<version>3.1</version>
+			<versioncode>16</versioncode>
+			<apkname>com.hughes.android.dictionary_16.apk</apkname>
+			<srcname>com.hughes.android.dictionary_16_src.tar.gz</srcname>
+			<hash type="sha256">3eccee5810aed335c8bd975c806a28b00a38aa8ee6991a928e99748d40160c4c</hash>
+			<size>3335323</size>
+			<sdkver>4</sdkver>
+			<targetSdkVersion>4</targetSdkVersion>
+			<added>2012-02-04</added>
+			<sig>b3ef170bb852b6b6ed6fb5f3d93846f5</sig>
+			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
+		<package>
+			<version>3.0.1</version>
+			<versioncode>15</versioncode>
+			<apkname>com.hughes.android.dictionary_15.apk</apkname>
+			<srcname>com.hughes.android.dictionary_15_src.tar.gz</srcname>
+			<hash type="sha256">21c82cbc2390a197f299aa2ad7c9226b66ea2e73045fb3cff87bfba08ece66ba</hash>
+			<size>3288960</size>
+			<sdkver>4</sdkver>
+			<targetSdkVersion>4</targetSdkVersion>
+			<added>2012-01-29</added>
+			<sig>b3ef170bb852b6b6ed6fb5f3d93846f5</sig>
+			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
+	</application>
 	<application id="de.reimardoeffinger.quickdic">
 		<id>de.reimardoeffinger.quickdic</id>
 		<added>2015-12-06</added>
@@ -49564,75 +49945,6 @@
 			<targetSdkVersion>22</targetSdkVersion>
 			<added>2015-12-06</added>
 			<sig>3bec75d6b63f45cb95d12d7032e477e7</sig>
-			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
-		</package>
-	</application>
-	<application id="com.hughes.android.dictionary">
-		<id>com.hughes.android.dictionary</id>
-		<added>2012-01-29</added>
-		<lastupdated>2012-05-28</lastupdated>
-		<name>QuickDic</name>
-		<summary>Offline translation dictionary</summary>
-		<icon>com.hughes.android.dictionary.21.png</icon>
-		<desc>&lt;p&gt;Uses data from Wiktionary and Beolingus to generate dictionary files that can be used offline. These can be downloaded from within the app. Learn how to construct your own dictionaries by viewing the wiki page on the website.&lt;/p&gt;&lt;p&gt;Recently a fork has been created to provide updates, see &lt;a href=&quot;fdroid.app:de.reimardoeffinger.quickdic&quot;&gt;QuickDic&lt;/a&gt;.&lt;/p&gt;</desc>
-		<license>Apache-2.0</license>
-		<categories>Reading</categories>
-		<category>Reading</category>
-		<web>https://code.google.com/p/quickdic-dictionary</web>
-		<source>https://code.google.com/p/quickdic-dictionary/source</source>
-		<tracker/>
-		<marketversion>5.0.1</marketversion>
-		<marketvercode>25</marketvercode>
-		<package>
-			<version>3.3</version>
-			<versioncode>21</versioncode>
-			<apkname>com.hughes.android.dictionary_21.apk</apkname>
-			<srcname>com.hughes.android.dictionary_21_src.tar.gz</srcname>
-			<hash type="sha256">02bcdce35e221f937d381150bcc8550704bf6a40b614858d3d7a0a4ca7c6cd0e</hash>
-			<size>6646741</size>
-			<sdkver>4</sdkver>
-			<targetSdkVersion>4</targetSdkVersion>
-			<added>2012-05-28</added>
-			<sig>b3ef170bb852b6b6ed6fb5f3d93846f5</sig>
-			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
-		</package>
-		<package>
-			<version>3.2</version>
-			<versioncode>18</versioncode>
-			<apkname>com.hughes.android.dictionary_18.apk</apkname>
-			<srcname>com.hughes.android.dictionary_18_src.tar.gz</srcname>
-			<hash type="sha256">e08c06c884635ed5fbdd259949cbafcb495e5ba99379276934e15670ac5c92d6</hash>
-			<size>5397715</size>
-			<sdkver>4</sdkver>
-			<targetSdkVersion>4</targetSdkVersion>
-			<added>2012-03-17</added>
-			<sig>b3ef170bb852b6b6ed6fb5f3d93846f5</sig>
-			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
-		</package>
-		<package>
-			<version>3.1</version>
-			<versioncode>16</versioncode>
-			<apkname>com.hughes.android.dictionary_16.apk</apkname>
-			<srcname>com.hughes.android.dictionary_16_src.tar.gz</srcname>
-			<hash type="sha256">3eccee5810aed335c8bd975c806a28b00a38aa8ee6991a928e99748d40160c4c</hash>
-			<size>3335323</size>
-			<sdkver>4</sdkver>
-			<targetSdkVersion>4</targetSdkVersion>
-			<added>2012-02-04</added>
-			<sig>b3ef170bb852b6b6ed6fb5f3d93846f5</sig>
-			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
-		</package>
-		<package>
-			<version>3.0.1</version>
-			<versioncode>15</versioncode>
-			<apkname>com.hughes.android.dictionary_15.apk</apkname>
-			<srcname>com.hughes.android.dictionary_15_src.tar.gz</srcname>
-			<hash type="sha256">21c82cbc2390a197f299aa2ad7c9226b66ea2e73045fb3cff87bfba08ece66ba</hash>
-			<size>3288960</size>
-			<sdkver>4</sdkver>
-			<targetSdkVersion>4</targetSdkVersion>
-			<added>2012-01-29</added>
-			<sig>b3ef170bb852b6b6ed6fb5f3d93846f5</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
@@ -51170,10 +51482,10 @@
 	<application id="org.quantumbadger.redreader">
 		<id>org.quantumbadger.redreader</id>
 		<added>2015-10-08</added>
-		<lastupdated>2017-05-15</lastupdated>
+		<lastupdated>2017-07-05</lastupdated>
 		<name>RedReader</name>
 		<summary>Client for reddit.com</summary>
-		<icon>org.quantumbadger.redreader.78.png</icon>
+		<icon>org.quantumbadger.redreader.79.png</icon>
 		<desc>&lt;p&gt;An unofficial client for the news site reddit.com.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Swipe posts left and right to perform customizable actions, such as upvote/downvote, or save/hide.&lt;/li&gt;&lt;li&gt; Advanced cache management - automatically stores past versions of posts and comments.&lt;/li&gt;&lt;li&gt; Streaming - shows posts/comments as they download - good for slow connections.&lt;/li&gt;&lt;li&gt; Support for multiple accounts.&lt;/li&gt;&lt;li&gt; Two-column tablet mode (can be used on your phone, if it's big enough)&lt;/li&gt;&lt;li&gt; Image precaching (optional: always, never, or Wi-Fi only).&lt;/li&gt;&lt;li&gt; Built in image viewer, and GIF player.&lt;/li&gt;&lt;li&gt; Compression - both during downloads, and in cache storage.&lt;/li&gt;&lt;li&gt; Night mode (i.e. a dark theme)&lt;/li&gt;&lt;li&gt; Holo theme on every device&lt;/li&gt;&lt;li&gt; Support for Android 2.2+ (but works best on Android 4.0+)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Status: BETA&lt;/p&gt;&lt;p&gt;Details of each crash in the UI thread will be logged to external storage, under the filename &quot;redreader_crash_log_(UUID).txt&quot; - please attach the relevant log when reporting a bug. Crashes in other parts of the application will cause a prompt to be displayed asking you to email the exception details directly.&lt;/p&gt;</desc>
 		<license>GPL-3.0+</license>
 		<categories>Internet</categories>
@@ -51183,8 +51495,21 @@
 		<tracker>https://github.com/QuantumBadger/RedReader/issues</tracker>
 		<changelog>https://github.com/QuantumBadger/RedReader/blob/HEAD/assets/changelog.txt</changelog>
 		<bitcoin>1874wapGxDo2vEp4avisda4gx3SCjsHCQJ</bitcoin>
-		<marketversion>1.9.8</marketversion>
-		<marketvercode>78</marketvercode>
+		<marketversion>1.9.8.1</marketversion>
+		<marketvercode>79</marketvercode>
+		<package>
+			<version>1.9.6.1</version>
+			<versioncode>76</versioncode>
+			<apkname>org.quantumbadger.redreader_76.apk</apkname>
+			<srcname>org.quantumbadger.redreader_76_src.tar.gz</srcname>
+			<hash type="sha256">281c511d943e41c5de45cdaea7273f9ed2212de081b05bd93c388a349723bb78</hash>
+			<size>3481054</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2016-11-07</added>
+			<sig>c6cdfabfd2abece0bc1a6b9827c9c9f8</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>1.9.6</version>
 			<versioncode>75</versioncode>
