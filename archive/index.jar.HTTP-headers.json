@@ -1,13 +1,18 @@
 {
   "Accept-Ranges": "bytes",
   "Connection": "Keep-Alive",
-  "Content-Length": "1610932",
+  "Content-Length": "1615469",
+  "Content-Security-Policy": "default-src 'self';         child-src 'none';     connect-src 'self';     frame-ancestors 'self';     img-src 'self' https://f-droid.org https://fdroid.gitlab.io;     media-src 'self';     object-src 'none';     script-src 'self' 'unsafe-inline';     style-src 'self' 'unsafe-inline';",
   "Content-Type": "application/java-archive",
-  "Date": "Sun, 15 Oct 2017 23:27:49 GMT",
-  "ETag": "\"1894b4-55b9a1862395a\"",
+  "Date": "Wed, 18 Oct 2017 23:20:54 GMT",
+  "ETag": "\"18a66d-55bd56b627883\"",
   "Keep-Alive": "timeout=5, max=95",
-  "Last-Modified": "Sun, 15 Oct 2017 18:31:15 GMT",
+  "Last-Modified": "Wed, 18 Oct 2017 17:17:51 GMT",
+  "Referrer-Policy": "strict-origin",
   "Server": "Apache",
   "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
-  "Via": "1.1 f-droid.org (Apache/2.4.10)"
+  "Via": "1.1 f-droid.org (Apache/2.2.22)",
+  "X-Content-Type-Options": "nosniff",
+  "X-Frame-Options": "sameorigin",
+  "X-Xss-Protection": "1; mode=block"
 }
