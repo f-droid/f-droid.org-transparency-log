@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1516130337" url="https://f-droid.org/repo" version="19">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1515999916" url="https://f-droid.org/repo" version="19">
 		<description>The official FDroid repository. Applications in this repository are built directly from the source code. (One, Firefox, is the official binary built by the Mozilla. This will ultimately be replaced by a source-built version. </description>
 	</repo>
 	<application id="com.jereksel.libresubstratum">
@@ -1683,8 +1683,8 @@ Required Android Permissions:
 		<web>http://www.freerdp.com/</web>
 		<source>https://github.com/FreeRDP/FreeRDP</source>
 		<tracker>https://github.com/FreeRDP/FreeRDP/issues</tracker>
-		<marketversion>2.0.0-rc1</marketversion>
-		<marketvercode>11</marketvercode>
+		<marketversion>2.0.0-rc0</marketversion>
+		<marketvercode>10</marketvercode>
 		<package>
 			<version>2.0.0-rc0</version>
 			<versioncode>10</versioncode>
@@ -3292,8 +3292,8 @@ Only apps hosted on F-droid are supported. You can request new icons through the
 		<source>https://github.com/andstatus/andstatus</source>
 		<tracker>https://github.com/andstatus/andstatus/issues</tracker>
 		<changelog>http://andstatus.org/changelog.html</changelog>
-		<marketversion>36.05</marketversion>
-		<marketvercode>239</marketvercode>
+		<marketversion>35.06</marketversion>
+		<marketvercode>232</marketvercode>
 		<package>
 			<version>35.06</version>
 			<versioncode>232</versioncode>
@@ -5780,10 +5780,10 @@ forum topic].
 	<application id="com.rascarlo.aurdroid">
 		<id>com.rascarlo.aurdroid</id>
 		<added>2017-06-05</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2017-12-07</lastupdated>
 		<name>AURdroid</name>
 		<summary>Simple AUR packages browser</summary>
-		<icon>com.rascarlo.aurdroid.7.png</icon>
+		<icon>com.rascarlo.aurdroid.6.png</icon>
 		<desc>&lt;p&gt;Simple &lt;a href=&quot;https://aur.archlinux.org/&quot;&gt;Arch User Repository&lt;/a&gt; packages browser. Based on v5 of the RPC Interface API, as released with AUR v4.2.0 on February 15, 2016.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Development</categories>
@@ -5791,21 +5791,8 @@ forum topic].
 		<web/>
 		<source>https://github.com/rascarlo/AURdroid</source>
 		<tracker>https://github.com/rascarlo/AURdroid/issues</tracker>
-		<marketversion>4.1.2</marketversion>
-		<marketvercode>7</marketvercode>
-		<package>
-			<version>4.1.2</version>
-			<versioncode>7</versioncode>
-			<apkname>com.rascarlo.aurdroid_7.apk</apkname>
-			<srcname>com.rascarlo.aurdroid_7_src.tar.gz</srcname>
-			<hash type="sha256">5dc8b253d1404d273d0c53a30e06ab9d4fccecd306d0702155f95ea0124a4f08</hash>
-			<size>2266662</size>
-			<sdkver>16</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>429340363d42e1ee3dd9386f86464257</sig>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET</permissions>
-		</package>
+		<marketversion>4.1.1</marketversion>
+		<marketvercode>6</marketvercode>
 		<package>
 			<version>4.1.1</version>
 			<versioncode>6</versioncode>
@@ -5829,6 +5816,19 @@ forum topic].
 			<sdkver>16</sdkver>
 			<targetSdkVersion>26</targetSdkVersion>
 			<added>2017-09-06</added>
+			<sig>429340363d42e1ee3dd9386f86464257</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET</permissions>
+		</package>
+		<package>
+			<version>4</version>
+			<versioncode>4</versioncode>
+			<apkname>com.rascarlo.aurdroid_4.apk</apkname>
+			<srcname>com.rascarlo.aurdroid_4_src.tar.gz</srcname>
+			<hash type="sha256">364f6235cbac7d0a586774a19c545b145cfdd7382414cf4aeedd2ac18914b6f1</hash>
+			<size>2221687</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>25</targetSdkVersion>
+			<added>2017-07-27</added>
 			<sig>429340363d42e1ee3dd9386f86464257</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET</permissions>
 		</package>
@@ -7844,8 +7844,8 @@ Current features:
 		<tracker>https://github.com/bitcoin-wallet/bitcoin-wallet/issues</tracker>
 		<changelog>https://raw.github.com/bitcoin-wallet/bitcoin-wallet/prod/wallet/CHANGES</changelog>
 		<bitcoin>1HkX6X8EakdsgAysL93oKrWiXGPbFiG1xV</bitcoin>
-		<marketversion>5.44</marketversion>
-		<marketvercode>324</marketvercode>
+		<marketversion>5.42</marketversion>
+		<marketvercode>322</marketvercode>
 		<package>
 			<version>5.39</version>
 			<versioncode>319</versioncode>
@@ -7901,8 +7901,8 @@ Current features:
 		<tracker>https://github.com/bitcoin-wallet/bitcoin-wallet/issues</tracker>
 		<changelog>https://raw.githubusercontent.com/bitcoin-wallet/bitcoin-wallet/HEAD/wallet/CHANGES</changelog>
 		<bitcoin>1HkX6X8EakdsgAysL93oKrWiXGPbFiG1xV</bitcoin>
-		<marketversion>5.44</marketversion>
-		<marketvercode>324</marketvercode>
+		<marketversion>5.42</marketversion>
+		<marketvercode>322</marketvercode>
 		<package>
 			<version>5.39</version>
 			<versioncode>319</versioncode>
@@ -8134,8 +8134,8 @@ Current features:
 		<source>https://github.com/scoutant/blokish</source>
 		<tracker>https://github.com/scoutant/blokish/issues</tracker>
 		<changelog>https://github.com/scoutant/blokish/blob/HEAD/README.md#changelog</changelog>
-		<marketversion>3.2</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>3.1</marketversion>
+		<marketvercode>19</marketvercode>
 		<package>
 			<version>3.1</version>
 			<versioncode>19</versioncode>
@@ -8805,8 +8805,8 @@ Current features:
 		<source>https://github.com/scoute-dich/browser</source>
 		<tracker>https://github.com/scoute-dich/browser/issues</tracker>
 		<changelog>https://github.com/scoute-dich/browser/blob/HEAD/CHANGELOG.md</changelog>
-		<marketversion>5.0.1</marketversion>
-		<marketvercode>67</marketvercode>
+		<marketversion>5.0</marketversion>
+		<marketvercode>65</marketvercode>
 		<package>
 			<version>4.4</version>
 			<versioncode>59</versioncode>
@@ -10008,8 +10008,8 @@ Current features:
 		<web>https://gitlab.com/axet/android-call-recorder</web>
 		<source>https://gitlab.com/axet/android-call-recorder/tree/HEAD</source>
 		<tracker>https://gitlab.com/axet/android-call-recorder/issues</tracker>
-		<marketversion>1.5.20</marketversion>
-		<marketvercode>141</marketvercode>
+		<marketversion>1.5.18</marketversion>
+		<marketvercode>139</marketvercode>
 		<package>
 			<version>1.5.13</version>
 			<versioncode>134</versioncode>
@@ -10112,10 +10112,10 @@ Current features:
 	<application id="com.simplemobiletools.camera">
 		<id>com.simplemobiletools.camera</id>
 		<added>2016-07-09</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2017-12-15</lastupdated>
 		<name>Camera</name>
 		<summary>A front/rear camera with flash and zoom</summary>
-		<icon>com.simplemobiletools.camera.53.png</icon>
+		<icon>com.simplemobiletools.camera.51.png</icon>
 		<desc>&lt;p&gt;The camera is useable for both photo taking and video recording. You can switch between front and rear camera, the flash can be turned on and off, pinch to zoom in. While recording a video, the flash can be used as a flashlight. It allows you to limit the photo and video resolution.&lt;/p&gt;&lt;p&gt;If you want to launch this app at pressing the hardware camera button, you might have to disable the built in Camera app in Settings -&amp;gt; Apps -&amp;gt; Camera -&amp;gt; Disable.&lt;/p&gt;&lt;p&gt;Contains no ads or unnecessary permissions. It is fully opensource, provides a Dark theme too.&lt;/p&gt;</desc>
 		<license>Apache-2.0</license>
 		<categories>Multimedia</categories>
@@ -10124,21 +10124,8 @@ Current features:
 		<source>https://github.com/SimpleMobileTools/Simple-Camera</source>
 		<tracker>https://github.com/SimpleMobileTools/Simple-Camera/issues</tracker>
 		<changelog>https://github.com/SimpleMobileTools/Simple-Camera/blob/HEAD/CHANGELOG.md</changelog>
-		<marketversion>3.1.1</marketversion>
-		<marketvercode>53</marketvercode>
-		<package>
-			<version>3.1.1</version>
-			<versioncode>53</versioncode>
-			<apkname>com.simplemobiletools.camera_53.apk</apkname>
-			<srcname>com.simplemobiletools.camera_53_src.tar.gz</srcname>
-			<hash type="sha256">7f0415753b4b716a85716882b877ef001d796dd0b48795febe78c68ee085bcc5</hash>
-			<size>2751127</size>
-			<sdkver>16</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>d47c94dc3518e9b8f7138984088b2ec9</sig>
-			<permissions>CAMERA,READ_EXTERNAL_STORAGE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE</permissions>
-		</package>
+		<marketversion>3.0.1</marketversion>
+		<marketvercode>51</marketvercode>
 		<package>
 			<version>3.0.1</version>
 			<versioncode>51</versioncode>
@@ -10164,6 +10151,19 @@ Current features:
 			<added>2017-12-07</added>
 			<sig>d47c94dc3518e9b8f7138984088b2ec9</sig>
 			<permissions>CAMERA,READ_EXTERNAL_STORAGE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
+		<package>
+			<version>2.5.0</version>
+			<versioncode>48</versioncode>
+			<apkname>com.simplemobiletools.camera_48.apk</apkname>
+			<srcname>com.simplemobiletools.camera_48_src.tar.gz</srcname>
+			<hash type="sha256">dbae93d36416e4deba42c91275fd1d44290b2197e394eb0b9ac7b1d675fe3e72</hash>
+			<size>2574222</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>26</targetSdkVersion>
+			<added>2017-11-07</added>
+			<sig>d47c94dc3518e9b8f7138984088b2ec9</sig>
+			<permissions>CAMERA,READ_EXTERNAL_STORAGE,RECORD_AUDIO,USE_FINGERPRINT,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="us.koller.cameraroll">
@@ -16359,10 +16359,10 @@ the section dictionaries for download of the website.
 	<application id="org.fitchfamily.android.dejavu">
 		<id>org.fitchfamily.android.dejavu</id>
 		<added>2017-12-15</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2018-01-06</lastupdated>
 		<name>Déjà Vu Location Service</name>
 		<summary>Mobile/cell and WLAN/Wi-Fi based network provider for UnifiedNlp and microG</summary>
-		<icon>org.fitchfamily.android.dejavu.8.png</icon>
+		<icon>org.fitchfamily.android.dejavu.7.png</icon>
 		<desc>&lt;p&gt;UnifiedNlp backend that uses locally acquired WLAN/Wi-Fi AP and mobile/cellular tower data to resolve user location. Collectively, “WLAN/WiFi and mobile/cellular” signals will be called “RF emitters” below.&lt;/p&gt;&lt;p&gt;Conceptually, this backend consists of two parts sharing a common database. One part passively monitors the GPS. If the GPS has acquired and has a good position accuracy, then the coverage maps for RF emitters detected by the phone are created and saved.&lt;/p&gt;&lt;p&gt;The other part is the actual location provider which uses the database to estimate location when the GPS is not available.&lt;/p&gt;&lt;p&gt;This backend uses no network data. All data acquired by the phone stays on the phone.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Navigation</categories>
@@ -16370,21 +16370,8 @@ the section dictionaries for download of the website.
 		<web/>
 		<source>https://github.com/n76/DejaVu</source>
 		<tracker>https://github.com/n76/DejaVu/issues</tracker>
-		<marketversion>1.0.8</marketversion>
-		<marketvercode>8</marketvercode>
-		<package>
-			<version>1.0.8</version>
-			<versioncode>8</versioncode>
-			<apkname>org.fitchfamily.android.dejavu_8.apk</apkname>
-			<srcname>org.fitchfamily.android.dejavu_8_src.tar.gz</srcname>
-			<hash type="sha256">9f51a36a780f28342113b8c803ae1cae6799e39d251e51145b9dd59ab7cfaded</hash>
-			<size>1449780</size>
-			<sdkver>18</sdkver>
-			<targetSdkVersion>25</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>246909a7a9ab040d11001eefcf7d79d8</sig>
-			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE</permissions>
-		</package>
+		<marketversion>1.0.7</marketversion>
+		<marketvercode>7</marketvercode>
 		<package>
 			<version>1.0.7</version>
 			<versioncode>7</versioncode>
@@ -16399,15 +16386,28 @@ the section dictionaries for download of the website.
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE</permissions>
 		</package>
 		<package>
-			<version>1.0.6</version>
-			<versioncode>6</versioncode>
-			<apkname>org.fitchfamily.android.dejavu_6.apk</apkname>
-			<srcname>org.fitchfamily.android.dejavu_6_src.tar.gz</srcname>
-			<hash type="sha256">110156339d329820293fc29038cc60f86be58d194dbfc79224d3f17385cc4537</hash>
-			<size>1449649</size>
+			<version>1.0.4</version>
+			<versioncode>4</versioncode>
+			<apkname>org.fitchfamily.android.dejavu_4.apk</apkname>
+			<srcname>org.fitchfamily.android.dejavu_4_src.tar.gz</srcname>
+			<hash type="sha256">2e521013f73aa0787476a5a59903544fd91a78eadcadf629e594c4d490ba7b5e</hash>
+			<size>1449064</size>
 			<sdkver>18</sdkver>
 			<targetSdkVersion>25</targetSdkVersion>
-			<added>2018-01-16</added>
+			<added>2017-12-24</added>
+			<sig>246909a7a9ab040d11001eefcf7d79d8</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE</permissions>
+		</package>
+		<package>
+			<version>1.0.3</version>
+			<versioncode>3</versioncode>
+			<apkname>org.fitchfamily.android.dejavu_3.apk</apkname>
+			<srcname>org.fitchfamily.android.dejavu_3_src.tar.gz</srcname>
+			<hash type="sha256">1249646d1288bf1eff150fb610af4c2907f0147d957e930e56d1e9c84a0ec7b4</hash>
+			<size>1448781</size>
+			<sdkver>18</sdkver>
+			<targetSdkVersion>25</targetSdkVersion>
+			<added>2017-12-24</added>
 			<sig>246909a7a9ab040d11001eefcf7d79d8</sig>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE</permissions>
 		</package>
@@ -17185,8 +17185,8 @@ the section dictionaries for download of the website.
 		<changelog>https://github.com/vanitasvitae/EnigmAndroid/blob/HEAD/CHANGELOG.txt</changelog>
 		<author>Paul Schaub</author>
 		<bitcoin>1EqhcKs1pZJhEmyCtbH3qtkHT3Y48MCoAT</bitcoin>
-		<marketversion>1.0.1-12.01.2018</marketversion>
-		<marketvercode>17</marketvercode>
+		<marketversion>1.0.0-05.05.2017</marketversion>
+		<marketvercode>16</marketvercode>
 		<package>
 			<version>1.0.0-05.05.2017</version>
 			<versioncode>16</versioncode>
@@ -21019,8 +21019,8 @@ Code repository: https://github.com/jonan/ForkHub</desc>
 		<tracker>https://github.com/Freeyourgadget/Gadgetbridge/issues</tracker>
 		<changelog>https://github.com/Freeyourgadget/Gadgetbridge/blob/HEAD/CHANGELOG.md</changelog>
 		<liberapay>11276</liberapay>
-		<marketversion>0.24.0</marketversion>
-		<marketvercode>117</marketvercode>
+		<marketversion>0.23.2</marketversion>
+		<marketvercode>116</marketvercode>
 		<package>
 			<version>0.23.2</version>
 			<versioncode>116</versioncode>
@@ -21132,10 +21132,10 @@ Code repository: https://github.com/jonan/ForkHub</desc>
 	<application id="com.simplemobiletools.gallery">
 		<id>com.simplemobiletools.gallery</id>
 		<added>2016-07-04</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2017-12-24</lastupdated>
 		<name>Gallery</name>
 		<summary>A gallery for viewing photos and videos</summary>
-		<icon>com.simplemobiletools.gallery.156.png</icon>
+		<icon>com.simplemobiletools.gallery.148.png</icon>
 		<desc>&lt;p&gt;A simple tool usable for viewing photos and videos. Items can be sorted by date, size, name both ascending or descending, photos can be zoomed in. Media files are shown in multiple columns, depending on the size of the display. They can be renamed, shared or deleted.&lt;/p&gt;&lt;p&gt;The Gallery is also offered for third party usage for previewing images / videos, adding attachments at email clients etc. It's perfect for everyday usage.&lt;/p&gt;&lt;p&gt;Contains no ads or unnecessary permissions. It is fully opensource, provides a Dark theme too.&lt;/p&gt;</desc>
 		<license>Apache-2.0</license>
 		<categories>Multimedia</categories>
@@ -21144,22 +21144,8 @@ Code repository: https://github.com/jonan/ForkHub</desc>
 		<source>https://github.com/SimpleMobileTools/Simple-Gallery</source>
 		<tracker>https://github.com/SimpleMobileTools/Simple-Gallery/issues</tracker>
 		<changelog>https://github.com/SimpleMobileTools/Simple-Gallery/blob/HEAD/CHANGELOG.md</changelog>
-		<marketversion>3.2.3</marketversion>
-		<marketvercode>156</marketvercode>
-		<package>
-			<version>3.2.3</version>
-			<versioncode>156</versioncode>
-			<apkname>com.simplemobiletools.gallery_156.apk</apkname>
-			<srcname>com.simplemobiletools.gallery_156_src.tar.gz</srcname>
-			<hash type="sha256">b9d171807a9545591c2148ae59e00ad161b796b0eeaea8c40b1236e86f04502f</hash>
-			<size>3555182</size>
-			<sdkver>16</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>5ecf5b77af3a414b715dc7a334fb6b8a</sig>
-			<permissions>READ_EXTERNAL_STORAGE,SET_WALLPAPER,USE_FINGERPRINT,WRITE_EXTERNAL_STORAGE</permissions>
-			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
-		</package>
+		<marketversion>3.2.2</marketversion>
+		<marketvercode>155</marketvercode>
 		<package>
 			<version>3.0.2</version>
 			<versioncode>148</versioncode>
@@ -21186,6 +21172,20 @@ Code repository: https://github.com/jonan/ForkHub</desc>
 			<added>2017-12-15</added>
 			<sig>5ecf5b77af3a414b715dc7a334fb6b8a</sig>
 			<permissions>READ_EXTERNAL_STORAGE,SET_WALLPAPER,USE_FINGERPRINT,WRITE_EXTERNAL_STORAGE</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>2.19.0</version>
+			<versioncode>145</versioncode>
+			<apkname>com.simplemobiletools.gallery_145.apk</apkname>
+			<srcname>com.simplemobiletools.gallery_145_src.tar.gz</srcname>
+			<hash type="sha256">02e8ec6ab2f3f1239b3da8ebd8ab61a5ce49b4b3dc831cfe216861e9db33a903</hash>
+			<size>3355617</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2017-12-07</added>
+			<sig>5ecf5b77af3a414b715dc7a334fb6b8a</sig>
+			<permissions>READ_EXTERNAL_STORAGE,SET_WALLPAPER,USE_FINGERPRINT,VIBRATE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
 		</package>
 	</application>
@@ -23549,8 +23549,8 @@ Code repository: https://github.com/jonan/ForkHub</desc>
 		<web>https://gitlab.com/axet/android-hourly-reminder</web>
 		<source>https://gitlab.com/axet/android-hourly-reminder/tree/HEAD</source>
 		<tracker>https://gitlab.com/axet/android-hourly-reminder/issues</tracker>
-		<marketversion>3.1.18</marketversion>
-		<marketvercode>339</marketvercode>
+		<marketversion>3.1.17</marketversion>
+		<marketvercode>338</marketvercode>
 		<package>
 			<version>3.1.15</version>
 			<versioncode>336</versioncode>
@@ -25845,10 +25845,10 @@ Code repository: https://github.com/jonan/ForkHub</desc>
 	<application id="fr.neamar.kiss">
 		<id>fr.neamar.kiss</id>
 		<added>2015-08-07</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2018-01-15</lastupdated>
 		<name>KISS launcher</name>
 		<summary>Custom launcher</summary>
-		<icon>fr.neamar.kiss.105.png</icon>
+		<icon>fr.neamar.kiss.103.png</icon>
 		<desc>&lt;p&gt;KISS is a fast launcher following the KISS principle.&lt;/p&gt;&lt;p&gt;Search through you app, contacts and settings lightning fast. No more time spent trying to find the app you need to launch: enter a few characters from the name and press enter. Need to phone someone? Don't meddle with the call log, just give three letters of their name and push the &quot;phone&quot; button.&lt;/p&gt;&lt;p&gt;KISS becomes smarter and smarter as you use it, pushing forward results you're more likely to select.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Theming</categories>
@@ -25857,21 +25857,8 @@ Code repository: https://github.com/jonan/ForkHub</desc>
 		<source>https://github.com/Neamar/KISS</source>
 		<tracker>https://github.com/Neamar/KISS/issues</tracker>
 		<changelog>https://github.com/Neamar/KISS/releases</changelog>
-		<marketversion>2.32.3</marketversion>
-		<marketvercode>105</marketvercode>
-		<package>
-			<version>2.32.3</version>
-			<versioncode>105</versioncode>
-			<apkname>fr.neamar.kiss_105.apk</apkname>
-			<srcname>fr.neamar.kiss_105_src.tar.gz</srcname>
-			<hash type="sha256">a3572497bd42813e32cad3333d696f50f279ed3ec1df970cc26354c4dca3068b</hash>
-			<size>397661</size>
-			<sdkver>15</sdkver>
-			<targetSdkVersion>22</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>a2743b9ee3511dc8c0898d08dd9f466c</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CALL_PHONE,CAMERA,CHANGE_NETWORK_STATE,CHANGE_WIFI_STATE,FLASHLIGHT,READ_CONTACTS,READ_PHONE_STATE,READ_SYNC_SETTINGS,RECEIVE_SMS,WRITE_SETTINGS,WRITE_SYNC_SETTINGS</permissions>
-		</package>
+		<marketversion>2.32.1</marketversion>
+		<marketvercode>103</marketvercode>
 		<package>
 			<version>2.32.1</version>
 			<versioncode>103</versioncode>
@@ -25895,6 +25882,19 @@ Code repository: https://github.com/jonan/ForkHub</desc>
 			<sdkver>15</sdkver>
 			<targetSdkVersion>22</targetSdkVersion>
 			<added>2018-01-03</added>
+			<sig>a2743b9ee3511dc8c0898d08dd9f466c</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CALL_PHONE,CAMERA,CHANGE_NETWORK_STATE,CHANGE_WIFI_STATE,FLASHLIGHT,READ_CONTACTS,READ_PHONE_STATE,READ_SYNC_SETTINGS,RECEIVE_SMS,WRITE_SETTINGS,WRITE_SYNC_SETTINGS</permissions>
+		</package>
+		<package>
+			<version>2.31.4</version>
+			<versioncode>101</versioncode>
+			<apkname>fr.neamar.kiss_101.apk</apkname>
+			<srcname>fr.neamar.kiss_101_src.tar.gz</srcname>
+			<hash type="sha256">443f8418ee38d35e9f5c6875a6b05a81e55309eeb9c954f78dbc412a6eecf992</hash>
+			<size>380121</size>
+			<sdkver>15</sdkver>
+			<targetSdkVersion>22</targetSdkVersion>
+			<added>2017-11-24</added>
 			<sig>a2743b9ee3511dc8c0898d08dd9f466c</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CALL_PHONE,CAMERA,CHANGE_NETWORK_STATE,CHANGE_WIFI_STATE,FLASHLIGHT,READ_CONTACTS,READ_PHONE_STATE,READ_SYNC_SETTINGS,RECEIVE_SMS,WRITE_SETTINGS,WRITE_SYNC_SETTINGS</permissions>
 		</package>
@@ -29214,10 +29214,10 @@ This software is free software, licensed under the GPLv3 or later license. The s
 	<application id="fr.gouv.etalab.mastodon">
 		<id>fr.gouv.etalab.mastodon</id>
 		<added>2017-07-27</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2018-01-15</lastupdated>
 		<name>Mastalab</name>
 		<summary>Multi-account client for Mastodon</summary>
-		<icon>fr.gouv.etalab.mastodon.104.png</icon>
+		<icon>fr.gouv.etalab.mastodon.103.png</icon>
 		<desc>&lt;p&gt;Mastalab allows you to manage several accounts and to switch from one to another by a simple click. You can start to compose messages and finish them later by a mechanism of auto-recording, and these messages can be scheduled. Stay aware due to a system of push notifications when new content is available or when receiving a notification on an account. Numerous features and settings parameters will allow to tailor the behavior of the app with what you need.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Internet</categories>
@@ -29226,22 +29226,8 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<source>https://github.com/stom79/mastalab</source>
 		<tracker>https://github.com/stom79/mastalab/issues</tracker>
 		<liberapay>23077</liberapay>
-		<marketversion>1.7.4</marketversion>
-		<marketvercode>104</marketvercode>
-		<package>
-			<version>1.7.4</version>
-			<versioncode>104</versioncode>
-			<apkname>fr.gouv.etalab.mastodon_104.apk</apkname>
-			<srcname>fr.gouv.etalab.mastodon_104_src.tar.gz</srcname>
-			<hash type="sha256">6c2a93efd3d6f9fbe08196afcbd4450162f6449d4f3c55f025019ee78b6131f5</hash>
-			<size>7851413</size>
-			<sdkver>15</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>e73a61531f80442eb3703fb3926d9446</sig>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
-		</package>
+		<marketversion>1.7.3</marketversion>
+		<marketvercode>103</marketvercode>
 		<package>
 			<version>1.7.3</version>
 			<versioncode>103</versioncode>
@@ -29266,6 +29252,20 @@ This software is free software, licensed under the GPLv3 or later license. The s
 			<sdkver>15</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2018-01-08</added>
+			<sig>e73a61531f80442eb3703fb3926d9446</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.7.1</version>
+			<versioncode>101</versioncode>
+			<apkname>fr.gouv.etalab.mastodon_101.apk</apkname>
+			<srcname>fr.gouv.etalab.mastodon_101_src.tar.gz</srcname>
+			<hash type="sha256">f37523dfb4b65e16d34fe112d5d0ff5f29d30c40b6c212a0a7ed138a66149559</hash>
+			<size>7019322</size>
+			<sdkver>15</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2018-01-06</added>
 			<sig>e73a61531f80442eb3703fb3926d9446</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -29395,8 +29395,8 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<source>https://github.com/ZeeRooo/MaterialFBook</source>
 		<tracker>https://github.com/ZeeRooo/MaterialFBook/issues</tracker>
 		<changelog>https://github.com/ZeeRooo/MaterialFBook/blob/HEAD/README.md#changelog</changelog>
-		<marketversion>3.6.7</marketversion>
-		<marketvercode>58</marketvercode>
+		<marketversion>3.6.6</marketversion>
+		<marketvercode>56</marketvercode>
 		<antifeatures>NonFreeNet</antifeatures>
 		<package>
 			<version>3.6.1</version>
@@ -29645,10 +29645,10 @@ This software is free software, licensed under the GPLv3 or later license. The s
 	<application id="org.projectmaxs.main">
 		<id>org.projectmaxs.main</id>
 		<added>2013-10-10</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2017-12-24</lastupdated>
 		<name>MAXS Main</name>
 		<summary>Main component of MAXS</summary>
-		<icon>org.projectmaxs.main.2000501435.png</icon>
+		<icon>org.projectmaxs.main.2000501421.png</icon>
 		<desc>&lt;p&gt;MAXS (Modular Android XMPP Service) allows you to receive notifications and remote control your Android device over XMPP. You will need at least one transport component and one module besides MAXS main in order to make use of MAXS.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Make sure to launch Maxs Main once before installing other MAXS components!&lt;/b&gt;&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>System</categories>
@@ -29659,21 +29659,8 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>17hnvYUhfGqnF8MQhQRsqttySn6fe9ebtp</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.5.4</marketversion>
-		<marketvercode>2000501489</marketvercode>
-		<package>
-			<version>0.5.3</version>
-			<versioncode>2000501435</versioncode>
-			<apkname>org.projectmaxs.main_2000501435.apk</apkname>
-			<srcname>org.projectmaxs.main_2000501435_src.tar.gz</srcname>
-			<hash type="sha256">bd1f2eb6ed05327756cef6fa34cfd6ab5e25338996a5c7e20c2920f4f0ee745e</hash>
-			<size>99189</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>bdee2e3cc8f8eac2e6ce01e1c75f35d5</sig>
-			<permissions>RECEIVE_BOOT_COMPLETED,org.projectmaxs.permission.USE_FILEREAD,org.projectmaxs.permission.USE_FILEWRITE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.USE_MODULE,org.projectmaxs.permission.USE_TRANSPORT</permissions>
-		</package>
+		<marketversion>0.5.3</marketversion>
+		<marketvercode>2000501435</marketvercode>
 		<package>
 			<version>0.5.2</version>
 			<versioncode>2000501421</versioncode>
@@ -29700,14 +29687,27 @@ This software is free software, licensed under the GPLv3 or later license. The s
 			<sig>bdee2e3cc8f8eac2e6ce01e1c75f35d5</sig>
 			<permissions>RECEIVE_BOOT_COMPLETED,org.projectmaxs.permission.USE_FILEREAD,org.projectmaxs.permission.USE_FILEWRITE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.USE_MODULE,org.projectmaxs.permission.USE_TRANSPORT</permissions>
 		</package>
+		<package>
+			<version>0.4.0</version>
+			<versioncode>2000400598</versioncode>
+			<apkname>org.projectmaxs.main_2000400598.apk</apkname>
+			<srcname>org.projectmaxs.main_2000400598_src.tar.gz</srcname>
+			<hash type="sha256">066e879e62716b2fc2f15f2650df219485aecc01023f9f1a8f59467bc6eb7a3f</hash>
+			<size>94542</size>
+			<sdkver>10</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-08-22</added>
+			<sig>bdee2e3cc8f8eac2e6ce01e1c75f35d5</sig>
+			<permissions>RECEIVE_BOOT_COMPLETED,org.projectmaxs.permission.USE_FILEREAD,org.projectmaxs.permission.USE_FILEWRITE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.USE_MODULE,org.projectmaxs.permission.USE_TRANSPORT</permissions>
+		</package>
 	</application>
 	<application id="org.projectmaxs.module.alarmset">
 		<id>org.projectmaxs.module.alarmset</id>
 		<added>2014-02-10</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2017-12-15</lastupdated>
 		<name>MAXS Module AlarmSet</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.alarmset.2000501435.png</icon>
+		<icon>org.projectmaxs.module.alarmset.2000501421.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>System</categories>
@@ -29718,21 +29718,8 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>17hnvYUhfGqnF8MQhQRsqttySn6fe9ebtp</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.5.4</marketversion>
-		<marketvercode>2000501489</marketvercode>
-		<package>
-			<version>0.5.3</version>
-			<versioncode>2000501435</versioncode>
-			<apkname>org.projectmaxs.module.alarmset_2000501435.apk</apkname>
-			<srcname>org.projectmaxs.module.alarmset_2000501435_src.tar.gz</srcname>
-			<hash type="sha256">d923062d750ce580844eede47061296ba4ba58e11281fb1bf8e504da7e2b0f1a</hash>
-			<size>65760</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>cba41e24be9006206e59fb7ea85f4073</sig>
-			<permissions>com.android.alarm.permission.SET_ALARM,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-		</package>
+		<marketversion>0.5.3</marketversion>
+		<marketvercode>2000501435</marketvercode>
 		<package>
 			<version>0.5.2</version>
 			<versioncode>2000501421</versioncode>
@@ -29759,6 +29746,19 @@ This software is free software, licensed under the GPLv3 or later license. The s
 			<sig>cba41e24be9006206e59fb7ea85f4073</sig>
 			<permissions>com.android.alarm.permission.SET_ALARM,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
+		<package>
+			<version>0.4.0</version>
+			<versioncode>2000400598</versioncode>
+			<apkname>org.projectmaxs.module.alarmset_2000400598.apk</apkname>
+			<srcname>org.projectmaxs.module.alarmset_2000400598_src.tar.gz</srcname>
+			<hash type="sha256">fe46848e7bbb25eb7db014a326e68291df49beb28e3a4fd5db8aefe570df65d5</hash>
+			<size>61621</size>
+			<sdkver>10</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-08-22</added>
+			<sig>cba41e24be9006206e59fb7ea85f4073</sig>
+			<permissions>com.android.alarm.permission.SET_ALARM,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+		</package>
 	</application>
 	<application id="org.projectmaxs.module.bluetooth">
 		<id>org.projectmaxs.module.bluetooth</id>
@@ -29777,8 +29777,8 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>17hnvYUhfGqnF8MQhQRsqttySn6fe9ebtp</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.5.4</marketversion>
-		<marketvercode>2000501489</marketvercode>
+		<marketversion>0.5.3</marketversion>
+		<marketvercode>2000501435</marketvercode>
 		<package>
 			<version>0.5.2</version>
 			<versioncode>2000501421</versioncode>
@@ -29822,10 +29822,10 @@ This software is free software, licensed under the GPLv3 or later license. The s
 	<application id="org.projectmaxs.module.bluetoothadmin">
 		<id>org.projectmaxs.module.bluetoothadmin</id>
 		<added>2013-10-10</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2017-12-24</lastupdated>
 		<name>MAXS Module BluetoothAdmin</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.bluetoothadmin.2000501435.png</icon>
+		<icon>org.projectmaxs.module.bluetoothadmin.2000501421.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>System</categories>
@@ -29836,21 +29836,8 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>17hnvYUhfGqnF8MQhQRsqttySn6fe9ebtp</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.5.4</marketversion>
-		<marketvercode>2000501489</marketvercode>
-		<package>
-			<version>0.5.3</version>
-			<versioncode>2000501435</versioncode>
-			<apkname>org.projectmaxs.module.bluetoothadmin_2000501435.apk</apkname>
-			<srcname>org.projectmaxs.module.bluetoothadmin_2000501435_src.tar.gz</srcname>
-			<hash type="sha256">f78d03b9927a5f919683094b867d9b0a21ef5f018dec3defe2c9ea3096c096c3</hash>
-			<size>65747</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>b8e23cd2aa9886627e53387fe2a7b0f9</sig>
-			<permissions>BLUETOOTH,BLUETOOTH_ADMIN,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-		</package>
+		<marketversion>0.5.3</marketversion>
+		<marketvercode>2000501435</marketvercode>
 		<package>
 			<version>0.5.2</version>
 			<versioncode>2000501421</versioncode>
@@ -29877,14 +29864,27 @@ This software is free software, licensed under the GPLv3 or later license. The s
 			<sig>b8e23cd2aa9886627e53387fe2a7b0f9</sig>
 			<permissions>BLUETOOTH,BLUETOOTH_ADMIN,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
+		<package>
+			<version>0.4.0</version>
+			<versioncode>2000400598</versioncode>
+			<apkname>org.projectmaxs.module.bluetoothadmin_2000400598.apk</apkname>
+			<srcname>org.projectmaxs.module.bluetoothadmin_2000400598_src.tar.gz</srcname>
+			<hash type="sha256">7c53ed486fb43ff01209d8e540b01af2e4fa84c2b0423f6ec5d6d08b960b2452</hash>
+			<size>61609</size>
+			<sdkver>10</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-08-22</added>
+			<sig>b8e23cd2aa9886627e53387fe2a7b0f9</sig>
+			<permissions>BLUETOOTH,BLUETOOTH_ADMIN,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+		</package>
 	</application>
 	<application id="org.projectmaxs.module.clipboard">
 		<id>org.projectmaxs.module.clipboard</id>
 		<added>2013-10-10</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2017-12-15</lastupdated>
 		<name>MAXS Module Clipboard</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.clipboard.2000501435.png</icon>
+		<icon>org.projectmaxs.module.clipboard.2000501421.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>System</categories>
@@ -29895,21 +29895,8 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>17hnvYUhfGqnF8MQhQRsqttySn6fe9ebtp</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.5.4</marketversion>
-		<marketvercode>2000501489</marketvercode>
-		<package>
-			<version>0.5.3</version>
-			<versioncode>2000501435</versioncode>
-			<apkname>org.projectmaxs.module.clipboard_2000501435.apk</apkname>
-			<srcname>org.projectmaxs.module.clipboard_2000501435_src.tar.gz</srcname>
-			<hash type="sha256">f2ebde70cc1ea0fe1a2004a30d9114f6ed79f3e69bbe44d1ff3f41188f70abac</hash>
-			<size>64709</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>629e52f57a641659d015784b1ecf283f</sig>
-			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-		</package>
+		<marketversion>0.5.3</marketversion>
+		<marketvercode>2000501435</marketvercode>
 		<package>
 			<version>0.5.2</version>
 			<versioncode>2000501421</versioncode>
@@ -29936,14 +29923,27 @@ This software is free software, licensed under the GPLv3 or later license. The s
 			<sig>629e52f57a641659d015784b1ecf283f</sig>
 			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
+		<package>
+			<version>0.4.0</version>
+			<versioncode>2000400598</versioncode>
+			<apkname>org.projectmaxs.module.clipboard_2000400598.apk</apkname>
+			<srcname>org.projectmaxs.module.clipboard_2000400598_src.tar.gz</srcname>
+			<hash type="sha256">5177218412f9dcca9bece221484a8ed506e17140792ca57ec6d260c62eaf95f9</hash>
+			<size>60687</size>
+			<sdkver>10</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-08-22</added>
+			<sig>629e52f57a641659d015784b1ecf283f</sig>
+			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+		</package>
 	</application>
 	<application id="org.projectmaxs.module.contactsread">
 		<id>org.projectmaxs.module.contactsread</id>
 		<added>2013-10-10</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2017-12-15</lastupdated>
 		<name>MAXS Module ContactsRead</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.contactsread.2000501435.png</icon>
+		<icon>org.projectmaxs.module.contactsread.2000501421.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &lt;a href=&quot;fdroid.app:org.projectmaxs.main&quot;&gt;MAXS Main&lt;/a&gt; and a configured MAXS Transport (e.g., &lt;a href=&quot;fdroid.app:org.projectmaxs.transport.xmpp&quot;&gt;MAXS Transport XMPP&lt;/a&gt;) to make use of it.&lt;/p&gt;&lt;p&gt;With this module, you can query your contact list:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;contact num &amp;lt;number&amp;gt;&lt;/b&gt; - Lookup a contact by number&lt;/li&gt;&lt;li&gt; &lt;b&gt;contact name &amp;lt;contact name&amp;gt;&lt;/b&gt; - Lookup a contact by name&lt;/li&gt;&lt;li&gt; &lt;b&gt;contact nick &amp;lt;contact nickname&amp;gt;&lt;/b&gt; - Lookup contact by nickname&lt;/li&gt;&lt;li&gt; &lt;b&gt;contact mobile &amp;lt;number&amp;gt;&lt;/b&gt; - Lookup contact by mobile number&lt;/li&gt;&lt;li&gt; &lt;b&gt;contact lookup &amp;lt;contact info&amp;gt;&lt;/b&gt; - Lookup a contact&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;This module is used by other modules (such as smssend) and must be installed for them to work properly.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>System</categories>
@@ -29954,21 +29954,8 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>17hnvYUhfGqnF8MQhQRsqttySn6fe9ebtp</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.5.4</marketversion>
-		<marketvercode>2000501489</marketvercode>
-		<package>
-			<version>0.5.3</version>
-			<versioncode>2000501435</versioncode>
-			<apkname>org.projectmaxs.module.contactsread_2000501435.apk</apkname>
-			<srcname>org.projectmaxs.module.contactsread_2000501435_src.tar.gz</srcname>
-			<hash type="sha256">759522575285a900296e081a1d7b9083ac6eb66210394def0196b59c624cb748</hash>
-			<size>65601</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>b0175a838b63c668d7775e2c4b53783c</sig>
-			<permissions>READ_CONTACTS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-		</package>
+		<marketversion>0.5.3</marketversion>
+		<marketvercode>2000501435</marketvercode>
 		<package>
 			<version>0.5.2</version>
 			<versioncode>2000501421</versioncode>
@@ -29995,14 +29982,27 @@ This software is free software, licensed under the GPLv3 or later license. The s
 			<sig>b0175a838b63c668d7775e2c4b53783c</sig>
 			<permissions>READ_CONTACTS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
+		<package>
+			<version>0.4.0</version>
+			<versioncode>2000400598</versioncode>
+			<apkname>org.projectmaxs.module.contactsread_2000400598.apk</apkname>
+			<srcname>org.projectmaxs.module.contactsread_2000400598_src.tar.gz</srcname>
+			<hash type="sha256">8400a05703b11d2af3ab1938662c5778b69e29c7fcdac5fa89caecfb4cc241f5</hash>
+			<size>61545</size>
+			<sdkver>10</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-08-22</added>
+			<sig>b0175a838b63c668d7775e2c4b53783c</sig>
+			<permissions>READ_CONTACTS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+		</package>
 	</application>
 	<application id="org.projectmaxs.module.fileread">
 		<id>org.projectmaxs.module.fileread</id>
 		<added>2013-10-10</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2017-12-15</lastupdated>
 		<name>MAXS Module FileRead</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.fileread.2000501435.png</icon>
+		<icon>org.projectmaxs.module.fileread.2000501421.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>System</categories>
@@ -30013,21 +30013,8 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>17hnvYUhfGqnF8MQhQRsqttySn6fe9ebtp</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.5.4</marketversion>
-		<marketvercode>2000501489</marketvercode>
-		<package>
-			<version>0.5.3</version>
-			<versioncode>2000501435</versioncode>
-			<apkname>org.projectmaxs.module.fileread_2000501435.apk</apkname>
-			<srcname>org.projectmaxs.module.fileread_2000501435_src.tar.gz</srcname>
-			<hash type="sha256">68752c6d1c868e5a9920dc802b3388aaccf1fcfbdf0121041989ab470b25a669</hash>
-			<size>69091</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>91e915621e039a4df2d01726d929e1dd</sig>
-			<permissions>READ_EXTERNAL_STORAGE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.USE_OUTGOING_FILETRANSFER_SERVICE</permissions>
-		</package>
+		<marketversion>0.5.3</marketversion>
+		<marketvercode>2000501435</marketvercode>
 		<package>
 			<version>0.5.2</version>
 			<versioncode>2000501421</versioncode>
@@ -30054,14 +30041,27 @@ This software is free software, licensed under the GPLv3 or later license. The s
 			<sig>91e915621e039a4df2d01726d929e1dd</sig>
 			<permissions>READ_EXTERNAL_STORAGE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.USE_OUTGOING_FILETRANSFER_SERVICE</permissions>
 		</package>
+		<package>
+			<version>0.4.0</version>
+			<versioncode>2000400598</versioncode>
+			<apkname>org.projectmaxs.module.fileread_2000400598.apk</apkname>
+			<srcname>org.projectmaxs.module.fileread_2000400598_src.tar.gz</srcname>
+			<hash type="sha256">1ff1590b14368442d1322ec29a9bf25977efd640b2adf350d88985c106844f21</hash>
+			<size>65063</size>
+			<sdkver>10</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-08-22</added>
+			<sig>91e915621e039a4df2d01726d929e1dd</sig>
+			<permissions>READ_EXTERNAL_STORAGE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.USE_OUTGOING_FILETRANSFER_SERVICE</permissions>
+		</package>
 	</application>
 	<application id="org.projectmaxs.module.filewrite">
 		<id>org.projectmaxs.module.filewrite</id>
 		<added>2013-10-10</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2017-12-15</lastupdated>
 		<name>MAXS Module FileWrite</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.filewrite.2000501435.png</icon>
+		<icon>org.projectmaxs.module.filewrite.2000501421.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>System</categories>
@@ -30072,21 +30072,8 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>17hnvYUhfGqnF8MQhQRsqttySn6fe9ebtp</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.5.4</marketversion>
-		<marketvercode>2000501489</marketvercode>
-		<package>
-			<version>0.5.3</version>
-			<versioncode>2000501435</versioncode>
-			<apkname>org.projectmaxs.module.filewrite_2000501435.apk</apkname>
-			<srcname>org.projectmaxs.module.filewrite_2000501435_src.tar.gz</srcname>
-			<hash type="sha256">1a88c62987d0c858fae7f5faa1f9efa8576f6a1bc18db05bed2961fff7c1fa54</hash>
-			<size>65789</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>0197d84967bb0976ef622de56518a977</sig>
-			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-		</package>
+		<marketversion>0.5.3</marketversion>
+		<marketvercode>2000501435</marketvercode>
 		<package>
 			<version>0.5.2</version>
 			<versioncode>2000501421</versioncode>
@@ -30113,14 +30100,27 @@ This software is free software, licensed under the GPLv3 or later license. The s
 			<sig>0197d84967bb0976ef622de56518a977</sig>
 			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
+		<package>
+			<version>0.4.0</version>
+			<versioncode>2000400598</versioncode>
+			<apkname>org.projectmaxs.module.filewrite_2000400598.apk</apkname>
+			<srcname>org.projectmaxs.module.filewrite_2000400598_src.tar.gz</srcname>
+			<hash type="sha256">5c67e90c39053c41c27a9b68ee29c65b4ca2d00ad59600c647112573f8745475</hash>
+			<size>61709</size>
+			<sdkver>10</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-08-22</added>
+			<sig>0197d84967bb0976ef622de56518a977</sig>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+		</package>
 	</application>
 	<application id="org.projectmaxs.module.locationfine">
 		<id>org.projectmaxs.module.locationfine</id>
 		<added>2014-02-10</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2017-12-15</lastupdated>
 		<name>MAXS Module LocationFine</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.locationfine.2000501435.png</icon>
+		<icon>org.projectmaxs.module.locationfine.2000501421.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>System</categories>
@@ -30131,21 +30131,8 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>17hnvYUhfGqnF8MQhQRsqttySn6fe9ebtp</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.5.4</marketversion>
-		<marketvercode>2000501489</marketvercode>
-		<package>
-			<version>0.5.3</version>
-			<versioncode>2000501435</versioncode>
-			<apkname>org.projectmaxs.module.locationfine_2000501435.apk</apkname>
-			<srcname>org.projectmaxs.module.locationfine_2000501435_src.tar.gz</srcname>
-			<hash type="sha256">c8ae3a6d330bdbd7eb0f30fe1edf77b866a0ee58a6aad60e9ab1b53fc9f944f3</hash>
-			<size>69247</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>c83268fec3ef30e572ea83c8d9ed8939</sig>
-			<permissions>ACCESS_FINE_LOCATION,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-		</package>
+		<marketversion>0.5.3</marketversion>
+		<marketvercode>2000501435</marketvercode>
 		<package>
 			<version>0.5.2</version>
 			<versioncode>2000501421</versioncode>
@@ -30172,6 +30159,19 @@ This software is free software, licensed under the GPLv3 or later license. The s
 			<sig>c83268fec3ef30e572ea83c8d9ed8939</sig>
 			<permissions>ACCESS_FINE_LOCATION,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
+		<package>
+			<version>0.4.0</version>
+			<versioncode>2000400598</versioncode>
+			<apkname>org.projectmaxs.module.locationfine_2000400598.apk</apkname>
+			<srcname>org.projectmaxs.module.locationfine_2000400598_src.tar.gz</srcname>
+			<hash type="sha256">17b2d1fa308a1c4f1e99f11419e08541cbbd2cbc56fe6da31dae3a0fd3e179cb</hash>
+			<size>63794</size>
+			<sdkver>10</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-08-22</added>
+			<sig>c83268fec3ef30e572ea83c8d9ed8939</sig>
+			<permissions>ACCESS_FINE_LOCATION,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+		</package>
 	</application>
 	<application id="org.projectmaxs.module.misc">
 		<id>org.projectmaxs.module.misc</id>
@@ -30190,8 +30190,8 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>17hnvYUhfGqnF8MQhQRsqttySn6fe9ebtp</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.5.4</marketversion>
-		<marketvercode>2000501489</marketvercode>
+		<marketversion>0.5.3</marketversion>
+		<marketvercode>2000501435</marketvercode>
 		<package>
 			<version>0.5.2</version>
 			<versioncode>2000501421</versioncode>
@@ -30235,10 +30235,10 @@ This software is free software, licensed under the GPLv3 or later license. The s
 	<application id="org.projectmaxs.module.nfc">
 		<id>org.projectmaxs.module.nfc</id>
 		<added>2014-08-02</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2017-12-15</lastupdated>
 		<name>MAXS Module NFC</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.nfc.2000501435.png</icon>
+		<icon>org.projectmaxs.module.nfc.2000501421.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>System</categories>
@@ -30249,21 +30249,8 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>17hnvYUhfGqnF8MQhQRsqttySn6fe9ebtp</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.5.4</marketversion>
-		<marketvercode>2000501489</marketvercode>
-		<package>
-			<version>0.5.3</version>
-			<versioncode>2000501435</versioncode>
-			<apkname>org.projectmaxs.module.nfc_2000501435.apk</apkname>
-			<srcname>org.projectmaxs.module.nfc_2000501435_src.tar.gz</srcname>
-			<hash type="sha256">4843bb42b6690d590099b49e69a96770d11833d6ef42391f38b0dd6aa7dd4f22</hash>
-			<size>67048</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>53ebae3eb667faaa9cde39b2367eb786</sig>
-			<permissions>NFC,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-		</package>
+		<marketversion>0.5.3</marketversion>
+		<marketvercode>2000501435</marketvercode>
 		<package>
 			<version>0.5.2</version>
 			<versioncode>2000501421</versioncode>
@@ -30290,14 +30277,27 @@ This software is free software, licensed under the GPLv3 or later license. The s
 			<sig>53ebae3eb667faaa9cde39b2367eb786</sig>
 			<permissions>NFC,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
+		<package>
+			<version>0.4.0</version>
+			<versioncode>2000400598</versioncode>
+			<apkname>org.projectmaxs.module.nfc_2000400598.apk</apkname>
+			<srcname>org.projectmaxs.module.nfc_2000400598_src.tar.gz</srcname>
+			<hash type="sha256">a4e12b8c2c243c0135a478f1eac4ed140af25b828a1dc9c60ee198907ef40eac</hash>
+			<size>62959</size>
+			<sdkver>10</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-08-22</added>
+			<sig>53ebae3eb667faaa9cde39b2367eb786</sig>
+			<permissions>NFC,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+		</package>
 	</application>
 	<application id="org.projectmaxs.module.notification">
 		<id>org.projectmaxs.module.notification</id>
 		<added>2014-06-07</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2017-12-15</lastupdated>
 		<name>MAXS Module Notification</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.notification.2000501435.png</icon>
+		<icon>org.projectmaxs.module.notification.2000501421.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>System</categories>
@@ -30308,21 +30308,8 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>17hnvYUhfGqnF8MQhQRsqttySn6fe9ebtp</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.5.4</marketversion>
-		<marketvercode>2000501489</marketvercode>
-		<package>
-			<version>0.5.3</version>
-			<versioncode>2000501435</versioncode>
-			<apkname>org.projectmaxs.module.notification_2000501435.apk</apkname>
-			<srcname>org.projectmaxs.module.notification_2000501435_src.tar.gz</srcname>
-			<hash type="sha256">d9b086c870cef28778f8da2ca362f3443fda06de5494b181444f96652987aafb</hash>
-			<size>66296</size>
-			<sdkver>18</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>a6cc0e86bff6aacd7cb19f2f673bc9de</sig>
-			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-		</package>
+		<marketversion>0.5.3</marketversion>
+		<marketvercode>2000501435</marketvercode>
 		<package>
 			<version>0.5.2</version>
 			<versioncode>2000501421</versioncode>
@@ -30349,14 +30336,27 @@ This software is free software, licensed under the GPLv3 or later license. The s
 			<sig>a6cc0e86bff6aacd7cb19f2f673bc9de</sig>
 			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
+		<package>
+			<version>0.4.0</version>
+			<versioncode>2000400598</versioncode>
+			<apkname>org.projectmaxs.module.notification_2000400598.apk</apkname>
+			<srcname>org.projectmaxs.module.notification_2000400598_src.tar.gz</srcname>
+			<hash type="sha256">079baa6cb1c58a9d775a9312bb64d5ade19d0732dfc9ccd334766fdd1c8a8a54</hash>
+			<size>62263</size>
+			<sdkver>18</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-08-22</added>
+			<sig>a6cc0e86bff6aacd7cb19f2f673bc9de</sig>
+			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+		</package>
 	</application>
 	<application id="org.projectmaxs.module.phonestateread">
 		<id>org.projectmaxs.module.phonestateread</id>
 		<added>2013-10-10</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2017-12-15</lastupdated>
 		<name>MAXS Module PhonestateRead</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.phonestateread.2000501435.png</icon>
+		<icon>org.projectmaxs.module.phonestateread.2000501421.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>System</categories>
@@ -30367,21 +30367,8 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>17hnvYUhfGqnF8MQhQRsqttySn6fe9ebtp</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.5.4</marketversion>
-		<marketvercode>2000501489</marketvercode>
-		<package>
-			<version>0.5.3</version>
-			<versioncode>2000501435</versioncode>
-			<apkname>org.projectmaxs.module.phonestateread_2000501435.apk</apkname>
-			<srcname>org.projectmaxs.module.phonestateread_2000501435_src.tar.gz</srcname>
-			<hash type="sha256">0de7b9ce8de5c03accf790c6102d4305e973b94e3a67691d01f8a8b0a9d5e813</hash>
-			<size>65925</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>125b8770d8b1f726df335c7afef5c811</sig>
-			<permissions>READ_PHONE_STATE,org.projectmaxs.permission.READ_CONTACTS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-		</package>
+		<marketversion>0.5.3</marketversion>
+		<marketvercode>2000501435</marketvercode>
 		<package>
 			<version>0.5.2</version>
 			<versioncode>2000501421</versioncode>
@@ -30408,14 +30395,27 @@ This software is free software, licensed under the GPLv3 or later license. The s
 			<sig>125b8770d8b1f726df335c7afef5c811</sig>
 			<permissions>READ_PHONE_STATE,org.projectmaxs.permission.READ_CONTACTS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
+		<package>
+			<version>0.4.0</version>
+			<versioncode>2000400598</versioncode>
+			<apkname>org.projectmaxs.module.phonestateread_2000400598.apk</apkname>
+			<srcname>org.projectmaxs.module.phonestateread_2000400598_src.tar.gz</srcname>
+			<hash type="sha256">1e6cf694a8e66cadec9116f4c812649aa1fa1cd47550c83caf0e5373b4b7e620</hash>
+			<size>61480</size>
+			<sdkver>10</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-08-22</added>
+			<sig>125b8770d8b1f726df335c7afef5c811</sig>
+			<permissions>READ_PHONE_STATE,org.projectmaxs.permission.READ_CONTACTS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+		</package>
 	</application>
 	<application id="org.projectmaxs.module.ringermode">
 		<id>org.projectmaxs.module.ringermode</id>
 		<added>2013-10-10</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2017-12-15</lastupdated>
 		<name>MAXS Module Ringermode</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.ringermode.2000501435.png</icon>
+		<icon>org.projectmaxs.module.ringermode.2000501421.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>System</categories>
@@ -30426,21 +30426,8 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>17hnvYUhfGqnF8MQhQRsqttySn6fe9ebtp</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.5.4</marketversion>
-		<marketvercode>2000501489</marketvercode>
-		<package>
-			<version>0.5.3</version>
-			<versioncode>2000501435</versioncode>
-			<apkname>org.projectmaxs.module.ringermode_2000501435.apk</apkname>
-			<srcname>org.projectmaxs.module.ringermode_2000501435_src.tar.gz</srcname>
-			<hash type="sha256">848f89a9ed7e7bc2f3863d86bfcfbdd70b1d6da6fa1b054c7ea45c6535dc8a83</hash>
-			<size>65068</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>368157a043390ee41ffa88274e7d21b7</sig>
-			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-		</package>
+		<marketversion>0.5.3</marketversion>
+		<marketvercode>2000501435</marketvercode>
 		<package>
 			<version>0.5.2</version>
 			<versioncode>2000501421</versioncode>
@@ -30467,14 +30454,27 @@ This software is free software, licensed under the GPLv3 or later license. The s
 			<sig>368157a043390ee41ffa88274e7d21b7</sig>
 			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
+		<package>
+			<version>0.4.0</version>
+			<versioncode>2000400598</versioncode>
+			<apkname>org.projectmaxs.module.ringermode_2000400598.apk</apkname>
+			<srcname>org.projectmaxs.module.ringermode_2000400598_src.tar.gz</srcname>
+			<hash type="sha256">84a9a642e39b46fed509e9094f500a15d3771274add088370b96829796495fcd</hash>
+			<size>61044</size>
+			<sdkver>10</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-08-22</added>
+			<sig>368157a043390ee41ffa88274e7d21b7</sig>
+			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+		</package>
 	</application>
 	<application id="org.projectmaxs.module.shell">
 		<id>org.projectmaxs.module.shell</id>
 		<added>2014-02-12</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2017-12-15</lastupdated>
 		<name>MAXS Module Shell</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.shell.2000501435.png</icon>
+		<icon>org.projectmaxs.module.shell.2000501421.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>System</categories>
@@ -30485,21 +30485,8 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>17hnvYUhfGqnF8MQhQRsqttySn6fe9ebtp</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.5.4</marketversion>
-		<marketvercode>2000501489</marketvercode>
-		<package>
-			<version>0.5.3</version>
-			<versioncode>2000501435</versioncode>
-			<apkname>org.projectmaxs.module.shell_2000501435.apk</apkname>
-			<srcname>org.projectmaxs.module.shell_2000501435_src.tar.gz</srcname>
-			<hash type="sha256">91e97bd665f4c3e738414ebc80407a93926f9de21f7e0ede2efb69c92482f805</hash>
-			<size>77384</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>4f46baa266c349e03e0afd6e734d7bae</sig>
-			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-		</package>
+		<marketversion>0.5.3</marketversion>
+		<marketvercode>2000501435</marketvercode>
 		<package>
 			<version>0.5.2</version>
 			<versioncode>2000501421</versioncode>
@@ -30526,14 +30513,27 @@ This software is free software, licensed under the GPLv3 or later license. The s
 			<sig>4f46baa266c349e03e0afd6e734d7bae</sig>
 			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
+		<package>
+			<version>0.4.0</version>
+			<versioncode>2000400598</versioncode>
+			<apkname>org.projectmaxs.module.shell_2000400598.apk</apkname>
+			<srcname>org.projectmaxs.module.shell_2000400598_src.tar.gz</srcname>
+			<hash type="sha256">19b06fa605604c2e6fada276d4f14f467bb44188ef7a5e2fbef1bd700943e970</hash>
+			<size>73241</size>
+			<sdkver>10</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-08-22</added>
+			<sig>4f46baa266c349e03e0afd6e734d7bae</sig>
+			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+		</package>
 	</application>
 	<application id="org.projectmaxs.module.smsnotify">
 		<id>org.projectmaxs.module.smsnotify</id>
 		<added>2013-10-10</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2017-12-15</lastupdated>
 		<name>MAXS Module SmsNotify</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.smsnotify.2000501435.png</icon>
+		<icon>org.projectmaxs.module.smsnotify.2000501421.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>System</categories>
@@ -30544,21 +30544,8 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>17hnvYUhfGqnF8MQhQRsqttySn6fe9ebtp</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.5.4</marketversion>
-		<marketvercode>2000501489</marketvercode>
-		<package>
-			<version>0.5.3</version>
-			<versioncode>2000501435</versioncode>
-			<apkname>org.projectmaxs.module.smsnotify_2000501435.apk</apkname>
-			<srcname>org.projectmaxs.module.smsnotify_2000501435_src.tar.gz</srcname>
-			<hash type="sha256">a0cb3740c2b355716239f9353a8a4cd641e3060e804cc462dd4f042b8dc2e129</hash>
-			<size>64883</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>1ce4af43e95772dbf12507214aa18f75</sig>
-			<permissions>RECEIVE_SMS,org.projectmaxs.permission.READ_CONTACTS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-		</package>
+		<marketversion>0.5.3</marketversion>
+		<marketvercode>2000501435</marketvercode>
 		<package>
 			<version>0.5.2</version>
 			<versioncode>2000501421</versioncode>
@@ -30585,14 +30572,27 @@ This software is free software, licensed under the GPLv3 or later license. The s
 			<sig>1ce4af43e95772dbf12507214aa18f75</sig>
 			<permissions>RECEIVE_SMS,org.projectmaxs.permission.READ_CONTACTS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
+		<package>
+			<version>0.4.0</version>
+			<versioncode>2000400598</versioncode>
+			<apkname>org.projectmaxs.module.smsnotify_2000400598.apk</apkname>
+			<srcname>org.projectmaxs.module.smsnotify_2000400598_src.tar.gz</srcname>
+			<hash type="sha256">e1f61b3fd6f78965d9026c5ef96e6e705e9fdbe9dbe089593e1d0d71cade9ab5</hash>
+			<size>60835</size>
+			<sdkver>10</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-08-22</added>
+			<sig>1ce4af43e95772dbf12507214aa18f75</sig>
+			<permissions>RECEIVE_SMS,org.projectmaxs.permission.READ_CONTACTS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+		</package>
 	</application>
 	<application id="org.projectmaxs.module.smsread">
 		<id>org.projectmaxs.module.smsread</id>
 		<added>2013-10-10</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2017-12-15</lastupdated>
 		<name>MAXS Module SmsRead</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.smsread.2000501435.png</icon>
+		<icon>org.projectmaxs.module.smsread.2000501421.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>System</categories>
@@ -30603,21 +30603,8 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>17hnvYUhfGqnF8MQhQRsqttySn6fe9ebtp</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.5.4</marketversion>
-		<marketvercode>2000501489</marketvercode>
-		<package>
-			<version>0.5.3</version>
-			<versioncode>2000501435</versioncode>
-			<apkname>org.projectmaxs.module.smsread_2000501435.apk</apkname>
-			<srcname>org.projectmaxs.module.smsread_2000501435_src.tar.gz</srcname>
-			<hash type="sha256">95d384570fb1c5eb11effa1a4e10f1115f431582b887359c0aa5307b04590d91</hash>
-			<size>65200</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>b3f03d8838ef7bf5aaf9131baa4f1bf3</sig>
-			<permissions>READ_SMS,org.projectmaxs.permission.READ_CONTACTS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-		</package>
+		<marketversion>0.5.3</marketversion>
+		<marketvercode>2000501435</marketvercode>
 		<package>
 			<version>0.5.2</version>
 			<versioncode>2000501421</versioncode>
@@ -30644,14 +30631,27 @@ This software is free software, licensed under the GPLv3 or later license. The s
 			<sig>b3f03d8838ef7bf5aaf9131baa4f1bf3</sig>
 			<permissions>READ_SMS,org.projectmaxs.permission.READ_CONTACTS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
+		<package>
+			<version>0.4.0</version>
+			<versioncode>2000400598</versioncode>
+			<apkname>org.projectmaxs.module.smsread_2000400598.apk</apkname>
+			<srcname>org.projectmaxs.module.smsread_2000400598_src.tar.gz</srcname>
+			<hash type="sha256">db64d4c2b186a7ef51e4ce083b28630acf4e0d7117cd5a9fcbe7a90cd9e5814a</hash>
+			<size>61140</size>
+			<sdkver>10</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-08-22</added>
+			<sig>b3f03d8838ef7bf5aaf9131baa4f1bf3</sig>
+			<permissions>READ_SMS,org.projectmaxs.permission.READ_CONTACTS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+		</package>
 	</application>
 	<application id="org.projectmaxs.module.smssend">
 		<id>org.projectmaxs.module.smssend</id>
 		<added>2013-10-10</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2017-12-15</lastupdated>
 		<name>MAXS Module SmsSend</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.smssend.2000501435.png</icon>
+		<icon>org.projectmaxs.module.smssend.2000501421.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>System</categories>
@@ -30662,21 +30662,8 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>17hnvYUhfGqnF8MQhQRsqttySn6fe9ebtp</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.5.4</marketversion>
-		<marketvercode>2000501489</marketvercode>
-		<package>
-			<version>0.5.3</version>
-			<versioncode>2000501435</versioncode>
-			<apkname>org.projectmaxs.module.smssend_2000501435.apk</apkname>
-			<srcname>org.projectmaxs.module.smssend_2000501435_src.tar.gz</srcname>
-			<hash type="sha256">8fcb72782ffe1b02fe80ae631852c054199a36f15afe35ba0f29fa8a3fb360f3</hash>
-			<size>73581</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>0a2267cea5a6c020f66921a5c1e1e577</sig>
-			<permissions>SEND_SMS,org.projectmaxs.permission.READ_CONTACTS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.USE_PHONESTATE_READ,org.projectmaxs.permission.WRITE_SMS</permissions>
-		</package>
+		<marketversion>0.5.3</marketversion>
+		<marketvercode>2000501435</marketvercode>
 		<package>
 			<version>0.5.2</version>
 			<versioncode>2000501421</versioncode>
@@ -30703,14 +30690,27 @@ This software is free software, licensed under the GPLv3 or later license. The s
 			<sig>0a2267cea5a6c020f66921a5c1e1e577</sig>
 			<permissions>SEND_SMS,org.projectmaxs.permission.READ_CONTACTS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.USE_PHONESTATE_READ,org.projectmaxs.permission.WRITE_SMS</permissions>
 		</package>
+		<package>
+			<version>0.4.0</version>
+			<versioncode>2000400598</versioncode>
+			<apkname>org.projectmaxs.module.smssend_2000400598.apk</apkname>
+			<srcname>org.projectmaxs.module.smssend_2000400598_src.tar.gz</srcname>
+			<hash type="sha256">349cadeaddb5da1989b32d4248eee95cd94b2e77ae1f0789b438a3b7c8f2ec4b</hash>
+			<size>68181</size>
+			<sdkver>10</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-08-22</added>
+			<sig>0a2267cea5a6c020f66921a5c1e1e577</sig>
+			<permissions>SEND_SMS,org.projectmaxs.permission.READ_CONTACTS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE,org.projectmaxs.permission.WRITE_SMS</permissions>
+		</package>
 	</application>
 	<application id="org.projectmaxs.module.smswrite">
 		<id>org.projectmaxs.module.smswrite</id>
 		<added>2013-10-10</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2017-12-15</lastupdated>
 		<name>MAXS Module SmsWrite</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.smswrite.2000501435.png</icon>
+		<icon>org.projectmaxs.module.smswrite.2000501421.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>System</categories>
@@ -30721,21 +30721,8 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>17hnvYUhfGqnF8MQhQRsqttySn6fe9ebtp</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.5.4</marketversion>
-		<marketvercode>2000501489</marketvercode>
-		<package>
-			<version>0.5.3</version>
-			<versioncode>2000501435</versioncode>
-			<apkname>org.projectmaxs.module.smswrite_2000501435.apk</apkname>
-			<srcname>org.projectmaxs.module.smswrite_2000501435_src.tar.gz</srcname>
-			<hash type="sha256">c760b8e95c3a1cec11172e8b2d9ba2cfc055204ff277d7191e9c2359cb6ec9c7</hash>
-			<size>65100</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>d60c97569567ccaca9e09883926ec015</sig>
-			<permissions>READ_SMS,WRITE_SMS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-		</package>
+		<marketversion>0.5.3</marketversion>
+		<marketvercode>2000501435</marketvercode>
 		<package>
 			<version>0.5.2</version>
 			<versioncode>2000501421</versioncode>
@@ -30762,14 +30749,27 @@ This software is free software, licensed under the GPLv3 or later license. The s
 			<sig>d60c97569567ccaca9e09883926ec015</sig>
 			<permissions>READ_SMS,WRITE_SMS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
+		<package>
+			<version>0.4.0</version>
+			<versioncode>2000400598</versioncode>
+			<apkname>org.projectmaxs.module.smswrite_2000400598.apk</apkname>
+			<srcname>org.projectmaxs.module.smswrite_2000400598_src.tar.gz</srcname>
+			<hash type="sha256">a2d33c037f6ef832be909855619634ea8e11a8d5198b1daf082d8ce6c87a2728</hash>
+			<size>61013</size>
+			<sdkver>10</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-08-22</added>
+			<sig>d60c97569567ccaca9e09883926ec015</sig>
+			<permissions>READ_SMS,WRITE_SMS,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+		</package>
 	</application>
 	<application id="org.projectmaxs.module.wifiaccess">
 		<id>org.projectmaxs.module.wifiaccess</id>
 		<added>2014-02-10</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2017-12-15</lastupdated>
 		<name>MAXS Module WifiAccess</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.wifiaccess.2000501435.png</icon>
+		<icon>org.projectmaxs.module.wifiaccess.2000501421.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>System</categories>
@@ -30780,21 +30780,8 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>17hnvYUhfGqnF8MQhQRsqttySn6fe9ebtp</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.5.4</marketversion>
-		<marketvercode>2000501489</marketvercode>
-		<package>
-			<version>0.5.3</version>
-			<versioncode>2000501435</versioncode>
-			<apkname>org.projectmaxs.module.wifiaccess_2000501435.apk</apkname>
-			<srcname>org.projectmaxs.module.wifiaccess_2000501435_src.tar.gz</srcname>
-			<hash type="sha256">e49847de9933f9d0f6393c9ba8cf6cb855497bcb6b03a75205d9049205b61224</hash>
-			<size>66309</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>2908e5ec5a76f1d3bf9555206cb41fc1</sig>
-			<permissions>ACCESS_WIFI_STATE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-		</package>
+		<marketversion>0.5.3</marketversion>
+		<marketvercode>2000501435</marketvercode>
 		<package>
 			<version>0.5.2</version>
 			<versioncode>2000501421</versioncode>
@@ -30821,14 +30808,27 @@ This software is free software, licensed under the GPLv3 or later license. The s
 			<sig>2908e5ec5a76f1d3bf9555206cb41fc1</sig>
 			<permissions>ACCESS_WIFI_STATE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
+		<package>
+			<version>0.4.0</version>
+			<versioncode>2000400598</versioncode>
+			<apkname>org.projectmaxs.module.wifiaccess_2000400598.apk</apkname>
+			<srcname>org.projectmaxs.module.wifiaccess_2000400598_src.tar.gz</srcname>
+			<hash type="sha256">a712a8577d0badd0df3ba82d07cb601ba6dbeff0cbc960b796d1c9d3dc05c30c</hash>
+			<size>62266</size>
+			<sdkver>10</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-08-22</added>
+			<sig>2908e5ec5a76f1d3bf9555206cb41fc1</sig>
+			<permissions>ACCESS_WIFI_STATE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+		</package>
 	</application>
 	<application id="org.projectmaxs.module.wifichange">
 		<id>org.projectmaxs.module.wifichange</id>
 		<added>2014-02-10</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2017-12-15</lastupdated>
 		<name>MAXS Module WifiChange</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.wifichange.2000501435.png</icon>
+		<icon>org.projectmaxs.module.wifichange.2000501421.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>System</categories>
@@ -30839,21 +30839,8 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>17hnvYUhfGqnF8MQhQRsqttySn6fe9ebtp</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.5.4</marketversion>
-		<marketvercode>2000501489</marketvercode>
-		<package>
-			<version>0.5.3</version>
-			<versioncode>2000501435</versioncode>
-			<apkname>org.projectmaxs.module.wifichange_2000501435.apk</apkname>
-			<srcname>org.projectmaxs.module.wifichange_2000501435_src.tar.gz</srcname>
-			<hash type="sha256">37cf0962a09db659bec4041ac7a0e5d23c2b31a6d4427758ea9e0fcd481b258b</hash>
-			<size>64652</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>f91b340dfdf67f7f67ae2c3d46db84a9</sig>
-			<permissions>CHANGE_WIFI_STATE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-		</package>
+		<marketversion>0.5.3</marketversion>
+		<marketvercode>2000501435</marketvercode>
 		<package>
 			<version>0.5.2</version>
 			<versioncode>2000501421</versioncode>
@@ -30880,14 +30867,27 @@ This software is free software, licensed under the GPLv3 or later license. The s
 			<sig>f91b340dfdf67f7f67ae2c3d46db84a9</sig>
 			<permissions>CHANGE_WIFI_STATE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
+		<package>
+			<version>0.4.0</version>
+			<versioncode>2000400598</versioncode>
+			<apkname>org.projectmaxs.module.wifichange_2000400598.apk</apkname>
+			<srcname>org.projectmaxs.module.wifichange_2000400598_src.tar.gz</srcname>
+			<hash type="sha256">c90b8e396acf2664185e4bd883cd1c8330bbf0a07be483d374e27e451f7c34eb</hash>
+			<size>60636</size>
+			<sdkver>10</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-08-22</added>
+			<sig>f91b340dfdf67f7f67ae2c3d46db84a9</sig>
+			<permissions>CHANGE_WIFI_STATE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+		</package>
 	</application>
 	<application id="org.projectmaxs.transport.xmpp">
 		<id>org.projectmaxs.transport.xmpp</id>
 		<added>2013-10-10</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2017-12-15</lastupdated>
 		<name>MAXS Transport XMPP</name>
 		<summary>XMPP Transport for MAXS</summary>
-		<icon>org.projectmaxs.transport.xmpp.2000501435.png</icon>
+		<icon>org.projectmaxs.transport.xmpp.2000501421.png</icon>
 		<desc>&lt;p&gt;This is the XMPP Transport for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and preferably some MAXS Modules to make use of it!&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>System</categories>
@@ -30898,21 +30898,8 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<donate>http://projectmaxs.org/donate</donate>
 		<bitcoin>17hnvYUhfGqnF8MQhQRsqttySn6fe9ebtp</bitcoin>
 		<flattr>2148361</flattr>
-		<marketversion>0.5.4</marketversion>
-		<marketvercode>2000501489</marketvercode>
-		<package>
-			<version>0.5.3</version>
-			<versioncode>2000501435</versioncode>
-			<apkname>org.projectmaxs.transport.xmpp_2000501435.apk</apkname>
-			<srcname>org.projectmaxs.transport.xmpp_2000501435_src.tar.gz</srcname>
-			<hash type="sha256">9c27cd47a3edeb39c513b1958fb870164f8a16765529966313422d21c2224b3d</hash>
-			<size>461580</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>8c427c889c26ca9350a5fab2f1a6d4cf</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,org.projectmaxs.permission.USE_INCOMING_FILETRANSFER_SERVICE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_TRANSPORT</permissions>
-		</package>
+		<marketversion>0.5.3</marketversion>
+		<marketvercode>2000501435</marketvercode>
 		<package>
 			<version>0.5.2</version>
 			<versioncode>2000501421</versioncode>
@@ -30936,6 +30923,19 @@ This software is free software, licensed under the GPLv3 or later license. The s
 			<sdkver>10</sdkver>
 			<targetSdkVersion>23</targetSdkVersion>
 			<added>2017-12-15</added>
+			<sig>8c427c889c26ca9350a5fab2f1a6d4cf</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,org.projectmaxs.permission.USE_INCOMING_FILETRANSFER_SERVICE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_TRANSPORT</permissions>
+		</package>
+		<package>
+			<version>0.4.0</version>
+			<versioncode>2000400598</versioncode>
+			<apkname>org.projectmaxs.transport.xmpp_2000400598.apk</apkname>
+			<srcname>org.projectmaxs.transport.xmpp_2000400598_src.tar.gz</srcname>
+			<hash type="sha256">26a61ade7b7d096148f298a3aa166ce0a960aef4c11489dc7b4a80bc2c0e55de</hash>
+			<size>447568</size>
+			<sdkver>10</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-08-22</added>
 			<sig>8c427c889c26ca9350a5fab2f1a6d4cf</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,org.projectmaxs.permission.USE_INCOMING_FILETRANSFER_SERVICE,org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_TRANSPORT</permissions>
 		</package>
@@ -32048,10 +32048,10 @@ There are many meme customization options available:
 	<application id="com.mkulesh.micromath.plus">
 		<id>com.mkulesh.micromath.plus</id>
 		<added>2017-08-15</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2017-12-15</lastupdated>
 		<name>microMathematics Plus</name>
 		<summary>Computer algebra system</summary>
-		<icon>com.mkulesh.micromath.plus.305.png</icon>
+		<icon>com.mkulesh.micromath.plus.304.png</icon>
 		<desc>&lt;p&gt;With microMathematics Plus, you can not only perform mathematical calculations in naturally readable form, but can also create and manage your own collection of interactive formulas!&lt;/p&gt;&lt;p&gt;The microMathematics Plus is a revolutionary new kind of mobile calculator. It is the world's first scientific graphing calculator and function plotter on Android oriented around a worksheet. It allows live editing of mathematical identities combined with highly accurate computations.&lt;/p&gt;&lt;p&gt;Not only students, but also everybody who likes mathematics or needs more than just a basic calculator will benefit from this amazing technique of mathematical calculations and plotting.&lt;/p&gt;&lt;p&gt;Benefits and features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Verification, validation, documentation and re-use of mathematical calculations&lt;/li&gt;&lt;li&gt; Works on smartphone or tablet in portrait and landscape mode&lt;/li&gt;&lt;li&gt; Supports all commonly used mathematical operations&lt;/li&gt;&lt;li&gt; Mathematical expressions are written in an intuitive and naturally readable form&lt;/li&gt;&lt;li&gt; Powerful mathematical touch-screen editor with undo function makes editing easier&lt;/li&gt;&lt;li&gt; You can do multiple calculations and subsequently correct or change all used formulas&lt;/li&gt;&lt;li&gt; It is possible to store intermediate results into 1D, 2D, or 3D array that can improve calculation performance&lt;/li&gt;&lt;li&gt; Mathematical expressions are collected in a document, that includes not only formulas and plots, but also additional text and images (SVG format is also supported)&lt;/li&gt;&lt;li&gt; You can store your document on SD card and export it into LaTeX format or an image (SD writing permission is needed)&lt;/li&gt;&lt;li&gt; SD card on Android 6+ is also supported&lt;/li&gt;&lt;li&gt; The app contains detailed &quot;How to use&quot; page and several examples&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Languages: English, Russian, German.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Science &amp; Education</categories>
@@ -32059,21 +32059,8 @@ There are many meme customization options available:
 		<web/>
 		<source>https://github.com/mkulesh/microMathematics</source>
 		<tracker>https://github.com/mkulesh/microMathematics/issues</tracker>
-		<marketversion>2.16</marketversion>
-		<marketvercode>305</marketvercode>
-		<package>
-			<version>2.16</version>
-			<versioncode>305</versioncode>
-			<apkname>com.mkulesh.micromath.plus_305.apk</apkname>
-			<srcname>com.mkulesh.micromath.plus_305_src.tar.gz</srcname>
-			<hash type="sha256">e28794340a01642b04bfeb3a29dd37c3f8a239ffefbee71709963b8b9ea9f39c</hash>
-			<size>4462820</size>
-			<sdkver>14</sdkver>
-			<targetSdkVersion>26</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>84523a4cdcdb5430e1a404d98393bc1b</sig>
-			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
-		</package>
+		<marketversion>2.15.6</marketversion>
+		<marketvercode>304</marketvercode>
 		<package>
 			<version>2.15.6</version>
 			<versioncode>304</versioncode>
@@ -32097,6 +32084,19 @@ There are many meme customization options available:
 			<sdkver>9</sdkver>
 			<targetSdkVersion>25</targetSdkVersion>
 			<added>2017-11-28</added>
+			<sig>84523a4cdcdb5430e1a404d98393bc1b</sig>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
+		<package>
+			<version>2.15.4</version>
+			<versioncode>302</versioncode>
+			<apkname>com.mkulesh.micromath.plus_302.apk</apkname>
+			<srcname>com.mkulesh.micromath.plus_302_src.tar.gz</srcname>
+			<hash type="sha256">0cb7786cf5db335938e5f6608a525b3e0a206a64c7d839428e5ae0c30bfc1df3</hash>
+			<size>4281022</size>
+			<sdkver>9</sdkver>
+			<targetSdkVersion>25</targetSdkVersion>
+			<added>2017-10-08</added>
 			<sig>84523a4cdcdb5430e1a404d98393bc1b</sig>
 			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
@@ -32288,8 +32288,8 @@ There are many meme customization options available:
 		<source>https://github.com/ikarus23/MifareClassicTool</source>
 		<tracker>https://github.com/ikarus23/MifareClassicTool/issues</tracker>
 		<changelog>https://github.com/ikarus23/MifareClassicTool/raw/HEAD/CHANGELOG.txt</changelog>
-		<marketversion>2.2.2</marketversion>
-		<marketvercode>42</marketvercode>
+		<marketversion>2.2.1</marketversion>
+		<marketvercode>41</marketvercode>
 		<package>
 			<version>2.1.0</version>
 			<versioncode>39</versioncode>
@@ -34034,10 +34034,10 @@ There are many meme customization options available:
 	<application id="com.simplemobiletools.musicplayer">
 		<id>com.simplemobiletools.musicplayer</id>
 		<added>2016-07-05</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2017-12-15</lastupdated>
 		<name>Music Player</name>
 		<summary>A clean music player with a customizable widget</summary>
-		<icon>com.simplemobiletools.musicplayer.35.png</icon>
+		<icon>com.simplemobiletools.musicplayer.34.png</icon>
 		<desc>&lt;p&gt;A music player easily controllable from the status bar, home screen widget or by hardware buttons on your headset. You can sort the tracks by the Title or Artist, as well as change the Equalizer. Does not yet support filtering by artist or album, stay tuned!&lt;/p&gt;&lt;p&gt;It contains a widget with customizable text color, alpha and the color of the background.&lt;/p&gt;&lt;p&gt;Contains no ads or unnecessary permissions. It is fully opensource, provides a Dark theme too.&lt;/p&gt;</desc>
 		<license>Apache-2.0</license>
 		<categories>Multimedia</categories>
@@ -34046,21 +34046,8 @@ There are many meme customization options available:
 		<source>https://github.com/SimpleMobileTools/Simple-Music-Player</source>
 		<tracker>https://github.com/SimpleMobileTools/Simple-Music-Player/issues</tracker>
 		<changelog>https://github.com/SimpleMobileTools/Simple-Music-Player/blob/HEAD/CHANGELOG.md</changelog>
-		<marketversion>3.1.0</marketversion>
-		<marketvercode>35</marketvercode>
-		<package>
-			<version>3.1.0</version>
-			<versioncode>35</versioncode>
-			<apkname>com.simplemobiletools.musicplayer_35.apk</apkname>
-			<srcname>com.simplemobiletools.musicplayer_35_src.tar.gz</srcname>
-			<hash type="sha256">fd52d6aef7f1e2ceb5a6cd9110e62199a78bdbd422a1cc593a2c0c300b7aa34a</hash>
-			<size>3000267</size>
-			<sdkver>16</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>3a44ae34856ec03eb901c7f6261e74ad</sig>
-			<permissions>READ_EXTERNAL_STORAGE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
-		</package>
+		<marketversion>3.0.1</marketversion>
+		<marketvercode>34</marketvercode>
 		<package>
 			<version>3.0.1</version>
 			<versioncode>34</versioncode>
@@ -34086,6 +34073,19 @@ There are many meme customization options available:
 			<added>2017-12-07</added>
 			<sig>3a44ae34856ec03eb901c7f6261e74ad</sig>
 			<permissions>READ_EXTERNAL_STORAGE,READ_PHONE_STATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
+		<package>
+			<version>2.3.0</version>
+			<versioncode>32</versioncode>
+			<apkname>com.simplemobiletools.musicplayer_32.apk</apkname>
+			<srcname>com.simplemobiletools.musicplayer_32_src.tar.gz</srcname>
+			<hash type="sha256">890e4be14c3c7a745f593a76ff5813a762ab4c897c54310448639263c150a0fe</hash>
+			<size>2812291</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>26</targetSdkVersion>
+			<added>2017-11-05</added>
+			<sig>3a44ae34856ec03eb901c7f6261e74ad</sig>
+			<permissions>READ_EXTERNAL_STORAGE,READ_PHONE_STATE,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="max.music_cyclon">
@@ -34132,8 +34132,8 @@ There are many meme customization options available:
 		<web>http://www.muzei.co</web>
 		<source>https://github.com/romannurik/muzei</source>
 		<tracker>https://github.com/romannurik/muzei/issues</tracker>
-		<marketversion>2.4.0</marketversion>
-		<marketvercode>24016</marketvercode>
+		<marketversion>2.3.1</marketversion>
+		<marketvercode>23124</marketvercode>
 		<antifeatures>UpstreamNonFree</antifeatures>
 		<package>
 			<version>2.3.1</version>
@@ -34230,62 +34230,53 @@ There are many meme customization options available:
 		<added>2012-10-31</added>
 		<lastupdated>2017-11-28</lastupdated>
 		<name>My Expenses</name>
-		<summary>Easy to use personal finance manager: rich functionality and Open Source</summary>
+		<summary>Easy to use personal finance manager: rich functionality and Open Source.</summary>
 		<icon>org.totschnig.myexpenses.304.png</icon>
-		<desc>&lt;p&gt;My Expenses keeps track of your expenses and your income, directly on your smartphone and on your tablet.&lt;/p&gt;
+		<desc>My Expenses keeps track of your expenses and your income, directly on your smartphone and on your tablet.
 
-&lt;ul&gt;
-&lt;li&gt;Up to five accounts with &lt;b&gt;transfers&lt;/b&gt; (also between different currencies)&lt;/li&gt;
-&lt;li&gt;Unlimited number of &lt;b&gt;templates&lt;/b&gt; and up to three plans for &lt;b&gt;recurring&lt;/b&gt; transactions&lt;/li&gt;
-&lt;li&gt;Transactions can be &lt;b&gt;grouped&lt;/b&gt; (per day, week, month and year) and &lt;b&gt;filtered&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Export&lt;/b&gt; to QIF and CSV. &lt;b&gt;Import&lt;/b&gt; from QIF&lt;/li&gt;
-&lt;li&gt;Data can be protected by &lt;b&gt;password&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Theme&lt;/b&gt; (dark and light) and &lt;b&gt;font size&lt;/b&gt; can be customized&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Reconciliation&lt;/b&gt;: Easily compare transaction status with your bank statements&lt;/li&gt;
-&lt;li&gt;Homescreen &lt;b&gt;widget&lt;/b&gt; and &lt;b&gt;shortcuts&lt;/b&gt; for quick data entry&lt;/li&gt;
-&lt;/ul&gt;
+- Up to five accounts with &lt;b&gt;transfers&lt;/b&gt; (also between different currencies)
+- Unlimited number of &lt;b&gt;templates&lt;/b&gt; and up to three plans for &lt;b&gt;recurring&lt;/b&gt; transactions
+- Transactions can be &lt;b&gt;grouped&lt;/b&gt; (per day, week, month and year) and &lt;b&gt;filtered&lt;/b&gt;
+- &lt;b&gt;Export&lt;/b&gt; to QIF and CSV. &lt;b&gt;Import&lt;/b&gt; from QIF
+- Data can be protected by &lt;b&gt;password&lt;/b&gt;
+- &lt;b&gt;Theme&lt;/b&gt; (dark and light) and &lt;b&gt;font size&lt;/b&gt; can be customized
+- &lt;b&gt;Reconciliation&lt;/b&gt;: Easily compare transaction status with your bank statements
+- Homescreen &lt;b&gt;widget&lt;/b&gt; and &lt;b&gt;shortcuts&lt;/b&gt; for quick data entry
 
-&lt;p&gt;Premium features are unlocked by purchase of one of the following licence keys:&lt;/p&gt;
+Premium features are unlocked by purchase of one of the following licence keys:
 
-&lt;p&gt;&lt;b&gt;Contrib Key&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt;Contrib Key&lt;/b&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;No ads&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;Unlimited number of &lt;b&gt;accounts&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;Unlimited number of plans for &lt;b&gt;recurring&lt;/b&gt; transactions&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Pie chart&lt;/b&gt;: Visualize the statistical distribution of transactions per category over different periods (years, months, weeks, days)&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Split transaction&lt;/b&gt;: A single transaction can be split into multiple parts (categories and transfers)&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Print&lt;/b&gt; the transaction list to a PDF file&lt;/li&gt;
-&lt;li&gt;Define a &lt;b&gt;security question&lt;/b&gt; for recovering a lost password&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Image attachment&lt;/b&gt;: Capture via camera or select from gallery&lt;/li&gt;
-&lt;li&gt;Quick &lt;b&gt;template&lt;/b&gt; selection from homescreen &lt;b&gt;widget&lt;/b&gt;&lt;/li&gt;
-&lt;/ul&gt;
+- &lt;b&gt;No ads&lt;/b&gt;
+- Unlimited number of &lt;b&gt;accounts&lt;/b&gt;
+- Unlimited number of plans for &lt;b&gt;recurring&lt;/b&gt; transactions
+- &lt;b&gt;Pie chart&lt;/b&gt;: Visualize the statistical distribution of transactions per category over different periods (years, months, weeks, days)
+- &lt;b&gt;Split transaction&lt;/b&gt;: A single transaction can be split into multiple parts (categories and transfers)
+- &lt;b&gt;Print&lt;/b&gt; the transaction list to a PDF file
+- Define a &lt;b&gt;security question&lt;/b&gt; for recovering a lost password
+- &lt;b&gt;Image attachment&lt;/b&gt;: Capture via camera or select from gallery
+- Quick &lt;b&gt;template&lt;/b&gt; selection from homescreen &lt;b&gt;widget&lt;/b&gt;
 
-&lt;p&gt;&lt;b&gt;Extended Key&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt;Extended Key&lt;/b&gt;
 
-&lt;ul&gt;
-&lt;li&gt;All features of Contrib Key&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Cloud synchronization&lt;/b&gt;: Data can be synced between multiple devices via WebDAV and Google Drive&lt;/li&gt;
-&lt;li&gt;Daily &lt;b&gt;automated backup&lt;/b&gt; with optional upload to cloud storage&lt;/li&gt;
-&lt;li&gt;Sophisticated, customizable &lt;b&gt;CSV import&lt;/b&gt; (spreadsheet applications)&lt;/li&gt;
+- All features of Contrib Key
+- &lt;b&gt;Cloud synchronization&lt;/b&gt;: Data can be synced between multiple devices via WebDAV and Google Drive
+- Daily &lt;b&gt;automated backup&lt;/b&gt; with optional upload to cloud storage
+- Sophisticated, customizable &lt;b&gt;CSV import&lt;/b&gt; (spreadsheet applications)
 
-&lt;p&gt;&lt;b&gt;Professional Key&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt;Professional Key&lt;/b&gt;
 
-&lt;ul&gt;
-&lt;li&gt;All features of Extended Key&lt;/li&gt;
-&lt;li&gt;Unlimited number of &lt;b&gt;templates and plans for split transactions&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Email support&lt;/b&gt; with guaranteed response after 2 business days&lt;/li&gt;
-&lt;li&gt;Voting right on &lt;b&gt;development roadmap&lt;/b&gt;&lt;/li&gt;
-&lt;/ul&gt;
+- All features of Extended Key
+- Unlimited number of &lt;b&gt;templates and plans for split transactions&lt;/b&gt;
+- &lt;b&gt;Email support&lt;/b&gt; with guartanteed response after 2 business days
+- Voting right on &lt;b&gt;development roadmap&lt;/b&gt;
 
-&lt;p&gt;&lt;i&gt;My Expenses&lt;/i&gt; requires the following &lt;u&gt;permissions&lt;/u&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;i&gt;Calendar&lt;/i&gt;: Plans for future and recurrent transactions are stored either in a special local calendar or in any other calendar you assign.&lt;/li&gt;
-&lt;li&gt;&lt;i&gt;Storage&lt;/i&gt;: Storage of QIF and CSV exports and backup files.&lt;/li&gt;
-&lt;li&gt;&lt;i&gt;Internet&lt;/i&gt;: Licence key validation, Cloud synchronization.&lt;/li&gt;
-&lt;li&gt;&lt;i&gt;Accounts&lt;/i&gt;: Synchronization across devices via cloud services.&lt;/li&gt;
-&lt;/ul&gt;</desc>
+My Expenses requires the following critical &lt;u&gt;permissions&lt;/u&gt;:
+- &lt;i&gt;Reading and writing the calendar&lt;/i&gt;: Plans for future and recurrent transactions are stored either in a special local calendar or in any other calendar you assign.
+- &lt;i&gt;Writing USB storage&lt;/i&gt;: Storage of QIF and CSV exports and backup files.
+- &lt;i&gt;Network communication&lt;/i&gt;: Anonymous usage tracking, crash reporting, key validation and cloud synchronization.
+- &lt;i&gt;Accounts&lt;/i&gt;: Synchronization across devices via cloud services.
+</desc>
 		<license>GPL-3.0</license>
 		<categories>Money</categories>
 		<category>Money</category>
@@ -34296,8 +34287,8 @@ There are many meme customization options available:
 		<donate>http://www.myexpenses.mobi/#donate</donate>
 		<bitcoin>1GCUGCSfFXzSC81ogHu12KxfUn3cShekMn</bitcoin>
 		<flattr>1028216</flattr>
-		<marketversion>2.8.5</marketversion>
-		<marketvercode>308</marketvercode>
+		<marketversion>2.8.4</marketversion>
+		<marketvercode>304</marketvercode>
 		<antifeatures>Ads</antifeatures>
 		<package>
 			<version>2.8.4</version>
@@ -34508,8 +34499,8 @@ There are many meme customization options available:
 		<web>https://github.com/WangDaYeeeeee/Mysplash/blob/HEAD/README.md</web>
 		<source>https://github.com/WangDaYeeeeee/Mysplash</source>
 		<tracker>https://github.com/WangDaYeeeeee/Mysplash/issues</tracker>
-		<marketversion>3.2.5</marketversion>
-		<marketvercode>325</marketvercode>
+		<marketversion>3.2.4</marketversion>
+		<marketvercode>324</marketvercode>
 		<package>
 			<version>3.2.4</version>
 			<versioncode>324</versioncode>
@@ -35470,10 +35461,10 @@ There are many meme customization options available:
 	<application id="com.nextcloud.android.beta">
 		<id>com.nextcloud.android.beta</id>
 		<added>2016-06-15</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2018-01-15</lastupdated>
 		<name>Nextcloud dev</name>
 		<summary>Synchronization client</summary>
-		<icon>com.nextcloud.android.beta.20180114.png</icon>
+		<icon>com.nextcloud.android.beta.20180112.png</icon>
 		<desc>&lt;p&gt;A safe home for all your data. Access &amp;amp; share your files, calendars, contacts, mail &amp;amp; more from any device, on your terms. This is a beta version of the official Nextcloid app and includes brand-new, untested features which might lead to instabilities and data loss. The app is designed for users willing to test the new features and to report bugs if they occur. Do not use it for your productive work!&lt;/p&gt;&lt;p&gt;The dev version can be installed alongside the official Nextcloud app which is available at F-Droid, too. Once a day it is checked if the source code was updated, so there can be longer pauses between builds.&lt;/p&gt;</desc>
 		<license>GPL-2.0</license>
 		<categories>Internet</categories>
@@ -35483,25 +35474,8 @@ There are many meme customization options available:
 		<tracker>https://github.com/nextcloud/android/issues</tracker>
 		<changelog>https://github.com/nextcloud/android/commits</changelog>
 		<donate>https://www.bountysource.com/teams/nextcloud</donate>
-		<marketversion>20180114</marketversion>
-		<marketvercode>20180114</marketvercode>
-		<package>
-			<version>20180114</version>
-			<versioncode>20180114</versioncode>
-			<apkname>com.nextcloud.android.beta_20180114.apk</apkname>
-			<srcname>com.nextcloud.android.beta_20180114_src.tar.gz</srcname>
-			<hash type="sha256">b655de2a7fda9f82ac73fd4421ec8b0d7cdf3c6007db7941e9e4a1049a58e390</hash>
-			<size>7391422</size>
-			<sdkver>14</sdkver>
-			<targetSdkVersion>26</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>807f518d8e966862283a9bbb25054d52</sig>
-			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,BROADCAST_STICKY,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,USE_CREDENTIALS,USE_FINGERPRINT,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS</permissions>
-			<uses-permission maxSdkVersion="22" name="android.permission.AUTHENTICATE_ACCOUNTS"/>
-			<uses-permission maxSdkVersion="22" name="android.permission.GET_ACCOUNTS"/>
-			<uses-permission maxSdkVersion="22" name="android.permission.MANAGE_ACCOUNTS"/>
-			<uses-permission maxSdkVersion="22" name="android.permission.USE_CREDENTIALS"/>
-		</package>
+		<marketversion>20180112</marketversion>
+		<marketvercode>20180112</marketvercode>
 		<package>
 			<version>20180112</version>
 			<versioncode>20180112</versioncode>
@@ -35538,6 +35512,19 @@ There are many meme customization options available:
 			<uses-permission maxSdkVersion="22" name="android.permission.USE_CREDENTIALS"/>
 			<uses-permission maxSdkVersion="22" name="android.permission.WRITE_CONTACTS"/>
 			<uses-permission maxSdkVersion="22" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+		</package>
+		<package>
+			<version>20180109</version>
+			<versioncode>20180109</versioncode>
+			<apkname>com.nextcloud.android.beta_20180109.apk</apkname>
+			<srcname>com.nextcloud.android.beta_20180109_src.tar.gz</srcname>
+			<hash type="sha256">a78687f238e95b527529e52a383a5d11d6e69449f5bf6a899ad6db2cd9c6fcb1</hash>
+			<size>7420732</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>26</targetSdkVersion>
+			<added>2018-01-15</added>
+			<sig>807f518d8e966862283a9bbb25054d52</sig>
+			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,BROADCAST_STICKY,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,USE_CREDENTIALS,USE_FINGERPRINT,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS</permissions>
 		</package>
 	</application>
 	<application id="de.luhmer.owncloudnewsreader">
@@ -40600,8 +40587,8 @@ Anti-Features:
 		<web>https://github.com/ldionmarcil/OSRSHelper/blob/HEAD/README.md</web>
 		<source>https://github.com/ldionmarcil/OSRSHelper</source>
 		<tracker>https://github.com/ldionmarcil/OSRSHelper/issues</tracker>
-		<marketversion>1.6.4</marketversion>
-		<marketvercode>25</marketvercode>
+		<marketversion>1.5.0</marketversion>
+		<marketvercode>15</marketvercode>
 		<antifeatures>NonFreeNet</antifeatures>
 		<package>
 			<version>1.4.5</version>
@@ -45355,8 +45342,8 @@ Planned features for future releases:
 		<web/>
 		<source>https://github.com/qklabs/qksms</source>
 		<tracker>https://github.com/qklabs/qksms/issues</tracker>
-		<marketversion>2.7.3</marketversion>
-		<marketvercode>135</marketvercode>
+		<marketversion>3.0 Preview 5</marketversion>
+		<marketvercode>140</marketvercode>
 		<package>
 			<version>2.7.3</version>
 			<versioncode>135</versioncode>
@@ -46145,10 +46132,10 @@ Planned features for future releases:
 	<application id="net.programmierecke.radiodroid2">
 		<id>net.programmierecke.radiodroid2</id>
 		<added>2016-03-27</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2017-08-11</lastupdated>
 		<name>RadioDroid</name>
 		<summary>Browse and stream internet radios</summary>
-		<icon>net.programmierecke.radiodroid2.61.png</icon>
+		<icon>net.programmierecke.radiodroid2.47.png</icon>
 		<desc>&lt;p&gt;Look up online radio streams at &lt;a href=&quot;http://www.radio-browser.info&quot;&gt;RadioBrowser&lt;/a&gt; and listen to them. RadioBrowser is a wiki like aproach to collect as much online radio stations as possible. Every one can help by not only adding new stations but also tagging existing ones.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Multimedia,Internet</categories>
@@ -46157,34 +46144,8 @@ Planned features for future releases:
 		<source>https://github.com/segler-alex/RadioDroid</source>
 		<tracker>https://github.com/segler-alex/RadioDroid/issues</tracker>
 		<changelog>https://github.com/segler-alex/RadioDroid/releases</changelog>
-		<marketversion>0.51</marketversion>
-		<marketvercode>61</marketvercode>
-		<package>
-			<version>0.51</version>
-			<versioncode>61</versioncode>
-			<apkname>net.programmierecke.radiodroid2_61.apk</apkname>
-			<srcname>net.programmierecke.radiodroid2_61_src.tar.gz</srcname>
-			<hash type="sha256">6670fc6ee2823d6bfe33099f550b9649542e351ba9ca1c192bf7e2a5206cbaf7</hash>
-			<size>3806867</size>
-			<sdkver>15</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>f169df6e6ce4cf6321c7e64b03b979bb</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
-		</package>
-		<package>
-			<version>0.48</version>
-			<versioncode>58</versioncode>
-			<apkname>net.programmierecke.radiodroid2_58.apk</apkname>
-			<srcname>net.programmierecke.radiodroid2_58_src.tar.gz</srcname>
-			<hash type="sha256">22374c8394b6ebb1addd35f2f4ec10b94e5d8f9a5ec1288ad96877caddde5d48</hash>
-			<size>3753831</size>
-			<sdkver>15</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>f169df6e6ce4cf6321c7e64b03b979bb</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
-		</package>
+		<marketversion>0.48</marketversion>
+		<marketvercode>58</marketvercode>
 		<package>
 			<version>0.37</version>
 			<versioncode>47</versioncode>
@@ -46197,6 +46158,32 @@ Planned features for future releases:
 			<added>2017-08-11</added>
 			<sig>f169df6e6ce4cf6321c7e64b03b979bb</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
+		<package>
+			<version>0.31</version>
+			<versioncode>41</versioncode>
+			<apkname>net.programmierecke.radiodroid2_41.apk</apkname>
+			<srcname>net.programmierecke.radiodroid2_41_src.tar.gz</srcname>
+			<hash type="sha256">003430ae80013d7a478ed52d54cf13935d5b1665bec95362362eb71213c1fa8e</hash>
+			<size>2650379</size>
+			<sdkver>9</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-03-29</added>
+			<sig>f169df6e6ce4cf6321c7e64b03b979bb</sig>
+			<permissions>INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
+		<package>
+			<version>0.29</version>
+			<versioncode>39</versioncode>
+			<apkname>net.programmierecke.radiodroid2_39.apk</apkname>
+			<srcname>net.programmierecke.radiodroid2_39_src.tar.gz</srcname>
+			<hash type="sha256">f1eacb0d6eb94754f13c729a3fc0cd9d2fb50ed1cf625a66a9df346fed09ab11</hash>
+			<size>2329207</size>
+			<sdkver>9</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-03-08</added>
+			<sig>f169df6e6ce4cf6321c7e64b03b979bb</sig>
+			<permissions>INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="nl.implode.regenalarm">
@@ -46303,8 +46290,8 @@ Planned features for future releases:
 		<source>https://github.com/eidottermihi/rpicheck</source>
 		<tracker>https://github.com/eidottermihi/rpicheck/issues</tracker>
 		<changelog>https://github.com/eidottermihi/rpicheck/releases</changelog>
-		<marketversion>v1.8.7</marketversion>
-		<marketvercode>48</marketvercode>
+		<marketversion>v1.8.5</marketversion>
+		<marketvercode>44</marketvercode>
 		<package>
 			<version>1.8.0</version>
 			<versioncode>39</versioncode>
@@ -47643,7 +47630,7 @@ Planned features for future releases:
 		<name>Riot.im</name>
 		<summary>Open team collaboration</summary>
 		<icon>im.vector.alpha.70301.png</icon>
-		<desc>&lt;p&gt;Riot gathers all your conversations and app integrations into one single app.&lt;/p&gt;&lt;p&gt;Built around group chatrooms, Riot lets you share messages, images, videos and files - interact with your tools and access all your different communities under one roof. One single identity and place for all your teams: no need to switch accounts, work and chat with people from different organisations in public or private rooms: from professional projects to school trips, Riot will become the center of all your discussions!&lt;/p&gt;&lt;p&gt;Now with end-to-end encryption! You can view and verify your various devices in the user settings page.&lt;/p&gt;&lt;p&gt;Features include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Instantly share messages, images, videos and files of any kind within groups of any size&lt;/li&gt;&lt;li&gt; Voice and video 1-1 and conference calling via WebRTC&lt;/li&gt;&lt;li&gt; End-to-end encryption using Olm (&lt;a href=&quot;https://matrix.org/git/olm&quot;&gt;https://matrix.org/git/olm&lt;/a&gt;)&lt;/li&gt;&lt;li&gt; See who's reading your messages with read receipts&lt;/li&gt;&lt;li&gt; Communicate with users anywhere in the Matrix.org ecosystem - not just Riot users!&lt;/li&gt;&lt;li&gt; Discover and invite users by email address&lt;/li&gt;&lt;li&gt; Participate in guest-accessible public rooms&lt;/li&gt;&lt;li&gt; Highly scalable - supports hundreds of rooms and thousands of users&lt;/li&gt;&lt;li&gt; Fully synchronised message history across multiple devices and browsers&lt;/li&gt;&lt;li&gt; Finely configurable notification settings, synchronised over all devices&lt;/li&gt;&lt;li&gt; Infinite searchable chat history&lt;/li&gt;&lt;li&gt; Permalinks to messages&lt;/li&gt;&lt;li&gt; Full message search&lt;/li&gt;&lt;li&gt; Excellent support for all Android device sizes and orientations&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note that the F-Droid release does not use GCM for notifications - instead it will keep syncing in the background. If you find that the ongoing background sync is using too much battery, you can add a delay or change the timeout of the sync or even disable background sync completely, in the settings page.&lt;/p&gt;&lt;p&gt;Antifeatures:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Includes opt-out Piwik analytics.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;For developers:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Riot is a Matrix client - built on the Matrix.org open standard and ecosystem, providing interoperability with all other Matrix compatible apps, servers and integrations&lt;/li&gt;&lt;li&gt; Entirely open sourced under the permissive Apache License - get the code from &lt;a href=&quot;https://github.com/vector-im/riot-android&quot;&gt;https://github.com/vector-im/riot-android&lt;/a&gt;. Pull requests welcome!&lt;/li&gt;&lt;li&gt; Trivially extensible via the open Matrix Client-Server API (&lt;a href=&quot;https://matrix.org/docs/spec&quot;&gt;https://matrix.org/docs/spec&lt;/a&gt;)&lt;/li&gt;&lt;li&gt; Run your own server! You can use the default matrix.org server or run your own Matrix home server (e.g. &lt;a href=&quot;https://matrix.org/docs/projects/server/synapse.html&quot;&gt;https://matrix.org/docs/projects/server/synapse.html&lt;/a&gt;)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Coming soon:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Add your own integrations, bridges and bots!&lt;/li&gt;&lt;li&gt; Email notifications of missed messages and invites&lt;/li&gt;&lt;li&gt; Screen sharing&lt;/li&gt;&lt;li&gt; Login as multiple users at the same time&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Discover truly efficient and open collaboration with Riot!&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;Riot gathers all your conversations and app integrations into one single app.&lt;/p&gt;&lt;p&gt;Built around group chatrooms, Riot lets you share messages, images, videos and files - interact with your tools and access all your different communities under one roof. One single identity and place for all your teams: no need to switch accounts, work and chat with people from different organisations in public or private rooms: from professional projects to school trips, Riot will become the center of all your discussions!&lt;/p&gt;&lt;p&gt;Now with end-to-end encryption! You can view and verify your various devices in the user settings page.&lt;/p&gt;&lt;p&gt;Features include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Instantly share messages, images, videos and files of any kind within groups of any size&lt;/li&gt;&lt;li&gt; Voice and video 1-1 and conference calling via WebRTC&lt;/li&gt;&lt;li&gt; End-to-end encryption using Olm (&lt;a href=&quot;https://matrix.org/git/olm&quot;&gt;https://matrix.org/git/olm&lt;/a&gt;)&lt;/li&gt;&lt;li&gt; See who's reading your messages with read receipts&lt;/li&gt;&lt;li&gt; Communicate with users anywhere in the Matrix.org ecosystem - not just Riot users!&lt;/li&gt;&lt;li&gt; Discover and invite users by email address&lt;/li&gt;&lt;li&gt; Participate in guest-accessible public rooms&lt;/li&gt;&lt;li&gt; Highly scalable - supports hundreds of rooms and thousands of users&lt;/li&gt;&lt;li&gt; Fully synchronised message history across multiple devices and browsers&lt;/li&gt;&lt;li&gt; Finely configurable notification settings, synchronised over all devices&lt;/li&gt;&lt;li&gt; Infinite searchable chat history&lt;/li&gt;&lt;li&gt; Permalinks to messages&lt;/li&gt;&lt;li&gt; Full message search&lt;/li&gt;&lt;li&gt; Excellent support for all Android device sizes and orientations&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Note that the F-Droid release does not use GCM for notifications - instead it will keep syncing in the background. If you find that the ongoing background sync is using too much battery, you can add a delay or change the timeout of the sync or even disable background sync completely, in the settings page. Also please note that Google Analytics has been removed from the F-Droid release.&lt;/p&gt;&lt;p&gt;For developers:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Riot is a Matrix client - built on the Matrix.org open standard and ecosystem, providing interoperability with all other Matrix compatible apps, servers and integrations&lt;/li&gt;&lt;li&gt; Entirely open sourced under the permissive Apache License - get the code from &lt;a href=&quot;https://github.com/vector-im/riot-android&quot;&gt;https://github.com/vector-im/riot-android&lt;/a&gt;. Pull requests welcome!&lt;/li&gt;&lt;li&gt; Trivially extensible via the open Matrix Client-Server API (&lt;a href=&quot;https://matrix.org/docs/spec&quot;&gt;https://matrix.org/docs/spec&lt;/a&gt;)&lt;/li&gt;&lt;li&gt; Run your own server! You can use the default matrix.org server or run your own Matrix home server (e.g. &lt;a href=&quot;https://matrix.org/docs/projects/server/synapse.html&quot;&gt;https://matrix.org/docs/projects/server/synapse.html&lt;/a&gt;)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Coming soon:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Add your own integrations, bridges and bots!&lt;/li&gt;&lt;li&gt; Email notifications of missed messages and invites&lt;/li&gt;&lt;li&gt; Screen sharing&lt;/li&gt;&lt;li&gt; Login as multiple users at the same time&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Discover truly efficient and open collaboration with Riot!&lt;/p&gt;</desc>
 		<license>Apache-2.0</license>
 		<categories>Internet,Phone &amp; SMS</categories>
 		<category>Internet</category>
@@ -47652,9 +47639,8 @@ Planned features for future releases:
 		<tracker>https://github.com/vector-im/riot-android/issues</tracker>
 		<changelog>https://github.com/vector-im/riot-android/blob/HEAD/CHANGES.rst</changelog>
 		<bitcoin>1LxowEgsquZ3UPZ68wHf8v2MDZw82dVmAE</bitcoin>
-		<marketversion>0.7.08-dev</marketversion>
-		<marketvercode>70800</marketvercode>
-		<antifeatures>Tracking</antifeatures>
+		<marketversion>0.7.03</marketversion>
+		<marketvercode>70301</marketvercode>
 		<package>
 			<version>0.7.03</version>
 			<versioncode>70301</versioncode>
@@ -54189,10 +54175,10 @@ https://silence.im/privacy
 	<application id="org.sw24softwares.starkeverben">
 		<id>org.sw24softwares.starkeverben</id>
 		<added>2017-10-29</added>
-		<lastupdated>2018-01-16</lastupdated>
+		<lastupdated>2017-12-15</lastupdated>
 		<name>Starke Verben</name>
 		<summary>Learn your German strong verbs</summary>
-		<icon>org.sw24softwares.starkeverben.8.png</icon>
+		<icon>org.sw24softwares.starkeverben.7.png</icon>
 		<desc>&lt;p&gt;StarkeVerben is an Android application that aims to help people learning their strong verbs.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Science &amp; Education</categories>
@@ -54200,20 +54186,8 @@ https://silence.im/privacy
 		<web>https://github.com/Sw24Softwares/StarkeVerben/blob/HEAD/README.md</web>
 		<source>https://github.com/Sw24Softwares/StarkeVerben</source>
 		<tracker>https://github.com/Sw24Softwares/StarkeVerben/issues</tracker>
-		<marketversion>3.0</marketversion>
-		<marketvercode>8</marketvercode>
-		<package>
-			<version>3.0</version>
-			<versioncode>8</versioncode>
-			<apkname>org.sw24softwares.starkeverben_8.apk</apkname>
-			<srcname>org.sw24softwares.starkeverben_8_src.tar.gz</srcname>
-			<hash type="sha256">cd3b5c7a7b1b7c4af355ce176496976669281f168424447cccf9c7c673eab41e</hash>
-			<size>2331014</size>
-			<sdkver>17</sdkver>
-			<targetSdkVersion>25</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>6ce899e03311db2f417d552dd83c2cfb</sig>
-		</package>
+		<marketversion>2.2</marketversion>
+		<marketvercode>7</marketvercode>
 		<package>
 			<version>2.2</version>
 			<versioncode>7</versioncode>
@@ -54236,6 +54210,18 @@ https://silence.im/privacy
 			<sdkver>15</sdkver>
 			<targetSdkVersion>26</targetSdkVersion>
 			<added>2017-11-14</added>
+			<sig>6ce899e03311db2f417d552dd83c2cfb</sig>
+		</package>
+		<package>
+			<version>2.0</version>
+			<versioncode>5</versioncode>
+			<apkname>org.sw24softwares.starkeverben_5.apk</apkname>
+			<srcname>org.sw24softwares.starkeverben_5_src.tar.gz</srcname>
+			<hash type="sha256">eb35f9a0134f0dfdf5cb396aa92b5f5142448ed8ccf910365beffb9254a19615</hash>
+			<size>1440502</size>
+			<sdkver>15</sdkver>
+			<targetSdkVersion>26</targetSdkVersion>
+			<added>2017-11-03</added>
 			<sig>6ce899e03311db2f417d552dd83c2cfb</sig>
 		</package>
 	</application>
@@ -59415,14 +59401,13 @@ Required Android Permissions:
 		<name>TRIfA</name>
 		<summary>TRIfA Tox Client</summary>
 		<icon>com.zoffcc.applications.trifa.10012.png</icon>
-		<desc>&lt;p&gt;TRIfA is a Tox Client for Android. it's still currently in heavy development. To get more information about Tox please visit &lt;a href=&quot;https://tox.zoff.cc&quot;&gt;https://tox.zoff.cc&lt;/a&gt;&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;TRIfA is a Tox Client for Android. it's still currently in heavy development. To get more information about Tox please visit &lt;a href=&quot;https://tox.chat/faq.html&quot;&gt;https://tox.chat/faq.html&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPL-2.0</license>
 		<categories>Internet</categories>
 		<category>Internet</category>
 		<web/>
 		<source>https://github.com/zoff99/ToxAndroidRefImpl</source>
 		<tracker>https://github.com/zoff99/ToxAndroidRefImpl/issues</tracker>
-		<changelog>https://github.com/zoff99/ToxAndroidRefImpl/blob/zoff99/dev003/CHANGELOG.md</changelog>
 		<bitcoin>1TRifA7eNLHZEcCTj43eYVWHBbLqTuXkS</bitcoin>
 		<marketversion>1.0.12</marketversion>
 		<marketvercode>10012</marketvercode>
@@ -61525,8 +61510,8 @@ on the device. The app adds a device-specific password to the IdM Portal.
 		<source>https://github.com/MarcusWolschon/osmeditor4android</source>
 		<tracker>https://github.com/MarcusWolschon/osmeditor4android/issues</tracker>
 		<changelog>https://github.com/MarcusWolschon/osmeditor4android/blob/HEAD/CHANGELOG.txt</changelog>
-		<marketversion>10.0.5</marketversion>
-		<marketvercode>307</marketvercode>
+		<marketversion>10.0.3</marketversion>
+		<marketvercode>306</marketvercode>
 		<package>
 			<version>10.0.5-fdroid</version>
 			<versioncode>307</versioncode>
@@ -62313,11 +62298,11 @@ on the device. The app adds a device-specific password to the IdM Portal.
 	<application id="org.walleth">
 		<id>org.walleth</id>
 		<added>2017-06-27</added>
-		<lastupdated>2018-01-16</lastupdated>
-		<name>WALLETH</name>
+		<lastupdated>2018-01-15</lastupdated>
+		<name>WALLΞTH</name>
 		<summary>Ethereum wallet</summary>
 		<icon>org.walleth.28.png</icon>
-		<desc>&lt;p&gt;Ethereum wallet Networks: main(1), ropsten(3), rinkeby(4) Features: Tokens(ERC-20), ERC-67 URLs, ERC-55 Checksums, TREZOR Support, watch only accounts, contains go-ethereum light client&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;Ethereum wallet. Currently on Rinkeby Testnet. With light-client option.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Money</categories>
 		<category>Money</category>
@@ -62341,26 +62326,26 @@ on the device. The app adds a device-specific password to the IdM Portal.
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
 		</package>
 		<package>
-			<version>0.27</version>
-			<versioncode>27</versioncode>
-			<apkname>org.walleth_27.apk</apkname>
-			<srcname>org.walleth_27_src.tar.gz</srcname>
-			<hash type="sha256">b8514b07ba6abc0eb7f0f113c4d4e7bd3be0cb25aaaca90be7fb68cf26e29447</hash>
-			<size>34356944</size>
-			<sdkver>15</sdkver>
-			<targetSdkVersion>26</targetSdkVersion>
-			<added>2018-01-16</added>
-			<sig>bf1506a4dbd6f1a4a99a10cf4f6de208</sig>
-			<permissions>CAMERA,INTERNET,READ_LOGS</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
-		</package>
-		<package>
 			<version>0.26</version>
 			<versioncode>26</versioncode>
 			<apkname>org.walleth_26.apk</apkname>
 			<srcname>org.walleth_26_src.tar.gz</srcname>
 			<hash type="sha256">5d30ccd64f1c6211102056dbf6785fa771954427d9949bca488e6fad8700b203</hash>
 			<size>33701675</size>
+			<sdkver>15</sdkver>
+			<targetSdkVersion>26</targetSdkVersion>
+			<added>2017-12-04</added>
+			<sig>bf1506a4dbd6f1a4a99a10cf4f6de208</sig>
+			<permissions>CAMERA,INTERNET,READ_LOGS</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>0.25</version>
+			<versioncode>25</versioncode>
+			<apkname>org.walleth_25.apk</apkname>
+			<srcname>org.walleth_25_src.tar.gz</srcname>
+			<hash type="sha256">3526fdba78e2810a73723459f3c34d9fa2d0a761c3bf582f3f71fe74e33f1ba2</hash>
+			<size>33694431</size>
 			<sdkver>15</sdkver>
 			<targetSdkVersion>26</targetSdkVersion>
 			<added>2017-12-04</added>
@@ -65096,8 +65081,8 @@ The Wikimedia Foundation is the nonprofit organization that supports Wikipedia a
 		<source>https://github.com/thuryn/your-local-weather</source>
 		<tracker>https://github.com/thuryn/your-local-weather/issues</tracker>
 		<changelog>https://raw.githubusercontent.com/thuryn/your-local-weather/HEAD/CHANGELOG</changelog>
-		<marketversion>1.6</marketversion>
-		<marketvercode>8</marketvercode>
+		<marketversion>1.2</marketversion>
+		<marketvercode>3</marketvercode>
 		<package>
 			<version>1.0</version>
 			<versioncode>1</versioncode>
