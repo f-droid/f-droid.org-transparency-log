@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1516225173" url="https://f-droid.org/repo" version="19">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1516130337" url="https://f-droid.org/repo" version="19">
 		<description>The official FDroid repository. Applications in this repository are built directly from the source code. (One, Firefox, is the official binary built by the Mozilla. This will ultimately be replaced by a source-built version. </description>
 	</repo>
 	<application id="com.jereksel.libresubstratum">
@@ -2481,8 +2481,8 @@ Only apps hosted on F-droid are supported. You can request new icons through the
 		<web/>
 		<source>https://github.com/rootkiwi/an2linuxclient</source>
 		<tracker>https://github.com/rootkiwi/an2linuxclient/issues</tracker>
-		<marketversion>0.7.0</marketversion>
-		<marketvercode>9</marketvercode>
+		<marketversion>0.6.0</marketversion>
+		<marketvercode>8</marketvercode>
 		<package>
 			<version>0.6.0</version>
 			<versioncode>8</versioncode>
@@ -5658,8 +5658,8 @@ forum topic].
 		<source>https://gitlab.com/axet/android-audio-recorder/tree/HEAD</source>
 		<tracker>https://gitlab.com/axet/android-audio-recorder/issues</tracker>
 		<changelog>https://gitlab.com/axet/android-audio-recorder/tags</changelog>
-		<marketversion>3.1.7</marketversion>
-		<marketvercode>238</marketvercode>
+		<marketversion>3.1.5</marketversion>
+		<marketvercode>235</marketvercode>
 		<package>
 			<version>3.0.60</version>
 			<versioncode>226</versioncode>
@@ -9503,8 +9503,8 @@ Current features:
 		<source>https://github.com/SimpleMobileTools/Simple-Calculator</source>
 		<tracker>https://github.com/SimpleMobileTools/Simple-Calculator/issues</tracker>
 		<changelog>https://github.com/SimpleMobileTools/Simple-Calculator/blob/HEAD/CHANGELOG.md</changelog>
-		<marketversion>3.1.0</marketversion>
-		<marketvercode>16</marketvercode>
+		<marketversion>3.0.1</marketversion>
+		<marketvercode>15</marketvercode>
 		<package>
 			<version>3.0.1</version>
 			<versioncode>15</versioncode>
@@ -11683,8 +11683,8 @@ Current features:
 		<web>https://commons-app.github.io/</web>
 		<source>https://github.com/commons-app/apps-android-commons</source>
 		<tracker>https://github.com/commons-app/apps-android-commons/issues</tracker>
-		<marketversion>2.6.6</marketversion>
-		<marketvercode>81</marketvercode>
+		<marketversion>2.6.5</marketversion>
+		<marketvercode>80</marketvercode>
 		<package>
 			<version>2.6.0</version>
 			<versioncode>75</versioncode>
@@ -18533,8 +18533,8 @@ Privileged Extension when it has been installed using the OTA ZIP.
 		<source>https://github.com/thermatk/FastHub-Libre</source>
 		<tracker>https://github.com/thermatk/FastHub-Libre/issues</tracker>
 		<liberapay>27901</liberapay>
-		<marketversion>4.6.1</marketversion>
-		<marketvercode>461</marketvercode>
+		<marketversion>4.6.0</marketversion>
+		<marketvercode>460</marketvercode>
 		<antifeatures>NonFreeNet</antifeatures>
 		<package>
 			<version>4.5.5</version>
@@ -23549,8 +23549,8 @@ Code repository: https://github.com/jonan/ForkHub</desc>
 		<web>https://gitlab.com/axet/android-hourly-reminder</web>
 		<source>https://gitlab.com/axet/android-hourly-reminder/tree/HEAD</source>
 		<tracker>https://gitlab.com/axet/android-hourly-reminder/issues</tracker>
-		<marketversion>3.1.20</marketversion>
-		<marketvercode>341</marketvercode>
+		<marketversion>3.1.18</marketversion>
+		<marketvercode>339</marketvercode>
 		<package>
 			<version>3.1.15</version>
 			<versioncode>336</versioncode>
@@ -23781,9 +23781,9 @@ Code repository: https://github.com/jonan/ForkHub</desc>
 		<categories>Internet</categories>
 		<category>Internet</category>
 		<web>http://www.gnu.org/software/gnuzilla/</web>
-		<source>https://ftp.gnu.org/gnu/gnuzilla/</source>
-		<tracker>https://savannah.gnu.org/bugs/?group=gnuzilla</tracker>
-		<donate>https://www.fsf.org/about/ways-to-donate/</donate>
+		<source>http://hg.mozilla.org</source>
+		<tracker>https://bugzilla.mozilla.org</tracker>
+		<donate>https://my.fsf.org/donate/</donate>
 		<marketversion>52.4.1</marketversion>
 		<marketvercode>520411</marketvercode>
 		<provides>org.mozilla.firefox</provides>
@@ -25454,8 +25454,8 @@ Code repository: https://github.com/jonan/ForkHub</desc>
 		<web>http://albertvaka.wordpress.com</web>
 		<source>https://cgit.kde.org/kdeconnect-android.git/</source>
 		<tracker>https://bugs.kde.org</tracker>
-		<marketversion>1.7.1</marketversion>
-		<marketvercode>1710</marketvercode>
+		<marketversion>1.6.6</marketversion>
+		<marketvercode>1660</marketvercode>
 		<package>
 			<version>1.6.6</version>
 			<versioncode>1660</versioncode>
@@ -26720,8 +26720,8 @@ push notifications.
 		<tracker>https://github.com/nilesr/United4/issues</tracker>
 		<author>Niles Rogoff</author>
 		<email>lain@rogoff.xyz</email>
-		<marketversion>4.2.0</marketversion>
-		<marketvercode>420</marketvercode>
+		<marketversion>4.1.9</marketversion>
+		<marketvercode>419</marketvercode>
 		<package>
 			<version>4.1.9</version>
 			<versioncode>419</versioncode>
@@ -29285,8 +29285,8 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<web/>
 		<source>https://github.com/BijoySingh/Material-Notes-Android-App</source>
 		<tracker>https://github.com/BijoySingh/Material-Notes-Android-App/issues</tracker>
-		<marketversion>4.1.0</marketversion>
-		<marketvercode>39</marketvercode>
+		<marketversion>3.8.0</marketversion>
+		<marketvercode>32</marketvercode>
 		<package>
 			<version>3.7.1</version>
 			<versioncode>27</versioncode>
@@ -30176,10 +30176,10 @@ This software is free software, licensed under the GPLv3 or later license. The s
 	<application id="org.projectmaxs.module.misc">
 		<id>org.projectmaxs.module.misc</id>
 		<added>2014-02-10</added>
-		<lastupdated>2018-01-17</lastupdated>
+		<lastupdated>2017-12-15</lastupdated>
 		<name>MAXS Module Misc</name>
 		<summary>A Module for MAXS</summary>
-		<icon>org.projectmaxs.module.misc.2000501435.png</icon>
+		<icon>org.projectmaxs.module.misc.2000501421.png</icon>
 		<desc>&lt;p&gt;This is a Module for MAXS, which does not install any launcher. You need &quot;MAXS Main&quot; and a configured MAXS Transport to make use of it.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>System</categories>
@@ -30192,19 +30192,6 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<flattr>2148361</flattr>
 		<marketversion>0.5.4</marketversion>
 		<marketvercode>2000501489</marketvercode>
-		<package>
-			<version>0.5.3</version>
-			<versioncode>2000501435</versioncode>
-			<apkname>org.projectmaxs.module.misc_2000501435.apk</apkname>
-			<srcname>org.projectmaxs.module.misc_2000501435_src.tar.gz</srcname>
-			<hash type="sha256">2cf3b8e53d72507fce2712c6629da2f9e25ab588b3ef9c2a09904b120a77fd3f</hash>
-			<size>66745</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-01-17</added>
-			<sig>228318ccaaaeaf4be441a34bf39114bb</sig>
-			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
-		</package>
 		<package>
 			<version>0.5.2</version>
 			<versioncode>2000501421</versioncode>
@@ -30228,6 +30215,19 @@ This software is free software, licensed under the GPLv3 or later license. The s
 			<sdkver>10</sdkver>
 			<targetSdkVersion>23</targetSdkVersion>
 			<added>2017-12-07</added>
+			<sig>228318ccaaaeaf4be441a34bf39114bb</sig>
+			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
+		</package>
+		<package>
+			<version>0.4.0</version>
+			<versioncode>2000400598</versioncode>
+			<apkname>org.projectmaxs.module.misc_2000400598.apk</apkname>
+			<srcname>org.projectmaxs.module.misc_2000400598_src.tar.gz</srcname>
+			<hash type="sha256">b0708d7bf0e0a81b1a5711792e90d7ed7e5f16f51e64c63d4816a0709028a207</hash>
+			<size>61882</size>
+			<sdkver>10</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2017-08-22</added>
 			<sig>228318ccaaaeaf4be441a34bf39114bb</sig>
 			<permissions>org.projectmaxs.permission.USE_MAIN,org.projectmaxs.permission.USE_MAIN_AS_MODULE</permissions>
 		</package>
@@ -35310,8 +35310,8 @@ There are many meme customization options available:
 		<web>http://newsblur.com</web>
 		<source>https://github.com/samuelclay/NewsBlur</source>
 		<tracker>https://github.com/samuelclay/NewsBlur/issues</tracker>
-		<marketversion>7.0.3</marketversion>
-		<marketvercode>153</marketvercode>
+		<marketversion>7.0.2</marketversion>
+		<marketvercode>152</marketvercode>
 		<package>
 			<version>7.0.2</version>
 			<versioncode>152</versioncode>
@@ -35483,8 +35483,8 @@ There are many meme customization options available:
 		<tracker>https://github.com/nextcloud/android/issues</tracker>
 		<changelog>https://github.com/nextcloud/android/commits</changelog>
 		<donate>https://www.bountysource.com/teams/nextcloud</donate>
-		<marketversion>20180117</marketversion>
-		<marketvercode>20180117</marketvercode>
+		<marketversion>20180114</marketversion>
+		<marketvercode>20180114</marketvercode>
 		<package>
 			<version>20180114</version>
 			<versioncode>20180114</versioncode>
@@ -40600,8 +40600,8 @@ Anti-Features:
 		<web>https://github.com/ldionmarcil/OSRSHelper/blob/HEAD/README.md</web>
 		<source>https://github.com/ldionmarcil/OSRSHelper</source>
 		<tracker>https://github.com/ldionmarcil/OSRSHelper/issues</tracker>
-		<marketversion>1.6.5</marketversion>
-		<marketvercode>26</marketvercode>
+		<marketversion>1.6.4</marketversion>
+		<marketvercode>25</marketvercode>
 		<antifeatures>NonFreeNet</antifeatures>
 		<package>
 			<version>1.4.5</version>
@@ -47548,8 +47548,8 @@ Planned features for future releases:
 		<web>https://ring.cx/</web>
 		<source/>
 		<tracker>https://tuleap.ring.cx/projects/ring/</tracker>
-		<marketversion>20180115</marketversion>
-		<marketvercode>101</marketvercode>
+		<marketversion>20171215</marketversion>
+		<marketvercode>99</marketvercode>
 		<package>
 			<version>20171215</version>
 			<versioncode>99</versioncode>
@@ -55737,8 +55737,8 @@ https://silence.im/privacy
 		<web>https://github.com/inorichi/tachiyomi/blob/HEAD/README.md</web>
 		<source>https://github.com/inorichi/tachiyomi</source>
 		<tracker>https://github.com/inorichi/tachiyomi/issues</tracker>
-		<marketversion>0.6.8</marketversion>
-		<marketvercode>31</marketvercode>
+		<marketversion>0.6.7</marketversion>
+		<marketvercode>30</marketvercode>
 		<package>
 			<version>0.6.7</version>
 			<versioncode>30</versioncode>
@@ -58343,8 +58343,8 @@ Required Android Permissions:
 		<web>https://gitlab.com/axet/android-torrent-client</web>
 		<source>https://gitlab.com/axet/android-torrent-client/tree/HEAD</source>
 		<tracker>https://gitlab.com/axet/android-torrent-client/issues</tracker>
-		<marketversion>3.4.96</marketversion>
-		<marketvercode>584</marketvercode>
+		<marketversion>3.4.93</marketversion>
+		<marketvercode>581</marketvercode>
 		<package>
 			<version>3.4.93</version>
 			<versioncode>581</versioncode>
@@ -58590,8 +58590,8 @@ Required Android Permissions:
 		<source>https://github.com/y20k/trackbook</source>
 		<tracker>https://github.com/y20k/trackbook/issues</tracker>
 		<author>y20k</author>
-		<marketversion>1.1.0</marketversion>
-		<marketvercode>16</marketvercode>
+		<marketversion>1.0.8</marketversion>
+		<marketvercode>15</marketvercode>
 		<package>
 			<version>1.0.8</version>
 			<versioncode>15</versioncode>
@@ -60840,8 +60840,8 @@ on the device. The app adds a device-specific password to the IdM Portal.
 		<web>https://gitlab.com/Varlorg/uNote</web>
 		<source>https://gitlab.com/Varlorg/uNote/tree/HEAD</source>
 		<tracker>https://gitlab.com/Varlorg/uNote/issues</tracker>
-		<marketversion>1.3.3</marketversion>
-		<marketvercode>13</marketvercode>
+		<marketversion>1.3.2</marketversion>
+		<marketvercode>12</marketvercode>
 		<package>
 			<version>1.3.2</version>
 			<versioncode>12</versioncode>
@@ -65096,8 +65096,8 @@ The Wikimedia Foundation is the nonprofit organization that supports Wikipedia a
 		<source>https://github.com/thuryn/your-local-weather</source>
 		<tracker>https://github.com/thuryn/your-local-weather/issues</tracker>
 		<changelog>https://raw.githubusercontent.com/thuryn/your-local-weather/HEAD/CHANGELOG</changelog>
-		<marketversion>1.7</marketversion>
-		<marketvercode>9</marketvercode>
+		<marketversion>1.6</marketversion>
+		<marketvercode>8</marketvercode>
 		<package>
 			<version>1.0</version>
 			<versioncode>1</versioncode>
