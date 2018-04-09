@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1523289447" url="https://f-droid.org/repo" version="19">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1523166330" url="https://f-droid.org/repo" version="19">
 		<description>The official FDroid repository. Applications in this repository are built directly from the source code. (One, Firefox, is the official binary built by the Mozilla. This will ultimately be replaced by a source-built version. </description>
 	</repo>
 	<application id="com.termux.api">
@@ -59,37 +59,6 @@
 			<added>2018-02-06</added>
 			<sig>f38b366d3136afe5b0f6c39d2f0294af</sig>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_WIFI_STATE,CALL_PHONE,CAMERA,READ_CONTACTS,READ_PHONE_STATE,READ_SMS,RECORD_AUDIO,SEND_SMS,TRANSMIT_IR,VIBRATE</permissions>
-		</package>
-	</application>
-	<application id="com.thermatk.android.xf.fakegapps">
-		<id>com.thermatk.android.xf.fakegapps</id>
-		<added>2018-04-09</added>
-		<lastupdated>2018-04-09</lastupdated>
-		<name/>
-		<summary>Used with µg GmsCore to enable Google Cloud Messaging (GCM) and more</summary>
-		<icon>com.thermatk.android.xf.fakegapps.3.png</icon>
-		<desc>&lt;p&gt;&lt;b&gt;XPosed Module&lt;/b&gt;, get &lt;a href=&quot;fdroid.app:de.robv.android.xposed.installer&quot;&gt;Xposed Installer&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;This module has to be used in combinaton with µg GmsCore to enable Google Cloud Messaging (GCM), location services and more. Install latest GmsCore, FakeStore(or Blankstore) and this module, dial in your phone app *#*#CHECKIN#*#* to register GCM and start using your Gapps-free device as usual. For additional information visit the Github Source code page.&lt;/p&gt;</desc>
-		<license>GPL-3.0</license>
-		<categories>System</categories>
-		<category>System</category>
-		<web/>
-		<source>https://github.com/thermatk/FakeGApps</source>
-		<tracker>https://github.com/thermatk/FakeGApps/issues</tracker>
-		<changelog>https://github.com/thermatk/FakeGApps/releases</changelog>
-		<liberapay>27901</liberapay>
-		<marketversion/>
-		<marketvercode>3</marketvercode>
-		<package>
-			<version>2.0</version>
-			<versioncode>3</versioncode>
-			<apkname>com.thermatk.android.xf.fakegapps_3.apk</apkname>
-			<srcname>com.thermatk.android.xf.fakegapps_3_src.tar.gz</srcname>
-			<hash type="sha256">376689498b56d49881dfaf6d3edebf94be9f71788f113bddfb54f32f41a3600f</hash>
-			<size>27734</size>
-			<sdkver>15</sdkver>
-			<targetSdkVersion>25</targetSdkVersion>
-			<added>2018-04-09</added>
-			<sig>c73a2868722887e90f1fc5caa554f20a</sig>
 		</package>
 	</application>
 	<application id="com.jereksel.libresubstratum">
@@ -24795,10 +24764,10 @@ This app is just one piece of a bigger series of apps. You can find the rest of 
 	<application id="com.github.axet.hourlyreminder">
 		<id>com.github.axet.hourlyreminder</id>
 		<added>2017-04-17</added>
-		<lastupdated>2018-02-03</lastupdated>
+		<lastupdated>2018-03-15</lastupdated>
 		<name>Hourly Reminder</name>
 		<summary>Remind you about hours passed</summary>
-		<icon>com.github.axet.hourlyreminder.343.png</icon>
+		<icon>com.github.axet.hourlyreminder.344.png</icon>
 		<desc>&lt;p&gt;Never miss an alarm: This app reminds you about hours passed. Application will pronounce current time on user specified hours. You can choice alarm types: beep, speech or custom wav/ogg files.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Multimedia</categories>
@@ -24808,6 +24777,19 @@ This app is just one piece of a bigger series of apps. You can find the rest of 
 		<tracker>https://gitlab.com/axet/android-hourly-reminder/issues</tracker>
 		<marketversion>3.1.24</marketversion>
 		<marketvercode>345</marketvercode>
+		<package>
+			<version>3.1.23</version>
+			<versioncode>344</versioncode>
+			<apkname>com.github.axet.hourlyreminder_344.apk</apkname>
+			<srcname>com.github.axet.hourlyreminder_344_src.tar.gz</srcname>
+			<hash type="sha256">3566ef957e0e130e87edb0a7e8068932b5bfad3bea8717d93332aadb9a23bcf2</hash>
+			<size>2053679</size>
+			<sdkver>9</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2018-03-15</added>
+			<sig>e6f53f50f02827c928be94f9fb89920a</sig>
+			<permissions>READ_EXTERNAL_STORAGE,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,VIBRATE,WAKE_LOCK</permissions>
+		</package>
 		<package>
 			<version>3.1.22</version>
 			<versioncode>343</versioncode>
@@ -24828,45 +24810,6 @@ This app is just one piece of a bigger series of apps. You can find the rest of 
 			<srcname>com.github.axet.hourlyreminder_342_src.tar.gz</srcname>
 			<hash type="sha256">923f924f23c25dbfad0dbdb471c619cf0cf94b986090ba0299d66613f3161702</hash>
 			<size>2042639</size>
-			<sdkver>9</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-01-29</added>
-			<sig>e6f53f50f02827c928be94f9fb89920a</sig>
-			<permissions>READ_EXTERNAL_STORAGE,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,VIBRATE,WAKE_LOCK</permissions>
-		</package>
-		<package>
-			<version>3.1.20</version>
-			<versioncode>341</versioncode>
-			<apkname>com.github.axet.hourlyreminder_341.apk</apkname>
-			<srcname>com.github.axet.hourlyreminder_341_src.tar.gz</srcname>
-			<hash type="sha256">edcb6f4276841f7f61efdd1c415a164bd2e836071381a4305bc90aa06337c0d1</hash>
-			<size>2041199</size>
-			<sdkver>9</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-01-29</added>
-			<sig>e6f53f50f02827c928be94f9fb89920a</sig>
-			<permissions>READ_EXTERNAL_STORAGE,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,VIBRATE,WAKE_LOCK</permissions>
-		</package>
-		<package>
-			<version>3.1.18</version>
-			<versioncode>339</versioncode>
-			<apkname>com.github.axet.hourlyreminder_339.apk</apkname>
-			<srcname>com.github.axet.hourlyreminder_339_src.tar.gz</srcname>
-			<hash type="sha256">58ae94d430d4af69972feebabf957fa8f8e12d299d5a750443d1ec7fa164833d</hash>
-			<size>2041226</size>
-			<sdkver>9</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-01-29</added>
-			<sig>e6f53f50f02827c928be94f9fb89920a</sig>
-			<permissions>READ_EXTERNAL_STORAGE,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,VIBRATE,WAKE_LOCK</permissions>
-		</package>
-		<package>
-			<version>3.1.17</version>
-			<versioncode>338</versioncode>
-			<apkname>com.github.axet.hourlyreminder_338.apk</apkname>
-			<srcname>com.github.axet.hourlyreminder_338_src.tar.gz</srcname>
-			<hash type="sha256">bf1534d2e905fc0ff14ca17e1e7eb59a0b588bf35b318c8b26c048a29477eea3</hash>
-			<size>2014693</size>
 			<sdkver>9</sdkver>
 			<targetSdkVersion>23</targetSdkVersion>
 			<added>2018-01-29</added>
@@ -37097,6 +37040,53 @@ Premium features are unlocked by purchase of one of the following licence keys:
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,SYSTEM_ALERT_WINDOW,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
+	<application id="org.schabi.newpipe.beta">
+		<id>org.schabi.newpipe.beta</id>
+		<added>2018-02-16</added>
+		<lastupdated>2018-02-28</lastupdated>
+		<name>NewPipe Beta</name>
+		<summary>Lightweight Mediaservices app</summary>
+		<icon>org.schabi.newpipe.beta.48.xml</icon>
+		<desc>&lt;p&gt;Lightweight frontend for several audio and video platforms such as YouTube, SoundCloud, etc. NewPipe comes without proprietary bindings like Google play services, and it sends as few data as possible. Also it has several other awesome features like Downloading and listening to videos.&lt;/p&gt;&lt;p&gt;This a very early version of the app, so not all functionality is implemented, and there may still be a lot of bugs. But all in all it's doing what it is supposed to do.&lt;/p&gt;&lt;p&gt;ATTENTION: This is the beta version of the app. It has embedded the newest features, and functions meant to be part of NewPipe. However this is a highly unstable app, and only thought for testing, so use at your own risk. If you want to have a more reliable version of this app please use our &lt;a href=&quot;https://f-droid.org/packages/org.schabi.newpipe/&quot;&gt;release candidate&lt;/a&gt;.&lt;/p&gt;</desc>
+		<license>GPL-3.0+</license>
+		<categories>Multimedia,Internet</categories>
+		<category>Multimedia</category>
+		<web>https://newpipe.schabi.org</web>
+		<source>https://github.com/TeamNewPipe/NewPipe</source>
+		<tracker>https://github.com/TeamNewPipe/NewPipe/issues</tracker>
+		<changelog>https://github.com/TeamNewPipe/NewPipe/releases</changelog>
+		<bitcoin>16A9J59ahMRqkLSZjhYj33n9j3fMztFxnh</bitcoin>
+		<liberapay>34969</liberapay>
+		<marketversion>0.12.0</marketversion>
+		<marketvercode>48</marketvercode>
+		<antifeatures>NonFreeNet</antifeatures>
+		<package>
+			<version>0.12.0</version>
+			<versioncode>48</versioncode>
+			<apkname>org.schabi.newpipe.beta_48.apk</apkname>
+			<srcname>org.schabi.newpipe.beta_48_src.tar.gz</srcname>
+			<hash type="sha256">59ae5d4025d878dbb944395c83b938c431e81afb1f1e89f2f82bd44f255d4e07</hash>
+			<size>5167512</size>
+			<sdkver>15</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2018-02-28</added>
+			<sig>a8ceda375fb593a52e56974d854ce105</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,SYSTEM_ALERT_WINDOW,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
+		<package>
+			<version>0.11.6</version>
+			<versioncode>47</versioncode>
+			<apkname>org.schabi.newpipe.beta_47.apk</apkname>
+			<srcname>org.schabi.newpipe.beta_47_src.tar.gz</srcname>
+			<hash type="sha256">77e383a362d7598eacd92bd162f8dda2a9ed3aa99b09a45d87f8578cbc3f0c4f</hash>
+			<size>4745275</size>
+			<sdkver>15</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2018-02-16</added>
+			<sig>a8ceda375fb593a52e56974d854ce105</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,SYSTEM_ALERT_WINDOW,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
+	</application>
 	<application id="com.newsblur">
 		<id>com.newsblur</id>
 		<added>2012-10-30</added>
@@ -41267,78 +41257,6 @@ You need a openHAB server for this app
 			<added>2018-03-15</added>
 			<sig>dda004d7f969f3eb55a5ee040b112484</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,NFC,WAKE_LOCK,com.google.android.c2dm.permission.RECEIVE,org.openhab.habdroid.gcm.permission.C2D_MESSAGE</permissions>
-		</package>
-	</application>
-	<application id="org.openhab.habdroid.beta">
-		<id>org.openhab.habdroid.beta</id>
-		<added>2018-04-09</added>
-		<lastupdated>2018-04-09</lastupdated>
-		<name>openHAB Beta</name>
-		<summary>openHAB Android client
-</summary>
-		<icon>org.openhab.habdroid.beta.46.png</icon>
-		<desc>openHAB - &quot;empowering the smart home&quot; - vendor and technology agnostic open source home automation
-
-You can install the beta version alongside the stable version: [org.openhab.habdroid]
-
-The builds on F-Droid have map view support, GCM and crash reporting removed and will not be able to receive push notifications from openHAB Cloud.
-
-openHAB is a Java-based open-source home automation platform that integrates and combines a vast range of different smart home systems and technologies into one single solution.
-On top of the unified abstraction layer all connected devices are available for the overarching automation rule engines and different user interfaces.
-
-'''Supported Products'''
-
-Over 200 specific add-ons provide support for brands, devices, technologies and communication protocols. Examples are Z-Wave, Philips Hue, Amazon Echo, Chromecast and Sonos. Discover all available add-ons and supported devices and/or functions at: https://docs.openhab.org/addons/bindings.html
-
-• Home Automation Solutions: Z-Wave, EnOcean, Netatmo, Homematic, Insteon, ...
-• Lighting: Philips Hue, Ikea Trådfri, LIFX, Lutron, Milight, ...
-• Heating: Max!, Nest, Vitotronic, Heatmiser, ...
-• Home Entertainment: Samsung TV, LG TV, Sonos, Pioneer AVR, Squeezebox, Kodi, Plex, ...
-• Security: ZoneMinder, DSC, ...
-• Open Protocols: HTTP, TCP/UDP, MQTT, Serial, ...
-• Special UseCases: Minecraft, Tesla Car, Weather Services, ...
-• ...
-
-'''Open Source Community'''
-
-The openHAB open source initiative strongly supports its vibrant community. The forum with over 13,000 registered users is a place to find guidance, help and inspiration. Join the openHAB community forum over at https://community.openhab.org
-
-When you found an issue please report it in the forum or at https://github.com/openhab/openhab-android/issues
-
-If you want to translate the app into your language join us at https://crowdin.com/project/openhab-android
-
-'''openHAB Foundation'''
-
-The openHAB Foundation e.V. is a nonprofit organization with the mission to educate the public about the possibilities and benefits of free and open smart home solutions. Learn about the mission and the services of the foundation under https://www.openhabfoundation.org
-
-'''Important note'''
-
-You need a openHAB server for this app
-</desc>
-		<license>EPL-1.0</license>
-		<categories>Internet</categories>
-		<category>Internet</category>
-		<web>https://www.openhab.org/</web>
-		<source>https://github.com/openhab/openhab-android</source>
-		<tracker>https://github.com/openhab/openhab-android/issues</tracker>
-		<author>openHAB Foundation</author>
-		<email>apps@openhabfoundation.org</email>
-		<donate>https://www.paypal.me/openHABFoundation</donate>
-		<marketversion>2.0.45-beta</marketversion>
-		<marketvercode>46</marketvercode>
-		<antifeatures>NonFreeAssets</antifeatures>
-		<package>
-			<version>2.0.45-beta</version>
-			<versioncode>46</versioncode>
-			<apkname>org.openhab.habdroid.beta_46.apk</apkname>
-			<srcname>org.openhab.habdroid.beta_46_src.tar.gz</srcname>
-			<hash type="sha256">964eb1ef1a8c841cc3e46dc1bf8db29a919f27538064698236a22fe6141c0a34</hash>
-			<size>4546952</size>
-			<sdkver>14</sdkver>
-			<targetSdkVersion>25</targetSdkVersion>
-			<added>2018-04-09</added>
-			<sig>3970416bb69e2b5820b2c564041da740</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,NFC,WAKE_LOCK</permissions>
 		</package>
 	</application>
 	<application id="org.schabi.openhitboxstreams">
@@ -56003,8 +55921,8 @@ Everyone is welcome to publish the '''SimplePhilosopherstoneWidget''' (including
 		<web/>
 		<source>https://github.com/itds-consulting/android-silent-ping-sms</source>
 		<tracker>https://github.com/itds-consulting/android-silent-ping-sms/issues</tracker>
-		<marketversion>3</marketversion>
-		<marketvercode>4</marketvercode>
+		<marketversion>4-alpha-1</marketversion>
+		<marketvercode>5</marketvercode>
 		<package>
 			<version>3</version>
 			<versioncode>4</versioncode>
