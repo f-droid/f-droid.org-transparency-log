@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1523870217" url="https://f-droid.org/repo" version="19">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1523792512" url="https://f-droid.org/repo" version="19">
 		<description>The official FDroid repository. Applications in this repository are built directly from the source code. (One, Firefox, is the official binary built by the Mozilla. This will ultimately be replaced by a source-built version. </description>
 	</repo>
 	<application id="com.termux.api">
@@ -3965,10 +3965,10 @@ Only apps hosted on F-droid are supported. You can request new icons through the
 	<application id="de.danoeh.antennapod">
 		<id>de.danoeh.antennapod</id>
 		<added>2012-09-20</added>
-		<lastupdated>2018-04-16</lastupdated>
+		<lastupdated>2018-02-06</lastupdated>
 		<name>AntennaPod</name>
 		<summary>Advanced podcast manager and player</summary>
-		<icon>de.danoeh.antennapod.1060595.png</icon>
+		<icon>de.danoeh.antennapod.1060405.png</icon>
 		<desc>Podcast manager and player that gives you instant access to millions of free and
 paid podcasts, from independent podcasters to large publishing houses such as
 the BBC, NPR and CNN. Add, import and export their feeds hassle-free using the
@@ -3997,21 +3997,8 @@ full feature list] over at our Wiki.
 		<tracker>https://github.com/antennapod/AntennaPod/issues</tracker>
 		<changelog>https://raw.githubusercontent.com/AntennaPod/AntennaPod/develop/CHANGELOG.md</changelog>
 		<bitcoin>1DzvtuvdW8VhDsq9GUytMyALmsHeaHEKbg</bitcoin>
-		<marketversion>1.6.5</marketversion>
-		<marketvercode>1060595</marketvercode>
-		<package>
-			<version>1.6.5</version>
-			<versioncode>1060595</versioncode>
-			<apkname>de.danoeh.antennapod_1060595.apk</apkname>
-			<srcname>de.danoeh.antennapod_1060595_src.tar.gz</srcname>
-			<hash type="sha256">25256512b4047fae498821eba7af46fabb0c6d6ddd1edeac1c03f115d512a544</hash>
-			<size>4906465</size>
-			<sdkver>14</sdkver>
-			<targetSdkVersion>25</targetSdkVersion>
-			<added>2018-04-16</added>
-			<sig>3870fa89bfb5e13509ce5888800bc643</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
-		</package>
+		<marketversion>1.6.4.5</marketversion>
+		<marketvercode>1060405</marketvercode>
 		<package>
 			<version>1.6.4.5</version>
 			<versioncode>1060405</versioncode>
@@ -4035,6 +4022,19 @@ full feature list] over at our Wiki.
 			<sdkver>10</sdkver>
 			<targetSdkVersion>25</targetSdkVersion>
 			<added>2018-02-06</added>
+			<sig>3870fa89bfb5e13509ce5888800bc643</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
+		<package>
+			<version>1.6.4.1</version>
+			<versioncode>1060401</versioncode>
+			<apkname>de.danoeh.antennapod_1060401.apk</apkname>
+			<srcname>de.danoeh.antennapod_1060401_src.tar.gz</srcname>
+			<hash type="sha256">4d41712d3866b4bda36b02c7e5784b6941b7ddf401e597a10dceb81b5bd44608</hash>
+			<size>5203593</size>
+			<sdkver>10</sdkver>
+			<targetSdkVersion>25</targetSdkVersion>
+			<added>2017-10-26</added>
 			<sig>3870fa89bfb5e13509ce5888800bc643</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
@@ -8172,8 +8172,8 @@ Current features:
 		<tracker>https://github.com/bitcoin-wallet/bitcoin-wallet/issues</tracker>
 		<changelog>https://raw.github.com/bitcoin-wallet/bitcoin-wallet/prod/wallet/CHANGES</changelog>
 		<bitcoin>1HkX6X8EakdsgAysL93oKrWiXGPbFiG1xV</bitcoin>
-		<marketversion>6.21</marketversion>
-		<marketvercode>361</marketvercode>
+		<marketversion>6.20</marketversion>
+		<marketvercode>360</marketvercode>
 		<package>
 			<version>6.18</version>
 			<versioncode>358</versioncode>
@@ -8230,8 +8230,8 @@ Current features:
 		<tracker>https://github.com/bitcoin-wallet/bitcoin-wallet/issues</tracker>
 		<changelog>https://raw.githubusercontent.com/bitcoin-wallet/bitcoin-wallet/HEAD/wallet/CHANGES</changelog>
 		<bitcoin>1HkX6X8EakdsgAysL93oKrWiXGPbFiG1xV</bitcoin>
-		<marketversion>6.21</marketversion>
-		<marketvercode>361</marketvercode>
+		<marketversion>6.20</marketversion>
+		<marketvercode>360</marketvercode>
 		<package>
 			<version>6.18</version>
 			<versioncode>358</versioncode>
@@ -10505,10 +10505,10 @@ This app is just one piece of a bigger series of apps. You can find the rest of 
 	<application id="com.github.axet.callrecorder">
 		<id>com.github.axet.callrecorder</id>
 		<added>2017-06-23</added>
-		<lastupdated>2018-04-16</lastupdated>
+		<lastupdated>2018-03-23</lastupdated>
 		<name>Call Recorder</name>
 		<summary>Simple call recorder, no ads, open-source</summary>
-		<icon>com.github.axet.callrecorder.160.png</icon>
+		<icon>com.github.axet.callrecorder.158.png</icon>
 		<desc>&lt;p&gt;MOST PHONES DOES NOT SUPPORT CALL RECORDING. Blame Google or your phone manufacturer not me!&lt;/p&gt;&lt;p&gt;If it fails with high quality sound recording (voice line) this app will switch back to the MIC recording, no ads, open-source, GPLv3.&lt;/p&gt;&lt;p&gt;Google knows about issue but do nothing, can read more &lt;a href=&quot;https://code.google.com/p/android/issues/detail?id=206613#c13&quot;&gt;here&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>System</categories>
@@ -10516,22 +10516,8 @@ This app is just one piece of a bigger series of apps. You can find the rest of 
 		<web>https://gitlab.com/axet/android-call-recorder</web>
 		<source>https://gitlab.com/axet/android-call-recorder/tree/HEAD</source>
 		<tracker>https://gitlab.com/axet/android-call-recorder/issues</tracker>
-		<marketversion>1.6.5</marketversion>
-		<marketvercode>160</marketvercode>
-		<package>
-			<version>1.6.5</version>
-			<versioncode>160</versioncode>
-			<apkname>com.github.axet.callrecorder_160.apk</apkname>
-			<srcname>com.github.axet.callrecorder_160_src.tar.gz</srcname>
-			<hash type="sha256">2c2eddff1b3fa313561b9d46be97d0f91cb0dac0eb83da902f3b39ee688756f3</hash>
-			<size>5796328</size>
-			<sdkver>9</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-04-16</added>
-			<sig>fb8ca33aca9dafbee138e2f8e5f5acbd</sig>
-			<permissions>CAPTURE_AUDIO_OUTPUT,PROCESS_OUTGOING_CALLS,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WRITE_EXTERNAL_STORAGE</permissions>
-			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
-		</package>
+		<marketversion>1.6.3</marketversion>
+		<marketvercode>158</marketvercode>
 		<package>
 			<version>1.6.3</version>
 			<versioncode>158</versioncode>
@@ -10556,6 +10542,20 @@ This app is just one piece of a bigger series of apps. You can find the rest of 
 			<sdkver>9</sdkver>
 			<targetSdkVersion>23</targetSdkVersion>
 			<added>2018-03-23</added>
+			<sig>fb8ca33aca9dafbee138e2f8e5f5acbd</sig>
+			<permissions>CAPTURE_AUDIO_OUTPUT,PROCESS_OUTGOING_CALLS,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WRITE_EXTERNAL_STORAGE</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.6.1</version>
+			<versioncode>156</versioncode>
+			<apkname>com.github.axet.callrecorder_156.apk</apkname>
+			<srcname>com.github.axet.callrecorder_156_src.tar.gz</srcname>
+			<hash type="sha256">8fa711d9a700c9918d9963d80d3c4d1b014979d1638a669a33f61614febb4f8d</hash>
+			<size>5915847</size>
+			<sdkver>9</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2018-03-19</added>
 			<sig>fb8ca33aca9dafbee138e2f8e5f5acbd</sig>
 			<permissions>CAPTURE_AUDIO_OUTPUT,PROCESS_OUTGOING_CALLS,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
@@ -20144,10 +20144,10 @@ This app is just one piece of a bigger series of apps. You can find the rest of 
 	<application id="me.murks.filmchecker">
 		<id>me.murks.filmchecker</id>
 		<added>2016-09-05</added>
-		<lastupdated>2018-04-16</lastupdated>
+		<lastupdated>2018-04-10</lastupdated>
 		<name>FilmChecker</name>
 		<summary>Checks the status of film orders</summary>
-		<icon>me.murks.filmchecker.10.png</icon>
+		<icon>me.murks.filmchecker.9.png</icon>
 		<desc>&lt;p&gt;Checks the status of film orders. Currently only Rossmann (only in Germany) and DM (Germany and Austria) are supported.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Multimedia,Connectivity</categories>
@@ -20155,22 +20155,9 @@ This app is just one piece of a bigger series of apps. You can find the rest of 
 		<web/>
 		<source>https://github.com/zouroboros/filmchecker</source>
 		<tracker>https://github.com/zouroboros/filmchecker/issues</tracker>
-		<marketversion>1.4.1</marketversion>
-		<marketvercode>10</marketvercode>
+		<marketversion>1.4</marketversion>
+		<marketvercode>9</marketvercode>
 		<antifeatures>NonFreeNet</antifeatures>
-		<package>
-			<version>1.4.1</version>
-			<versioncode>10</versioncode>
-			<apkname>me.murks.filmchecker_10.apk</apkname>
-			<srcname>me.murks.filmchecker_10_src.tar.gz</srcname>
-			<hash type="sha256">8cbc4b2f173b65037dcb333c2d94acaf4b9698b4d33e251f2247863bef1e7fa4</hash>
-			<size>2736011</size>
-			<sdkver>13</sdkver>
-			<targetSdkVersion>25</targetSdkVersion>
-			<added>2018-04-16</added>
-			<sig>b4fa823ffc297388e0b737d6925d73fb</sig>
-			<permissions>INTERNET</permissions>
-		</package>
 		<package>
 			<version>1.4</version>
 			<versioncode>9</versioncode>
@@ -20194,6 +20181,19 @@ This app is just one piece of a bigger series of apps. You can find the rest of 
 			<sdkver>13</sdkver>
 			<targetSdkVersion>25</targetSdkVersion>
 			<added>2018-03-19</added>
+			<sig>b4fa823ffc297388e0b737d6925d73fb</sig>
+			<permissions>INTERNET</permissions>
+		</package>
+		<package>
+			<version>1.2.3</version>
+			<versioncode>6</versioncode>
+			<apkname>me.murks.filmchecker_6.apk</apkname>
+			<srcname>me.murks.filmchecker_6_src.tar.gz</srcname>
+			<hash type="sha256">de516fe2c75ed5e49fb65d7075fd246e30d370daa1b60844648a706433df7641</hash>
+			<size>2726333</size>
+			<sdkver>13</sdkver>
+			<targetSdkVersion>25</targetSdkVersion>
+			<added>2018-03-15</added>
 			<sig>b4fa823ffc297388e0b737d6925d73fb</sig>
 			<permissions>INTERNET</permissions>
 		</package>
@@ -20519,11 +20519,11 @@ with user activity tracking disabled by default.
 	<application id="com.simplemobiletools.flashlight">
 		<id>com.simplemobiletools.flashlight</id>
 		<added>2016-07-09</added>
-		<lastupdated>2018-04-16</lastupdated>
+		<lastupdated>2018-04-08</lastupdated>
 		<name>Flashlight</name>
 		<summary>A simple flashlight without ads.
 </summary>
-		<icon>com.simplemobiletools.flashlight.28.png</icon>
+		<icon>com.simplemobiletools.flashlight.27.png</icon>
 		<desc>A clean flashlight with an extra bright display and customizable stroboscope. If turned on via the app (not widget), it will prevent the device from falling asleep.
 
 Comes with a 1x1 widget with customizable color.
@@ -20544,21 +20544,8 @@ This app is just one piece of a bigger series of apps. You can find the rest of 
 		<donate>https://simplemobiletools.github.io/donate</donate>
 		<bitcoin>19Hc8A7sWGud8sP19VXDC5a5j28UyJfpyJ</bitcoin>
 		<litecoin>LYACbHTKaM9ZubKQGxJ4NRyVy1gHUuztRP</litecoin>
-		<marketversion>3.2.1</marketversion>
-		<marketvercode>28</marketvercode>
-		<package>
-			<version>3.2.1</version>
-			<versioncode>28</versioncode>
-			<apkname>com.simplemobiletools.flashlight_28.apk</apkname>
-			<srcname>com.simplemobiletools.flashlight_28_src.tar.gz</srcname>
-			<hash type="sha256">181c2136208c47f424eb837718c3c8b3deccc99919e096b91baebe826f45d7ff</hash>
-			<size>3178148</size>
-			<sdkver>16</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2018-04-16</added>
-			<sig>06f944519827a579ad419350dba97cc4</sig>
-			<permissions>CAMERA,FLASHLIGHT</permissions>
-		</package>
+		<marketversion>3.2.0</marketversion>
+		<marketvercode>27</marketvercode>
 		<package>
 			<version>3.2.0</version>
 			<versioncode>27</versioncode>
@@ -20582,6 +20569,19 @@ This app is just one piece of a bigger series of apps. You can find the rest of 
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2018-01-29</added>
+			<sig>06f944519827a579ad419350dba97cc4</sig>
+			<permissions>CAMERA,FLASHLIGHT</permissions>
+		</package>
+		<package>
+			<version>3.0.1</version>
+			<versioncode>25</versioncode>
+			<apkname>com.simplemobiletools.flashlight_25.apk</apkname>
+			<srcname>com.simplemobiletools.flashlight_25_src.tar.gz</srcname>
+			<hash type="sha256">eddc217e70f916a81cb966454daa80816ad0abbf8e087edbba01b4bc939dd21e</hash>
+			<size>2447993</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2017-12-15</added>
 			<sig>06f944519827a579ad419350dba97cc4</sig>
 			<permissions>CAMERA,FLASHLIGHT</permissions>
 		</package>
@@ -22406,11 +22406,11 @@ Code repository: https://github.com/jonan/ForkHub</desc>
 	<application id="com.simplemobiletools.gallery">
 		<id>com.simplemobiletools.gallery</id>
 		<added>2016-07-04</added>
-		<lastupdated>2018-04-16</lastupdated>
+		<lastupdated>2018-04-15</lastupdated>
 		<name>Gallery</name>
 		<summary>A gallery for viewing photos and videos without ads.
 </summary>
-		<icon>com.simplemobiletools.gallery.173.png</icon>
+		<icon>com.simplemobiletools.gallery.172.png</icon>
 		<desc>A simple tool usable for viewing photos and videos. Items can be sorted by date, size, name both ascending or descending, photos can be zoomed in. Media files are shown in multiple columns depending on the size of the display, you can change the column count by pinch gestures. They can be renamed, shared, deleted, copied, moved. Images can also be cropped, rotated, flipped or set as Wallpaper directly from the app.
 
 The Gallery is also offered for third party usage for previewing images / videos, adding attachments at email clients etc. It's perfect for everyday usage.
@@ -22433,22 +22433,8 @@ This app is just one piece of a bigger series of apps. You can find the rest of 
 		<donate>https://simplemobiletools.github.io/donate</donate>
 		<bitcoin>19Hc8A7sWGud8sP19VXDC5a5j28UyJfpyJ</bitcoin>
 		<litecoin>LYACbHTKaM9ZubKQGxJ4NRyVy1gHUuztRP</litecoin>
-		<marketversion>3.7.3</marketversion>
-		<marketvercode>173</marketvercode>
-		<package>
-			<version>3.7.3</version>
-			<versioncode>173</versioncode>
-			<apkname>com.simplemobiletools.gallery_173.apk</apkname>
-			<srcname>com.simplemobiletools.gallery_173_src.tar.gz</srcname>
-			<hash type="sha256">65106727fd00ddbdb3d9d48c2ef2876db0d4fbd08b45177a6ca5d9b2d9fdbbc0</hash>
-			<size>4308321</size>
-			<sdkver>16</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2018-04-16</added>
-			<sig>5ecf5b77af3a414b715dc7a334fb6b8a</sig>
-			<permissions>READ_EXTERNAL_STORAGE,SET_WALLPAPER,USE_FINGERPRINT,WRITE_EXTERNAL_STORAGE</permissions>
-			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
-		</package>
+		<marketversion>3.7.2</marketversion>
+		<marketvercode>172</marketvercode>
 		<package>
 			<version>3.7.2</version>
 			<versioncode>172</versioncode>
@@ -22473,6 +22459,20 @@ This app is just one piece of a bigger series of apps. You can find the rest of 
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2018-04-14</added>
+			<sig>5ecf5b77af3a414b715dc7a334fb6b8a</sig>
+			<permissions>READ_EXTERNAL_STORAGE,SET_WALLPAPER,USE_FINGERPRINT,WRITE_EXTERNAL_STORAGE</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>3.7.0</version>
+			<versioncode>170</versioncode>
+			<apkname>com.simplemobiletools.gallery_170.apk</apkname>
+			<srcname>com.simplemobiletools.gallery_170_src.tar.gz</srcname>
+			<hash type="sha256">a2385ebc7ae567a7955500b134fcd136790732a919177d728f855de5fb675eb8</hash>
+			<size>4297533</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2018-04-12</added>
 			<sig>5ecf5b77af3a414b715dc7a334fb6b8a</sig>
 			<permissions>READ_EXTERNAL_STORAGE,SET_WALLPAPER,USE_FINGERPRINT,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
@@ -30860,18 +30860,16 @@ This software is free software, licensed under the GPLv3 or later license. The s
 📖 Notebook with subfolder support
 📄 Edit documents from other apps
 👀 Preview rendered markup
-↪️ Share into QuickNote - Pocket/Read-it-Later alternative
+↪️ Share into QuickNote - Read-it-Later alternative
 ↪️ Share into To-Do - Wunderlist alternative
-↪️ Share into Clipboard - without a seperate clipboard app
 🔲 Dark and Light theme
 📜 Allows to set language other than system setting
 
 &lt;b&gt;Support the project:&lt;/b&gt;
  ✋ &lt;a href=&quot;https://github.com/gsantner/markor/issues/&gt;Report ideas and issues&lt;/a&gt;
  ✋ &lt;a href=&quot;https://matrix.to/#/#markor:matrix.org&quot;&gt;Join discussion on Matrix&lt;/a&gt;
- ✋ &lt;a href=&quot;https://lonamiwebs.github.io/stringlate/translate?git=https%3A%2F%2Fgithub.com%2Fgsantner%2Fmarkor.git&amp;mail=gro.xobliam@@rentnasg&amp;name=Markor&amp;web=https%3A%2F%2Fgithub.com%2Fgsantner%2Fmarkor&quot;&gt;Translate using Stringlate&lt;/a&gt;
+ ✋ &lt;a href=&quot;https://lonamiwebs.github.io/stringlate/translate?git=https%3A%2F%2Fgithub.com%2Fgsantner%2Fmarkor.git&amp;name=Markor&amp;web=https%3A%2F%2Fgithub.com%2Fgsantner%2Fmarkor&quot;&gt;Translate using Stringlate&lt;/a&gt;
  ✋ &lt;a href=&quot;https://github.com/gsantner/markor#contributions&quot;&gt;More information about contributions&lt;/a&gt;
- ✋ &lt;a href=&quot;https://gsantner.net/android-contribution-guide/?packageid=net.gsantner.markor&amp;name=Markor&amp;web=https://github.com/gsantner/markor#logcat&quot;&gt;Android Contribution Guide&lt;/a&gt;
 </desc>
 		<license>MIT</license>
 		<categories>Writing</categories>
@@ -31111,8 +31109,8 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<source>https://github.com/ZeeRooo/MaterialFBook</source>
 		<tracker>https://github.com/ZeeRooo/MaterialFBook/issues</tracker>
 		<changelog>https://github.com/ZeeRooo/MaterialFBook/blob/HEAD/README.md#changelog</changelog>
-		<marketversion>3.7.8</marketversion>
-		<marketvercode>63</marketvercode>
+		<marketversion>3.7.5</marketversion>
+		<marketvercode>61</marketvercode>
 		<antifeatures>NonFreeNet</antifeatures>
 		<package>
 			<version>3.7.5</version>
@@ -38632,10 +38630,10 @@ This app is just one piece of a bigger series of apps. You can find the rest of 
 	<application id="it.niedermann.owncloud.notes">
 		<id>it.niedermann.owncloud.notes</id>
 		<added>2016-01-29</added>
-		<lastupdated>2018-04-16</lastupdated>
+		<lastupdated>2018-04-14</lastupdated>
 		<name>Notes</name>
 		<summary>View and edit notes on Nextcloud</summary>
-		<icon>it.niedermann.owncloud.notes.28.png</icon>
+		<icon>it.niedermann.owncloud.notes.27.png</icon>
 		<desc>&lt;p&gt;Companion app to Nextcloud Notes.&lt;/p&gt;&lt;p&gt;Features&lt;/p&gt;&lt;ul&gt;&lt;li&gt; List, create, edit, share, search and delete notes&lt;/li&gt;&lt;li&gt; Share text and links as new note into the app&lt;/li&gt;&lt;li&gt; Mark notes as favorite&lt;/li&gt;&lt;li&gt; Bulk delete&lt;/li&gt;&lt;li&gt; Render MarkDown (using RxMarkdown)&lt;/li&gt;&lt;li&gt; English, German, Russian, Armenian, French and Serbian UI&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Requirements&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Nextcloud instance running&lt;/li&gt;&lt;li&gt; Nextcloud Notes app enabled&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Alternatives&lt;/p&gt;&lt;p&gt;If you dislike this app and you are looking for alternatives: Have a look at &lt;a href=&quot;fdroid.app:org.aykit.MyOwnNotes&quot;&gt;MyOwnNotes&lt;/a&gt;.&lt;/p&gt;</desc>
 		<license>GPL-3.0+</license>
 		<categories>Writing,Internet</categories>
@@ -38645,21 +38643,8 @@ This app is just one piece of a bigger series of apps. You can find the rest of 
 		<tracker>https://github.com/stefan-niedermann/nextcloud-notes/issues</tracker>
 		<changelog>https://github.com/stefan-niedermann/nextcloud-notes/releases</changelog>
 		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=K7HVLE6J7SXXA</donate>
-		<marketversion>0.16.1</marketversion>
-		<marketvercode>28</marketvercode>
-		<package>
-			<version>0.16.1</version>
-			<versioncode>28</versioncode>
-			<apkname>it.niedermann.owncloud.notes_28.apk</apkname>
-			<srcname>it.niedermann.owncloud.notes_28_src.tar.gz</srcname>
-			<hash type="sha256">3a5044fe1097d650306528a60daf41eaafde42f38d608c877cc1e5c032631724</hash>
-			<size>3144613</size>
-			<sdkver>14</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2018-04-16</added>
-			<sig>f1fe3efad6cc4b05eafe00e339f706f7</sig>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET</permissions>
-		</package>
+		<marketversion>0.16.0</marketversion>
+		<marketvercode>27</marketvercode>
 		<package>
 			<version>0.16.0</version>
 			<versioncode>27</versioncode>
@@ -38683,6 +38668,19 @@ This app is just one piece of a bigger series of apps. You can find the rest of 
 			<sdkver>14</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2018-04-14</added>
+			<sig>f1fe3efad6cc4b05eafe00e339f706f7</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET</permissions>
+		</package>
+		<package>
+			<version>0.14.2</version>
+			<versioncode>23</versioncode>
+			<apkname>it.niedermann.owncloud.notes_23.apk</apkname>
+			<srcname>it.niedermann.owncloud.notes_23_src.tar.gz</srcname>
+			<hash type="sha256">cf293ae4dc859f7b096cccada91eba7c84ac662c2fe42ff091f07158fd23636e</hash>
+			<size>3112047</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2018-04-12</added>
 			<sig>f1fe3efad6cc4b05eafe00e339f706f7</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET</permissions>
 		</package>
@@ -50478,10 +50476,10 @@ Photo by Joanna Pędzich-Opioła | CC_BY 2.0
 	<application id="wseemann.media.romote">
 		<id>wseemann.media.romote</id>
 		<added>2017-10-03</added>
-		<lastupdated>2018-04-16</lastupdated>
+		<lastupdated>2018-02-16</lastupdated>
 		<name>RoMote</name>
 		<summary>Roku remote</summary>
-		<icon>wseemann.media.romote.10.png</icon>
+		<icon>wseemann.media.romote.9.png</icon>
 		<desc>&lt;p&gt;Turn your Android Device into a control center for your Roku Player and Roku TV.&lt;/p&gt;</desc>
 		<license>Apache-2.0</license>
 		<categories>Multimedia</categories>
@@ -50491,19 +50489,6 @@ Photo by Joanna Pędzich-Opioła | CC_BY 2.0
 		<tracker>https://github.com/wseemann/RoMote/issues</tracker>
 		<marketversion>1.0.9</marketversion>
 		<marketvercode>10</marketvercode>
-		<package>
-			<version>1.0.9</version>
-			<versioncode>10</versioncode>
-			<apkname>wseemann.media.romote_10.apk</apkname>
-			<srcname>wseemann.media.romote_10_src.tar.gz</srcname>
-			<hash type="sha256">54babb7f919c48bb640cae5a178b4ad929dfcb8affd031109de6ccc92c256df7</hash>
-			<size>3340942</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2018-04-16</added>
-			<sig>8f346e0db0cd0467681d8dcfb5f438b9</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET</permissions>
-		</package>
 		<package>
 			<version>1.0.8</version>
 			<versioncode>9</versioncode>
@@ -57561,10 +57546,10 @@ Everyone is welcome to publish the '''SimplePhilosopherstoneWidget''' (including
 	<application id="io.github.lonamiwebs.stringlate">
 		<id>io.github.lonamiwebs.stringlate</id>
 		<added>2016-12-14</added>
-		<lastupdated>2018-04-16</lastupdated>
+		<lastupdated>2018-03-10</lastupdated>
 		<name>Stringlate</name>
 		<summary>Help translating FOSS applications</summary>
-		<icon>io.github.lonamiwebs.stringlate.1004.xml</icon>
+		<icon>io.github.lonamiwebs.stringlate.1003.png</icon>
 		<desc>&lt;p&gt;Fetches remote GitHub repositories containing the source code for Android applications downloading the available `strings.xml` files in them for you to translate the strings to any other locale, in order to help the authors localize their applications into other languages.&lt;/p&gt;&lt;p&gt;For more information and examples please see the README.md file on the website!&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Development</categories>
@@ -57574,23 +57559,8 @@ Everyone is welcome to publish the '''SimplePhilosopherstoneWidget''' (including
 		<tracker>https://github.com/LonamiWebs/Stringlate/issues</tracker>
 		<changelog>https://github.com/LonamiWebs/Stringlate/releases</changelog>
 		<donate>https://github.com/LonamiWebs/Stringlate#donations</donate>
-		<marketversion>0.14</marketversion>
-		<marketvercode>1004</marketvercode>
-		<package>
-			<version>0.14</version>
-			<versioncode>1004</versioncode>
-			<apkname>io.github.lonamiwebs.stringlate_1004.apk</apkname>
-			<srcname>io.github.lonamiwebs.stringlate_1004_src.tar.gz</srcname>
-			<hash type="sha256">37934cf05beb07780257648b0365667c5b9b2ef3114571e12ed9b6cb3a999e0e</hash>
-			<size>3305636</size>
-			<sdkver>15</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2018-04-16</added>
-			<sig>c37eb2bd428c8e28f6be8a8f36a119f9</sig>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
-			<uses-permission maxSdkVersion="21" name="android.permission.READ_EXTERNAL_STORAGE"/>
-			<uses-permission maxSdkVersion="21" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-		</package>
+		<marketversion>0.13</marketversion>
+		<marketvercode>1003</marketvercode>
 		<package>
 			<version>0.13</version>
 			<versioncode>1003</versioncode>
@@ -57616,6 +57586,21 @@ Everyone is welcome to publish the '''SimplePhilosopherstoneWidget''' (including
 			<sdkver>15</sdkver>
 			<targetSdkVersion>26</targetSdkVersion>
 			<added>2017-11-24</added>
+			<sig>c37eb2bd428c8e28f6be8a8f36a119f9</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<uses-permission maxSdkVersion="21" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="21" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+		</package>
+		<package>
+			<version>0.11</version>
+			<versioncode>1001</versioncode>
+			<apkname>io.github.lonamiwebs.stringlate_1001.apk</apkname>
+			<srcname>io.github.lonamiwebs.stringlate_1001_src.tar.gz</srcname>
+			<hash type="sha256">1aa504539a64daf56c7ba943227b6d8db25a1e245d18b40051bbf07cb116b8e4</hash>
+			<size>3245482</size>
+			<sdkver>15</sdkver>
+			<targetSdkVersion>26</targetSdkVersion>
+			<added>2017-09-24</added>
 			<sig>c37eb2bd428c8e28f6be8a8f36a119f9</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<uses-permission maxSdkVersion="21" name="android.permission.READ_EXTERNAL_STORAGE"/>
@@ -58016,10 +58001,10 @@ Everyone is welcome to publish the '''SimplePhilosopherstoneWidget''' (including
 	<application id="org.ligi.survivalmanual">
 		<id>org.ligi.survivalmanual</id>
 		<added>2016-09-19</added>
-		<lastupdated>2018-04-16</lastupdated>
+		<lastupdated>2017-08-02</lastupdated>
 		<name>Survival Manual</name>
 		<summary>Learn how to survive</summary>
-		<icon>org.ligi.survivalmanual.42.png</icon>
+		<icon>org.ligi.survivalmanual.41.png</icon>
 		<desc>&lt;p&gt;Survival Manual based on the Army Field Manual 21-76 - fully working offline&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Reading</categories>
@@ -58027,20 +58012,8 @@ Everyone is welcome to publish the '''SimplePhilosopherstoneWidget''' (including
 		<web>https://github.com/ligi/SurvivalManual/blob/HEAD/README.md</web>
 		<source>https://github.com/ligi/SurvivalManual</source>
 		<tracker>https://github.com/ligi/SurvivalManual/issues</tracker>
-		<marketversion>4.2</marketversion>
-		<marketvercode>42</marketvercode>
-		<package>
-			<version>4.2</version>
-			<versioncode>42</versioncode>
-			<apkname>org.ligi.survivalmanual_42.apk</apkname>
-			<srcname>org.ligi.survivalmanual_42_src.tar.gz</srcname>
-			<hash type="sha256">7ee35fb012f0421f55a9dc653bf90c47e5c4909788550b0189f162a6cb961839</hash>
-			<size>5375722</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>25</targetSdkVersion>
-			<added>2018-04-16</added>
-			<sig>f7604945ef3f796c79d6b38c1d765a34</sig>
-		</package>
+		<marketversion>4.1</marketversion>
+		<marketvercode>41</marketvercode>
 		<package>
 			<version>4.1</version>
 			<versioncode>41</versioncode>
@@ -58063,6 +58036,18 @@ Everyone is welcome to publish the '''SimplePhilosopherstoneWidget''' (including
 			<sdkver>10</sdkver>
 			<targetSdkVersion>25</targetSdkVersion>
 			<added>2017-07-19</added>
+			<sig>f7604945ef3f796c79d6b38c1d765a34</sig>
+		</package>
+		<package>
+			<version>3.9</version>
+			<versioncode>39</versioncode>
+			<apkname>org.ligi.survivalmanual_39.apk</apkname>
+			<srcname>org.ligi.survivalmanual_39_src.tar.gz</srcname>
+			<hash type="sha256">c705d7749e0096b829e09a745e9876e5f38c5938f76966b9b48edfd235e125fa</hash>
+			<size>8946665</size>
+			<sdkver>10</sdkver>
+			<targetSdkVersion>25</targetSdkVersion>
+			<added>2017-05-22</added>
 			<sig>f7604945ef3f796c79d6b38c1d765a34</sig>
 		</package>
 	</application>
@@ -58866,66 +58851,6 @@ Everyone is welcome to publish the '''SimplePhilosopherstoneWidget''' (including
 			<added>2016-06-15</added>
 			<sig>bf973d52c9575a71e74331dc61ff8eaf</sig>
 			<permissions>RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_SETTINGS</permissions>
-		</package>
-	</application>
-	<application id="com.android.talkback">
-		<id>com.android.talkback</id>
-		<added>2018-04-16</added>
-		<lastupdated>2018-04-16</lastupdated>
-		<name>TalkBack</name>
-		<summary>Accessibility improvements</summary>
-		<icon>com.android.talkback.50007000.png</icon>
-		<desc>&lt;p&gt;TalkBack is an Accessibility Service that helps blind and vision-impaired users interact with their devices more easily.&lt;/p&gt;&lt;p&gt;This application adds spoken, audible, and vibration feedback to your device.&lt;/p&gt;&lt;p&gt;It comes pre-installed on many devices so you won't be able to install this if that is the case.&lt;/p&gt;&lt;p&gt;It's only activated if you explicitly turn on Accessibility:&lt;/p&gt;&lt;ol&gt;&lt;li&gt; Go to Settings&lt;/li&gt;&lt;li&gt; Select Accessibility&lt;/li&gt;&lt;li&gt; Enable TalkBack checkboxes&lt;/li&gt;&lt;/ol&gt;</desc>
-		<license>Apache-2.0</license>
-		<categories>System</categories>
-		<category>System</category>
-		<web>https://support.google.com/accessibility/android/answer/6283677?hl=en</web>
-		<source>https://github.com/google/talkback</source>
-		<tracker/>
-		<marketversion/>
-		<marketvercode>50007000</marketvercode>
-		<package>
-			<version>5.0.7_aosp</version>
-			<versioncode>50007000</versioncode>
-			<apkname>com.android.talkback_50007000.apk</apkname>
-			<srcname>com.android.talkback_50007000_src.tar.gz</srcname>
-			<hash type="sha256">66c93480f736ceeb7bff906ee08aebe232bf22d820dac6d7bb80f29bd52e3211</hash>
-			<size>6801915</size>
-			<sdkver>16</sdkver>
-			<targetSdkVersion>24</targetSdkVersion>
-			<added>2018-04-16</added>
-			<sig>719d6c819e0801b4c31182941e5bcc23</sig>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET,MODIFY_AUDIO_SETTINGS,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,SYSTEM_ALERT_WINDOW,VIBRATE,WAKE_LOCK,com.google.android.marvin.feedback.permission.TALKBACK,com.google.android.marvin.talkback.permission.LABELING</permissions>
-		</package>
-	</application>
-	<application id="com.google.android.accessibility.talkback">
-		<id>com.google.android.accessibility.talkback</id>
-		<added>2018-04-16</added>
-		<lastupdated>2018-04-16</lastupdated>
-		<name>TalkBack</name>
-		<summary>Accessibility improvements</summary>
-		<icon>com.google.android.accessibility.talkback.50200001.png</icon>
-		<desc>&lt;p&gt;TalkBack is an Accessibility Service that helps blind and vision-impaired users interact with their devices more easily.&lt;/p&gt;&lt;p&gt;This application adds spoken, audible, and vibration feedback to your device.&lt;/p&gt;&lt;p&gt;It comes pre-installed on many devices so you won't be able to install this if that is the case.&lt;/p&gt;&lt;p&gt;It's only activated if you explicitly turn on Accessibility:&lt;/p&gt;&lt;ol&gt;&lt;li&gt; Go to Settings&lt;/li&gt;&lt;li&gt; Select Accessibility&lt;/li&gt;&lt;li&gt; Enable TalkBack checkboxes&lt;/li&gt;&lt;/ol&gt;</desc>
-		<license>Apache-2.0</license>
-		<categories>System</categories>
-		<category>System</category>
-		<web>https://support.google.com/accessibility/android/answer/6283677?hl=en</web>
-		<source>https://github.com/google/talkback</source>
-		<tracker/>
-		<marketversion/>
-		<marketvercode>50200001</marketvercode>
-		<package>
-			<version/>
-			<versioncode>50200001</versioncode>
-			<apkname>com.google.android.accessibility.talkback_50200001.apk</apkname>
-			<srcname>com.google.android.accessibility.talkback_50200001_src.tar.gz</srcname>
-			<hash type="sha256">d9b7a8add94c38003719c037b6520c277769efef0670d61cffcc3a77bb0a971f</hash>
-			<size>8058773</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2018-04-16</added>
-			<sig>fe1143626482ada07d990a1e9ddb4ac0</sig>
-			<permissions>ACCESS_NETWORK_STATE,BLUETOOTH,INTERNET,MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,SYSTEM_ALERT_WINDOW,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.marvin.feedback.permission.TALKBACK,com.google.android.marvin.talkback.permission.LABELING</permissions>
 		</package>
 	</application>
 	<application id="com.ciarang.tallyphant">
@@ -61715,10 +61640,10 @@ Required Android Permissions:
 	<application id="com.github.axet.torrentclient">
 		<id>com.github.axet.torrentclient</id>
 		<added>2017-07-18</added>
-		<lastupdated>2018-04-16</lastupdated>
+		<lastupdated>2018-04-14</lastupdated>
 		<name>Torrent Client</name>
 		<summary>Download torrent files</summary>
-		<icon>com.github.axet.torrentclient.629.png</icon>
+		<icon>com.github.axet.torrentclient.627.png</icon>
 		<desc>&lt;p&gt;Nice and simple torrent client. Supports magnet links, creating torrent files, UPNP, PMP, uTP, PEX and more.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Internet</categories>
@@ -61726,22 +61651,8 @@ Required Android Permissions:
 		<web>https://gitlab.com/axet/android-torrent-client</web>
 		<source>https://gitlab.com/axet/android-torrent-client/tree/HEAD</source>
 		<tracker>https://gitlab.com/axet/android-torrent-client/issues</tracker>
-		<marketversion>3.4.141</marketversion>
-		<marketvercode>629</marketvercode>
-		<package>
-			<version>3.4.141</version>
-			<versioncode>629</versioncode>
-			<apkname>com.github.axet.torrentclient_629.apk</apkname>
-			<srcname>com.github.axet.torrentclient_629_src.tar.gz</srcname>
-			<hash type="sha256">dbfa561298c3922f497a5317d0f2b859a361e0eb35e34cf7559d16a583dde284</hash>
-			<size>21397874</size>
-			<sdkver>15</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2018-04-16</added>
-			<sig>4ba2636b58e7d3cfdff05ebf6d3e7e55</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WRITE_EXTERNAL_STORAGE</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
-		</package>
+		<marketversion>3.4.139</marketversion>
+		<marketvercode>627</marketvercode>
 		<package>
 			<version>3.4.139</version>
 			<versioncode>627</versioncode>
@@ -61766,6 +61677,20 @@ Required Android Permissions:
 			<sdkver>15</sdkver>
 			<targetSdkVersion>23</targetSdkVersion>
 			<added>2018-04-12</added>
+			<sig>4ba2636b58e7d3cfdff05ebf6d3e7e55</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WRITE_EXTERNAL_STORAGE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>3.4.136</version>
+			<versioncode>624</versioncode>
+			<apkname>com.github.axet.torrentclient_624.apk</apkname>
+			<srcname>com.github.axet.torrentclient_624_src.tar.gz</srcname>
+			<hash type="sha256">4852d5fdf67623dd794c09d4fe815e07fb4498b660c80062682d2789b6584094</hash>
+			<size>21389683</size>
+			<sdkver>15</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2018-04-10</added>
 			<sig>4ba2636b58e7d3cfdff05ebf6d3e7e55</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -63489,10 +63414,10 @@ on the device. The app adds a device-specific password to the IdM Portal.
 	<application id="com.keylesspalace.tusky">
 		<id>com.keylesspalace.tusky</id>
 		<added>2017-02-24</added>
-		<lastupdated>2018-04-16</lastupdated>
+		<lastupdated>2018-03-10</lastupdated>
 		<name>Tusky</name>
 		<summary>Material Design Mastodon Client</summary>
-		<icon>com.keylesspalace.tusky.35.png</icon>
+		<icon>com.keylesspalace.tusky.34.png</icon>
 		<desc>&lt;p&gt;Tusky is a client for &lt;a href=&quot;https://joinmastodon.org/&quot;&gt;Mastodon&lt;/a&gt;, a free and open-source social network server. Share words, photos, and videos with folks!&lt;/p&gt;&lt;p&gt;Mastodon is decentralized, meaning anyone can run Mastodon and participate in the social network seamlessly.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Internet</categories>
@@ -63501,21 +63426,8 @@ on the device. The app adds a device-specific password to the IdM Portal.
 		<source>https://github.com/tuskyapp/Tusky</source>
 		<tracker>https://github.com/tuskyapp/Tusky/issues</tracker>
 		<liberapay>23062</liberapay>
-		<marketversion>1.6.0</marketversion>
-		<marketvercode>35</marketvercode>
-		<package>
-			<version>1.6.0</version>
-			<versioncode>35</versioncode>
-			<apkname>com.keylesspalace.tusky_35.apk</apkname>
-			<srcname>com.keylesspalace.tusky_35_src.tar.gz</srcname>
-			<hash type="sha256">c30be3110785cb286aaba1fb4dde03a19777623be8cc157d0ff1e601a8575594</hash>
-			<size>2608343</size>
-			<sdkver>19</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2018-04-16</added>
-			<sig>3c46d4dfb9f0de00a79d36fe5f6612eb</sig>
-			<permissions>ACCESS_COARSE_LOCATION,ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
-		</package>
+		<marketversion>1.5.2</marketversion>
+		<marketvercode>34</marketvercode>
 		<package>
 			<version>1.5.2</version>
 			<versioncode>34</versioncode>
@@ -63539,6 +63451,19 @@ on the device. The app adds a device-specific password to the IdM Portal.
 			<sdkver>18</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2018-02-16</added>
+			<sig>3c46d4dfb9f0de00a79d36fe5f6612eb</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
+		<package>
+			<version>1.5.0</version>
+			<versioncode>32</versioncode>
+			<apkname>com.keylesspalace.tusky_32.apk</apkname>
+			<srcname>com.keylesspalace.tusky_32_src.tar.gz</srcname>
+			<hash type="sha256">88761c6e124c2df700cfc85485c44b29f2ecd9a5f85adb29b4657e01f46d1d30</hash>
+			<size>2490009</size>
+			<sdkver>18</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2018-02-06</added>
 			<sig>3c46d4dfb9f0de00a79d36fe5f6612eb</sig>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
@@ -65724,10 +65649,10 @@ on the device. The app adds a device-specific password to the IdM Portal.
 	<application id="be.mygod.vpnhotspot">
 		<id>be.mygod.vpnhotspot</id>
 		<added>2018-02-16</added>
-		<lastupdated>2018-04-16</lastupdated>
-		<name>VPN 热点</name>
+		<lastupdated>2018-03-31</lastupdated>
+		<name>VPN Hotspot</name>
 		<summary>Share your VPN connection over hotspot or repeater</summary>
-		<icon>be.mygod.vpnhotspot.14.png</icon>
+		<icon>be.mygod.vpnhotspot.13.png</icon>
 		<desc>&lt;p&gt;This app is useful for:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Connecting things that don't support VPN like Chromecasts behind corporate firewalls;&lt;/li&gt;&lt;li&gt; Set up gapps behind corporate firewalls;&lt;/li&gt;&lt;li&gt; Connect to your mobile hotspot but you're not bothered to set up VPN on your device.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Requires root to set up networking.&lt;/p&gt;&lt;p&gt;This app is designed to do only minimal changes to your system, so there's almost no chance you will brick your device and/or break your Internet using this app under normal conditions. However there's also absolutely no guarantee it won't.&lt;/p&gt;</desc>
 		<license>Apache-2.0</license>
 		<categories>Connectivity</categories>
@@ -65737,22 +65662,9 @@ on the device. The app adds a device-specific password to the IdM Portal.
 		<tracker>https://github.com/Mygod/VPNHotspot/issues</tracker>
 		<donate>https://mygod.be/donate/</donate>
 		<flattr>e0ggg2</flattr>
-		<marketversion>1.1.6</marketversion>
-		<marketvercode>14</marketvercode>
+		<marketversion>1.1.5</marketversion>
+		<marketvercode>13</marketvercode>
 		<requirements>root</requirements>
-		<package>
-			<version>1.1.6</version>
-			<versioncode>14</versioncode>
-			<apkname>be.mygod.vpnhotspot_14.apk</apkname>
-			<srcname>be.mygod.vpnhotspot_14_src.tar.gz</srcname>
-			<hash type="sha256">ea4abacbbcefdaef4213f9fe6b0eb1a728793679f737d413c974a7d637db5c26</hash>
-			<size>1411776</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2018-04-16</added>
-			<sig>b219878ac4163c51d0fc7c3bece2dafc</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,INTERNET</permissions>
-		</package>
 		<package>
 			<version>1.1.5</version>
 			<versioncode>13</versioncode>
@@ -65776,6 +65688,19 @@ on the device. The app adds a device-specific password to the IdM Portal.
 			<sdkver>21</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2018-03-19</added>
+			<sig>b219878ac4163c51d0fc7c3bece2dafc</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,INTERNET</permissions>
+		</package>
+		<package>
+			<version>1.1.3</version>
+			<versioncode>11</versioncode>
+			<apkname>be.mygod.vpnhotspot_11.apk</apkname>
+			<srcname>be.mygod.vpnhotspot_11_src.tar.gz</srcname>
+			<hash type="sha256">b66698c2b7adcb156aaae03f0fdaff04d1f96cfdf04a8e9eecf94e06cd071176</hash>
+			<size>1505102</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2018-03-15</added>
 			<sig>b219878ac4163c51d0fc7c3bece2dafc</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,INTERNET</permissions>
 		</package>
@@ -68677,7 +68602,6 @@ The Wikimedia Foundation is the nonprofit organization that supports Wikipedia a
 		<web/>
 		<source>https://github.com/M66B/XPrivacyLua</source>
 		<tracker>https://forum.xda-developers.com/xposed/modules/xprivacylua6-0-android-privacy-manager-t3730663</tracker>
-		<changelog>https://github.com/M66B/XPrivacyLua/releases</changelog>
 		<donate>https://lua.xprivacy.eu/</donate>
 		<bitcoin>1GePXhRPgLhwQmBwRHhX1nSCgvfnCY97Gg</bitcoin>
 		<marketversion>1.23.14</marketversion>
