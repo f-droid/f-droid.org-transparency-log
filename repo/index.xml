@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1525066491" url="https://f-droid.org/repo" version="19">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1525209171" url="https://f-droid.org/repo" version="19">
 		<description>The official FDroid repository. Applications in this repository are built directly from the source code. (One, Firefox, is the official binary built by the Mozilla. This will ultimately be replaced by a source-built version. </description>
 	</repo>
 	<application id="org.nerdcircus.android.klaxon">
@@ -2216,10 +2216,10 @@ Required Android Permissions:
 	<application id="eu.uwot.fabio.altcoinprices">
 		<id>eu.uwot.fabio.altcoinprices</id>
 		<added>2017-09-24</added>
-		<lastupdated>2018-04-29</lastupdated>
+		<lastupdated>2018-05-01</lastupdated>
 		<name>Altcoin Prices</name>
 		<summary>Monitor altcoin prices in real time</summary>
-		<icon>eu.uwot.fabio.altcoinprices.43.png</icon>
+		<icon>eu.uwot.fabio.altcoinprices.44.png</icon>
 		<desc>&lt;p&gt;Cryptocurrencies portfolio tracker, monitor prices in real time and much more. Data are retrieved directly using exchange's API for maximum privacy.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Money</categories>
@@ -2229,8 +2229,21 @@ Required Android Permissions:
 		<tracker>https://gitlab.com/cfabio/AltcoinPrices/issues</tracker>
 		<changelog>https://gitlab.com/cfabio/AltcoinPrices/tags</changelog>
 		<bitcoin>353x3kNMUaAt3i79kQTf3KCJWRAVXSRGpW</bitcoin>
-		<marketversion>1.5.2</marketversion>
-		<marketvercode>43</marketvercode>
+		<marketversion>1.5.3</marketversion>
+		<marketvercode>44</marketvercode>
+		<package>
+			<version>1.5.3</version>
+			<versioncode>44</versioncode>
+			<apkname>eu.uwot.fabio.altcoinprices_44.apk</apkname>
+			<srcname>eu.uwot.fabio.altcoinprices_44_src.tar.gz</srcname>
+			<hash type="sha256">7ba0211bc7b1a92810ae5e7c5318352056d91da96deca7a76d7198225e1674d9</hash>
+			<size>2332427</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2018-05-01</added>
+			<sig>2a34ea3b304bf5c214dbc91853ea2f3e</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET</permissions>
+		</package>
 		<package>
 			<version>1.5.2</version>
 			<versioncode>43</versioncode>
@@ -2254,19 +2267,6 @@ Required Android Permissions:
 			<sdkver>14</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2018-04-28</added>
-			<sig>2a34ea3b304bf5c214dbc91853ea2f3e</sig>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET</permissions>
-		</package>
-		<package>
-			<version>1.4.18</version>
-			<versioncode>40</versioncode>
-			<apkname>eu.uwot.fabio.altcoinprices_40.apk</apkname>
-			<srcname>eu.uwot.fabio.altcoinprices_40_src.tar.gz</srcname>
-			<hash type="sha256">e93c960dc98331586003e8c314a20dd5acac7f5742a7846fc62c2c6de27a8524</hash>
-			<size>2360778</size>
-			<sdkver>14</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2018-04-27</added>
 			<sig>2a34ea3b304bf5c214dbc91853ea2f3e</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET</permissions>
 		</package>
@@ -40127,10 +40127,10 @@ This app is just one piece of a bigger series of apps. You can find the rest of 
 	<application id="org.openintents.filemanager">
 		<id>org.openintents.filemanager</id>
 		<added>2012-02-03</added>
-		<lastupdated>2017-12-15</lastupdated>
+		<lastupdated>2018-05-01</lastupdated>
 		<name>OI File Manager</name>
 		<summary>File manager</summary>
-		<icon>org.openintents.filemanager.39.png</icon>
+		<icon>org.openintents.filemanager.40.png</icon>
 		<desc>&lt;p&gt;The OpenIntents file manager allows you to browse your SD card, create directories, rename, move, and delete files. It also acts as an extension to other applications to display &quot;Open&quot; and &quot;Save&quot; dialogs.&lt;/p&gt;&lt;p&gt;Note that this is included in older versions of Cyanogenmod as a system application, so you will not be able to upgrade it without first manually removing (as root) the existing version.&lt;/p&gt;</desc>
 		<license>Apache-2.0</license>
 		<categories>System</categories>
@@ -40140,8 +40140,21 @@ This app is just one piece of a bigger series of apps. You can find the rest of 
 		<tracker>https://github.com/openintents/filemanager/issues</tracker>
 		<donate>http://www.openintents.org/contribute</donate>
 		<bitcoin>16MJeiftw9LRuvqoSH18v16kYTeNx7wJSZ</bitcoin>
-		<marketversion>2.2.2</marketversion>
-		<marketvercode>39</marketvercode>
+		<marketversion>2.2.3</marketversion>
+		<marketvercode>40</marketvercode>
+		<package>
+			<version>2.2.3</version>
+			<versioncode>40</versioncode>
+			<apkname>org.openintents.filemanager_40.apk</apkname>
+			<srcname>org.openintents.filemanager_40_src.tar.gz</srcname>
+			<hash type="sha256">426b9c9e24d7babb4927ad63f19716d0c9809fa6dfdf43c0d76b6c1b8122841a</hash>
+			<size>2288138</size>
+			<sdkver>9</sdkver>
+			<targetSdkVersion>25</targetSdkVersion>
+			<added>2018-05-01</added>
+			<sig>7485b8b2fb7a584751cfad75e7ed23c0</sig>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT</permissions>
+		</package>
 		<package>
 			<version>2.2.2</version>
 			<versioncode>39</versioncode>
@@ -40165,19 +40178,6 @@ This app is just one piece of a bigger series of apps. You can find the rest of 
 			<sdkver>9</sdkver>
 			<targetSdkVersion>25</targetSdkVersion>
 			<added>2017-10-26</added>
-			<sig>7485b8b2fb7a584751cfad75e7ed23c0</sig>
-			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT</permissions>
-		</package>
-		<package>
-			<version>2.2.0</version>
-			<versioncode>37</versioncode>
-			<apkname>org.openintents.filemanager_37.apk</apkname>
-			<srcname>org.openintents.filemanager_37_src.tar.gz</srcname>
-			<hash type="sha256">5d6082718db6aac1359ff5b66bd3f90b56f9f5b629bb6e66c42c17db41e8640a</hash>
-			<size>2312567</size>
-			<sdkver>9</sdkver>
-			<targetSdkVersion>25</targetSdkVersion>
-			<added>2017-10-24</added>
 			<sig>7485b8b2fb7a584751cfad75e7ed23c0</sig>
 			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT</permissions>
 		</package>
