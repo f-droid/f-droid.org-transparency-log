@@ -1,38 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1525209171" url="https://f-droid.org/repo" version="19">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1525299076" url="https://f-droid.org/repo" version="19">
 		<description>The official FDroid repository. Applications in this repository are built directly from the source code. (One, Firefox, is the official binary built by the Mozilla. This will ultimately be replaced by a source-built version. </description>
 	</repo>
-	<application id="org.nerdcircus.android.klaxon">
-		<id>org.nerdcircus.android.klaxon</id>
-		<added>2012-02-04</added>
-		<lastupdated>2012-02-04</lastupdated>
-		<name/>
-		<summary>SMS-based pager</summary>
-		<icon>org.nerdcircus.android.klaxon.27.png</icon>
-		<desc>&lt;p&gt;Klaxon is a tool designed for on-call personnel, that repeatedly notifies the user (by means of a ringtone, vibration or both) when a page is received until the user looks at it. A page to Klaxon is an SMS message, optionally meeting filtering criteria set by the user.&lt;/p&gt;</desc>
-		<license>Apache-2.0</license>
-		<categories>Phone &amp; SMS</categories>
-		<category>Phone &amp; SMS</category>
-		<web>https://code.google.com/p/klaxon</web>
-		<source>https://code.google.com/p/klaxon/source</source>
-		<tracker/>
-		<marketversion>0.27</marketversion>
-		<marketvercode>27</marketvercode>
-		<package>
-			<version>0.27</version>
-			<versioncode>27</versioncode>
-			<apkname>org.nerdcircus.android.klaxon_27.apk</apkname>
-			<srcname>org.nerdcircus.android.klaxon_27_src.tar.gz</srcname>
-			<hash type="sha256">2e71d55c2bf4f0f43cea03d6a37b915b57d05067af97457954d5e762418d6474</hash>
-			<size>54191</size>
-			<sdkver>4</sdkver>
-			<targetSdkVersion>4</targetSdkVersion>
-			<added>2012-02-04</added>
-			<sig>1436f5677ead7dc863f9e2ec0124b153</sig>
-			<permissions>READ_SMS,RECEIVE_MMS,RECEIVE_SMS,SEND_SMS,VIBRATE</permissions>
-		</package>
-	</application>
 	<application id="com.jereksel.libresubstratum">
 		<id>com.jereksel.libresubstratum</id>
 		<added>2017-11-17</added>
@@ -1830,10 +1800,10 @@ Required Android Permissions:
 	<application id="dev.ukanth.ufirewall">
 		<id>dev.ukanth.ufirewall</id>
 		<added>2013-03-19</added>
-		<lastupdated>2018-01-15</lastupdated>
+		<lastupdated>2018-05-02</lastupdated>
 		<name>AFWall+</name>
 		<summary>Control network traffic</summary>
-		<icon>dev.ukanth.ufirewall.15980.png</icon>
+		<icon>dev.ukanth.ufirewall.15992.png</icon>
 		<desc>&lt;p&gt;Firewall (iptables frontend), based on DroidWall which is no longer being developed. A paid &quot;donate&quot;-version with more features it advertised within the app.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Import/Export Rules to external storage&lt;/li&gt;&lt;li&gt; Search Applications&lt;/li&gt;&lt;li&gt; Multiple profiles with custom names&lt;/li&gt;&lt;li&gt; Highlights system applications with custom color&lt;/li&gt;&lt;li&gt; Notify on new installations&lt;/li&gt;&lt;li&gt; VPN Support&lt;/li&gt;&lt;li&gt; Device Admin support to protect against being uninstalled&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Requires root: Yes. iptables must run as root.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Security,Internet</categories>
@@ -1843,10 +1813,23 @@ Required Android Permissions:
 		<tracker>https://github.com/ukanth/afwall/issues</tracker>
 		<changelog>https://github.com/ukanth/afwall/blob/HEAD/Changelog.md</changelog>
 		<donate>http://forum.xda-developers.com/donatetome.php?u=3249429</donate>
-		<marketversion>2.9.8</marketversion>
-		<marketvercode>15980</marketvercode>
+		<marketversion>2.9.9</marketversion>
+		<marketvercode>15992</marketvercode>
 		<requirements>root</requirements>
 		<antifeatures>NonFreeAdd</antifeatures>
+		<package>
+			<version>2.9.9</version>
+			<versioncode>15992</versioncode>
+			<apkname>dev.ukanth.ufirewall_15992.apk</apkname>
+			<srcname>dev.ukanth.ufirewall_15992_src.tar.gz</srcname>
+			<hash type="sha256">88d4c4a4a49c4b32a313fbb4d3ebb8d2903b0d6a46d5a1b7d828859cae3f06a8</hash>
+			<size>6326373</size>
+			<sdkver>15</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2018-05-02</added>
+			<sig>bc693edcdb5eeb24195a3f14362d8bb7</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,ACCESS_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,USE_FINGERPRINT,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>2.9.8</version>
 			<versioncode>15980</versioncode>
@@ -1870,19 +1853,6 @@ Required Android Permissions:
 			<sdkver>15</sdkver>
 			<targetSdkVersion>23</targetSdkVersion>
 			<added>2017-11-03</added>
-			<sig>bc693edcdb5eeb24195a3f14362d8bb7</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,ACCESS_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,USE_FINGERPRINT,WRITE_EXTERNAL_STORAGE</permissions>
-		</package>
-		<package>
-			<version>2.9.6.1</version>
-			<versioncode>15972</versioncode>
-			<apkname>dev.ukanth.ufirewall_15972.apk</apkname>
-			<srcname>dev.ukanth.ufirewall_15972_src.tar.gz</srcname>
-			<hash type="sha256">984f9c4fcda727b05d3e3e1231f568a45242dffe8321b59f45a51375e8192625</hash>
-			<size>5594061</size>
-			<sdkver>15</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2017-09-02</added>
 			<sig>bc693edcdb5eeb24195a3f14362d8bb7</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,ACCESS_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,USE_FINGERPRINT,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
@@ -8162,7 +8132,7 @@ Current features:
 	<application id="de.schildbach.wallet">
 		<id>de.schildbach.wallet</id>
 		<added>2012-02-27</added>
-		<lastupdated>2018-04-20</lastupdated>
+		<lastupdated>2018-05-02</lastupdated>
 		<name>Bitcoin Wallet</name>
 		<summary>Store digital currency</summary>
 		<desc>&lt;p&gt;Have your Bitcoins always with you, in your pocket! You pay by quickly scanning a QR code. As a merchant, you receive payments reliably and instantly. Bitcoin Wallet is the first mobile Bitcoin app, and arguably also the most secure!&lt;/p&gt;&lt;ul&gt;&lt;li&gt; No registration, web service or cloud needed! This wallet is de-centralized and peer to peer.&lt;/li&gt;&lt;li&gt; Display of Bitcoin amount in BTC, mBTC and µBTC.&lt;/li&gt;&lt;li&gt; Conversion to and from national currencies.&lt;/li&gt;&lt;li&gt; Sending and receiving of Bitcoin via NFC, QR codes or Bitcoin URLs.&lt;/li&gt;&lt;li&gt; Address book for regularly used Bitcoin addresses.&lt;/li&gt;&lt;li&gt; When you're offline, you can still pay via Bluetooth.&lt;/li&gt;&lt;li&gt; System notification for received coins.&lt;/li&gt;&lt;li&gt; Sweeping of paper wallets (e.g. those used for cold storage).&lt;/li&gt;&lt;li&gt; App widget for Bitcoin balance.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;See the &lt;a href=&quot;https://raw.githubusercontent.com/bitcoin-wallet/bitcoin-wallet/master/wallet/README.md&quot;&gt;README&lt;/a&gt; for more details. Use this at your own risk and be wary that if you don't make a backup of the private keys you will no longer be able to access the Bitcoins contained in the wallet, should the data of the app be lost.&lt;/p&gt;&lt;p&gt;There's a separate version of this application that uses a test version of the Bitcoin network: &lt;a href=&quot;fdroid.app:de.schildbach.wallet_test&quot;&gt;Bitcoin Wallet [testnet3]&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;All translations are managed via the &lt;a href=&quot;https://www.transifex.com/bitcoin-wallet/bitcoin-wallet/&quot;&gt;Transifex project&lt;/a&gt;.&lt;/p&gt;</desc>
@@ -8174,8 +8144,22 @@ Current features:
 		<tracker>https://github.com/bitcoin-wallet/bitcoin-wallet/issues</tracker>
 		<changelog>https://raw.github.com/bitcoin-wallet/bitcoin-wallet/prod/wallet/CHANGES</changelog>
 		<bitcoin>1HkX6X8EakdsgAysL93oKrWiXGPbFiG1xV</bitcoin>
-		<marketversion>6.21</marketversion>
-		<marketvercode>361</marketvercode>
+		<marketversion>6.23</marketversion>
+		<marketvercode>363</marketvercode>
+		<package>
+			<version>6.23</version>
+			<versioncode>363</versioncode>
+			<apkname>de.schildbach.wallet_363.apk</apkname>
+			<srcname>de.schildbach.wallet_363_src.tar.gz</srcname>
+			<hash type="sha256">6eb15c9583ba0256400fc5a9361243c131c534dd29dea903d6e7589fd0599906</hash>
+			<size>3339461</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2018-05-02</added>
+			<sig>eb52a39c855f2439eeb711a9f0ab611b</sig>
+			<permissions>ACCESS_NETWORK_STATE,BLUETOOTH,CAMERA,INTERNET,NFC,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK</permissions>
+			<nativecode>armeabi-v7a,x86</nativecode>
+		</package>
 		<package>
 			<version>6.21</version>
 			<versioncode>361</versioncode>
@@ -8202,24 +8186,11 @@ Current features:
 			<sig>eb52a39c855f2439eeb711a9f0ab611b</sig>
 			<permissions>ACCESS_NETWORK_STATE,BLUETOOTH,CAMERA,INTERNET,NFC,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK</permissions>
 		</package>
-		<package>
-			<version>6.03</version>
-			<versioncode>343</versioncode>
-			<apkname>de.schildbach.wallet_343.apk</apkname>
-			<srcname>de.schildbach.wallet_343_src.tar.gz</srcname>
-			<hash type="sha256">37b78dc265ba0e08b7eeddf47a646ae1ec4a636176fb6b038478ffb25ae5e3f8</hash>
-			<size>3208265</size>
-			<sdkver>19</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2018-03-10</added>
-			<sig>eb52a39c855f2439eeb711a9f0ab611b</sig>
-			<permissions>ACCESS_NETWORK_STATE,BLUETOOTH,CAMERA,INTERNET,NFC,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK</permissions>
-		</package>
 	</application>
 	<application id="de.schildbach.wallet_test">
 		<id>de.schildbach.wallet_test</id>
 		<added>2012-04-07</added>
-		<lastupdated>2018-04-20</lastupdated>
+		<lastupdated>2018-05-02</lastupdated>
 		<name>Bitcoin Wallet [testnet3]</name>
 		<summary>Testing version of Bitcoin</summary>
 		<desc>&lt;p&gt;A Bitcoin wallet, allowing you to store, send and receive Bitcoins on your device, both via QR codes and NFC. This is a test version of &lt;a href=&quot;fdroid.app:de.schildbach.wallet&quot;&gt;Bitcoin Wallet&lt;/a&gt; that uses the test Bitcoin network, not the real one.&lt;/p&gt;</desc>
@@ -8231,8 +8202,22 @@ Current features:
 		<tracker>https://github.com/bitcoin-wallet/bitcoin-wallet/issues</tracker>
 		<changelog>https://raw.githubusercontent.com/bitcoin-wallet/bitcoin-wallet/HEAD/wallet/CHANGES</changelog>
 		<bitcoin>1HkX6X8EakdsgAysL93oKrWiXGPbFiG1xV</bitcoin>
-		<marketversion>6.21</marketversion>
-		<marketvercode>361</marketvercode>
+		<marketversion>6.23</marketversion>
+		<marketvercode>363</marketvercode>
+		<package>
+			<version>6.23</version>
+			<versioncode>363</versioncode>
+			<apkname>de.schildbach.wallet_test_363.apk</apkname>
+			<srcname>de.schildbach.wallet_test_363_src.tar.gz</srcname>
+			<hash type="sha256">2dc3c64740905d03b41eda1428516797ccbd715d1651024497549f362eff0ccd</hash>
+			<size>3321635</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2018-05-02</added>
+			<sig>e02308f5a8441a390a03b31ff9f45511</sig>
+			<permissions>ACCESS_NETWORK_STATE,BLUETOOTH,CAMERA,INTERNET,NFC,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK</permissions>
+			<nativecode>armeabi-v7a,x86</nativecode>
+		</package>
 		<package>
 			<version>6.21</version>
 			<versioncode>361</versioncode>
@@ -8256,19 +8241,6 @@ Current features:
 			<sdkver>19</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2018-04-12</added>
-			<sig>e02308f5a8441a390a03b31ff9f45511</sig>
-			<permissions>ACCESS_NETWORK_STATE,BLUETOOTH,CAMERA,INTERNET,NFC,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK</permissions>
-		</package>
-		<package>
-			<version>6.03</version>
-			<versioncode>343</versioncode>
-			<apkname>de.schildbach.wallet_test_343.apk</apkname>
-			<srcname>de.schildbach.wallet_test_343_src.tar.gz</srcname>
-			<hash type="sha256">52c733027b0d947f70910a0f35c4b8eae22a20184fa5cfbcc5edd2e4a1497bfd</hash>
-			<size>3190406</size>
-			<sdkver>19</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2018-03-10</added>
 			<sig>e02308f5a8441a390a03b31ff9f45511</sig>
 			<permissions>ACCESS_NETWORK_STATE,BLUETOOTH,CAMERA,INTERNET,NFC,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK</permissions>
 		</package>
@@ -12113,9 +12085,9 @@ This app is just one piece of a bigger series of apps. You can find the rest of 
 		<added>2014-06-03</added>
 		<lastupdated>2018-04-30</lastupdated>
 		<name>Clover</name>
-		<summary>4chan image board browser</summary>
+		<summary>Imageboard browser</summary>
 		<icon>org.floens.chan.30001.png</icon>
-		<desc>&lt;p&gt;Clover is a browser for the popular &lt;a href=&quot;https://4chan.org/&quot;&gt;4chan&lt;/a&gt; image board.&lt;/p&gt;&lt;p&gt;Features include inline replying, thread watching, notifications, themes, pass support and filters.&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;Clover is an imageboard browser. Supports 4chan, 8chan and more.&lt;/p&gt;&lt;p&gt;Features include inline replying, thread watching, notifications, themes, 4chan pass support and filters.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Internet</categories>
 		<category>Internet</category>
@@ -16205,8 +16177,8 @@ the section dictionaries for download of the website.
 		<source>https://git.framasoft.org/eldy/dolidroid/tree/develop</source>
 		<tracker/>
 		<changelog>https://framagit.org/eldy/dolidroid/blob/develop/ChangeLog</changelog>
-		<marketversion>DoliDroid Pro 1.7</marketversion>
-		<marketvercode>30</marketvercode>
+		<marketversion>DoliDroid Pro 1.8</marketversion>
+		<marketvercode>31</marketvercode>
 		<package>
 			<version>1.6</version>
 			<versioncode>28</versioncode>
@@ -19185,183 +19157,14 @@ F-Droid as your free software app manager:
 			<sig>9063aaadfff9cfd811a9c72fb5012f28</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CHANGE_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,CHANGE_WIFI_STATE,INTERNET,NFC,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS</permissions>
 		</package>
-		<package>
-			<version>1.1-alpha4</version>
-			<versioncode>1001004</versioncode>
-			<apkname>org.fdroid.fdroid_1001004.apk</apkname>
-			<srcname>org.fdroid.fdroid_1001004_src.tar.gz</srcname>
-			<hash type="sha256">be982d6dacbb4d0aca22a44b329259f69f79f9ae84eab9e865eae4303d8fb2d2</hash>
-			<size>7777170</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>24</targetSdkVersion>
-			<added>2018-03-10</added>
-			<sig>9063aaadfff9cfd811a9c72fb5012f28</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CHANGE_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,CHANGE_WIFI_STATE,INTERNET,NFC,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS</permissions>
-		</package>
-		<package>
-			<version>1.1-alpha3</version>
-			<versioncode>1001003</versioncode>
-			<apkname>org.fdroid.fdroid_1001003.apk</apkname>
-			<srcname>org.fdroid.fdroid_1001003_src.tar.gz</srcname>
-			<hash type="sha256">c97f4184914c9518e4e15250563a60505550b0cc98bc23e8e38fefdfe4bcda27</hash>
-			<size>7765854</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>24</targetSdkVersion>
-			<added>2018-02-16</added>
-			<sig>9063aaadfff9cfd811a9c72fb5012f28</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CHANGE_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,CHANGE_WIFI_STATE,INTERNET,NFC,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS</permissions>
-		</package>
-		<package>
-			<version>1.1-alpha1</version>
-			<versioncode>1001001</versioncode>
-			<apkname>org.fdroid.fdroid_1001001.apk</apkname>
-			<srcname>org.fdroid.fdroid_1001001_src.tar.gz</srcname>
-			<hash type="sha256">8859cc1d7798949e2fb32c78cbad947cc1e0d1e2b435e1e29d4da9a8f9b1f3cb</hash>
-			<size>7597646</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>24</targetSdkVersion>
-			<added>2018-02-01</added>
-			<sig>9063aaadfff9cfd811a9c72fb5012f28</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CHANGE_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,CHANGE_WIFI_STATE,INTERNET,NFC,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS</permissions>
-		</package>
-		<package>
-			<version>1.1-alpha0</version>
-			<versioncode>1001000</versioncode>
-			<apkname>org.fdroid.fdroid_1001000.apk</apkname>
-			<srcname>org.fdroid.fdroid_1001000_src.tar.gz</srcname>
-			<hash type="sha256">6ddf180827d84d1a203c4bb76054972386dae0c40d68cb67d6557e701e6c3186</hash>
-			<size>7534775</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>24</targetSdkVersion>
-			<added>2017-12-04</added>
-			<sig>9063aaadfff9cfd811a9c72fb5012f28</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CHANGE_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,CHANGE_WIFI_STATE,INTERNET,NFC,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS</permissions>
-		</package>
-		<package>
-			<version>1.0.3</version>
-			<versioncode>1000013</versioncode>
-			<apkname>org.fdroid.fdroid_1000013.apk</apkname>
-			<srcname>org.fdroid.fdroid_1000013_src.tar.gz</srcname>
-			<hash type="sha256">6efad92d44eddac7e959c5e9a9cb00d3101fdcffc1dcb3d97bcf4f583a3b49bd</hash>
-			<size>7361233</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>24</targetSdkVersion>
-			<added>2018-02-06</added>
-			<sig>9063aaadfff9cfd811a9c72fb5012f28</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CHANGE_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,CHANGE_WIFI_STATE,INTERNET,NFC,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS</permissions>
-		</package>
-		<package>
-			<version>1.0.2</version>
-			<versioncode>1000012</versioncode>
-			<apkname>org.fdroid.fdroid_1000012.apk</apkname>
-			<srcname>org.fdroid.fdroid_1000012_src.tar.gz</srcname>
-			<hash type="sha256">9a16383e01234a4d6b34e414abe6994c53a1c4706ea593b91a0bd5a339325e10</hash>
-			<size>7361129</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>24</targetSdkVersion>
-			<added>2017-12-04</added>
-			<sig>9063aaadfff9cfd811a9c72fb5012f28</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CHANGE_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,CHANGE_WIFI_STATE,INTERNET,NFC,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS</permissions>
-		</package>
-		<package>
-			<version>1.0.1</version>
-			<versioncode>1000011</versioncode>
-			<apkname>org.fdroid.fdroid_1000011.apk</apkname>
-			<srcname>org.fdroid.fdroid_1000011_src.tar.gz</srcname>
-			<hash type="sha256">01ba8f6cc5eddfd185e5818a8a2ad88c8cdc0ed4e9be63c426995f0e3c3fa034</hash>
-			<size>7361046</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>24</targetSdkVersion>
-			<added>2017-10-24</added>
-			<sig>9063aaadfff9cfd811a9c72fb5012f28</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CHANGE_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,CHANGE_WIFI_STATE,INTERNET,NFC,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS</permissions>
-		</package>
-		<package>
-			<version>1.0</version>
-			<versioncode>1000010</versioncode>
-			<apkname>org.fdroid.fdroid_1000010.apk</apkname>
-			<srcname>org.fdroid.fdroid_1000010_src.tar.gz</srcname>
-			<hash type="sha256">495beb6ac2d4c41e312babc55dbe21efc18c822abee562420afca06c89808774</hash>
-			<size>7350306</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>24</targetSdkVersion>
-			<added>2017-10-18</added>
-			<sig>9063aaadfff9cfd811a9c72fb5012f28</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CHANGE_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,CHANGE_WIFI_STATE,INTERNET,NFC,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS</permissions>
-		</package>
-		<package>
-			<version>1.0-alpha3</version>
-			<versioncode>1000003</versioncode>
-			<apkname>org.fdroid.fdroid_1000003.apk</apkname>
-			<srcname>org.fdroid.fdroid_1000003_src.tar.gz</srcname>
-			<hash type="sha256">cde2f02a726a454ccc98bd09cd43085fa4944f97b262ad425dfc25930ec1f985</hash>
-			<size>7438334</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>24</targetSdkVersion>
-			<added>2017-09-14</added>
-			<sig>9063aaadfff9cfd811a9c72fb5012f28</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CHANGE_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,CHANGE_WIFI_STATE,INTERNET,NFC,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS</permissions>
-		</package>
-		<package>
-			<version>1.0-alpha2</version>
-			<versioncode>1000002</versioncode>
-			<apkname>org.fdroid.fdroid_1000002.apk</apkname>
-			<srcname>org.fdroid.fdroid_1000002_src.tar.gz</srcname>
-			<hash type="sha256">61fc0e80a8c072b71c9df848326fbdc12188c8c4c00f9a3d975fcd8b39f34274</hash>
-			<size>7417426</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>24</targetSdkVersion>
-			<added>2017-09-06</added>
-			<sig>9063aaadfff9cfd811a9c72fb5012f28</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CHANGE_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,CHANGE_WIFI_STATE,INTERNET,NFC,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS</permissions>
-		</package>
-		<package>
-			<version>1.0-alpha1</version>
-			<versioncode>1000001</versioncode>
-			<apkname>org.fdroid.fdroid_1000001.apk</apkname>
-			<srcname>org.fdroid.fdroid_1000001_src.tar.gz</srcname>
-			<hash type="sha256">a3cc7738403644825f74096970eaf36d3c58236981d8bbd045bdf026369443dc</hash>
-			<size>7146186</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>24</targetSdkVersion>
-			<added>2017-07-19</added>
-			<sig>9063aaadfff9cfd811a9c72fb5012f28</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CHANGE_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,CHANGE_WIFI_STATE,INTERNET,NFC,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS</permissions>
-		</package>
-		<package>
-			<version>1.0-alpha0</version>
-			<versioncode>1000000</versioncode>
-			<apkname>org.fdroid.fdroid_1000000.apk</apkname>
-			<srcname>org.fdroid.fdroid_1000000_src.tar.gz</srcname>
-			<hash type="sha256">bbbbd10bf93c8f670cc869e1f2a148b83821c80b566d0a1b7858b26b7a3660fa</hash>
-			<size>7135159</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>24</targetSdkVersion>
-			<added>2017-07-09</added>
-			<sig>9063aaadfff9cfd811a9c72fb5012f28</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CHANGE_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,CHANGE_WIFI_STATE,INTERNET,NFC,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS</permissions>
-		</package>
-		<package>
-			<version>0.104</version>
-			<versioncode>104050</versioncode>
-			<apkname>org.fdroid.fdroid_104050.apk</apkname>
-			<srcname>org.fdroid.fdroid_104050_src.tar.gz</srcname>
-			<hash type="sha256">b41437343c720006c7cd59491cc4433bcbfcc2a60412d80b9a35327490db0022</hash>
-			<size>7076916</size>
-			<sdkver>10</sdkver>
-			<targetSdkVersion>24</targetSdkVersion>
-			<added>2017-06-22</added>
-			<sig>9063aaadfff9cfd811a9c72fb5012f28</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CHANGE_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,CHANGE_WIFI_STATE,INTERNET,NFC,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS</permissions>
-		</package>
 	</application>
 	<application id="org.fdroid.fdroid.privileged">
 		<id>org.fdroid.fdroid.privileged</id>
 		<added>2015-09-10</added>
-		<lastupdated>2017-09-24</lastupdated>
+		<lastupdated>2018-05-02</lastupdated>
 		<name>F-Droid Privileged Extension</name>
 		<summary>Services to allow F-Droid to securely install and update apps</summary>
-		<icon>org.fdroid.fdroid.privileged.2070.png</icon>
+		<icon>org.fdroid.fdroid.privileged.2080.png</icon>
 		<desc>Note: F-Droid requires root privileges to install Privileged Extension
 as a system &quot;priv-app&quot;.
 
@@ -19398,6 +19201,19 @@ Privileged Extension when it has been installed using the OTA ZIP.
 		<marketvercode>2070</marketvercode>
 		<requirements>root</requirements>
 		<package>
+			<version>0.2.8</version>
+			<versioncode>2080</versioncode>
+			<apkname>org.fdroid.fdroid.privileged_2080.apk</apkname>
+			<srcname>org.fdroid.fdroid.privileged_2080_src.tar.gz</srcname>
+			<hash type="sha256">f0ad5322e820a52d6404c6cabcfd9f539fa94d7fd41e91f59498ea20ddefd55d</hash>
+			<size>37706</size>
+			<sdkver>8</sdkver>
+			<targetSdkVersion>25</targetSdkVersion>
+			<added>2018-05-02</added>
+			<sig>9063aaadfff9cfd811a9c72fb5012f28</sig>
+			<permissions>DELETE_PACKAGES,INSTALL_PACKAGES</permissions>
+		</package>
+		<package>
 			<version>0.2.7</version>
 			<versioncode>2070</versioncode>
 			<apkname>org.fdroid.fdroid.privileged_2070.apk</apkname>
@@ -19420,19 +19236,6 @@ Privileged Extension when it has been installed using the OTA ZIP.
 			<sdkver>8</sdkver>
 			<targetSdkVersion>25</targetSdkVersion>
 			<added>2017-09-11</added>
-			<sig>9063aaadfff9cfd811a9c72fb5012f28</sig>
-			<permissions>DELETE_PACKAGES,INSTALL_PACKAGES</permissions>
-		</package>
-		<package>
-			<version>0.2.5</version>
-			<versioncode>2050</versioncode>
-			<apkname>org.fdroid.fdroid.privileged_2050.apk</apkname>
-			<srcname>org.fdroid.fdroid.privileged_2050_src.tar.gz</srcname>
-			<hash type="sha256">8d0f5f8351617c99f11156199a281dca6d5fd41c4b8bfeb107dfd60f5c954f5c</hash>
-			<size>39214</size>
-			<sdkver>8</sdkver>
-			<targetSdkVersion>25</targetSdkVersion>
-			<added>2017-05-12</added>
 			<sig>9063aaadfff9cfd811a9c72fb5012f28</sig>
 			<permissions>DELETE_PACKAGES,INSTALL_PACKAGES</permissions>
 		</package>
@@ -24959,8 +24762,8 @@ This app is just one piece of a bigger series of apps. You can find the rest of 
 		<web>https://thealaskalinuxuser.wordpress.com/</web>
 		<source>https://github.com/alaskalinuxuser/app_hourglass</source>
 		<tracker>https://github.com/alaskalinuxuser/app_hourglass/issues</tracker>
-		<marketversion>1.6</marketversion>
-		<marketvercode>6</marketvercode>
+		<marketversion>1.8</marketversion>
+		<marketvercode>8</marketvercode>
 		<package>
 			<version>1.6</version>
 			<versioncode>6</versioncode>
@@ -27575,6 +27378,36 @@ Any issue : &lt;a href=&quot;https://github.com/Kunzisoft/KeePassDX/issues&quot;
 			<nativecode>arm64-v8a,armeabi,mips,x86</nativecode>
 		</package>
 	</application>
+	<application id="org.nerdcircus.android.klaxon">
+		<id>org.nerdcircus.android.klaxon</id>
+		<added>2012-02-04</added>
+		<lastupdated>2012-02-04</lastupdated>
+		<name>Klaxon</name>
+		<summary>SMS-based pager</summary>
+		<icon>org.nerdcircus.android.klaxon.27.png</icon>
+		<desc>&lt;p&gt;Klaxon is a tool designed for on-call personnel, that repeatedly notifies the user (by means of a ringtone, vibration or both) when a page is received until the user looks at it. A page to Klaxon is an SMS message, optionally meeting filtering criteria set by the user.&lt;/p&gt;</desc>
+		<license>Apache-2.0</license>
+		<categories>Phone &amp; SMS</categories>
+		<category>Phone &amp; SMS</category>
+		<web>https://code.google.com/p/klaxon</web>
+		<source>https://code.google.com/p/klaxon/source</source>
+		<tracker/>
+		<marketversion>0.27</marketversion>
+		<marketvercode>27</marketvercode>
+		<package>
+			<version>0.27</version>
+			<versioncode>27</versioncode>
+			<apkname>org.nerdcircus.android.klaxon_27.apk</apkname>
+			<srcname>org.nerdcircus.android.klaxon_27_src.tar.gz</srcname>
+			<hash type="sha256">2e71d55c2bf4f0f43cea03d6a37b915b57d05067af97457954d5e762418d6474</hash>
+			<size>54191</size>
+			<sdkver>4</sdkver>
+			<targetSdkVersion>4</targetSdkVersion>
+			<added>2012-02-04</added>
+			<sig>1436f5677ead7dc863f9e2ec0124b153</sig>
+			<permissions>READ_SMS,RECEIVE_MMS,RECEIVE_SMS,SEND_SMS,VIBRATE</permissions>
+		</package>
+	</application>
 	<application id="org.kore.kolabnotes.android">
 		<id>org.kore.kolabnotes.android</id>
 		<added>2015-07-01</added>
@@ -28126,7 +27959,7 @@ push notifications.
 		<name>Kwik DMAP</name>
 		<summary>Electronic Flight Information System (DMAP)</summary>
 		<icon>player.efis.mfd.5.png</icon>
-		<desc>&lt;p&gt;Kwik Moving Map is a companion application to the EFIS. It provides  situational awareness and and navigation functionality.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Synthetic Vision&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Synthetic vision is built from the USGS 3 arc second Digital Elevation Model data. If enabled, it also allows for some terrain collision detection. The required terrain data packages are available on F-Droid, see:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; &lt;a href=&quot;fdroid.app:player.efis.data.usa.can&quot;&gt;Kwik DataPac (usa.can)&lt;/a&gt; North America/Canada&lt;/li&gt;&lt;li&gt; &lt;a href=&quot;fdroid.app:player.efis.data.eur.rus&quot;&gt;Kwik DataPac (eur.rus)&lt;/a&gt; Europe/Russia&lt;/li&gt;&lt;li&gt; &lt;a href=&quot;fdroid.app:player.efis.data.sah.jap&quot;&gt;Kwik DataPac (sah.jap)&lt;/a&gt; Sahara/Northern Africa/India/Indonesia/Japan&lt;/li&gt;&lt;li&gt; &lt;a href=&quot;fdroid.app:player.efis.data.zar.aus&quot;&gt;Kwik DataPac (zar.aus)&lt;/a&gt; Southern Africa/Australia/New Zealand&lt;/li&gt;&lt;li&gt; &lt;a href=&quot;fdroid.app:player.efis.data.pan.arg&quot;&gt;Kwik DataPac (pan.arg)&lt;/a&gt; South America&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Airspace&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Airspace data is provided from Worldwide Soaring Turnpoint Exchange Airspace &lt;a href=&quot;http://soaringweb.org/Airspace/&quot;&gt;http://soaringweb.org/Airspace/&lt;/a&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; North West Sector: United States/Canada.&lt;/li&gt;&lt;li&gt; North East Sector: Europe(Denmark, Germany, Switzerland)/Russia.&lt;/li&gt;&lt;li&gt; South West Sector: South America.&lt;/li&gt;&lt;li&gt; South East Sector: Australia/South Africa.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Simulator&lt;/b&gt;&lt;/p&gt;&lt;p&gt;There is a simulator available in the application. It can be used to practice using the program. When active, the heading and altitude can be changed by pitching and banking the device. The speed runs up and down automatically based on the pitch.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Primary Flight Display&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;fdroid.app:player.efis.pfd&quot;&gt;Kwik EFIS&lt;/a&gt; is a companion application to the moving map. It provides a Primary Flight Display functionality.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Screenshots&lt;/b&gt; &lt;a href=&quot;http://members.iinet.net.au/~ninelima/efis/gallery.html&quot;&gt;http://members.iinet.net.au/~ninelima/efis/gallery.html&lt;/a&gt;&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;Kwik Moving Map is a companion application to the EFIS. It provides  situational awareness and and navigation functionality.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Synthetic Vision&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Synthetic vision is built from the USGS 3 arc second Digital Elevation Model data. If enabled, it also allows for some terrain collision detection. The required terrain data packages are available on F-Droid, see:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; &lt;a href=&quot;https://f-droid.org/packages/player.efis.data.usa.can/&quot;&gt;North America/Canada&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;a href=&quot;https://f-droid.org/packages/player.efis.data.eur.rus/&quot;&gt;Europe/Russia&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;a href=&quot;https://f-droid.org/packages/player.efis.data.sah.jap/&quot;&gt;Sahara/Northern Africa/India/Indonesia/Japan&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;a href=&quot;https://f-droid.org/packages/player.efis.data.zar.aus/&quot;&gt;Southern Africa/Australia/New Zealand&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;a href=&quot;https://f-droid.org/packages/player.efis.data.pan.arg/&quot;&gt;South America&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Airspace&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Airspace data is provided from Worldwide Soaring Turnpoint Exchange Airspace &lt;a href=&quot;http://soaringweb.org/Airspace/&quot;&gt;http://soaringweb.org/Airspace/&lt;/a&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; North West Sector: United States/Canada.&lt;/li&gt;&lt;li&gt; North East Sector: Europe(Denmark, Germany, Switzerland)/Russia.&lt;/li&gt;&lt;li&gt; South West Sector: South America.&lt;/li&gt;&lt;li&gt; South East Sector: Australia/South Africa.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Simulator&lt;/b&gt;&lt;/p&gt;&lt;p&gt;There is a simulator available in the application. It can be used to practice using the program. When active, the heading and altitude can be changed by pitching and banking the device. The speed runs up and down automatically based on the pitch.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Primary Flight Display&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://f-droid.org/packages/player.efis.pfd/&quot;&gt;Kwik EFIS&lt;/a&gt; is a companion application to the moving map. It provides a Primary Flight Display functionality.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Screenshots&lt;/b&gt; &lt;a href=&quot;http://members.iinet.net.au/~ninelima/efis/gallery.html&quot;&gt;http://members.iinet.net.au/~ninelima/efis/gallery.html&lt;/a&gt;&lt;/p&gt;</desc>
 		<license>Apache-2.0</license>
 		<categories>Navigation</categories>
 		<category>Navigation</category>
@@ -28791,10 +28624,10 @@ push notifications.
 	<application id="com.serwylo.lexica">
 		<id>com.serwylo.lexica</id>
 		<added>2016-01-11</added>
-		<lastupdated>2018-04-27</lastupdated>
+		<lastupdated>2018-05-02</lastupdated>
 		<name>Lexica</name>
 		<summary>Word Game</summary>
-		<icon>com.serwylo.lexica.1101.png</icon>
+		<icon>com.serwylo.lexica.1102.png</icon>
 		<desc>&lt;p&gt;A word game where you have 3 minutes to find as many words as possible on a grid of random letters.&lt;/p&gt;&lt;p&gt;This is a fork of the unmaintained &lt;a href=&quot;fdroid.app:net.healeys.lexic&quot;&gt;Lexic&lt;/a&gt; which:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Adds minor improvements to the UI&lt;/li&gt;&lt;li&gt; Has better support for high resolution screens&lt;/li&gt;&lt;li&gt; Removes the unsupported multiplayer options&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Games</categories>
@@ -28803,8 +28636,20 @@ push notifications.
 		<source>https://github.com/lexica/lexica</source>
 		<tracker>https://github.com/lexica/lexica/issues</tracker>
 		<changelog>https://github.com/lexica/lexica/blob/HEAD/CHANGELOG.md</changelog>
-		<marketversion>0.11.1</marketversion>
-		<marketvercode>1101</marketvercode>
+		<marketversion>0.11.2</marketversion>
+		<marketvercode>1102</marketvercode>
+		<package>
+			<version>0.11.2</version>
+			<versioncode>1102</versioncode>
+			<apkname>com.serwylo.lexica_1102.apk</apkname>
+			<srcname>com.serwylo.lexica_1102_src.tar.gz</srcname>
+			<hash type="sha256">87f2bef66ffbf7d03dbcd8b855ef8ed45a1662134199745b1043c8bf8eb2ad3c</hash>
+			<size>3446175</size>
+			<sdkver>8</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2018-05-02</added>
+			<sig>5b0491be3b953b92b25ae33bd6c6c831</sig>
+		</package>
 		<package>
 			<version>0.11.1</version>
 			<versioncode>1101</versioncode>
@@ -28827,18 +28672,6 @@ push notifications.
 			<sdkver>8</sdkver>
 			<targetSdkVersion>23</targetSdkVersion>
 			<added>2018-04-24</added>
-			<sig>5b0491be3b953b92b25ae33bd6c6c831</sig>
-		</package>
-		<package>
-			<version>0.10.0</version>
-			<versioncode>1000</versioncode>
-			<apkname>com.serwylo.lexica_1000.apk</apkname>
-			<srcname>com.serwylo.lexica_1000_src.tar.gz</srcname>
-			<hash type="sha256">45e957d7b1192535faca19ae35ab06772a4172d356230a8f57f74dc7a60372a4</hash>
-			<size>1005090</size>
-			<sdkver>8</sdkver>
-			<targetSdkVersion>23</targetSdkVersion>
-			<added>2017-11-28</added>
 			<sig>5b0491be3b953b92b25ae33bd6c6c831</sig>
 		</package>
 	</application>
@@ -29482,8 +29315,8 @@ push notifications.
 		<web>http://www.linphone.org</web>
 		<source>http://www.linphone.org/technical-corner/linphone/downloads</source>
 		<tracker/>
-		<marketversion>3.99.3</marketversion>
-		<marketvercode>3994</marketvercode>
+		<marketversion>3.99.4</marketversion>
+		<marketvercode>3995</marketvercode>
 		<package>
 			<version>3.3.2</version>
 			<versioncode>3320</versioncode>
@@ -33840,11 +33673,11 @@ There are many meme customization options available:
 		<name>MGit</name>
 		<summary>View and interact with git repositories</summary>
 		<icon>com.manichord.mgit.208.png</icon>
-		<desc>&lt;p&gt;A git client and text editor, forked from unmaintained &lt;a href=&quot;fdroid.app:me.sheimi.sgit&quot;&gt;SGit&lt;/a&gt;.&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;A git client and text editor, forked from no longer maintained &lt;a href=&quot;fdroid.app:me.sheimi.sgit&quot;&gt;SGit&lt;/a&gt;.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Development</categories>
 		<category>Development</category>
-		<web>http://manichord.com/MGit</web>
+		<web>https://manichord.com/projects/mgit.html</web>
 		<source>https://github.com/maks/MGit</source>
 		<tracker>https://github.com/maks/MGit/issues</tracker>
 		<donate>http://projects.sheimi.me/SGit</donate>
@@ -35711,10 +35544,10 @@ Following generic parameters for publication shall be configurable:
 	<application id="com.gelakinetic.mtgfam">
 		<id>com.gelakinetic.mtgfam</id>
 		<added>2012-08-29</added>
-		<lastupdated>2018-04-30</lastupdated>
+		<lastupdated>2018-05-02</lastupdated>
 		<name>MTG Familiar</name>
 		<summary>Utilities for the game MTG</summary>
-		<icon>com.gelakinetic.mtgfam.54.png</icon>
+		<icon>com.gelakinetic.mtgfam.55.png</icon>
 		<desc>&lt;p&gt;This application provides a way to search an offline database of all magic cards. The application also provides a life counter, a random number generator, card price lookups, and card image downloads. Future features include deck management, rules, and anything else which would be useful while playing Magic.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Games</categories>
@@ -35723,8 +35556,21 @@ Following generic parameters for publication shall be configurable:
 		<source>https://github.com/AEFeinstein/mtg-familiar</source>
 		<tracker>https://github.com/AEFeinstein/mtg-familiar/issues</tracker>
 		<donate>https://github.com/AEFeinstein/mtg-familiar/blob/HEAD/README.md#show-support</donate>
-		<marketversion>3.5.0</marketversion>
-		<marketvercode>54</marketvercode>
+		<marketversion>3.5.1</marketversion>
+		<marketvercode>55</marketvercode>
+		<package>
+			<version>3.5.1</version>
+			<versioncode>55</versioncode>
+			<apkname>com.gelakinetic.mtgfam_55.apk</apkname>
+			<srcname>com.gelakinetic.mtgfam_55_src.tar.gz</srcname>
+			<hash type="sha256">ed6d9bb5603ba246f80bedf83e6d3094afb03017710a13f0fbeb1260d0a57720</hash>
+			<size>12358919</size>
+			<sdkver>15</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2018-05-02</added>
+			<sig>0bee78a2610f0fbc436998f25ca667c3</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>3.5.0</version>
 			<versioncode>54</versioncode>
@@ -35748,19 +35594,6 @@ Following generic parameters for publication shall be configurable:
 			<sdkver>15</sdkver>
 			<targetSdkVersion>26</targetSdkVersion>
 			<added>2017-12-04</added>
-			<sig>0bee78a2610f0fbc436998f25ca667c3</sig>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
-		</package>
-		<package>
-			<version>3.4.5</version>
-			<versioncode>52</versioncode>
-			<apkname>com.gelakinetic.mtgfam_52.apk</apkname>
-			<srcname>com.gelakinetic.mtgfam_52_src.tar.gz</srcname>
-			<hash type="sha256">23ee421460a24f9f9370154906bfba5c678fd7f5f4b19268868b7e69875d494b</hash>
-			<size>11929849</size>
-			<sdkver>15</sdkver>
-			<targetSdkVersion>26</targetSdkVersion>
-			<added>2017-11-28</added>
 			<sig>0bee78a2610f0fbc436998f25ca667c3</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
@@ -36451,10 +36284,10 @@ Premium features are unlocked by purchase of one of the following licence keys:
 	<application id="com.wangdaye.mysplash">
 		<id>com.wangdaye.mysplash</id>
 		<added>2017-01-27</added>
-		<lastupdated>2018-04-08</lastupdated>
+		<lastupdated>2018-05-02</lastupdated>
 		<name>Mysplash</name>
 		<summary>View stream of high resolution images</summary>
-		<icon>com.wangdaye.mysplash.331.png</icon>
+		<icon>com.wangdaye.mysplash.333.png</icon>
 		<desc>&lt;p&gt;A lightweight client for &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt; with following features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; 100000+ photos&lt;/li&gt;&lt;li&gt; material design&lt;/li&gt;&lt;li&gt; select photos as tags&lt;/li&gt;&lt;li&gt; share photos and set as wallpaper&lt;/li&gt;&lt;li&gt; download raw photos.&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>LGPL-3.0</license>
 		<categories>Multimedia</categories>
@@ -36462,8 +36295,21 @@ Premium features are unlocked by purchase of one of the following licence keys:
 		<web>https://github.com/WangDaYeeeeee/Mysplash/blob/HEAD/README.md</web>
 		<source>https://github.com/WangDaYeeeeee/Mysplash</source>
 		<tracker>https://github.com/WangDaYeeeeee/Mysplash/issues</tracker>
-		<marketversion>3.3.1</marketversion>
-		<marketvercode>331</marketvercode>
+		<marketversion>3.3.3</marketversion>
+		<marketvercode>333</marketvercode>
+		<package>
+			<version>3.3.3</version>
+			<versioncode>333</versioncode>
+			<apkname>com.wangdaye.mysplash_333.apk</apkname>
+			<srcname>com.wangdaye.mysplash_333_src.tar.gz</srcname>
+			<hash type="sha256">9e4d77e635a1b04f21294741c215eac51cbd11867d188051a888f180c7fbaedc</hash>
+			<size>4651899</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2018-05-02</added>
+			<sig>f17b01f48ea345d3787ddda9b0bc0552</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,MOUNT_UNMOUNT_FILESYSTEMS,READ_EXTERNAL_STORAGE,SET_WALLPAPER,SET_WALLPAPER_HINTS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>3.3.1</version>
 			<versioncode>331</versioncode>
@@ -36487,19 +36333,6 @@ Premium features are unlocked by purchase of one of the following licence keys:
 			<sdkver>19</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2018-04-03</added>
-			<sig>f17b01f48ea345d3787ddda9b0bc0552</sig>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET,MOUNT_UNMOUNT_FILESYSTEMS,READ_EXTERNAL_STORAGE,SET_WALLPAPER,SET_WALLPAPER_HINTS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
-		</package>
-		<package>
-			<version>3.2.8</version>
-			<versioncode>328</versioncode>
-			<apkname>com.wangdaye.mysplash_328.apk</apkname>
-			<srcname>com.wangdaye.mysplash_328_src.tar.gz</srcname>
-			<hash type="sha256">1f86287e08036e143dc1c6d5f0697cb5f3b041a1dfd12c03b642be91d298ad5a</hash>
-			<size>4662010</size>
-			<sdkver>19</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2018-02-20</added>
 			<sig>f17b01f48ea345d3787ddda9b0bc0552</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,MOUNT_UNMOUNT_FILESYSTEMS,READ_EXTERNAL_STORAGE,SET_WALLPAPER,SET_WALLPAPER_HINTS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
@@ -37379,8 +37212,8 @@ Premium features are unlocked by purchase of one of the following licence keys:
 		<web>http://newsblur.com</web>
 		<source>https://github.com/samuelclay/NewsBlur</source>
 		<tracker>https://github.com/samuelclay/NewsBlur/issues</tracker>
-		<marketversion>8.0.0b1</marketversion>
-		<marketvercode>155</marketvercode>
+		<marketversion>8.0.0b2</marketversion>
+		<marketvercode>156</marketvercode>
 		<package>
 			<version>7.1.0</version>
 			<versioncode>154</versioncode>
@@ -39634,7 +39467,7 @@ This app is just one piece of a bigger series of apps. You can find the rest of 
 		<added>2018-04-28</added>
 		<lastupdated>2018-04-28</lastupdated>
 		<name>ObscuraCam</name>
-		<summary/>
+		<summary>The Privacy Camera</summary>
 		<icon>org.witness.sscphase1.4011.png</icon>
 		<desc>&lt;p&gt;In a world of viral videos and facial recognition, ObscuraCam helps you share photos and videos while protecting the privacy of you and those you care about. With ObscuraCam you can blur and disguise faces in your photos and videos. Information that could identify you as the cameraperson is removed from the files for added security.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; PRIVACY FOR YOUR PICTURES: ObscuraCam can be used as a camera to take photos, or to anonymize photos and videos you’ve already taken.&lt;/li&gt;&lt;li&gt; DISGUISE YOURSELF: Cover faces with pixelate, redact (blackout) or funny nose and glasses&lt;/li&gt;&lt;li&gt; AUTOMATIC FACE DETECTION: ObscuraCam automatically detects faces in both photos and videos, so you can quickly and easily anonymize a crowd or a long video.&lt;/li&gt;&lt;li&gt; MULTIPLE PRIVACY MODES: Faces can be pixelated, removed completely, or disguised with funny nose and glasses. You can also blur everything except a small portion of an image.&lt;/li&gt;&lt;li&gt; SHARE SECURELY: We remove all identifying data stored in photos including GPS location data and phone make &amp;amp; model so you can save the protected photo back to the Gallery, or share it directly Facebook, Twitter or any other &quot;Share&quot; enabled app.&lt;/li&gt;&lt;li&gt; PROTECTS THE IDENTITY OF THE PHOTOGRAPHER: Smartphones attach information to every photo they take, including where it was taken and by what type of camera. ObscuraCam removes all of this information.&lt;/li&gt;&lt;li&gt; AWARD-WINNING: ObscuraCam was a Winner of the 2013 Knight News Challenge&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;=== Learn More ===&lt;/p&gt;&lt;ul&gt;&lt;li&gt; PARTNERSHIP: ObscuraCam is a partnership between the security experts at the Guardian Project and WITNESS.org, a non-profit using the power of video and storytelling to open the eyes of the world to human rights abuses.&lt;/li&gt;&lt;li&gt; ABOUT US: Guardian Project is a group of developers that make secure mobile apps and open-source code for a better tomorrow.&lt;/li&gt;&lt;li&gt; OUR WEBSITE: GuardianProject.info.&lt;/li&gt;&lt;li&gt; ABOUT WITNESS: A non-profit using the power of video and storytelling to open the eyes of the world to human rights abuses.&lt;/li&gt;&lt;li&gt; WITNESS’ WEBSITE: http://witness.org&lt;/li&gt;&lt;li&gt; ON TWITTER: https://twitter.com/guardianproject &amp;amp; https://twitter.com/witnessorg&lt;/li&gt;&lt;li&gt; OPEN-SOURCE: ObscuraCam is free software. You can take a look at our source code, or join the community to help make Orweb even better: https://github.com/guardianproject/ObscuraCam&lt;/li&gt;&lt;li&gt; MESSAGE US: Are we missing your favorite feature? Found an annoying bug? Please tell us! We’d love to hear from you. Send us an email: support@guardianproject.info.&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPL-3.0+</license>
@@ -39728,7 +39561,7 @@ This app is just one piece of a bigger series of apps. You can find the rest of 
 		<added>2018-02-13</added>
 		<lastupdated>2018-03-10</lastupdated>
 		<name>Ocelot</name>
-		<summary/>
+		<summary>Lichat client</summary>
 		<icon>org.shirakumo.ocelot.2.xml</icon>
 		<desc>&lt;p&gt;A chat client for the Lichat protocol.&lt;/p&gt;&lt;p&gt;This supports the full Lichat 1.3 protocol, including the extensions for data, emotes, and backfill.&lt;/p&gt;</desc>
 		<license>Artistic-2.0</license>
@@ -44998,10 +44831,10 @@ Anti-Features:
 	<application id="link.standen.michael.phonesaver">
 		<id>link.standen.michael.phonesaver</id>
 		<added>2017-06-27</added>
-		<lastupdated>2017-12-04</lastupdated>
+		<lastupdated>2018-05-02</lastupdated>
 		<name>Phone Saver</name>
 		<summary>Save files via Share menu</summary>
-		<icon>link.standen.michael.phonesaver.24.png</icon>
+		<icon>link.standen.michael.phonesaver.28.png</icon>
 		<desc>&lt;p&gt;Ever hit that share button and really wanted to just store the file on your phone? That meme that you send to your friends that would be great in your reaction image folder. That screenshot of that Snapchat that you want to hide in a secret folder.&lt;/p&gt;&lt;p&gt;Well look no further!&lt;/p&gt;&lt;p&gt;Set up any number of locations on your mobile, and save to them with a single click when using Android's share feature.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>System</categories>
@@ -45009,8 +44842,21 @@ Anti-Features:
 		<web>https://github.com/ScreamingHawk/phone-saver/blob/HEAD/README.md</web>
 		<source>https://github.com/ScreamingHawk/phone-saver</source>
 		<tracker>https://github.com/ScreamingHawk/phone-saver/issues</tracker>
-		<marketversion>3.7</marketversion>
-		<marketvercode>24</marketvercode>
+		<marketversion>4.0.1</marketversion>
+		<marketvercode>28</marketvercode>
+		<package>
+			<version>4.0.1</version>
+			<versioncode>28</versioncode>
+			<apkname>link.standen.michael.phonesaver_28.apk</apkname>
+			<srcname>link.standen.michael.phonesaver_28_src.tar.gz</srcname>
+			<hash type="sha256">281ae5474de578141a1a90cfd4629a5110ebdb1ecfdddeb525aa90beb86de998</hash>
+			<size>2317062</size>
+			<sdkver>15</sdkver>
+			<targetSdkVersion>26</targetSdkVersion>
+			<added>2018-05-02</added>
+			<sig>08762a9c9331fee2e3bd6cd897486764</sig>
+			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>3.7</version>
 			<versioncode>24</versioncode>
@@ -45034,19 +44880,6 @@ Anti-Features:
 			<sdkver>15</sdkver>
 			<targetSdkVersion>26</targetSdkVersion>
 			<added>2017-09-24</added>
-			<sig>08762a9c9331fee2e3bd6cd897486764</sig>
-			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
-		</package>
-		<package>
-			<version>3.4</version>
-			<versioncode>21</versioncode>
-			<apkname>link.standen.michael.phonesaver_21.apk</apkname>
-			<srcname>link.standen.michael.phonesaver_21_src.tar.gz</srcname>
-			<hash type="sha256">310997889a2abbda93e6740221bd1623394b4f0f4402c2b53bc562b216329dd2</hash>
-			<size>2491386</size>
-			<sdkver>15</sdkver>
-			<targetSdkVersion>26</targetSdkVersion>
-			<added>2017-09-16</added>
 			<sig>08762a9c9331fee2e3bd6cd897486764</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
@@ -46297,10 +46130,10 @@ Anti-Features:
 	<application id="ca.rmen.android.poetassistant">
 		<id>ca.rmen.android.poetassistant</id>
 		<added>2016-02-21</added>
-		<lastupdated>2018-04-10</lastupdated>
+		<lastupdated>2018-05-02</lastupdated>
 		<name>Poet Assistant</name>
 		<summary>Dictionary and TTS tools for editing poems</summary>
-		<icon>ca.rmen.android.poetassistant.112604.png</icon>
+		<icon>ca.rmen.android.poetassistant.112605.png</icon>
 		<desc>&lt;p&gt;A set of tools to help with writing poems:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; a rhyming dictionary, using the Carnegie Mellon University pronunciation dictionary.&lt;/li&gt;&lt;li&gt; a thesaurus, using the WordNet thesaurus.&lt;/li&gt;&lt;li&gt; a dictionary, using the WordNet dictionary.&lt;/li&gt;&lt;li&gt; a screen where you can enter your poem text, and have it read aloud back to you by the device's text-to-speech engine.&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Writing</categories>
@@ -46309,8 +46142,21 @@ Anti-Features:
 		<source>https://github.com/caarmen/poet-assistant</source>
 		<tracker>https://github.com/caarmen/poet-assistant/issues</tracker>
 		<changelog>https://github.com/caarmen/poet-assistant/blob/HEAD/CHANGELOG.md</changelog>
-		<marketversion>1.26.4</marketversion>
-		<marketvercode>112604</marketvercode>
+		<marketversion>1.26.5</marketversion>
+		<marketvercode>112605</marketvercode>
+		<package>
+			<version>1.26.5</version>
+			<versioncode>112605</versioncode>
+			<apkname>ca.rmen.android.poetassistant_112605.apk</apkname>
+			<srcname>ca.rmen.android.poetassistant_112605_src.tar.gz</srcname>
+			<hash type="sha256">b0ce2d819cb679ca964e64d090c871df8f12ef3ff8edb5e3d23b893f463775cf</hash>
+			<size>20289943</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2018-05-02</added>
+			<sig>bbb44c629b077f6ce95c4742eaa4dda9</sig>
+			<permissions>RECEIVE_BOOT_COMPLETED</permissions>
+		</package>
 		<package>
 			<version>1.26.4</version>
 			<versioncode>112604</versioncode>
@@ -46334,19 +46180,6 @@ Anti-Features:
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2018-02-16</added>
-			<sig>bbb44c629b077f6ce95c4742eaa4dda9</sig>
-			<permissions>RECEIVE_BOOT_COMPLETED</permissions>
-		</package>
-		<package>
-			<version>1.26.1</version>
-			<versioncode>112601</versioncode>
-			<apkname>ca.rmen.android.poetassistant_112601.apk</apkname>
-			<srcname>ca.rmen.android.poetassistant_112601_src.tar.gz</srcname>
-			<hash type="sha256">40523ef8b4a74420386bbd280fe15109d176f0051090307138d27b59bc2af778</hash>
-			<size>20368984</size>
-			<sdkver>16</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2018-02-03</added>
 			<sig>bbb44c629b077f6ce95c4742eaa4dda9</sig>
 			<permissions>RECEIVE_BOOT_COMPLETED</permissions>
 		</package>
@@ -48046,10 +47879,10 @@ Features:
 	<application id="com.moez.QKSMS">
 		<id>com.moez.QKSMS</id>
 		<added>2015-08-18</added>
-		<lastupdated>2018-04-24</lastupdated>
+		<lastupdated>2018-05-02</lastupdated>
 		<name>QKSMS</name>
 		<summary>Messaging app</summary>
-		<icon>com.moez.QKSMS.163.png</icon>
+		<icon>com.moez.QKSMS.164.png</icon>
 		<desc>&lt;p&gt;Replacement for the stock AOSP messaging app.&lt;/p&gt;&lt;p&gt;Some of its features include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Material Design&lt;/li&gt;&lt;li&gt; Themes&lt;/li&gt;&lt;li&gt; Night Mode&lt;/li&gt;&lt;li&gt; Reply to messages without leaving the current app&lt;/li&gt;&lt;li&gt; Group Messaging&lt;/li&gt;&lt;li&gt; MMS&lt;/li&gt;&lt;li&gt; Delayed message sending&lt;/li&gt;&lt;li&gt; Search&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Phone &amp; SMS</categories>
@@ -48057,8 +47890,22 @@ Features:
 		<web/>
 		<source>https://github.com/qklabs/qksms</source>
 		<tracker>https://github.com/qklabs/qksms/issues</tracker>
-		<marketversion>3.0.9</marketversion>
-		<marketvercode>163</marketvercode>
+		<marketversion>3.1.0</marketversion>
+		<marketvercode>164</marketvercode>
+		<package>
+			<version>3.1.0</version>
+			<versioncode>164</versioncode>
+			<apkname>com.moez.QKSMS_164.apk</apkname>
+			<srcname>com.moez.QKSMS_164_src.tar.gz</srcname>
+			<hash type="sha256">e97a7537f5e37ccb71a2528157f8c6999771af3eba20e689b2f0f60cc1f1be31</hash>
+			<size>8401116</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2018-05-02</added>
+			<sig>eea5f5323deaac2a1e25a5b0519cece1</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_APP_BADGE,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SMS,RECEIVE_MMS,RECEIVE_SMS,SEND_SMS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SMS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.vending.BILLING,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,mips,x86,x86_64</nativecode>
+		</package>
 		<package>
 			<version>3.0.9</version>
 			<versioncode>163</versioncode>
@@ -48083,20 +47930,6 @@ Features:
 			<sdkver>21</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2018-04-19</added>
-			<sig>eea5f5323deaac2a1e25a5b0519cece1</sig>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_APP_BADGE,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SMS,RECEIVE_MMS,RECEIVE_SMS,SEND_SMS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SMS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.vending.BILLING,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a,mips,x86,x86_64</nativecode>
-		</package>
-		<package>
-			<version>3.0.6</version>
-			<versioncode>160</versioncode>
-			<apkname>com.moez.QKSMS_160.apk</apkname>
-			<srcname>com.moez.QKSMS_160_src.tar.gz</srcname>
-			<hash type="sha256">a2f568716372410c0b86ddf8cc096001b75def8189f46986aa9adf54b543404f</hash>
-			<size>8310128</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2018-04-17</added>
 			<sig>eea5f5323deaac2a1e25a5b0519cece1</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_APP_BADGE,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SMS,RECEIVE_MMS,RECEIVE_SMS,SEND_SMS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SMS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.vending.BILLING,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,mips,x86,x86_64</nativecode>
@@ -50423,8 +50256,8 @@ Photo by Joanna Pędzich-Opioła | CC_BY 2.0
 		<web>https://ring.cx/</web>
 		<source/>
 		<tracker>https://tuleap.ring.cx/projects/ring/</tracker>
-		<marketversion>20180421</marketversion>
-		<marketvercode>116</marketvercode>
+		<marketversion>20180501</marketversion>
+		<marketvercode>117</marketvercode>
 		<package>
 			<version>20180421</version>
 			<versioncode>116</versioncode>
@@ -50531,8 +50364,8 @@ Photo by Joanna Pędzich-Opioła | CC_BY 2.0
 		<changelog>https://github.com/vector-im/riot-android/blob/HEAD/CHANGES.rst</changelog>
 		<bitcoin>1LxowEgsquZ3UPZ68wHf8v2MDZw82dVmAE</bitcoin>
 		<liberapay>10794</liberapay>
-		<marketversion>0.8.5</marketversion>
-		<marketvercode>80500</marketvercode>
+		<marketversion>0.8.7</marketversion>
+		<marketvercode>80700</marketvercode>
 		<package>
 			<version>0.8.7</version>
 			<versioncode>80700</versioncode>
@@ -52940,10 +52773,10 @@ Photo by Joanna Pędzich-Opioła | CC_BY 2.0
 	<application id="de.markusfisch.android.shadereditor">
 		<id>de.markusfisch.android.shadereditor</id>
 		<added>2015-04-24</added>
-		<lastupdated>2018-03-05</lastupdated>
+		<lastupdated>2018-05-02</lastupdated>
 		<name>Shader Editor</name>
 		<summary>Create and edit GLSL shaders</summary>
-		<icon>de.markusfisch.android.shadereditor.45.png</icon>
+		<icon>de.markusfisch.android.shadereditor.46.png</icon>
 		<desc>&lt;p&gt;Create and edit GLSL shaders on your Android phone or tablet and use them as live wallpaper.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Development</categories>
@@ -52951,8 +52784,23 @@ Photo by Joanna Pędzich-Opioła | CC_BY 2.0
 		<web>http://markusfisch.de</web>
 		<source>https://github.com/markusfisch/ShaderEditor</source>
 		<tracker>https://github.com/markusfisch/ShaderEditor/issues</tracker>
-		<marketversion>2.10.6</marketversion>
-		<marketvercode>45</marketvercode>
+		<marketversion>2.11.0</marketversion>
+		<marketvercode>46</marketvercode>
+		<package>
+			<version>2.11.0</version>
+			<versioncode>46</versioncode>
+			<apkname>de.markusfisch.android.shadereditor_46.apk</apkname>
+			<srcname>de.markusfisch.android.shadereditor_46_src.tar.gz</srcname>
+			<hash type="sha256">d3e212dd59b58d700647ac3291a54b842489d11fe24aceab67943591330a07ca</hash>
+			<size>1557301</size>
+			<sdkver>9</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2018-05-02</added>
+			<sig>a0c53a26d613a8cae9a73a92222b396a</sig>
+			<permissions>CAMERA,READ_EXTERNAL_STORAGE</permissions>
+			<uses-permission maxSdkVersion="19" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<features>android.hardware.camera,android.hardware.camera.autofocus,android.software.live_wallpaper</features>
+		</package>
 		<package>
 			<version>2.10.6</version>
 			<versioncode>45</versioncode>
@@ -52978,21 +52826,6 @@ Photo by Joanna Pędzich-Opioła | CC_BY 2.0
 			<sdkver>9</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2018-02-28</added>
-			<sig>a0c53a26d613a8cae9a73a92222b396a</sig>
-			<permissions>CAMERA,READ_EXTERNAL_STORAGE</permissions>
-			<uses-permission maxSdkVersion="19" name="android.permission.READ_EXTERNAL_STORAGE"/>
-			<features>android.hardware.camera,android.hardware.camera.autofocus,android.software.live_wallpaper</features>
-		</package>
-		<package>
-			<version>2.10.3</version>
-			<versioncode>42</versioncode>
-			<apkname>de.markusfisch.android.shadereditor_42.apk</apkname>
-			<srcname>de.markusfisch.android.shadereditor_42_src.tar.gz</srcname>
-			<hash type="sha256">d5d9f4d114fb9b16e3773cb8ee2d3111bb6ef703a8135ea6f8d5c6c7cb1b6fd6</hash>
-			<size>1448513</size>
-			<sdkver>9</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2018-02-03</added>
 			<sig>a0c53a26d613a8cae9a73a92222b396a</sig>
 			<permissions>CAMERA,READ_EXTERNAL_STORAGE</permissions>
 			<uses-permission maxSdkVersion="19" name="android.permission.READ_EXTERNAL_STORAGE"/>
@@ -54343,10 +54176,10 @@ https://silence.im/privacy
 	<application id="com.brentpanther.bitcoinwidget">
 		<id>com.brentpanther.bitcoinwidget</id>
 		<added>2014-01-20</added>
-		<lastupdated>2018-04-30</lastupdated>
+		<lastupdated>2018-05-02</lastupdated>
 		<name>Simple Bitcoin Widget</name>
 		<summary>Show current Bitcoin exchange prices</summary>
-		<icon>com.brentpanther.bitcoinwidget.171.png</icon>
+		<icon>com.brentpanther.bitcoinwidget.173.png</icon>
 		<desc>&lt;p&gt;A clean and simple Bitcoin widget to show the current price from different exchanges.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Money</categories>
@@ -54355,8 +54188,23 @@ https://silence.im/privacy
 		<source>https://github.com/hwki/SimpleBitcoinWidget</source>
 		<tracker>https://github.com/hwki/SimpleBitcoinWidget/issues</tracker>
 		<bitcoin>15SHnY7HC5bTxzErHDPe7wHXj1HhtDKV7z</bitcoin>
-		<marketversion>6.4.1</marketversion>
-		<marketvercode>171</marketvercode>
+		<marketversion>6.4.3</marketversion>
+		<marketvercode>173</marketvercode>
+		<package>
+			<version>6.4.3</version>
+			<versioncode>173</versioncode>
+			<apkname>com.brentpanther.bitcoinwidget_173.apk</apkname>
+			<srcname>com.brentpanther.bitcoinwidget_173_src.tar.gz</srcname>
+			<hash type="sha256">4b502a81b6a18bd766fc33b3f528bd93615ea171d6de2b2fb9b5207d78fd0f9a</hash>
+			<size>1403404</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2018-05-02</added>
+			<sig>b6821bd7cbfee89ad325b5c27f7c03f6</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WAKE_LOCK</permissions>
+			<uses-permission maxSdkVersion="25" name="android.permission.WAKE_LOCK"/>
+			<features>android.software.app_widgets</features>
+		</package>
 		<package>
 			<version>6.4.1</version>
 			<versioncode>171</versioncode>
@@ -54382,21 +54230,6 @@ https://silence.im/privacy
 			<sdkver>19</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2018-04-20</added>
-			<sig>b6821bd7cbfee89ad325b5c27f7c03f6</sig>
-			<permissions>INTERNET,WAKE_LOCK</permissions>
-			<uses-permission maxSdkVersion="25" name="android.permission.WAKE_LOCK"/>
-			<features>android.software.app_widgets</features>
-		</package>
-		<package>
-			<version>6.1.2</version>
-			<versioncode>162</versioncode>
-			<apkname>com.brentpanther.bitcoinwidget_162.apk</apkname>
-			<srcname>com.brentpanther.bitcoinwidget_162_src.tar.gz</srcname>
-			<hash type="sha256">1b5ad7184d7a100186b0989bc00ec03a1b4254221e048bbe0162c6543fc32170</hash>
-			<size>1205656</size>
-			<sdkver>19</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2018-01-15</added>
 			<sig>b6821bd7cbfee89ad325b5c27f7c03f6</sig>
 			<permissions>INTERNET,WAKE_LOCK</permissions>
 			<uses-permission maxSdkVersion="25" name="android.permission.WAKE_LOCK"/>
@@ -57681,10 +57514,10 @@ Everyone is welcome to publish the '''SimplePhilosopherstoneWidget''' (including
 	<application id="com.github.premnirmal.tickerwidget">
 		<id>com.github.premnirmal.tickerwidget</id>
 		<added>2014-12-28</added>
-		<lastupdated>2018-04-27</lastupdated>
+		<lastupdated>2018-05-02</lastupdated>
 		<name>Stocks Widget</name>
 		<summary>Stock market ticker widget</summary>
-		<icon>com.github.premnirmal.tickerwidget.244.png</icon>
+		<icon>com.github.premnirmal.tickerwidget.246.png</icon>
 		<desc>&lt;p&gt;Widget that shows your stock portolio in a resizable grid. You can sort the list by drag-and-drop and the list can be exported and re-imported.&lt;/p&gt;</desc>
 		<license>MIT</license>
 		<categories>Time</categories>
@@ -57692,8 +57525,21 @@ Everyone is welcome to publish the '''SimplePhilosopherstoneWidget''' (including
 		<web>https://github.com/premnirmal/StockTicker/blob/HEAD/README.md</web>
 		<source>https://github.com/premnirmal/StockTicker</source>
 		<tracker>https://github.com/premnirmal/StockTicker/issues</tracker>
-		<marketversion>2.5.07</marketversion>
-		<marketvercode>244</marketvercode>
+		<marketversion>2.5.09</marketversion>
+		<marketvercode>246</marketvercode>
+		<package>
+			<version>2.5.09</version>
+			<versioncode>246</versioncode>
+			<apkname>com.github.premnirmal.tickerwidget_246.apk</apkname>
+			<srcname>com.github.premnirmal.tickerwidget_246_src.tar.gz</srcname>
+			<hash type="sha256">b38a164391a019c4417c0d5c06552f608191d83e9f191a26114643104772f0c1</hash>
+			<size>4332594</size>
+			<sdkver>15</sdkver>
+			<targetSdkVersion>26</targetSdkVersion>
+			<added>2018-05-02</added>
+			<sig>c7b718dfb6d80fe12b631b521a6b003c</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>2.5.07</version>
 			<versioncode>244</versioncode>
@@ -57717,19 +57563,6 @@ Everyone is welcome to publish the '''SimplePhilosopherstoneWidget''' (including
 			<sdkver>15</sdkver>
 			<targetSdkVersion>26</targetSdkVersion>
 			<added>2018-04-24</added>
-			<sig>c7b718dfb6d80fe12b631b521a6b003c</sig>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE</permissions>
-		</package>
-		<package>
-			<version>2.5.02</version>
-			<versioncode>239</versioncode>
-			<apkname>com.github.premnirmal.tickerwidget_239.apk</apkname>
-			<srcname>com.github.premnirmal.tickerwidget_239_src.tar.gz</srcname>
-			<hash type="sha256">bdfc16fdaafb5fd36abccfa5a412648a17415c9f0f68a19c5a7ea4bb1f117580</hash>
-			<size>4335741</size>
-			<sdkver>15</sdkver>
-			<targetSdkVersion>26</targetSdkVersion>
-			<added>2018-04-20</added>
 			<sig>c7b718dfb6d80fe12b631b521a6b003c</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
@@ -63076,10 +62909,10 @@ Required Android Permissions:
 	<application id="org.equeim.tremotesf">
 		<id>org.equeim.tremotesf</id>
 		<added>2017-02-08</added>
-		<lastupdated>2017-04-17</lastupdated>
+		<lastupdated>2018-05-02</lastupdated>
 		<name>Tremotesf</name>
 		<summary>Remote-control Transmission BitTorrent client</summary>
-		<icon>org.equeim.tremotesf.11.png</icon>
+		<icon>org.equeim.tremotesf.13.png</icon>
 		<desc>&lt;p&gt;Remote GUI for the &lt;a href=&quot;https://transmissionbt.com/&quot;&gt;Transmission&lt;/a&gt; BitTorrent client.&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; View torrent list&lt;/li&gt;&lt;li&gt; Sort torrents&lt;/li&gt;&lt;li&gt; Filter torrents by name, status and trackers&lt;/li&gt;&lt;li&gt; Start/stop/verify torrents with multi-selection&lt;/li&gt;&lt;li&gt; Add torrents from torrent files and magnet links&lt;/li&gt;&lt;li&gt; Select which files to download when adding torrent&lt;/li&gt;&lt;li&gt; Manage torrent files&lt;/li&gt;&lt;li&gt; Add and remove torrent trackers&lt;/li&gt;&lt;li&gt; View torrent peers&lt;/li&gt;&lt;li&gt; Set torrent limits&lt;/li&gt;&lt;li&gt; Change remote server settings&lt;/li&gt;&lt;li&gt; View server statistics&lt;/li&gt;&lt;li&gt; Multiple servers&lt;/li&gt;&lt;li&gt; Supports HTTPS connection&lt;/li&gt;&lt;li&gt; Can connect to servers with self-signed certificates (you need to add certificate to server settings)&lt;/li&gt;&lt;li&gt; Client certificate authentication&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Internet</categories>
@@ -63088,8 +62921,21 @@ Required Android Permissions:
 		<source>https://github.com/equeim/tremotesf-android</source>
 		<tracker>https://github.com/equeim/tremotesf-android/issues</tracker>
 		<changelog>https://github.com/equeim/tremotesf-android/blob/HEAD/CHANGELOG.md</changelog>
-		<marketversion>1.5.1</marketversion>
-		<marketvercode>11</marketvercode>
+		<marketversion>1.6.1</marketversion>
+		<marketvercode>13</marketvercode>
+		<package>
+			<version>1.6.1</version>
+			<versioncode>13</versioncode>
+			<apkname>org.equeim.tremotesf_13.apk</apkname>
+			<srcname>org.equeim.tremotesf_13_src.tar.gz</srcname>
+			<hash type="sha256">ed1aed32368c3fd9ef9bfe7b40b5f5440388f2bbf4a2789b3980a3dab015d4bf</hash>
+			<size>2270467</size>
+			<sdkver>15</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2018-05-02</added>
+			<sig>77422b8a8384598ed087c75a1d9c1d95</sig>
+			<permissions>INTERNET,READ_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>1.5.1</version>
 			<versioncode>11</versioncode>
@@ -63113,19 +62959,6 @@ Required Android Permissions:
 			<sdkver>15</sdkver>
 			<targetSdkVersion>25</targetSdkVersion>
 			<added>2017-04-17</added>
-			<sig>77422b8a8384598ed087c75a1d9c1d95</sig>
-			<permissions>INTERNET,READ_EXTERNAL_STORAGE</permissions>
-		</package>
-		<package>
-			<version>1.4.2</version>
-			<versioncode>9</versioncode>
-			<apkname>org.equeim.tremotesf_9.apk</apkname>
-			<srcname>org.equeim.tremotesf_9_src.tar.gz</srcname>
-			<hash type="sha256">aa2b6d3fe2e3cc23df28654f8105ce54c4167927dde523dbf2a8789d054b80ed</hash>
-			<size>2077458</size>
-			<sdkver>15</sdkver>
-			<targetSdkVersion>25</targetSdkVersion>
-			<added>2017-03-17</added>
 			<sig>77422b8a8384598ed087c75a1d9c1d95</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE</permissions>
 		</package>
@@ -65529,8 +65362,8 @@ It combines an easy-to-use interface, fun sound effects, and an encouraging cart
 		<source>https://github.com/MarcusWolschon/osmeditor4android</source>
 		<tracker>https://github.com/MarcusWolschon/osmeditor4android/issues</tracker>
 		<changelog>https://github.com/MarcusWolschon/osmeditor4android/blob/HEAD/CHANGELOG.txt</changelog>
-		<marketversion>10.2.1.0</marketversion>
-		<marketvercode>502</marketvercode>
+		<marketversion>10.2.2.0</marketversion>
+		<marketvercode>503</marketvercode>
 		<package>
 			<version>10.1.2-fdroid</version>
 			<versioncode>403</versioncode>
@@ -65745,10 +65578,10 @@ It combines an easy-to-use interface, fun sound effects, and an encouraging cart
 	<application id="com.poupa.vinylmusicplayer">
 		<id>com.poupa.vinylmusicplayer</id>
 		<added>2018-01-21</added>
-		<lastupdated>2018-04-28</lastupdated>
+		<lastupdated>2018-05-02</lastupdated>
 		<name>Vinyl Music Player</name>
 		<summary>Light and slick material design music player</summary>
-		<icon>com.poupa.vinylmusicplayer.153.png</icon>
+		<icon>com.poupa.vinylmusicplayer.155.png</icon>
 		<desc>&lt;p&gt;Music player easy to use and customizable (multiple themes including a dark one). It supports folder browsing, sleep timer and a tag editor. It is forked from Phonograph.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Multimedia</categories>
@@ -65758,8 +65591,21 @@ It combines an easy-to-use interface, fun sound effects, and an encouraging cart
 		<tracker>https://github.com/AdrienPoupa/VinylMusicPlayer/issues</tracker>
 		<author>Adrien Poupa</author>
 		<email>adrien@poupa.fr</email>
-		<marketversion>0.16.5.2</marketversion>
-		<marketvercode>153</marketvercode>
+		<marketversion>0.17.0</marketversion>
+		<marketvercode>155</marketvercode>
+		<package>
+			<version>0.17.0</version>
+			<versioncode>155</versioncode>
+			<apkname>com.poupa.vinylmusicplayer_155.apk</apkname>
+			<srcname>com.poupa.vinylmusicplayer_155_src.tar.gz</srcname>
+			<hash type="sha256">44a58df2f5ced49665fb5581864056a82a0bd7503206432bc5732cc0e242b5d0</hash>
+			<size>4494680</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2018-05-02</added>
+			<sig>85c7b4c5bda8bb3e8723521552338ae3</sig>
+			<permissions>ACCESS_NETWORK_STATE,BROADCAST_STICKY,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS</permissions>
+		</package>
 		<package>
 			<version>0.16.5.2</version>
 			<versioncode>153</versioncode>
@@ -65780,19 +65626,6 @@ It combines an easy-to-use interface, fun sound effects, and an encouraging cart
 			<srcname>com.poupa.vinylmusicplayer_150_src.tar.gz</srcname>
 			<hash type="sha256">c03e4e050de08e000ab124e9cd2b3fcde85c918cd3c63b3abebaab8ec8b07931</hash>
 			<size>4756423</size>
-			<sdkver>16</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2018-01-21</added>
-			<sig>85c7b4c5bda8bb3e8723521552338ae3</sig>
-			<permissions>ACCESS_NETWORK_STATE,BROADCAST_STICKY,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS</permissions>
-		</package>
-		<package>
-			<version>0.16.4.3</version>
-			<versioncode>149</versioncode>
-			<apkname>com.poupa.vinylmusicplayer_149.apk</apkname>
-			<srcname>com.poupa.vinylmusicplayer_149_src.tar.gz</srcname>
-			<hash type="sha256">e0b7168fa49a2d8c7f71876aac95268b526f91e96113c107f9c65662d7befab6</hash>
-			<size>4748950</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2018-01-21</added>
@@ -68320,10 +68153,10 @@ The Wikimedia Foundation is the nonprofit organization that supports Wikipedia a
 	<application id="com.wireguard.android">
 		<id>com.wireguard.android</id>
 		<added>2018-04-27</added>
-		<lastupdated>2018-04-28</lastupdated>
+		<lastupdated>2018-05-02</lastupdated>
 		<name>WireGuard</name>
 		<summary>Next generation secure VPN network tunnel</summary>
-		<icon>com.wireguard.android.406.png</icon>
+		<icon>com.wireguard.android.407.png</icon>
 		<desc>&lt;p&gt;WireGuard is a next generation secure network tunnel protocol. This application allows users to connect to WireGuard tunnels. More information may be found on the &lt;a href=&quot;project&quot;&gt;webpage https://www.wireguard.com&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;If your device has a custom kernel containing the WireGuard module, then the module will be used for superior battery life and performance. Otherwise a userspace version will work sufficiently on all other devices.&lt;/p&gt;</desc>
 		<license>GPL-2.0+</license>
 		<categories>Security,System,Connectivity,Internet</categories>
@@ -68333,8 +68166,22 @@ The Wikimedia Foundation is the nonprofit organization that supports Wikipedia a
 		<tracker>https://lists.zx2c4.com/mailman/listinfo/wireguard</tracker>
 		<donate>https://www.wireguard.com/donations/</donate>
 		<bitcoin>1ASnTs4UjXKR8tHnLi9yG42n42hbFYV2um</bitcoin>
-		<marketversion>0.4.1</marketversion>
-		<marketvercode>406</marketvercode>
+		<marketversion>0.4.2</marketversion>
+		<marketvercode>407</marketvercode>
+		<package>
+			<version>0.4.2</version>
+			<versioncode>407</versioncode>
+			<apkname>com.wireguard.android_407.apk</apkname>
+			<srcname>com.wireguard.android_407_src.tar.gz</srcname>
+			<hash type="sha256">0cd52ef099b5da541087a35e3856e393c48fee861d2757ddef5850b16deb1add</hash>
+			<size>5538081</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2018-05-02</added>
+			<sig>a7c73fc7ec4083f296a927e23315fdd8</sig>
+			<permissions>INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
 		<package>
 			<version>0.4.1</version>
 			<versioncode>406</versioncode>
@@ -68850,8 +68697,8 @@ The Wikimedia Foundation is the nonprofit organization that supports Wikipedia a
 		<source>https://github.com/redsolution/xabber-android</source>
 		<tracker>https://github.com/redsolution/xabber-android/issues</tracker>
 		<changelog>https://github.com/redsolution/xabber-android/releases</changelog>
-		<marketversion>2.2.1(468)</marketversion>
-		<marketvercode>468</marketvercode>
+		<marketversion>2.3.1(480)</marketversion>
+		<marketvercode>480</marketvercode>
 		<package>
 			<version>2.0.1</version>
 			<versioncode>348</versioncode>
