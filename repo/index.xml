@@ -1,66 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1525355126" url="https://f-droid.org/repo" version="19">
+	<repo icon="fdroid-icon.png" maxage="14" name="F-Droid" pubkey="3082035e30820246a00302010202044c49cd00300d06092a864886f70d01010505003071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b73301e170d3130303732333137313032345a170d3337313230383137313032345a3071310b300906035504061302554b3110300e06035504081307556e6b6e6f776e3111300f0603550407130857657468657262793110300e060355040a1307556e6b6e6f776e3110300e060355040b1307556e6b6e6f776e311930170603550403131043696172616e2047756c746e69656b7330820122300d06092a864886f70d01010105000382010f003082010a028201010096d075e47c014e7822c89fd67f795d23203e2a8843f53ba4e6b1bf5f2fd0e225938267cfcae7fbf4fe596346afbaf4070fdb91f66fbcdf2348a3d92430502824f80517b156fab00809bdc8e631bfa9afd42d9045ab5fd6d28d9e140afc1300917b19b7c6c4df4a494cf1f7cb4a63c80d734265d735af9e4f09455f427aa65a53563f87b336ca2c19d244fcbba617ba0b19e56ed34afe0b253ab91e2fdb1271f1b9e3c3232027ed8862a112f0706e234cf236914b939bcf959821ecb2a6c18057e070de3428046d94b175e1d89bd795e535499a091f5bc65a79d539a8d43891ec504058acb28c08393b5718b57600a211e803f4a634e5c57f25b9b8c4422c6fd90203010001300d06092a864886f70d0101050500038201010008e4ef699e9807677ff56753da73efb2390d5ae2c17e4db691d5df7a7b60fc071ae509c5414be7d5da74df2811e83d3668c4a0b1abc84b9fa7d96b4cdf30bba68517ad2a93e233b042972ac0553a4801c9ebe07bf57ebe9a3b3d6d663965260e50f3b8f46db0531761e60340a2bddc3426098397fda54044a17e5244549f9869b460ca5e6e216b6f6a2db0580b480ca2afe6ec6b46eedacfa4aa45038809ece0c5978653d6c85f678e7f5a2156d1bedd8117751e64a4b0dcd140f3040b021821a8d93aed8d01ba36db6c82372211fed714d9a32607038cdfd565bd529ffc637212aaa2c224ef22b603eccefb5bf1e085c191d4b24fe742b17ab3f55d4e6f05ef" timestamp="1525500271" url="https://f-droid.org/repo" version="19">
 		<description>The official FDroid repository. Applications in this repository are built directly from the source code. (One, Firefox, is the official binary built by the Mozilla. This will ultimately be replaced by a source-built version. </description>
 	</repo>
-	<application id="com.jereksel.libresubstratum">
-		<id>com.jereksel.libresubstratum</id>
-		<added>2017-11-17</added>
-		<lastupdated>2017-12-15</lastupdated>
-		<name> Bucket - Overlay Manager</name>
-		<summary>Bucket is UNOFFICIAL app for Substratum Theme Engine
-</summary>
-		<icon>com.jereksel.libresubstratum.3.png</icon>
-		<desc>Bucket is UNOFFICIAL app for Substratum Theme Engine
-
-THIS APP REQUIRES NOUGAT ROM WITH OMS SUPPORT
-
-NOTE: This app is not affiliate with Substratum team. Please don't post bug reports to official Substratum groups/chats.
-
-For now this app contains only basic overlay support (compiling and enabling/disabling overlays). Setting priorities (Mix and Match from Substratum app) and support for bootanimation, sounds and wallpaper will come in next versions.
-
-Source code: https://github.com/jereksel/LibreSubstratum
-
-Credits:
-Icon made by Freepik from www.flaticon.com</desc>
-		<license>GPL-3.0</license>
-		<categories>Theming</categories>
-		<category>Theming</category>
-		<web/>
-		<source>https://github.com/jereksel/Bucket</source>
-		<tracker>https://github.com/jereksel/Bucket/issues</tracker>
-		<email>jereksel@gmail.com</email>
-		<marketversion>0.2.1-fdroid</marketversion>
-		<marketvercode>3</marketvercode>
-		<package>
-			<version>0.2.1-fdroid</version>
-			<versioncode>3</versioncode>
-			<apkname>com.jereksel.libresubstratum_3.apk</apkname>
-			<srcname>com.jereksel.libresubstratum_3_src.tar.gz</srcname>
-			<hash type="sha256">fc38d8440827b777e35329b5da7411d80d419d2324697a4cdebd08231dd4d47d</hash>
-			<size>3447135</size>
-			<sdkver>24</sdkver>
-			<targetSdkVersion>26</targetSdkVersion>
-			<added>2017-12-15</added>
-			<sig>d02e5a5b5edee8d6df3e34a28d445d76</sig>
-			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,projekt.interfacer.permission.ACCESS_SERVICE,projekt.interfacer.permission.ACCESS_SERVICE_INNER</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-		<package>
-			<version>0.1-fdroid</version>
-			<versioncode>1</versioncode>
-			<apkname>com.jereksel.libresubstratum_1.apk</apkname>
-			<srcname>com.jereksel.libresubstratum_1_src.tar.gz</srcname>
-			<hash type="sha256">b56fa79264ab5096a7b4ac37c34e9f93e8c3e99c9cfcf77cc6d2f00f603c02c2</hash>
-			<size>2922335</size>
-			<sdkver>24</sdkver>
-			<targetSdkVersion>26</targetSdkVersion>
-			<added>2017-11-17</added>
-			<sig>d02e5a5b5edee8d6df3e34a28d445d76</sig>
-			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,projekt.interfacer.permission.ACCESS_SERVICE,projekt.interfacer.permission.ACCESS_SERVICE_INNER</permissions>
-			<nativecode>armeabi-v7a</nativecode>
-		</package>
-	</application>
 	<application id="subreddit.android.appstore">
 		<id>subreddit.android.appstore</id>
 		<added>2016-09-27</added>
@@ -2186,10 +2128,10 @@ Required Android Permissions:
 	<application id="eu.uwot.fabio.altcoinprices">
 		<id>eu.uwot.fabio.altcoinprices</id>
 		<added>2017-09-24</added>
-		<lastupdated>2018-05-03</lastupdated>
+		<lastupdated>2018-05-05</lastupdated>
 		<name>Altcoin Prices</name>
 		<summary>Monitor altcoin prices in real time</summary>
-		<icon>eu.uwot.fabio.altcoinprices.45.png</icon>
+		<icon>eu.uwot.fabio.altcoinprices.46.png</icon>
 		<desc>&lt;p&gt;Cryptocurrencies portfolio tracker, monitor prices in real time and much more. Data are retrieved directly using exchange's API for maximum privacy.&lt;/p&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Money</categories>
@@ -2199,8 +2141,21 @@ Required Android Permissions:
 		<tracker>https://gitlab.com/cfabio/AltcoinPrices/issues</tracker>
 		<changelog>https://gitlab.com/cfabio/AltcoinPrices/tags</changelog>
 		<bitcoin>353x3kNMUaAt3i79kQTf3KCJWRAVXSRGpW</bitcoin>
-		<marketversion>1.5.4</marketversion>
-		<marketvercode>45</marketvercode>
+		<marketversion>1.5.5</marketversion>
+		<marketvercode>46</marketvercode>
+		<package>
+			<version>1.5.5</version>
+			<versioncode>46</versioncode>
+			<apkname>eu.uwot.fabio.altcoinprices_46.apk</apkname>
+			<srcname>eu.uwot.fabio.altcoinprices_46_src.tar.gz</srcname>
+			<hash type="sha256">76b232ceb6fe6be4297f19b20a162c508417f870107b141112bbb3d3e2c22fc9</hash>
+			<size>2343598</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2018-05-05</added>
+			<sig>2a34ea3b304bf5c214dbc91853ea2f3e</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>1.5.4</version>
 			<versioncode>45</versioncode>
@@ -2224,19 +2179,6 @@ Required Android Permissions:
 			<sdkver>14</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2018-05-01</added>
-			<sig>2a34ea3b304bf5c214dbc91853ea2f3e</sig>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET</permissions>
-		</package>
-		<package>
-			<version>1.5.2</version>
-			<versioncode>43</versioncode>
-			<apkname>eu.uwot.fabio.altcoinprices_43.apk</apkname>
-			<srcname>eu.uwot.fabio.altcoinprices_43_src.tar.gz</srcname>
-			<hash type="sha256">a9daa788cc273db3ffc954601655644544da472d2c64ad89ddc826805a1c84de</hash>
-			<size>2331588</size>
-			<sdkver>14</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2018-04-29</added>
 			<sig>2a34ea3b304bf5c214dbc91853ea2f3e</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET</permissions>
 		</package>
@@ -3451,10 +3393,10 @@ Only apps hosted on F-droid are supported. You can request new icons through the
 	<application id="org.andstatus.app">
 		<id>org.andstatus.app</id>
 		<added>2012-08-23</added>
-		<lastupdated>2018-03-15</lastupdated>
+		<lastupdated>2018-05-05</lastupdated>
 		<name>AndStatus</name>
 		<summary>Multiple accounts client for multiple social networks</summary>
-		<icon>org.andstatus.app.245.png</icon>
+		<icon>org.andstatus.app.250.png</icon>
 		<desc>&lt;p&gt;AndStatus is a multiple accounts client for multiple Social networks, including &lt;a href=&quot;http://gnu.io/social&quot;&gt;GNU social&lt;/a&gt;, &lt;a href=&quot;https://github.com/tootsuite/documentation&quot;&gt;Mastodon&lt;/a&gt;, &lt;a href=&quot;https://twitter.com&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;http://pump.io&quot;&gt;Pump.io&lt;/a&gt;. AndStatus can combine your feeds from all networks into one Timeline, and it allows you to read and post even when you are offline.&lt;/p&gt;&lt;p&gt;For Android v.7.0+ devices. Free/Libre and Open Source License.&lt;/p&gt;&lt;p&gt;Differentiating features of AndStatus:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Many accounts in different Social networks. You may have several accounts in each, write/reply as any &quot;You&quot; and share between accounts and networks.&lt;/li&gt;&lt;li&gt; You don't need to be online to read timelines and to post your updates: drafts and unsent posts are kept even after reboot. They will be sent when your device is Online.&lt;/li&gt;&lt;li&gt; Convenient tree-like &quot;Conversation view&quot;.&lt;/li&gt;&lt;li&gt; &quot;Global search&quot; allowing you to search public notes in all networks with one query.&lt;/li&gt;&lt;li&gt; Lists of Friends and Followers, presented as User Lists and as Timelines (with the latest note by each User).&lt;/li&gt;&lt;li&gt; Notes (tweets)/avatars/attached images are being synced in a background, when your device has a good connection. By default, attachments are downloaded via WiFi only.&lt;/li&gt;&lt;li&gt; Cached data may be stored for years or for several days only - it's your choice.&lt;/li&gt;&lt;li&gt; Backup accounts and notes and Restore them on any of your devices. Own your data!&lt;/li&gt;&lt;li&gt; Free and without ads, community supported.&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>Apache-2.0</license>
 		<categories>Internet</categories>
@@ -3464,8 +3406,21 @@ Only apps hosted on F-droid are supported. You can request new icons through the
 		<tracker>https://github.com/andstatus/andstatus/issues</tracker>
 		<changelog>http://andstatus.org/changelog.html</changelog>
 		<liberapay>34680</liberapay>
-		<marketversion>37.01</marketversion>
-		<marketvercode>245</marketvercode>
+		<marketversion>38.04</marketversion>
+		<marketvercode>250</marketvercode>
+		<package>
+			<version>38.04</version>
+			<versioncode>250</versioncode>
+			<apkname>org.andstatus.app_250.apk</apkname>
+			<srcname>org.andstatus.app_250_src.tar.gz</srcname>
+			<hash type="sha256">cef60285ebbdc4f229e40fc2676efc190b4a7f7f0b7458c7554bc2f8984da96c</hash>
+			<size>3896530</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2018-05-05</added>
+			<sig>1e9b8966d100f104e8c07690e17ef134</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS</permissions>
+		</package>
 		<package>
 			<version>37.01</version>
 			<versioncode>245</versioncode>
@@ -3489,19 +3444,6 @@ Only apps hosted on F-droid are supported. You can request new icons through the
 			<sdkver>24</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2018-02-11</added>
-			<sig>1e9b8966d100f104e8c07690e17ef134</sig>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET,MANAGE_DOCUMENTS,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS</permissions>
-		</package>
-		<package>
-			<version>36.06</version>
-			<versioncode>240</versioncode>
-			<apkname>org.andstatus.app_240.apk</apkname>
-			<srcname>org.andstatus.app_240_src.tar.gz</srcname>
-			<hash type="sha256">f546a071d040025c27863011fb59fd562c7a61ad12c7e44b9a947fd285c15663</hash>
-			<size>4162490</size>
-			<sdkver>24</sdkver>
-			<targetSdkVersion>26</targetSdkVersion>
-			<added>2018-01-21</added>
 			<sig>1e9b8966d100f104e8c07690e17ef134</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,MANAGE_DOCUMENTS,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS</permissions>
 		</package>
@@ -9386,6 +9328,64 @@ Current features:
 			<sig>d0ae6f3ae2dc7c33b00549b85bce022d</sig>
 			<permissions>WAKE_LOCK</permissions>
 			<features>android.hardware.sensor.accelerometer</features>
+		</package>
+	</application>
+	<application id="com.jereksel.libresubstratum">
+		<id>com.jereksel.libresubstratum</id>
+		<added>2017-11-17</added>
+		<lastupdated>2017-12-15</lastupdated>
+		<name>Bucket - Overlay Manager</name>
+		<summary>Bucket is UNOFFICIAL app for Substratum Theme Engine
+</summary>
+		<icon>com.jereksel.libresubstratum.3.png</icon>
+		<desc>Bucket is UNOFFICIAL app for Substratum Theme Engine
+
+THIS APP REQUIRES NOUGAT ROM WITH OMS SUPPORT
+
+NOTE: This app is not affiliate with Substratum team. Please don't post bug reports to official Substratum groups/chats.
+
+For now this app contains only basic overlay support (compiling and enabling/disabling overlays). Setting priorities (Mix and Match from Substratum app) and support for bootanimation, sounds and wallpaper will come in next versions.
+
+Source code: https://github.com/jereksel/LibreSubstratum
+
+Credits:
+Icon made by Freepik from www.flaticon.com</desc>
+		<license>GPL-3.0</license>
+		<categories>Theming</categories>
+		<category>Theming</category>
+		<web/>
+		<source>https://github.com/jereksel/Bucket</source>
+		<tracker>https://github.com/jereksel/Bucket/issues</tracker>
+		<email>jereksel@gmail.com</email>
+		<marketversion>0.2.1-fdroid</marketversion>
+		<marketvercode>3</marketvercode>
+		<package>
+			<version>0.2.1-fdroid</version>
+			<versioncode>3</versioncode>
+			<apkname>com.jereksel.libresubstratum_3.apk</apkname>
+			<srcname>com.jereksel.libresubstratum_3_src.tar.gz</srcname>
+			<hash type="sha256">fc38d8440827b777e35329b5da7411d80d419d2324697a4cdebd08231dd4d47d</hash>
+			<size>3447135</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>26</targetSdkVersion>
+			<added>2017-12-15</added>
+			<sig>d02e5a5b5edee8d6df3e34a28d445d76</sig>
+			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,projekt.interfacer.permission.ACCESS_SERVICE,projekt.interfacer.permission.ACCESS_SERVICE_INNER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>0.1-fdroid</version>
+			<versioncode>1</versioncode>
+			<apkname>com.jereksel.libresubstratum_1.apk</apkname>
+			<srcname>com.jereksel.libresubstratum_1_src.tar.gz</srcname>
+			<hash type="sha256">b56fa79264ab5096a7b4ac37c34e9f93e8c3e99c9cfcf77cc6d2f00f603c02c2</hash>
+			<size>2922335</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>26</targetSdkVersion>
+			<added>2017-11-17</added>
+			<sig>d02e5a5b5edee8d6df3e34a28d445d76</sig>
+			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,projekt.interfacer.permission.ACCESS_SERVICE,projekt.interfacer.permission.ACCESS_SERVICE_INNER</permissions>
+			<nativecode>armeabi-v7a</nativecode>
 		</package>
 	</application>
 	<application id="com.notriddle.budget">
@@ -23292,8 +23292,8 @@ This app is just one piece of a bigger series of apps. You can find the rest of 
 		<source>https://github.com/ligi/gobandroid</source>
 		<tracker>https://github.com/ligi/gobandroid/issues</tracker>
 		<changelog>https://github.com/ligi/gobandroid/commits/HEAD</changelog>
-		<marketversion>2.5.8</marketversion>
-		<marketvercode>258</marketvercode>
+		<marketversion>2.5.9</marketversion>
+		<marketvercode>259</marketvercode>
 		<package>
 			<version>2.5.8</version>
 			<versioncode>258</versioncode>
@@ -26867,11 +26867,11 @@ This app is just one piece of a bigger series of apps. You can find the rest of 
 	<application id="com.kunzisoft.keepass.libre">
 		<id>com.kunzisoft.keepass.libre</id>
 		<added>2017-11-24</added>
-		<lastupdated>2018-03-31</lastupdated>
+		<lastupdated>2018-05-05</lastupdated>
 		<name>KeePass DX</name>
 		<summary>KeePass Deluxe, secure and open source password manager
 </summary>
-		<icon>com.kunzisoft.keepass.libre.7.png</icon>
+		<icon>com.kunzisoft.keepass.libre.9.png</icon>
 		<desc>&lt;b&gt;Multi-format KeePass password manager&lt;/b&gt;, the application allows to save and use passwords, keys and digital identities in a secure way by integrating the Android design standards.
 
 &lt;b&gt;Features&lt;/b&gt; :
@@ -26904,8 +26904,22 @@ Any issue : &lt;a href=&quot;https://github.com/Kunzisoft/KeePassDX/issues&quot;
 		<bitcoin>1DSwXCk7Sob24sNsofywNoRQw2f5Qj5t2F</bitcoin>
 		<litecoin>LRmhvGbKNXFLTxyK8Q9zBxDXjBWm6Rzt34</litecoin>
 		<liberapay>4971</liberapay>
-		<marketversion>2.5.0.0beta7</marketversion>
-		<marketvercode>7</marketvercode>
+		<marketversion>2.5.0.0beta9</marketversion>
+		<marketvercode>9</marketvercode>
+		<package>
+			<version>2.5.0.0beta9-libre</version>
+			<versioncode>9</versioncode>
+			<apkname>com.kunzisoft.keepass.libre_9.apk</apkname>
+			<srcname>com.kunzisoft.keepass.libre_9_src.tar.gz</srcname>
+			<hash type="sha256">5c8c3182edeb0a0b83c8b7c8a35a26e36804cc72bfbd563df454d5a66d9f93c1</hash>
+			<size>7805885</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2018-05-05</added>
+			<sig>ecdf550a8bc9dcd938abb7dc0aa32331</sig>
+			<permissions>READ_EXTERNAL_STORAGE,USE_FINGERPRINT,VIBRATE,WRITE_EXTERNAL_STORAGE</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
 		<package>
 			<version>2.5.0.0beta7-libre</version>
 			<versioncode>7</versioncode>
@@ -26930,20 +26944,6 @@ Any issue : &lt;a href=&quot;https://github.com/Kunzisoft/KeePassDX/issues&quot;
 			<sdkver>14</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2018-03-15</added>
-			<sig>ecdf550a8bc9dcd938abb7dc0aa32331</sig>
-			<permissions>READ_EXTERNAL_STORAGE,USE_FINGERPRINT,VIBRATE,WRITE_EXTERNAL_STORAGE</permissions>
-			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
-		</package>
-		<package>
-			<version>2.5.0.0beta4-libre</version>
-			<versioncode>4</versioncode>
-			<apkname>com.kunzisoft.keepass.libre_4.apk</apkname>
-			<srcname>com.kunzisoft.keepass.libre_4_src.tar.gz</srcname>
-			<hash type="sha256">9c521b350a53b41bddc166cc128ba832988ad2e59d0cf5e4a8bf544ae425cb36</hash>
-			<size>6069429</size>
-			<sdkver>14</sdkver>
-			<targetSdkVersion>25</targetSdkVersion>
-			<added>2018-02-06</added>
 			<sig>ecdf550a8bc9dcd938abb7dc0aa32331</sig>
 			<permissions>READ_EXTERNAL_STORAGE,USE_FINGERPRINT,VIBRATE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
@@ -30916,11 +30916,11 @@ This software is free software, licensed under the GPLv3 or later license. The s
 	<application id="net.gsantner.markor">
 		<id>net.gsantner.markor</id>
 		<added>2017-09-11</added>
-		<lastupdated>2018-04-27</lastupdated>
+		<lastupdated>2018-05-05</lastupdated>
 		<name>Markor</name>
 		<summary>Simple Markdown &amp; Todo.txt Editor
 </summary>
-		<icon>net.gsantner.markor.20.png</icon>
+		<icon>net.gsantner.markor.21.png</icon>
 		<desc>&lt;b&gt;Markdown and Todo.txt Texteditor&lt;/b&gt; - Simple and lightweight.
 
 📝 Write down notes and ideas
@@ -30955,8 +30955,21 @@ This software is free software, licensed under the GPLv3 or later license. The s
 		<donate>http://gsantner.net/supportme</donate>
 		<bitcoin>1B9ZyYdQoY9BxMe9dRUEKaZbJWsbQqfXU5</bitcoin>
 		<litecoin>LSC2NUiXmnsJiaRczq9AKceX6CEHQHP39w</litecoin>
-		<marketversion>0.3.6</marketversion>
-		<marketvercode>20</marketvercode>
+		<marketversion>0.3.7</marketversion>
+		<marketvercode>21</marketvercode>
+		<package>
+			<version>0.3.7</version>
+			<versioncode>21</versioncode>
+			<apkname>net.gsantner.markor_21.apk</apkname>
+			<srcname>net.gsantner.markor_21_src.tar.gz</srcname>
+			<hash type="sha256">13bf6242b0fa87ace5423d6be4fa4746616f436d72983e7c6c9e01750c113f8a</hash>
+			<size>3185974</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2018-05-05</added>
+			<sig>af12ddae122db68f2ebf5469dbb98620</sig>
+			<permissions>INSTALL_SHORTCUT,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT</permissions>
+		</package>
 		<package>
 			<version>0.3.6</version>
 			<versioncode>20</versioncode>
@@ -30980,19 +30993,6 @@ This software is free software, licensed under the GPLv3 or later license. The s
 			<sdkver>14</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2018-04-21</added>
-			<sig>af12ddae122db68f2ebf5469dbb98620</sig>
-			<permissions>INSTALL_SHORTCUT,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT</permissions>
-		</package>
-		<package>
-			<version>0.3.4</version>
-			<versioncode>18</versioncode>
-			<apkname>net.gsantner.markor_18.apk</apkname>
-			<srcname>net.gsantner.markor_18_src.tar.gz</srcname>
-			<hash type="sha256">ac59861f280994b7be9a09fcce2377511ac380bc8b6569ebac952fe7b4025e9b</hash>
-			<size>3356798</size>
-			<sdkver>14</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2018-03-26</added>
 			<sig>af12ddae122db68f2ebf5469dbb98620</sig>
 			<permissions>INSTALL_SHORTCUT,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT</permissions>
 		</package>
@@ -47901,10 +47901,10 @@ Features:
 	<application id="com.moez.QKSMS">
 		<id>com.moez.QKSMS</id>
 		<added>2015-08-18</added>
-		<lastupdated>2018-05-02</lastupdated>
+		<lastupdated>2018-05-05</lastupdated>
 		<name>QKSMS</name>
 		<summary>Messaging app</summary>
-		<icon>com.moez.QKSMS.164.png</icon>
+		<icon>com.moez.QKSMS.165.png</icon>
 		<desc>&lt;p&gt;Replacement for the stock AOSP messaging app.&lt;/p&gt;&lt;p&gt;Some of its features include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Material Design&lt;/li&gt;&lt;li&gt; Themes&lt;/li&gt;&lt;li&gt; Night Mode&lt;/li&gt;&lt;li&gt; Reply to messages without leaving the current app&lt;/li&gt;&lt;li&gt; Group Messaging&lt;/li&gt;&lt;li&gt; MMS&lt;/li&gt;&lt;li&gt; Delayed message sending&lt;/li&gt;&lt;li&gt; Search&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPL-3.0</license>
 		<categories>Phone &amp; SMS</categories>
@@ -47912,8 +47912,22 @@ Features:
 		<web/>
 		<source>https://github.com/qklabs/qksms</source>
 		<tracker>https://github.com/qklabs/qksms/issues</tracker>
-		<marketversion>3.1.0</marketversion>
-		<marketvercode>164</marketvercode>
+		<marketversion>3.1.1</marketversion>
+		<marketvercode>165</marketvercode>
+		<package>
+			<version>3.1.1</version>
+			<versioncode>165</versioncode>
+			<apkname>com.moez.QKSMS_165.apk</apkname>
+			<srcname>com.moez.QKSMS_165_src.tar.gz</srcname>
+			<hash type="sha256">4a063a0bde40c89afa0ff09653216346522d09f48c39631f112f6a40b3b4d7e0</hash>
+			<size>8411877</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2018-05-05</added>
+			<sig>eea5f5323deaac2a1e25a5b0519cece1</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_APP_BADGE,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SMS,RECEIVE_MMS,RECEIVE_SMS,SEND_SMS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SMS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.vending.BILLING,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,mips,x86,x86_64</nativecode>
+		</package>
 		<package>
 			<version>3.1.0</version>
 			<versioncode>164</versioncode>
@@ -47938,20 +47952,6 @@ Features:
 			<sdkver>21</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2018-04-24</added>
-			<sig>eea5f5323deaac2a1e25a5b0519cece1</sig>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_APP_BADGE,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SMS,RECEIVE_MMS,RECEIVE_SMS,SEND_SMS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SMS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.vending.BILLING,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a,mips,x86,x86_64</nativecode>
-		</package>
-		<package>
-			<version>3.0.7</version>
-			<versioncode>161</versioncode>
-			<apkname>com.moez.QKSMS_161.apk</apkname>
-			<srcname>com.moez.QKSMS_161_src.tar.gz</srcname>
-			<hash type="sha256">1f4fdf8cc5864a31602edd84bde091390d2069503abc1563619f5170404a77bb</hash>
-			<size>8326330</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2018-04-19</added>
 			<sig>eea5f5323deaac2a1e25a5b0519cece1</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_APP_BADGE,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SMS,RECEIVE_MMS,RECEIVE_SMS,SEND_SMS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SMS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.vending.BILLING,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,mips,x86,x86_64</nativecode>
@@ -66088,10 +66088,10 @@ It combines an easy-to-use interface, fun sound effects, and an encouraging cart
 	<application id="be.mygod.vpnhotspot">
 		<id>be.mygod.vpnhotspot</id>
 		<added>2018-02-16</added>
-		<lastupdated>2018-04-28</lastupdated>
+		<lastupdated>2018-05-05</lastupdated>
 		<name>VPN Hotspot</name>
 		<summary>Share your VPN connection over hotspot or repeater</summary>
-		<icon>be.mygod.vpnhotspot.17.png</icon>
+		<icon>be.mygod.vpnhotspot.20.png</icon>
 		<desc>&lt;p&gt;This app is useful for:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Connecting things that don't support VPN like Chromecasts behind corporate firewalls;&lt;/li&gt;&lt;li&gt; Set up gapps behind corporate firewalls;&lt;/li&gt;&lt;li&gt; Connect to your mobile hotspot but you're not bothered to set up VPN on your device.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Requires root to set up networking.&lt;/p&gt;&lt;p&gt;This app is designed to do only minimal changes to your system, so there's almost no chance you will brick your device and/or break your Internet using this app under normal conditions. However there's also absolutely no guarantee it won't.&lt;/p&gt;</desc>
 		<license>Apache-2.0</license>
 		<categories>Connectivity</categories>
@@ -66101,9 +66101,22 @@ It combines an easy-to-use interface, fun sound effects, and an encouraging cart
 		<tracker>https://github.com/Mygod/VPNHotspot/issues</tracker>
 		<donate>https://mygod.be/donate/</donate>
 		<flattr>e0ggg2</flattr>
-		<marketversion>1.2.1</marketversion>
-		<marketvercode>17</marketvercode>
+		<marketversion>1.3.0</marketversion>
+		<marketvercode>20</marketvercode>
 		<requirements>root</requirements>
+		<package>
+			<version>1.3.0</version>
+			<versioncode>20</versioncode>
+			<apkname>be.mygod.vpnhotspot_20.apk</apkname>
+			<srcname>be.mygod.vpnhotspot_20_src.tar.gz</srcname>
+			<hash type="sha256">e46914b66b9d75389135e5b7b6987d93b6f4afe0fd9ee0d56b48bed1ff6ab8af</hash>
+			<size>1589099</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2018-05-05</added>
+			<sig>b219878ac4163c51d0fc7c3bece2dafc</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,CHANGE_NETWORK_STATE,CHANGE_WIFI_STATE,INTERNET,MANAGE_USB,TETHER_PRIVILEGE,WRITE_SETTINGS</permissions>
+		</package>
 		<package>
 			<version>1.2.1</version>
 			<versioncode>17</versioncode>
@@ -66129,19 +66142,6 @@ It combines an easy-to-use interface, fun sound effects, and an encouraging cart
 			<added>2018-04-24</added>
 			<sig>b219878ac4163c51d0fc7c3bece2dafc</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,CHANGE_NETWORK_STATE,CHANGE_WIFI_STATE,INTERNET,MANAGE_USB,TETHER_PRIVILEGE,WRITE_SETTINGS</permissions>
-		</package>
-		<package>
-			<version>1.1.6</version>
-			<versioncode>14</versioncode>
-			<apkname>be.mygod.vpnhotspot_14.apk</apkname>
-			<srcname>be.mygod.vpnhotspot_14_src.tar.gz</srcname>
-			<hash type="sha256">ea4abacbbcefdaef4213f9fe6b0eb1a728793679f737d413c974a7d637db5c26</hash>
-			<size>1411776</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2018-04-16</added>
-			<sig>b219878ac4163c51d0fc7c3bece2dafc</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,INTERNET</permissions>
 		</package>
 	</application>
 	<application id="org.vudroid">
@@ -69370,10 +69370,10 @@ The Wikimedia Foundation is the nonprofit organization that supports Wikipedia a
 	<application id="org.thosp.yourlocalweather">
 		<id>org.thosp.yourlocalweather</id>
 		<added>2018-01-15</added>
-		<lastupdated>2018-05-03</lastupdated>
+		<lastupdated>2018-05-05</lastupdated>
 		<name>Your local weather</name>
 		<summary>Application displays current weather and location wherever you are.</summary>
-		<icon>org.thosp.yourlocalweather.45.png</icon>
+		<icon>org.thosp.yourlocalweather.46.png</icon>
 		<desc>Application uses cell network, WIFI and GPS to get your location and show you weather on the place where you are actually.
 if you use widget on your phone or tablet, you can see your location and current weather on the main screen. Update of location could be used by some specific period (ex. hourly) or application can use accelerometer to detect movement. You can switch update of location off - weather only is updated in this case.
 
@@ -69405,8 +69405,21 @@ Would you like to help with translation? Follow this link: https://hosted.weblat
 		<source>https://github.com/thuryn/your-local-weather</source>
 		<tracker>https://github.com/thuryn/your-local-weather/issues</tracker>
 		<changelog>https://raw.githubusercontent.com/thuryn/your-local-weather/HEAD/CHANGELOG</changelog>
-		<marketversion>3.1.1</marketversion>
-		<marketvercode>45</marketvercode>
+		<marketversion>3.1.2</marketversion>
+		<marketvercode>46</marketvercode>
+		<package>
+			<version>3.1.2</version>
+			<versioncode>46</versioncode>
+			<apkname>org.thosp.yourlocalweather_46.apk</apkname>
+			<srcname>org.thosp.yourlocalweather_46_src.tar.gz</srcname>
+			<hash type="sha256">408a39bf9c2c65f57c75fd373a5a74be5eb8dcd72fd3a23d9878f37fd0028737</hash>
+			<size>8391219</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>25</targetSdkVersion>
+			<added>2018-05-05</added>
+			<sig>f416c1caef90c9c9a750cafd8e284d1a</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>3.1.1</version>
 			<versioncode>45</versioncode>
@@ -69430,19 +69443,6 @@ Would you like to help with translation? Follow this link: https://hosted.weblat
 			<sdkver>14</sdkver>
 			<targetSdkVersion>25</targetSdkVersion>
 			<added>2018-04-27</added>
-			<sig>f416c1caef90c9c9a750cafd8e284d1a</sig>
-			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
-		</package>
-		<package>
-			<version>3.0.17</version>
-			<versioncode>43</versioncode>
-			<apkname>org.thosp.yourlocalweather_43.apk</apkname>
-			<srcname>org.thosp.yourlocalweather_43_src.tar.gz</srcname>
-			<hash type="sha256">0d4e276c5825c0616e06d30b1f260c0644d109efbc743079632a9484c464647e</hash>
-			<size>8383825</size>
-			<sdkver>14</sdkver>
-			<targetSdkVersion>25</targetSdkVersion>
-			<added>2018-04-20</added>
 			<sig>f416c1caef90c9c9a750cafd8e284d1a</sig>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
